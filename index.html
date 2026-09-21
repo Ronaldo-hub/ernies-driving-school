@@ -43,8 +43,8 @@
                     We provide expert instruction for Learners, Code 8 (Light Motor Vehicle), and Code 10 (Heavy Motor Vehicle) with high pass rates.
                 </p>
                 <div class="flex flex-wrap gap-4 pt-2">
-                    <a href="#k53-test" class="bg-red-600 hover:bg-red-500 text-white font-bold py-3 px-6 rounded-lg transition shadow-lg shadow-red-600/20">
-                        Try Free Demo Test
+                    <a href="#k53-test" class="bg-red-600 hover:bg-red-500 text-white font-bold py-3 px-6 rounded-lg transition shadow-lg shadow-red-600/20 flex items-center gap-2">
+                        <i class="fas fa-clipboard-check"></i> Try Free Demo Test
                     </a>
                     <a href="#prices" class="bg-zinc-800 hover:bg-zinc-700 text-zinc-200 border border-zinc-700 font-bold py-3 px-6 rounded-lg transition">
                         View Prices
@@ -53,8 +53,8 @@
             </div>
 
             <div class="lg:col-span-5 relative">
-                <div class="rounded-2xl overflow-hidden border border-zinc-800 bg-zinc-900/80 p-6 shadow-2xl flex items-center justify-center min-h-[280px]">
-                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="max-h-64 w-auto object-contain rounded-lg shadow-md">
+                <div onclick="openModal('images/logo.png', 'Ernie's Driving School Logo')" class="rounded-2xl overflow-hidden border border-zinc-800 bg-zinc-900/80 p-6 shadow-2xl flex items-center justify-center min-h-[280px] cursor-pointer group">
+                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="max-h-64 w-auto object-contain rounded-lg shadow-md group-hover:scale-105 transition">
                 </div>
                 <div class="absolute -bottom-4 -right-2 bg-zinc-900 border border-zinc-800 px-4 py-2 rounded-xl shadow-xl">
                     <p class="text-[10px] uppercase text-zinc-400 font-medium">Pass Rate Success</p>
@@ -67,71 +67,166 @@
         <section id="gallery" class="space-y-6 border-t border-zinc-800/80 pt-12">
             <div class="text-center space-y-2">
                 <h2 class="text-3xl font-black text-white uppercase tracking-wide">Our Fleet & Training</h2>
-                <p class="text-zinc-400 text-sm">Real vehicles, practical K53 training, and learner sessions</p>
+                <p class="text-zinc-400 text-sm">Click any photo below to expand and inspect full resolution</p>
             </div>
 
             <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
                 
-                <!-- Dynamic Gallery Item -->
-                <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg">
+                <!-- Gallery Item with Modal Trigger -->
+                <div onclick="openModal('images/erniepic2.png', 'Erniepic2')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer">
                     <div class="h-56 bg-zinc-800 relative overflow-hidden">
                         <img src="images/erniepic2.png" alt="Erniepic2" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+                        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                            <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Click to Enlarge</span>
+                        </div>
                     </div>
                     <div class="p-4">
                         <h3 class="font-bold text-white text-base">Erniepic2</h3>
-                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle and K53 training session.</p>
+                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle & K53 training session.</p>
                     </div>
                 </div>
-                <!-- Dynamic Gallery Item -->
-                <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg">
+                <!-- Gallery Item with Modal Trigger -->
+                <div onclick="openModal('images/erniepic1.png', 'Erniepic1')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer">
                     <div class="h-56 bg-zinc-800 relative overflow-hidden">
                         <img src="images/erniepic1.png" alt="Erniepic1" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+                        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                            <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Click to Enlarge</span>
+                        </div>
                     </div>
                     <div class="p-4">
                         <h3 class="font-bold text-white text-base">Erniepic1</h3>
-                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle and K53 training session.</p>
+                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle & K53 training session.</p>
                     </div>
                 </div>
-                <!-- Dynamic Gallery Item -->
-                <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg">
+                <!-- Gallery Item with Modal Trigger -->
+                <div onclick="openModal('images/erniepic5.png', 'Erniepic5')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer">
                     <div class="h-56 bg-zinc-800 relative overflow-hidden">
                         <img src="images/erniepic5.png" alt="Erniepic5" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+                        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                            <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Click to Enlarge</span>
+                        </div>
                     </div>
                     <div class="p-4">
                         <h3 class="font-bold text-white text-base">Erniepic5</h3>
-                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle and K53 training session.</p>
+                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle & K53 training session.</p>
                     </div>
                 </div>
-                <!-- Dynamic Gallery Item -->
-                <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg">
+                <!-- Gallery Item with Modal Trigger -->
+                <div onclick="openModal('images/erniepic6.png', 'Erniepic6')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer">
                     <div class="h-56 bg-zinc-800 relative overflow-hidden">
                         <img src="images/erniepic6.png" alt="Erniepic6" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+                        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                            <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Click to Enlarge</span>
+                        </div>
                     </div>
                     <div class="p-4">
                         <h3 class="font-bold text-white text-base">Erniepic6</h3>
-                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle and K53 training session.</p>
+                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle & K53 training session.</p>
                     </div>
                 </div>
-                <!-- Dynamic Gallery Item -->
-                <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg">
+                <!-- Gallery Item with Modal Trigger -->
+                <div onclick="openModal('images/erniepic4.png', 'Erniepic4')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer">
                     <div class="h-56 bg-zinc-800 relative overflow-hidden">
                         <img src="images/erniepic4.png" alt="Erniepic4" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+                        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                            <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Click to Enlarge</span>
+                        </div>
                     </div>
                     <div class="p-4">
                         <h3 class="font-bold text-white text-base">Erniepic4</h3>
-                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle and K53 training session.</p>
+                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle & K53 training session.</p>
                     </div>
                 </div>
-                <!-- Dynamic Gallery Item -->
-                <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg">
+                <!-- Gallery Item with Modal Trigger -->
+                <div onclick="openModal('images/erniepic3.png', 'Erniepic3')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer">
                     <div class="h-56 bg-zinc-800 relative overflow-hidden">
                         <img src="images/erniepic3.png" alt="Erniepic3" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+                        <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
+                            <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Click to Enlarge</span>
+                        </div>
                     </div>
                     <div class="p-4">
                         <h3 class="font-bold text-white text-base">Erniepic3</h3>
-                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle and K53 training session.</p>
+                        <p class="text-xs text-zinc-400">Ernie's Driving School fleet vehicle & K53 training session.</p>
                     </div>
                 </div>
+            </div>
+        </section>
+
+        <!-- K53 DEMO TEST SECTION -->
+        <section id="k53-test" class="space-y-6 border-t border-zinc-800/80 pt-12">
+            <div class="text-center space-y-2">
+                <h2 class="text-3xl font-black text-white uppercase tracking-wide">Interactive K53 Demo Test</h2>
+                <p class="text-zinc-400 text-sm">Test your knowledge on key South African road signs and rules of the road</p>
+            </div>
+
+            <div class="max-w-3xl mx-auto bg-zinc-900 border border-zinc-800 rounded-2xl p-6 sm:p-8 shadow-2xl space-y-6">
+                <!-- Question 1 -->
+                <div class="space-y-3 border-b border-zinc-800 pb-6">
+                    <p class="text-xs text-red-500 font-bold uppercase tracking-wider">Question 1 of 3 • Road Rules</p>
+                    <h3 class="text-lg font-bold text-white">What is the general speed limit for a light motor vehicle on a South African public freeway unless otherwise indicated?</h3>
+                    <div class="space-y-2 text-sm">
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q1" value="A" class="accent-red-600">
+                            <span>A) 100 km/h</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q1" value="B" class="accent-red-600">
+                            <span>B) 120 km/h</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q1" value="C" class="accent-red-600">
+                            <span>C) 80 km/h</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Question 2 -->
+                <div class="space-y-3 border-b border-zinc-800 pb-6">
+                    <p class="text-xs text-red-500 font-bold uppercase tracking-wider">Question 2 of 3 • Vehicle Controls</p>
+                    <h3 class="text-lg font-bold text-white">Under standard K53 procedures, what must a driver always check prior to pulling away from a park position?</h3>
+                    <div class="space-y-2 text-sm">
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q2" value="A" class="accent-red-600">
+                            <span>A) Turn on hazards and sound the horn</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q2" value="B" class="accent-red-600">
+                            <span>B) 360-degree observation, blind spot check, and indicate</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q2" value="C" class="accent-red-600">
+                            <span>C) Depress accelerator pedal fully</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Question 3 -->
+                <div class="space-y-3">
+                    <p class="text-xs text-red-500 font-bold uppercase tracking-wider">Question 3 of 3 • Road Signs</p>
+                    <h3 class="text-lg font-bold text-white">What does a red octagonal traffic sign mandate?</h3>
+                    <div class="space-y-2 text-sm">
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q3" value="A" class="accent-red-600">
+                            <span>A) Yield to oncoming traffic</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q3" value="B" class="accent-red-600">
+                            <span>B) Complete bring vehicle to a standstill (Stop)</span>
+                        </label>
+                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
+                            <input type="radio" name="q3" value="C" class="accent-red-600">
+                            <span>C) Speed limit area starts</span>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Submit Button & Output -->
+                <button onclick="evaluateTest()" class="w-full bg-red-600 hover:bg-red-500 text-white font-bold py-3.5 rounded-xl transition shadow-lg shadow-red-600/30 flex items-center justify-center gap-2">
+                    <i class="fas fa-check-circle"></i> Submit K53 Answers
+                </button>
+
+                <div id="test-result" class="hidden p-4 rounded-xl border text-sm font-medium"></div>
             </div>
         </section>
 
@@ -208,5 +303,60 @@
         </div>
     </footer>
 
+    <!-- IMAGE INSPECT MODAL -->
+    <div id="image-modal" class="fixed inset-0 z-50 bg-black/90 backdrop-blur-md hidden items-center justify-center p-4" onclick="closeModal()">
+        <div class="relative max-w-4xl w-full bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden p-2" onclick="event.stopPropagation()">
+            <button onclick="closeModal()" class="absolute top-4 right-4 text-white bg-zinc-800 hover:bg-zinc-700 h-10 w-10 rounded-full flex items-center justify-center font-bold text-lg shadow-lg z-10">&times;</button>
+            <div class="p-2 flex items-center justify-center max-h-[80vh]">
+                <img id="modal-img" src="" alt="Expanded View" class="max-h-[75vh] w-auto object-contain rounded-lg">
+            </div>
+            <div class="p-4 text-center border-t border-zinc-800">
+                <h4 id="modal-caption" class="text-white font-bold text-base"></h4>
+            </div>
+        </div>
+    </div>
+
+    <!-- INTERACTIVE JAVASCRIPT -->
+    <script>
+        function openModal(src, caption) {
+            document.getElementById('modal-img').src = src;
+            document.getElementById('modal-caption').innerText = caption;
+            document.getElementById('image-modal').classList.remove('hidden');
+            document.getElementById('image-modal').classList.add('flex');
+        }
+
+        function closeModal() {
+            document.getElementById('image-modal').classList.add('hidden');
+            document.getElementById('image-modal').classList.remove('flex');
+        }
+
+        function evaluateTest() {
+            const q1 = document.querySelector('input[name="q1"]:checked')?.value;
+            const q2 = document.querySelector('input[name="q2"]:checked')?.value;
+            const q3 = document.querySelector('input[name="q3"]:checked')?.value;
+
+            const resDiv = document.getElementById('test-result');
+            resDiv.classList.remove('hidden');
+
+            if (!q1 || !q2 || !q3) {
+                resDiv.className = "p-4 rounded-xl border text-sm font-medium bg-amber-950/60 border-amber-800 text-amber-300";
+                resDiv.innerHTML = "<i class='fas fa-exclamation-triangle mr-2'></i> Please select an answer for all 3 questions before submitting.";
+                return;
+            }
+
+            let score = 0;
+            if (q1 === 'B') score++;
+            if (q2 === 'B') score++;
+            if (q3 === 'B') score++;
+
+            if (score === 3) {
+                resDiv.className = "p-4 rounded-xl border text-sm font-medium bg-emerald-950/60 border-emerald-800 text-emerald-300";
+                resDiv.innerHTML = `<i class='fas fa-trophy mr-2'></i> <strong>Perfect Score! 3/3 (100%)</strong><br>Excellent work! You are ready to tackle the full computerized K53 Learners prep classes.`;
+            } else {
+                resDiv.className = "p-4 rounded-xl border text-sm font-medium bg-red-950/60 border-red-800 text-red-300";
+                resDiv.innerHTML = `<i class='fas fa-info-circle mr-2'></i> <strong>Score: ${score}/3</strong><br>Correct Answers: 1-B (120 km/h), 2-B (360 observation & blind spot), 3-B (Stop). Book our R750 course to master all rules!`;
+            }
+        }
+    </script>
 </body>
 </html>
