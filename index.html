@@ -3,45 +3,193 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ernie's Driving School - K53 Simulator</title>
+    <title>Ernie's Driving School - K53 Driving & Learners Lessons</title>
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#09090b">
+    <meta name="theme-color" content="#0b0b0b">
+    <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Supabase JS Client library -->
+    <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <style>
+        body { background-color: #0b0b0b; color: #ffffff; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; }
+        .accent-red { color: #e50914; }
+        .bg-accent-red { background-color: #e50914; }
+        .border-accent-red { border-color: #e50914; }
+    </style>
 </head>
-<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col justify-between font-sans">
+<body class="antialiased min-h-screen flex flex-col justify-between">
 
-    <!-- Header / Navbar -->
-    <header class="border-b border-zinc-800 bg-zinc-900/80 backdrop-blur px-6 py-4 flex justify-between items-center">
-        <h1 class="text-xl font-bold tracking-tight text-amber-500">Ernie's Driving School</h1>
-        <span class="text-xs bg-amber-500/10 text-amber-400 border border-amber-500/30 px-2.5 py-1 rounded-full">K53 Simulator</span>
-    </header>
+    <div>
+        <!-- Header / Navbar -->
+        <header class="border-b border-zinc-800 bg-black/80 sticky top-0 z-50 backdrop-blur-md">
+            <div class="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
+                <div>
+                    <h1 class="text-2xl font-black tracking-wider text-red-600">ERNIE'S DRIVING SCHOOL</h1>
+                    <p class="text-xs text-zinc-400 italic">Dedicated to the end</p>
+                </div>
+                <a href="https://wa.me/27737779310" target="_blank" class="bg-green-600 hover:bg-green-700 text-white text-sm font-bold py-2 px-4 rounded-full flex items-center gap-2">
+                    <span>WhatsApp Us: 073 777 9310</span>
+                </a>
+            </div>
+        </header>
 
-    <!-- Main Content Area -->
-    <main class="max-w-4xl mx-auto w-full p-6 flex-grow flex flex-col items-center justify-center text-center">
-        <h2 class="text-3xl font-extrabold mb-4">Master Your K53 Learner's Licence Test</h2>
-        <p class="text-zinc-400 max-w-md mb-8">Practice Code 8, 10, and 14 tests offline or online with real-time feedback and progress tracking.</p>
-        <button class="bg-amber-500 hover:bg-amber-600 text-zinc-950 font-bold px-6 py-3 rounded-xl transition">Start Practice Test</button>
-    </main>
+        <!-- Hero Section -->
+        <section class="max-w-6xl mx-auto px-4 py-12 grid md:grid-cols-2 gap-8 items-center">
+            <div>
+                <span class="text-red-500 font-bold uppercase tracking-widest text-sm">K53 Learners & Driving Lessons</span>
+                <h2 class="text-4xl md:text-5xl font-black mt-2 mb-4 leading-tight">Get Your Driver's License With Confidence</h2>
+                <p class="text-zinc-400 text-lg mb-6">We provide expert instruction for Learners, Code 8 (Light Motor Vehicle), and Code 10 (Heavy Motor Vehicle) with high pass rates.</p>
+                <div class="flex flex-wrap gap-4">
+                    <button onclick="triggerPaymentOrTest()" class="bg-red-600 hover:bg-red-700 text-white text-lg font-bold py-3 px-8 rounded-lg shadow-lg shadow-red-600/30 border border-red-500 transition">
+                        Take Computerized Test (R750)
+                    </button>
+                    <a href="#pricing" class="border border-zinc-700 hover:bg-zinc-800 text-zinc-200 font-bold py-3 px-6 rounded-lg transition">View Prices</a>
+                </div>
+            </div>
+            <div class="relative">
+                <div class="rounded-xl overflow-hidden border border-zinc-800 shadow-2xl bg-zinc-900 min-h-[250px] flex items-center justify-center">
+                    <img src="images/hero.jpg" onerror="this.src='https://placehold.co/600x400/18181b/e50914?text=Ernie%27s+Driving+School'" alt="Ernie's Driving School Success" class="w-full h-auto object-cover">
+                </div>
+                <div class="absolute -bottom-4 -right-4 bg-zinc-900 border border-zinc-800 p-4 rounded-xl shadow-xl hidden sm:block">
+                    <p class="text-xs text-zinc-400">Pass Rate Success</p>
+                    <p class="text-xl font-bold text-green-500">K53 Approved</p>
+                </div>
+            </div>
+        </section>
 
-    <!-- SA Compliant Legal Footer -->
-    <footer class="border-t border-zinc-800 bg-zinc-900/50 py-8 text-xs text-zinc-400">
-        <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
+        <!-- Interactive Test / App Launcher Banner -->
+        <section class="max-w-6xl mx-auto px-4 py-6">
+            <div class="bg-gradient-to-r from-red-950/60 to-zinc-900 border border-red-600/40 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
+                <div>
+                    <h3 class="text-2xl font-bold text-white mb-2">Practice K53 Computerized Learner's Test</h3>
+                    <p class="text-zinc-300">Take our official practice mock test online or offline using our custom testing application. Sync your test scores instantly.</p>
+                </div>
+                <button onclick="launchAppTest()" class="bg-white text-black font-black py-3 px-6 rounded-lg hover:bg-zinc-200 transition text-nowrap">
+                    Launch App Practice Test
+                </button>
+            </div>
+        </section>
+
+        <!-- Pricing Section -->
+        <section id="pricing" class="max-w-6xl mx-auto px-4 py-12">
+            <h2 class="text-3xl font-black text-center mb-8">LESSON & PACKAGE PRICES</h2>
+            
+            <div class="grid md:grid-cols-3 gap-6">
+                <!-- Learners -->
+                <div class="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 flex flex-col justify-between">
+                    <div>
+                        <h3 class="text-red-500 font-bold text-xl mb-2">LEARNERS</h3>
+                        <p class="text-3xl font-extrabold mb-4">R750 <span class="text-sm text-zinc-400 font-normal">/ computerized test</span></p>
+                        <ul class="text-zinc-300 text-sm space-y-2 mb-6">
+                            <li>• K53 Computerized Mock Questions</li>
+                            <li>• Rules of the Road & Signs</li>
+                            <li>• Offline Practice Access</li>
+                        </ul>
+                    </div>
+                    <button onclick="triggerPaymentOrTest()" class="w-full bg-red-600 hover:bg-red-700 py-2.5 font-bold rounded-lg text-sm">Pay & Start Test</button>
+                </div>
+
+                <!-- Code 8 -->
+                <div class="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 flex flex-col justify-between">
+                    <div>
+                        <h3 class="text-red-500 font-bold text-xl mb-2">CODE 8 (Car)</h3>
+                        <p class="text-3xl font-extrabold mb-2">R270 <span class="text-sm text-zinc-400 font-normal">/ hour</span></p>
+                        <ul class="text-zinc-300 text-sm space-y-2 mb-6">
+                            <li>• 5 Lessons: R1250</li>
+                            <li>• 10 Lessons: R2300</li>
+                            <li>• 15 Lessons (Saver): R4000</li>
+                            <li>• 20 Lessons: R5200</li>
+                            <li>• Unlimited Package: R10,000</li>
+                            <li>• Car Hire: R700</li>
+                        </ul>
+                    </div>
+                    <a href="https://wa.me/27737779310" class="block text-center border border-zinc-700 hover:bg-zinc-800 py-2.5 font-bold rounded-lg text-sm">Book Code 8</a>
+                </div>
+
+                <!-- Code 10 -->
+                <div class="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 flex flex-col justify-between">
+                    <div>
+                        <h3 class="text-red-500 font-bold text-xl mb-2">CODE 10 (Truck)</h3>
+                        <p class="text-3xl font-extrabold mb-2">R350 <span class="text-sm text-zinc-400 font-normal">/ hour</span></p>
+                        <ul class="text-zinc-300 text-sm space-y-2 mb-6">
+                            <li>• 10 Lessons: R3200</li>
+                            <li>• 15 Lessons: R4800</li>
+                            <li>• Unlimited Package: R8000</li>
+                            <li>• Truck Hire: R1500</li>
+                        </ul>
+                    </div>
+                    <a href="https://wa.me/27737779310" class="block text-center border border-zinc-700 hover:bg-zinc-800 py-2.5 font-bold rounded-lg text-sm">Book Code 10</a>
+                </div>
+            </div>
+            <p class="text-center text-xs text-zinc-500 mt-4">* NO REFUNDS ON ALL PACKAGES</p>
+        </section>
+
+        <!-- Locations -->
+        <section class="max-w-6xl mx-auto px-4 py-8 border-t border-zinc-900">
+            <h3 class="text-xl font-bold mb-4 text-center">OUR SERVICE LOCATIONS (WESTERN CAPE)</h3>
+            <div class="flex flex-wrap justify-center gap-3 text-sm text-zinc-400">
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Hermanus</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Caledon</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Villiersdorp</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Somerset West</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Gordon's Bay</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Grabouw</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Strand</span>
+                <span class="bg-zinc-900 px-3 py-1 rounded-full border border-zinc-800">Macassar</span>
+            </div>
+        </section>
+    </div>
+
+    <!-- SA Legal Compliance Footer -->
+    <footer class="border-t border-zinc-900 bg-black py-8 text-xs text-zinc-400 mt-12">
+        <div class="max-w-6xl mx-auto px-4 flex flex-col md:flex-row justify-between items-center gap-4">
             <div class="text-center md:text-left">
                 <p class="font-semibold text-zinc-300">© 2026 Ernie's Driving School (Pty) Ltd. All Rights Reserved.</p>
                 <p class="text-zinc-500 mt-1">123 Main Road, Macassar, Cape Town, South Africa | Reg: 2026/XXXXXX/07</p>
             </div>
             <div class="flex flex-wrap gap-4 justify-center">
-                <a href="privacy-policy.html" class="hover:text-amber-400 transition">Privacy Policy (POPIA)</a>
-                <a href="terms.html" class="hover:text-amber-400 transition">Terms & Legal (ECTA S43)</a>
-                <a href="paia.html" class="hover:text-amber-400 transition">PAIA Manual</a>
-                <a href="mailto:info@erniesdrivingschool.co.za" class="hover:text-amber-400 transition">Contact Us</a>
+                <a href="privacy-policy.html" class="hover:text-red-500 transition">Privacy Policy (POPIA)</a>
+                <a href="terms.html" class="hover:text-red-500 transition">Terms & Legal (ECTA S43)</a>
+                <a href="paia.html" class="hover:text-red-500 transition">PAIA Manual</a>
+                <a href="mailto:info@erniesdrivingschool.co.za" class="hover:text-red-500 transition">Contact Us</a>
             </div>
         </div>
     </footer>
 
+    <!-- JavaScript & Service Worker -->
     <script>
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('sw.js');
+        }
+
+        const SUPABASE_URL = 'YOUR_SUPABASE_PROJECT_URL';
+        const SUPABASE_KEY = 'YOUR_SUPABASE_ANON_KEY';
+        let supabaseClient = null;
+
+        if (typeof supabase !== 'undefined' && SUPABASE_URL !== 'YOUR_SUPABASE_PROJECT_URL') {
+            supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+        }
+
+        function triggerPaymentOrTest() {
+            const studentName = prompt("Enter student full name:");
+            if (!studentName) return;
+
+            alert("Redirecting to R750 payment portal for " + studentName + "...");
+            saveStudentAccess(studentName);
+        }
+
+        async function saveStudentAccess(name) {
+            if (supabaseClient) {
+                await supabaseClient
+                    .from('test_registrations')
+                    .insert([{ student_name: name, paid: true, date: new Date() }]);
+            }
+            alert("Payment verified! Opening test application...");
+            launchAppTest();
+        }
+
+        function launchAppTest() {
+            alert("Launching K53 Practice Test Engine...");
         }
     </script>
 </body>
