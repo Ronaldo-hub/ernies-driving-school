@@ -40,9 +40,9 @@
                 <h2 class="text-4xl md:text-5xl font-black mt-2 mb-4 leading-tight">Get Your Driver's License With Confidence</h2>
                 <p class="text-zinc-400 text-lg mb-6">We provide expert instruction for Learners, Code 8 (Light Motor Vehicle), and Code 10 (Heavy Motor Vehicle) with high pass rates.</p>
                 <div class="flex flex-wrap gap-4">
-                    <button onclick="triggerPaymentOrTest()" class="bg-red-600 hover:bg-red-700 text-white text-lg font-bold py-3 px-8 rounded-lg shadow-lg shadow-red-600/30 border border-red-500 transition">
-                        Take Computerized Test (R750)
-                    </button>
+                    <a href="#demo-section" class="bg-red-600 hover:bg-red-700 text-white text-lg font-bold py-3 px-8 rounded-lg shadow-lg shadow-red-600/30 border border-red-500 transition">
+                        Try Free Demo Test
+                    </a>
                     <a href="#pricing" class="border border-zinc-700 hover:bg-zinc-800 text-zinc-200 font-bold py-3 px-6 rounded-lg transition">View Prices</a>
                 </div>
             </div>
@@ -50,23 +50,70 @@
                 <div class="rounded-xl overflow-hidden border border-zinc-800 shadow-2xl bg-zinc-900 min-h-[250px] flex items-center justify-center">
                     <img src="images/hero.jpg" onerror="this.src='https://placehold.co/600x400/18181b/e50914?text=Ernie%27s+Driving+School'" alt="Ernie's Driving School Success" class="w-full h-auto object-cover">
                 </div>
-                <div class="absolute -bottom-4 -right-4 bg-zinc-900 border border-zinc-800 p-4 rounded-xl shadow-xl hidden sm:block">
-                    <p class="text-xs text-zinc-400">Pass Rate Success</p>
-                    <p class="text-xl font-bold text-green-500">K53 Approved</p>
-                </div>
             </div>
         </section>
 
-        <!-- Interactive Test / App Launcher Banner -->
-        <section class="max-w-6xl mx-auto px-4 py-6">
-            <div class="bg-gradient-to-r from-red-950/60 to-zinc-900 border border-red-600/40 rounded-2xl p-6 md:p-8 flex flex-col md:flex-row items-center justify-between gap-6">
-                <div>
-                    <h3 class="text-2xl font-bold text-white mb-2">Practice K53 Computerized Learner's Test</h3>
-                    <p class="text-zinc-300">Take our official practice mock test online or offline using our custom testing application. Sync your test scores instantly.</p>
+        <!-- Interactive Demo Test Section -->
+        <section id="demo-section" class="max-w-3xl mx-auto px-4 py-10">
+            <div class="bg-zinc-900 border border-zinc-800 rounded-2xl p-6 md:p-8 shadow-2xl relative">
+                <div class="flex justify-between items-center border-b border-zinc-800 pb-4 mb-6">
+                    <div>
+                        <span class="bg-red-950 text-red-400 text-xs font-bold px-3 py-1 rounded-full border border-red-800">FREE DEMO MODE</span>
+                        <h3 class="text-2xl font-bold text-white mt-1">K53 Computerized Mock Test</h3>
+                    </div>
+                    <div id="q-progress" class="text-zinc-400 text-sm font-semibold">Question 1 of 5</div>
                 </div>
-                <button onclick="launchAppTest()" class="bg-white text-black font-black py-3 px-6 rounded-lg hover:bg-zinc-200 transition text-nowrap">
-                    Launch App Practice Test
-                </button>
+
+                <!-- Test Container -->
+                <div id="quiz-container">
+                    <!-- Question Title -->
+                    <div class="mb-4">
+                        <span id="q-category" class="text-xs uppercase font-bold tracking-wider text-red-500">Rules of the Road</span>
+                        <h4 id="q-text" class="text-lg font-semibold text-zinc-100 mt-1">1. What is the general speed limit on a public road inside an urban area in South Africa?</h4>
+                    </div>
+
+                    <!-- Optional Sign Box -->
+                    <div id="sign-box" class="hidden mb-4 p-4 bg-black border border-zinc-800 rounded-lg text-center">
+                        <div id="sign-graphic" class="inline-block border-4 border-red-600 rounded-full w-20 h-20 flex items-center justify-center bg-white text-black font-black text-xl shadow-md">
+                            120
+                        </div>
+                    </div>
+
+                    <!-- Answer Options -->
+                    <div id="options-container" class="space-y-3 mb-6">
+                        <!-- Rendered by JS -->
+                    </div>
+
+                    <!-- Navigation -->
+                    <div class="flex justify-between items-center pt-4 border-t border-zinc-800">
+                        <p class="text-xs text-zinc-500">Answer all 5 questions to view your result.</p>
+                        <button id="next-btn" onclick="nextQuestion()" disabled class="bg-red-600 hover:bg-red-700 disabled:opacity-50 text-white font-bold py-2 px-6 rounded-lg transition">
+                            Next Question
+                        </button>
+                    </div>
+                </div>
+
+                <!-- Completed / Paywall Container (Hidden initially) -->
+                <div id="paywall-container" class="hidden text-center py-6">
+                    <div class="w-16 h-16 bg-red-600/20 text-red-500 border border-red-500 rounded-full flex items-center justify-center mx-auto mb-4 font-black text-2xl">
+                        ✓
+                    </div>
+                    <h3 class="text-2xl font-black text-white mb-2">Demo Completed!</h3>
+                    <p class="text-zinc-300 text-sm mb-4">Your Score: <span id="final-score" class="font-bold text-red-500 text-lg">0 / 5</span></p>
+                    
+                    <div class="bg-black/60 border border-zinc-800 rounded-xl p-6 text-left mb-6 max-w-md mx-auto space-y-3 text-sm text-zinc-300">
+                        <p class="font-bold text-white text-base border-b border-zinc-800 pb-2">Unlock Full Computerized Access:</p>
+                        <p>✓ 100+ Full K53 Question Bank (Rules, Signs, Controls)</p>
+                        <p>✓ Automated Exam Timer & Pass/Fail Scoring</p>
+                        <p>✓ Offline PWA Access (Practice anywhere without data)</p>
+                        <p>✓ Instant Score Sync to Instructor</p>
+                    </div>
+
+                    <button onclick="triggerPayment()" class="bg-red-600 hover:bg-red-700 text-white text-lg font-bold py-3 px-8 rounded-lg shadow-lg shadow-red-600/40 border border-red-500 transition w-full max-w-md">
+                        Pay R750 to Unlock Full Test
+                    </button>
+                    <p class="text-xs text-zinc-500 mt-3">Or contact us via WhatsApp: 073 777 9310</p>
+                </div>
             </div>
         </section>
 
@@ -86,7 +133,7 @@
                             <li>• Offline Practice Access</li>
                         </ul>
                     </div>
-                    <button onclick="triggerPaymentOrTest()" class="w-full bg-red-600 hover:bg-red-700 py-2.5 font-bold rounded-lg text-sm">Pay & Start Test</button>
+                    <button onclick="triggerPayment()" class="w-full bg-red-600 hover:bg-red-700 py-2.5 font-bold rounded-lg text-sm">Pay & Start Test</button>
                 </div>
 
                 <!-- Code 8 -->
@@ -124,7 +171,7 @@
             <p class="text-center text-xs text-zinc-500 mt-4">* NO REFUNDS ON ALL PACKAGES</p>
         </section>
 
-        <!-- Locations -->
+        <!-- Service Locations -->
         <section class="max-w-6xl mx-auto px-4 py-8 border-t border-zinc-900">
             <h3 class="text-xl font-bold mb-4 text-center">OUR SERVICE LOCATIONS (WESTERN CAPE)</h3>
             <div class="flex flex-wrap justify-center gap-3 text-sm text-zinc-400">
@@ -156,41 +203,140 @@
         </div>
     </footer>
 
-    <!-- JavaScript & Service Worker -->
+    <!-- Demo Quiz Script -->
     <script>
         if ('serviceWorker' in navigator) {
             navigator.serviceWorker.register('sw.js');
         }
 
-        const SUPABASE_URL = 'YOUR_SUPABASE_PROJECT_URL';
-        const SUPABASE_KEY = 'YOUR_SUPABASE_ANON_KEY';
-        let supabaseClient = null;
+        // Demo Questions Structure (2 Rules, 2 Signs, 1 Control)
+        const demoQuestions = [
+            {
+                category: "Rules of the Road (Question 1/2)",
+                question: "What is the general speed limit on a public road inside an urban area in South Africa, unless otherwise indicated by a road sign?",
+                options: ["80 km/h", "60 km/h", "100 km/h"],
+                answer: 1,
+                hasSign: false
+            },
+            {
+                category: "Rules of the Road (Question 2/2)",
+                question: "When are you permitted to overtake another vehicle on the left side on a multi-lane road?",
+                options: [
+                    "When the driver in front of you indicates they are turning right and there is space",
+                    "Anytime you are driving faster than the other car",
+                    "Overtaking on the left is strictly illegal under all circumstances"
+                ],
+                answer: 0,
+                hasSign: false
+            },
+            {
+                category: "Road Signs (Question 1/2)",
+                question: "What does a circular road sign with a red border containing the number '120' indicate?",
+                options: [
+                    "Recommended minimum speed of 120 km/h",
+                    "Maximum speed limit allowed is 120 km/h",
+                    "Distance to the next town is 120 km"
+                ],
+                answer: 1,
+                hasSign: true,
+                signText: "120"
+            },
+            {
+                category: "Road Signs (Question 2/2)",
+                question: "What action must you take when approaching a octagonal red sign with white text displaying 'STOP'?",
+                options: [
+                    "Slow down and proceed if no traffic is coming",
+                    "Bring your vehicle to a complete standstill behind the stop line",
+                    "Hoot to warn other drivers and proceed"
+                ],
+                answer: 1,
+                hasSign: true,
+                signText: "STOP"
+            },
+            {
+                category: "Vehicle Controls (Question 1/1)",
+                question: "Which control in a manual transmission motor vehicle is operated using your left foot?",
+                options: ["Brake Pedal", "Accelerator / Gas Pedal", "Clutch Pedal"],
+                answer: 2,
+                hasSign: false
+            }
+        ];
 
-        if (typeof supabase !== 'undefined' && SUPABASE_URL !== 'YOUR_SUPABASE_PROJECT_URL') {
-            supabaseClient = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
+        let currentQIndex = 0;
+        let selectedOption = null;
+        let score = 0;
+
+        function loadQuestion() {
+            selectedOption = null;
+            document.getElementById('next-btn').disabled = true;
+            
+            const q = demoQuestions[currentQIndex];
+            document.getElementById('q-progress').innerText = `Question ${currentQIndex + 1} of ${demoQuestions.length}`;
+            document.getElementById('q-category').innerText = q.category;
+            document.getElementById('q-text').innerText = q.question;
+
+            // Handle Sign display
+            const signBox = document.getElementById('sign-box');
+            if (q.hasSign) {
+                signBox.classList.remove('hidden');
+                document.getElementById('sign-graphic').innerText = q.signText;
+            } else {
+                signBox.classList.add('hidden');
+            }
+
+            // Render Options
+            const optionsContainer = document.getElementById('options-container');
+            optionsContainer.innerHTML = '';
+            
+            q.options.forEach((opt, index) => {
+                const btn = document.createElement('button');
+                btn.className = "w-full text-left p-4 rounded-xl border border-zinc-800 bg-black/40 hover:bg-zinc-800/80 transition flex items-center justify-between text-sm text-zinc-200";
+                btn.onclick = () => selectOption(index, btn);
+                btn.innerHTML = `<span>${opt}</span><span class="w-5 h-5 rounded-full border border-zinc-600 flex-shrink-0 flex items-center justify-center text-xs"></span>`;
+                optionsContainer.appendChild(btn);
+            });
         }
 
-        function triggerPaymentOrTest() {
-            const studentName = prompt("Enter student full name:");
+        function selectOption(index, btnElement) {
+            selectedOption = index;
+            const allBtns = document.getElementById('options-container').children;
+            for (let b of allBtns) {
+                b.classList.remove('border-red-600', 'bg-red-950/30');
+                b.classList.add('border-zinc-800');
+            }
+            btnElement.classList.add('border-red-600', 'bg-red-950/30');
+            document.getElementById('next-btn').disabled = false;
+        }
+
+        function nextQuestion() {
+            if (selectedOption === demoQuestions[currentQIndex].answer) {
+                score++;
+            }
+
+            currentQIndex++;
+            if (currentQIndex < demoQuestions.length) {
+                loadQuestion();
+            } else {
+                showPaywall();
+            }
+        }
+
+        function showPaywall() {
+            document.getElementById('quiz-container').classList.add('hidden');
+            document.getElementById('paywall-container').classList.remove('hidden');
+            document.getElementById('final-score').innerText = `${score} / ${demoQuestions.length}`;
+        }
+
+        function triggerPayment() {
+            const studentName = prompt("Enter student full name to register for the full test:");
             if (!studentName) return;
 
-            alert("Redirecting to R750 payment portal for " + studentName + "...");
-            saveStudentAccess(studentName);
+            alert(`Redirecting ${studentName} to R750 payment portal...`);
+            window.location.href = "https://wa.me/27737779310?text=" + encodeURIComponent(`Hello Ernie's Driving School, my name is ${studentName}. I completed the online demo test and would like to pay R750 to access the full test.`);
         }
 
-        async function saveStudentAccess(name) {
-            if (supabaseClient) {
-                await supabaseClient
-                    .from('test_registrations')
-                    .insert([{ student_name: name, paid: true, date: new Date() }]);
-            }
-            alert("Payment verified! Opening test application...");
-            launchAppTest();
-        }
-
-        function launchAppTest() {
-            alert("Launching K53 Practice Test Engine...");
-        }
+        // Initialize quiz on page load
+        window.onload = loadQuestion;
     </script>
 </body>
 </html>
