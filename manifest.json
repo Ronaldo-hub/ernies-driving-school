@@ -1,0 +1,9 @@
+{
+  "name": "Ernie's Driving School K53",
+  "short_name": "K53 Simulator",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#09090b",
+  "icons": []
+}

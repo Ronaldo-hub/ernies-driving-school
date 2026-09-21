@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ernie's Driving School - K53 Simulator</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#09090b">
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-zinc-950 text-zinc-100 min-h-screen flex flex-col justify-between font-sans">
+
+    <!-- Header / Navbar -->
+    <header class="border-b border-zinc-800 bg-zinc-900/80 backdrop-blur px-6 py-4 flex justify-between items-center">
+        <h1 class="text-xl font-bold tracking-tight text-amber-500">Ernie's Driving School</h1>
+        <span class="text-xs bg-amber-500/10 text-amber-400 border border-amber-500/30 px-2.5 py-1 rounded-full">K53 Simulator</span>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="max-w-4xl mx-auto w-full p-6 flex-grow flex flex-col items-center justify-center text-center">
+        <h2 class="text-3xl font-extrabold mb-4">Master Your K53 Learner's Licence Test</h2>
+        <p class="text-zinc-400 max-w-md mb-8">Practice Code 8, 10, and 14 tests offline or online with real-time feedback and progress tracking.</p>
+        <button class="bg-amber-500 hover:bg-amber-600 text-zinc-950 font-bold px-6 py-3 rounded-xl transition">Start Practice Test</button>
+    </main>
+
+    <!-- SA Compliant Legal Footer -->
+    <footer class="border-t border-zinc-800 bg-zinc-900/50 py-8 text-xs text-zinc-400">
+        <div class="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4">
+            <div class="text-center md:text-left">
+                <p class="font-semibold text-zinc-300">© 2026 Ernie's Driving School (Pty) Ltd. All Rights Reserved.</p>
+                <p class="text-zinc-500 mt-1">123 Main Road, Macassar, Cape Town, South Africa | Reg: 2026/XXXXXX/07</p>
+            </div>
+            <div class="flex flex-wrap gap-4 justify-center">
+                <a href="privacy-policy.html" class="hover:text-amber-400 transition">Privacy Policy (POPIA)</a>
+                <a href="terms.html" class="hover:text-amber-400 transition">Terms & Legal (ECTA S43)</a>
+                <a href="paia.html" class="hover:text-amber-400 transition">PAIA Manual</a>
+                <a href="mailto:info@erniesdrivingschool.co.za" class="hover:text-amber-400 transition">Contact Us</a>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js');
+        }
+    </script>
+</body>
+</html>
