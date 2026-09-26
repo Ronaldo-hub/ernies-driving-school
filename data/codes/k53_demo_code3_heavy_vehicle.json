@@ -1,0 +1,1691 @@
+{
+  "code_id": "code3_heavy_vehicle",
+  "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+  "total_questions": 20,
+  "difficulty_breakdown": {
+    "easy": 10,
+    "hard": 10
+  },
+  "questions": [
+    {
+      "id": 1,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the general maximum speed limit for goods vehicles/combinations with a GVM exceeding 9,000 kg?",
+        "af": "[AF] What is the general maximum speed limit for goods vehicles/combinations with a GVM exceeding 9,000 kg?",
+        "xh": "[XH] What is the general maximum speed limit for goods vehicles/combinations with a GVM exceeding 9,000 kg?",
+        "zu": "[ZU] What is the general maximum speed limit for goods vehicles/combinations with a GVM exceeding 9,000 kg?",
+        "st": "[ST] What is the general maximum speed limit for goods vehicles/combinations with a GVM exceeding 9,000 kg?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 80 km/h.",
+          "B": "B) 100 km/h.",
+          "C": "C) 120 km/h."
+        },
+        "af": {
+          "A": "[AF] A) 80 km/h.",
+          "B": "[AF] B) 100 km/h.",
+          "C": "[AF] C) 120 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) 80 km/h.",
+          "B": "[XH] B) 100 km/h.",
+          "C": "[XH] C) 120 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) 80 km/h.",
+          "B": "[ZU] B) 100 km/h.",
+          "C": "[ZU] C) 120 km/h."
+        },
+        "st": {
+          "A": "[ST] A) 80 km/h.",
+          "B": "[ST] B) 100 km/h.",
+          "C": "[ST] C) 120 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.",
+        "af": "[AF] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.",
+        "xh": "[XH] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.",
+        "zu": "[ZU] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.",
+        "st": "[ST] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads."
+      },
+      "media": {
+        "graphic_type": "speed_goods_80",
+        "image_file": "speed_goods_80.png",
+        "video_simulation_prompt": "3D Animation: Heavy articulated truck cruising on highway with speedometer capped at 80 km/h."
+      },
+      "memory_tricks": {
+        "en": "Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
+        "af": "[AF] Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
+        "xh": "[XH] Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
+        "zu": "[ZU] Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
+        "st": "[ST] Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
+        "af": "[AF] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
+        "xh": "[XH] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
+        "zu": "[ZU] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
+        "st": "[ST] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Mandatory command for heavy vehicles to engage low gear.",
+          "B": "B) Maximum speed limit of 80 km/h.",
+          "C": "C) Warning of steep hill ahead."
+        },
+        "af": {
+          "A": "[AF] A) Mandatory command for heavy vehicles to engage low gear.",
+          "B": "[AF] B) Maximum speed limit of 80 km/h.",
+          "C": "[AF] C) Warning of steep hill ahead."
+        },
+        "xh": {
+          "A": "[XH] A) Mandatory command for heavy vehicles to engage low gear.",
+          "B": "[XH] B) Maximum speed limit of 80 km/h.",
+          "C": "[XH] C) Warning of steep hill ahead."
+        },
+        "zu": {
+          "A": "[ZU] A) Mandatory command for heavy vehicles to engage low gear.",
+          "B": "[ZU] B) Maximum speed limit of 80 km/h.",
+          "C": "[ZU] C) Warning of steep hill ahead."
+        },
+        "st": {
+          "A": "[ST] A) Mandatory command for heavy vehicles to engage low gear.",
+          "B": "[ST] B) Maximum speed limit of 80 km/h.",
+          "C": "[ST] C) Warning of steep hill ahead."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.",
+        "af": "[AF] Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.",
+        "xh": "[XH] Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.",
+        "zu": "[ZU] Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.",
+        "st": "[ST] Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents."
+      },
+      "media": {
+        "graphic_type": "low_gear_command",
+        "image_file": "low_gear_command.png",
+        "video_simulation_prompt": "3D Animation: Heavy truck approaching steep mountain pass, seeing blue Low Gear sign, and downshifting."
+      },
+      "memory_tricks": {
+        "en": "Blue Disc Truck + L = ENGAGE LOW GEAR!",
+        "af": "[AF] Blue Disc Truck + L = ENGAGE LOW GEAR!",
+        "xh": "[XH] Blue Disc Truck + L = ENGAGE LOW GEAR!",
+        "zu": "[ZU] Blue Disc Truck + L = ENGAGE LOW GEAR!",
+        "st": "[ST] Blue Disc Truck + L = ENGAGE LOW GEAR!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, what is the primary function of the exhaust brake / engine retarder?",
+        "af": "[AF] In the heavy vehicle cockpit diagram, what is the primary function of the exhaust brake / engine retarder?",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, what is the primary function of the exhaust brake / engine retarder?",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, what is the primary function of the exhaust brake / engine retarder?",
+        "st": "[ST] In the heavy vehicle cockpit diagram, what is the primary function of the exhaust brake / engine retarder?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Assists in slowing the heavy vehicle down steep hills without overheating service brakes.",
+          "B": "B) Increases engine acceleration speed.",
+          "C": "C) Disengages the clutch automatically."
+        },
+        "af": {
+          "A": "[AF] A) Assists in slowing the heavy vehicle down steep hills without overheating service brakes.",
+          "B": "[AF] B) Increases engine acceleration speed.",
+          "C": "[AF] C) Disengages the clutch automatically."
+        },
+        "xh": {
+          "A": "[XH] A) Assists in slowing the heavy vehicle down steep hills without overheating service brakes.",
+          "B": "[XH] B) Increases engine acceleration speed.",
+          "C": "[XH] C) Disengages the clutch automatically."
+        },
+        "zu": {
+          "A": "[ZU] A) Assists in slowing the heavy vehicle down steep hills without overheating service brakes.",
+          "B": "[ZU] B) Increases engine acceleration speed.",
+          "C": "[ZU] C) Disengages the clutch automatically."
+        },
+        "st": {
+          "A": "[ST] A) Assists in slowing the heavy vehicle down steep hills without overheating service brakes.",
+          "B": "[ST] B) Increases engine acceleration speed.",
+          "C": "[ST] C) Disengages the clutch automatically."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.",
+        "af": "[AF] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.",
+        "xh": "[XH] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.",
+        "zu": "[ZU] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.",
+        "st": "[ST] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Truck descending pass with exhaust brake engaged, preventing brake fade."
+      },
+      "memory_tricks": {
+        "en": "Exhaust Brake = Saves Service Brakes on Downhills!",
+        "af": "[AF] Exhaust Brake = Saves Service Brakes on Downhills!",
+        "xh": "[XH] Exhaust Brake = Saves Service Brakes on Downhills!",
+        "zu": "[ZU] Exhaust Brake = Saves Service Brakes on Downhills!",
+        "st": "[ST] Exhaust Brake = Saves Service Brakes on Downhills!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
+        "af": "[AF] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
+        "xh": "[XH] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
+        "zu": "[ZU] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
+        "st": "[ST] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Gross Vehicle Mass limit of 10 tonnes.",
+          "B": "B) Minimum speed limit of 10 km/h.",
+          "C": "C) Axle mass limit of 10 tonnes."
+        },
+        "af": {
+          "A": "[AF] A) Gross Vehicle Mass limit of 10 tonnes.",
+          "B": "[AF] B) Minimum speed limit of 10 km/h.",
+          "C": "[AF] C) Axle mass limit of 10 tonnes."
+        },
+        "xh": {
+          "A": "[XH] A) Gross Vehicle Mass limit of 10 tonnes.",
+          "B": "[XH] B) Minimum speed limit of 10 km/h.",
+          "C": "[XH] C) Axle mass limit of 10 tonnes."
+        },
+        "zu": {
+          "A": "[ZU] A) Gross Vehicle Mass limit of 10 tonnes.",
+          "B": "[ZU] B) Minimum speed limit of 10 km/h.",
+          "C": "[ZU] C) Axle mass limit of 10 tonnes."
+        },
+        "st": {
+          "A": "[ST] A) Gross Vehicle Mass limit of 10 tonnes.",
+          "B": "[ST] B) Minimum speed limit of 10 km/h.",
+          "C": "[ST] C) Axle mass limit of 10 tonnes."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
+        "af": "[AF] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
+        "xh": "[XH] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
+        "zu": "[ZU] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
+        "st": "[ST] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t)."
+      },
+      "media": {
+        "graphic_type": "mass_limit_10t",
+        "image_file": "mass_limit_10t.png",
+        "video_simulation_prompt": "3D Animation: Heavy truck checking load weight rating before 10t bridge entry sign."
+      },
+      "memory_tricks": {
+        "en": "Red Circle 10t = MAX GROSS MASS 10 TONNES!",
+        "af": "[AF] Red Circle 10t = MAX GROSS MASS 10 TONNES!",
+        "xh": "[XH] Red Circle 10t = MAX GROSS MASS 10 TONNES!",
+        "zu": "[ZU] Red Circle 10t = MAX GROSS MASS 10 TONNES!",
+        "st": "[ST] Red Circle 10t = MAX GROSS MASS 10 TONNES!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the legal blood alcohol limit for professional drivers operating heavy motor vehicles (PrDP holders)?",
+        "af": "[AF] What is the legal blood alcohol limit for professional drivers operating heavy motor vehicles (PrDP holders)?",
+        "xh": "[XH] What is the legal blood alcohol limit for professional drivers operating heavy motor vehicles (PrDP holders)?",
+        "zu": "[ZU] What is the legal blood alcohol limit for professional drivers operating heavy motor vehicles (PrDP holders)?",
+        "st": "[ST] What is the legal blood alcohol limit for professional drivers operating heavy motor vehicles (PrDP holders)?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Less than 0.02 grams per 100 ml of blood.",
+          "B": "B) Less than 0.05 grams per 100 ml.",
+          "C": "C) Zero tolerance (0.00g)."
+        },
+        "af": {
+          "A": "[AF] A) Less than 0.02 grams per 100 ml of blood.",
+          "B": "[AF] B) Less than 0.05 grams per 100 ml.",
+          "C": "[AF] C) Zero tolerance (0.00g)."
+        },
+        "xh": {
+          "A": "[XH] A) Less than 0.02 grams per 100 ml of blood.",
+          "B": "[XH] B) Less than 0.05 grams per 100 ml.",
+          "C": "[XH] C) Zero tolerance (0.00g)."
+        },
+        "zu": {
+          "A": "[ZU] A) Less than 0.02 grams per 100 ml of blood.",
+          "B": "[ZU] B) Less than 0.05 grams per 100 ml.",
+          "C": "[ZU] C) Zero tolerance (0.00g)."
+        },
+        "st": {
+          "A": "[ST] A) Less than 0.02 grams per 100 ml of blood.",
+          "B": "[ST] B) Less than 0.05 grams per 100 ml.",
+          "C": "[ST] C) Zero tolerance (0.00g)."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.",
+        "af": "[AF] PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.",
+        "xh": "[XH] PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.",
+        "zu": "[ZU] PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.",
+        "st": "[ST] PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: PrDP card graphic highlighting 0.02g/100ml blood alcohol threshold."
+      },
+      "memory_tricks": {
+        "en": "PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!",
+        "af": "[AF] PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!",
+        "xh": "[XH] PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!",
+        "zu": "[ZU] PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!",
+        "st": "[ST] PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "What warning device alerts the driver if heavy vehicle air brake pressure drops dangerously low?",
+        "af": "[AF] What warning device alerts the driver if heavy vehicle air brake pressure drops dangerously low?",
+        "xh": "[XH] What warning device alerts the driver if heavy vehicle air brake pressure drops dangerously low?",
+        "zu": "[ZU] What warning device alerts the driver if heavy vehicle air brake pressure drops dangerously low?",
+        "st": "[ST] What warning device alerts the driver if heavy vehicle air brake pressure drops dangerously low?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Audible warning buzzer and low-pressure gauge light.",
+          "B": "B) Flashing indicator light on wing mirror.",
+          "C": "C) Steering wheel vibration."
+        },
+        "af": {
+          "A": "[AF] A) Audible warning buzzer and low-pressure gauge light.",
+          "B": "[AF] B) Flashing indicator light on wing mirror.",
+          "C": "[AF] C) Steering wheel vibration."
+        },
+        "xh": {
+          "A": "[XH] A) Audible warning buzzer and low-pressure gauge light.",
+          "B": "[XH] B) Flashing indicator light on wing mirror.",
+          "C": "[XH] C) Steering wheel vibration."
+        },
+        "zu": {
+          "A": "[ZU] A) Audible warning buzzer and low-pressure gauge light.",
+          "B": "[ZU] B) Flashing indicator light on wing mirror.",
+          "C": "[ZU] C) Steering wheel vibration."
+        },
+        "st": {
+          "A": "[ST] A) Audible warning buzzer and low-pressure gauge light.",
+          "B": "[ST] B) Flashing indicator light on wing mirror.",
+          "C": "[ST] C) Steering wheel vibration."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.",
+        "af": "[AF] Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.",
+        "xh": "[XH] Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.",
+        "zu": "[ZU] Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.",
+        "st": "[ST] Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Heavy vehicle dashboard gauge showing red air pressure needle with warning buzzer sound wave."
+      },
+      "memory_tricks": {
+        "en": "Air Pressure Low = BUZZER + RED DASH LIGHT!",
+        "af": "[AF] Air Pressure Low = BUZZER + RED DASH LIGHT!",
+        "xh": "[XH] Air Pressure Low = BUZZER + RED DASH LIGHT!",
+        "zu": "[ZU] Air Pressure Low = BUZZER + RED DASH LIGHT!",
+        "st": "[ST] Air Pressure Low = BUZZER + RED DASH LIGHT!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a rectangular sign displaying 'ESCAPE RAMP' or an ascending gravel bed (Sign IN11) indicate?",
+        "af": "[AF] What does a rectangular sign displaying 'ESCAPE RAMP' or an ascending gravel bed (Sign IN11) indicate?",
+        "xh": "[XH] What does a rectangular sign displaying 'ESCAPE RAMP' or an ascending gravel bed (Sign IN11) indicate?",
+        "zu": "[ZU] What does a rectangular sign displaying 'ESCAPE RAMP' or an ascending gravel bed (Sign IN11) indicate?",
+        "st": "[ST] What does a rectangular sign displaying 'ESCAPE RAMP' or an ascending gravel bed (Sign IN11) indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Arrestor bed ahead for out-of-control heavy vehicles.",
+          "B": "B) Highway exit for rest stop.",
+          "C": "C) Weighbridge inspection station."
+        },
+        "af": {
+          "A": "[AF] A) Arrestor bed ahead for out-of-control heavy vehicles.",
+          "B": "[AF] B) Highway exit for rest stop.",
+          "C": "[AF] C) Weighbridge inspection station."
+        },
+        "xh": {
+          "A": "[XH] A) Arrestor bed ahead for out-of-control heavy vehicles.",
+          "B": "[XH] B) Highway exit for rest stop.",
+          "C": "[XH] C) Weighbridge inspection station."
+        },
+        "zu": {
+          "A": "[ZU] A) Arrestor bed ahead for out-of-control heavy vehicles.",
+          "B": "[ZU] B) Highway exit for rest stop.",
+          "C": "[ZU] C) Weighbridge inspection station."
+        },
+        "st": {
+          "A": "[ST] A) Arrestor bed ahead for out-of-control heavy vehicles.",
+          "B": "[ST] B) Highway exit for rest stop.",
+          "C": "[ST] C) Weighbridge inspection station."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.",
+        "af": "[AF] Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.",
+        "xh": "[XH] Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.",
+        "zu": "[ZU] Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.",
+        "st": "[ST] Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed."
+      },
+      "media": {
+        "graphic_type": "arrestor_bed",
+        "image_file": "arrestor_bed.png",
+        "video_simulation_prompt": "3D Animation: Runaway truck steering into a gravel arrestor bed ramp to stop safely."
+      },
+      "memory_tricks": {
+        "en": "Arrestor Bed = Emergency Ramp for Failed Brakes!",
+        "af": "[AF] Arrestor Bed = Emergency Ramp for Failed Brakes!",
+        "xh": "[XH] Arrestor Bed = Emergency Ramp for Failed Brakes!",
+        "zu": "[ZU] Arrestor Bed = Emergency Ramp for Failed Brakes!",
+        "st": "[ST] Arrestor Bed = Emergency Ramp for Failed Brakes!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "af": "[AF] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "xh": "[XH] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "zu": "[ZU] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "st": "[ST] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Neutral position.",
+          "B": "B) First gear.",
+          "C": "C) Reverse gear."
+        },
+        "af": {
+          "A": "[AF] A) Neutral position.",
+          "B": "[AF] B) First gear.",
+          "C": "[AF] C) Reverse gear."
+        },
+        "xh": {
+          "A": "[XH] A) Neutral position.",
+          "B": "[XH] B) First gear.",
+          "C": "[XH] C) Reverse gear."
+        },
+        "zu": {
+          "A": "[ZU] A) Neutral position.",
+          "B": "[ZU] B) First gear.",
+          "C": "[ZU] C) Reverse gear."
+        },
+        "st": {
+          "A": "[ST] A) Neutral position.",
+          "B": "[ST] B) First gear.",
+          "C": "[ST] C) Reverse gear."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The gear lever must be checked in Neutral before cranking the starter motor.",
+        "af": "[AF] The gear lever must be checked in Neutral before cranking the starter motor.",
+        "xh": "[XH] The gear lever must be checked in Neutral before cranking the starter motor.",
+        "zu": "[ZU] The gear lever must be checked in Neutral before cranking the starter motor.",
+        "st": "[ST] The gear lever must be checked in Neutral before cranking the starter motor."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Hand wiggling gear lever side-to-side in Neutral position before turning ignition key."
+      },
+      "memory_tricks": {
+        "en": "Wiggle in Neutral before key turn!",
+        "af": "[AF] Wiggle in Neutral before key turn!",
+        "xh": "[XH] Wiggle in Neutral before key turn!",
+        "zu": "[ZU] Wiggle in Neutral before key turn!",
+        "st": "[ST] Wiggle in Neutral before key turn!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The gear lever must be checked in Neutral before cranking the starter motor.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The gear lever must be checked in Neutral before cranking the starter motor.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The gear lever must be checked in Neutral before cranking the starter motor.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The gear lever must be checked in Neutral before cranking the starter motor.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The gear lever must be checked in Neutral before cranking the starter motor.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The gear lever must be checked in Neutral before cranking the starter motor. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The gear lever must be checked in Neutral before cranking the starter motor. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The gear lever must be checked in Neutral before cranking the starter motor. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The gear lever must be checked in Neutral before cranking the starter motor. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The gear lever must be checked in Neutral before cranking the starter motor. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The gear lever must be checked in Neutral before cranking the starter motor. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The gear lever must be checked in Neutral before cranking the starter motor. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The gear lever must be checked in Neutral before cranking the starter motor. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The gear lever must be checked in Neutral before cranking the starter motor. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The gear lever must be checked in Neutral before cranking the starter motor. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular prohibition sign showing two trucks side-by-side (Sign R215) mean?",
+        "af": "[AF] What does a circular prohibition sign showing two trucks side-by-side (Sign R215) mean?",
+        "xh": "[XH] What does a circular prohibition sign showing two trucks side-by-side (Sign R215) mean?",
+        "zu": "[ZU] What does a circular prohibition sign showing two trucks side-by-side (Sign R215) mean?",
+        "st": "[ST] What does a circular prohibition sign showing two trucks side-by-side (Sign R215) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) No Overtaking for goods vehicles.",
+          "B": "B) Heavy vehicles must drive in pairs.",
+          "C": "C) Two-lane road for trucks."
+        },
+        "af": {
+          "A": "[AF] A) No Overtaking for goods vehicles.",
+          "B": "[AF] B) Heavy vehicles must drive in pairs.",
+          "C": "[AF] C) Two-lane road for trucks."
+        },
+        "xh": {
+          "A": "[XH] A) No Overtaking for goods vehicles.",
+          "B": "[XH] B) Heavy vehicles must drive in pairs.",
+          "C": "[XH] C) Two-lane road for trucks."
+        },
+        "zu": {
+          "A": "[ZU] A) No Overtaking for goods vehicles.",
+          "B": "[ZU] B) Heavy vehicles must drive in pairs.",
+          "C": "[ZU] C) Two-lane road for trucks."
+        },
+        "st": {
+          "A": "[ST] A) No Overtaking for goods vehicles.",
+          "B": "[ST] B) Heavy vehicles must drive in pairs.",
+          "C": "[ST] C) Two-lane road for trucks."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.",
+        "af": "[AF] Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.",
+        "xh": "[XH] Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.",
+        "zu": "[ZU] Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.",
+        "st": "[ST] Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road."
+      },
+      "media": {
+        "graphic_type": "no_overtaking_goods",
+        "image_file": "no_overtaking_goods.png",
+        "video_simulation_prompt": "3D Animation: Heavy goods vehicle remaining behind another truck past a R215 No Overtaking sign."
+      },
+      "memory_tricks": {
+        "en": "Red Circle Two Trucks = NO OVERTAKING FOR GOODS VEHICLES!",
+        "af": "[AF] Red Circle Two Trucks = NO OVERTAKING FOR GOODS VEHICLES!",
+        "xh": "[XH] Red Circle Two Trucks = NO OVERTAKING FOR GOODS VEHICLES!",
+        "zu": "[ZU] Red Circle Two Trucks = NO OVERTAKING FOR GOODS VEHICLES!",
+        "st": "[ST] Red Circle Two Trucks = NO OVERTAKING FOR GOODS VEHICLES!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the maximum legal overall height permitted for any heavy motor vehicle or load on a public road?",
+        "af": "[AF] What is the maximum legal overall height permitted for any heavy motor vehicle or load on a public road?",
+        "xh": "[XH] What is the maximum legal overall height permitted for any heavy motor vehicle or load on a public road?",
+        "zu": "[ZU] What is the maximum legal overall height permitted for any heavy motor vehicle or load on a public road?",
+        "st": "[ST] What is the maximum legal overall height permitted for any heavy motor vehicle or load on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 4.3 metres.",
+          "B": "B) 4.6 metres.",
+          "C": "C) 5.0 metres."
+        },
+        "af": {
+          "A": "[AF] A) 4.3 metres.",
+          "B": "[AF] B) 4.6 metres.",
+          "C": "[AF] C) 5.0 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 4.3 metres.",
+          "B": "[XH] B) 4.6 metres.",
+          "C": "[XH] C) 5.0 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 4.3 metres.",
+          "B": "[ZU] B) 4.6 metres.",
+          "C": "[ZU] C) 5.0 metres."
+        },
+        "st": {
+          "A": "[ST] A) 4.3 metres.",
+          "B": "[ST] B) 4.6 metres.",
+          "C": "[ST] C) 5.0 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Standard maximum overall vehicle and load height limit is 4.3 metres.",
+        "af": "[AF] Standard maximum overall vehicle and load height limit is 4.3 metres.",
+        "xh": "[XH] Standard maximum overall vehicle and load height limit is 4.3 metres.",
+        "zu": "[ZU] Standard maximum overall vehicle and load height limit is 4.3 metres.",
+        "st": "[ST] Standard maximum overall vehicle and load height limit is 4.3 metres."
+      },
+      "media": {
+        "graphic_type": "height_limit_43",
+        "image_file": "height_limit_43.png",
+        "video_simulation_prompt": "3D Animation: High-cube container truck passing under height gauge marked 4.3m."
+      },
+      "memory_tricks": {
+        "en": "Standard Height Limit: 4.3 Metres Max!",
+        "af": "[AF] Standard Height Limit: 4.3 Metres Max!",
+        "xh": "[XH] Standard Height Limit: 4.3 Metres Max!",
+        "zu": "[ZU] Standard Height Limit: 4.3 Metres Max!",
+        "st": "[ST] Standard Height Limit: 4.3 Metres Max!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Standard maximum overall vehicle and load height limit is 4.3 metres. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Standard maximum overall vehicle and load height limit is 4.3 metres. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Standard maximum overall vehicle and load height limit is 4.3 metres. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Standard maximum overall vehicle and load height limit is 4.3 metres. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Standard maximum overall vehicle and load height limit is 4.3 metres. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Standard maximum overall vehicle and load height limit is 4.3 metres. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Standard maximum overall vehicle and load height limit is 4.3 metres. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Standard maximum overall vehicle and load height limit is 4.3 metres. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Standard maximum overall vehicle and load height limit is 4.3 metres. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Standard maximum overall vehicle and load height limit is 4.3 metres. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the minimum safe following distance recommended for heavy motor vehicles in normal driving conditions?",
+        "af": "[AF] What is the minimum safe following distance recommended for heavy motor vehicles in normal driving conditions?",
+        "xh": "[XH] What is the minimum safe following distance recommended for heavy motor vehicles in normal driving conditions?",
+        "zu": "[ZU] What is the minimum safe following distance recommended for heavy motor vehicles in normal driving conditions?",
+        "st": "[ST] What is the minimum safe following distance recommended for heavy motor vehicles in normal driving conditions?"
+      },
+      "options": {
+        "en": {
+          "A": "A) At least 3 to 4 seconds (or 1 second per 3m of vehicle length).",
+          "B": "B) 2 seconds.",
+          "C": "C) 1 second."
+        },
+        "af": {
+          "A": "[AF] A) At least 3 to 4 seconds (or 1 second per 3m of vehicle length).",
+          "B": "[AF] B) 2 seconds.",
+          "C": "[AF] C) 1 second."
+        },
+        "xh": {
+          "A": "[XH] A) At least 3 to 4 seconds (or 1 second per 3m of vehicle length).",
+          "B": "[XH] B) 2 seconds.",
+          "C": "[XH] C) 1 second."
+        },
+        "zu": {
+          "A": "[ZU] A) At least 3 to 4 seconds (or 1 second per 3m of vehicle length).",
+          "B": "[ZU] B) 2 seconds.",
+          "C": "[ZU] C) 1 second."
+        },
+        "st": {
+          "A": "[ST] A) At least 3 to 4 seconds (or 1 second per 3m of vehicle length).",
+          "B": "[ST] B) 2 seconds.",
+          "C": "[ST] C) 1 second."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.",
+        "af": "[AF] Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.",
+        "xh": "[XH] Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.",
+        "zu": "[ZU] Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.",
+        "st": "[ST] Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Heavy truck tracking behind a lead vehicle with 4-second gap counter overlay."
+      },
+      "memory_tricks": {
+        "en": "Heavy Vehicle Gap: 3-4 Seconds Following Distance!",
+        "af": "[AF] Heavy Vehicle Gap: 3-4 Seconds Following Distance!",
+        "xh": "[XH] Heavy Vehicle Gap: 3-4 Seconds Following Distance!",
+        "zu": "[ZU] Heavy Vehicle Gap: 3-4 Seconds Following Distance!",
+        "st": "[ST] Heavy Vehicle Gap: 3-4 Seconds Following Distance!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "What is the maximum allowed number of forward correction movements during the alley docking maneuver in a Code EC articulated vehicle?",
+        "af": "[AF] What is the maximum allowed number of forward correction movements during the alley docking maneuver in a Code EC articulated vehicle?",
+        "xh": "[XH] What is the maximum allowed number of forward correction movements during the alley docking maneuver in a Code EC articulated vehicle?",
+        "zu": "[ZU] What is the maximum allowed number of forward correction movements during the alley docking maneuver in a Code EC articulated vehicle?",
+        "st": "[ST] What is the maximum allowed number of forward correction movements during the alley docking maneuver in a Code EC articulated vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Maximum of 2 forward correction movements.",
+          "B": "B) Unlimited movements.",
+          "C": "C) No corrections allowed."
+        },
+        "af": {
+          "A": "[AF] A) Maximum of 2 forward correction movements.",
+          "B": "[AF] B) Unlimited movements.",
+          "C": "[AF] C) No corrections allowed."
+        },
+        "xh": {
+          "A": "[XH] A) Maximum of 2 forward correction movements.",
+          "B": "[XH] B) Unlimited movements.",
+          "C": "[XH] C) No corrections allowed."
+        },
+        "zu": {
+          "A": "[ZU] A) Maximum of 2 forward correction movements.",
+          "B": "[ZU] B) Unlimited movements.",
+          "C": "[ZU] C) No corrections allowed."
+        },
+        "st": {
+          "A": "[ST] A) Maximum of 2 forward correction movements.",
+          "B": "[ST] B) Unlimited movements.",
+          "C": "[ST] C) No corrections allowed."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Official K53 yard test rules allow up to 2 forward correction movements during alley docking.",
+        "af": "[AF] Official K53 yard test rules allow up to 2 forward correction movements during alley docking.",
+        "xh": "[XH] Official K53 yard test rules allow up to 2 forward correction movements during alley docking.",
+        "zu": "[ZU] Official K53 yard test rules allow up to 2 forward correction movements during alley docking.",
+        "st": "[ST] Official K53 yard test rules allow up to 2 forward correction movements during alley docking."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Top-down view of articulated truck alley docking maneuver showing 1st and 2nd forward correction pulls."
+      },
+      "memory_tricks": {
+        "en": "Alley Docking: Max 2 Forward Corrections Allowed!",
+        "af": "[AF] Alley Docking: Max 2 Forward Corrections Allowed!",
+        "xh": "[XH] Alley Docking: Max 2 Forward Corrections Allowed!",
+        "zu": "[ZU] Alley Docking: Max 2 Forward Corrections Allowed!",
+        "st": "[ST] Alley Docking: Max 2 Forward Corrections Allowed!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the maximum overall length permitted for a rigid heavy goods vehicle on a public road?",
+        "af": "[AF] What is the maximum overall length permitted for a rigid heavy goods vehicle on a public road?",
+        "xh": "[XH] What is the maximum overall length permitted for a rigid heavy goods vehicle on a public road?",
+        "zu": "[ZU] What is the maximum overall length permitted for a rigid heavy goods vehicle on a public road?",
+        "st": "[ST] What is the maximum overall length permitted for a rigid heavy goods vehicle on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 12.5 metres.",
+          "B": "B) 15.0 metres.",
+          "C": "C) 18.5 metres."
+        },
+        "af": {
+          "A": "[AF] A) 12.5 metres.",
+          "B": "[AF] B) 15.0 metres.",
+          "C": "[AF] C) 18.5 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 12.5 metres.",
+          "B": "[XH] B) 15.0 metres.",
+          "C": "[XH] C) 18.5 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 12.5 metres.",
+          "B": "[ZU] B) 15.0 metres.",
+          "C": "[ZU] C) 18.5 metres."
+        },
+        "st": {
+          "A": "[ST] A) 12.5 metres.",
+          "B": "[ST] B) 15.0 metres.",
+          "C": "[ST] C) 18.5 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).",
+        "af": "[AF] A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).",
+        "xh": "[XH] A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).",
+        "zu": "[ZU] A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).",
+        "st": "[ST] A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations)."
+      },
+      "media": {
+        "graphic_type": "length_limit_15m",
+        "image_file": "length_limit_15m.png",
+        "video_simulation_prompt": "3D Animation: Rigid truck length dimension line showing 12.5m bumper-to-bumper limit."
+      },
+      "memory_tricks": {
+        "en": "Rigid Truck Max Length: 12.5m Rigid vs 18.5m Combination!",
+        "af": "[AF] Rigid Truck Max Length: 12.5m Rigid vs 18.5m Combination!",
+        "xh": "[XH] Rigid Truck Max Length: 12.5m Rigid vs 18.5m Combination!",
+        "zu": "[ZU] Rigid Truck Max Length: 12.5m Rigid vs 18.5m Combination!",
+        "st": "[ST] Rigid Truck Max Length: 12.5m Rigid vs 18.5m Combination!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "During Module 1 interior pre-trip inspection, how long must air pressure hold steady without dropping after switching off the engine with brakes applied?",
+        "af": "[AF] During Module 1 interior pre-trip inspection, how long must air pressure hold steady without dropping after switching off the engine with brakes applied?",
+        "xh": "[XH] During Module 1 interior pre-trip inspection, how long must air pressure hold steady without dropping after switching off the engine with brakes applied?",
+        "zu": "[ZU] During Module 1 interior pre-trip inspection, how long must air pressure hold steady without dropping after switching off the engine with brakes applied?",
+        "st": "[ST] During Module 1 interior pre-trip inspection, how long must air pressure hold steady without dropping after switching off the engine with brakes applied?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Air pressure must remain stable without audible leaks for at least 1 minute.",
+          "B": "B) 5 minutes.",
+          "C": "C) 10 seconds."
+        },
+        "af": {
+          "A": "[AF] A) Air pressure must remain stable without audible leaks for at least 1 minute.",
+          "B": "[AF] B) 5 minutes.",
+          "C": "[AF] C) 10 seconds."
+        },
+        "xh": {
+          "A": "[XH] A) Air pressure must remain stable without audible leaks for at least 1 minute.",
+          "B": "[XH] B) 5 minutes.",
+          "C": "[XH] C) 10 seconds."
+        },
+        "zu": {
+          "A": "[ZU] A) Air pressure must remain stable without audible leaks for at least 1 minute.",
+          "B": "[ZU] B) 5 minutes.",
+          "C": "[ZU] C) 10 seconds."
+        },
+        "st": {
+          "A": "[ST] A) Air pressure must remain stable without audible leaks for at least 1 minute.",
+          "B": "[ST] B) 5 minutes.",
+          "C": "[ST] C) 10 seconds."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.",
+        "af": "[AF] Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.",
+        "xh": "[XH] Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.",
+        "zu": "[ZU] Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.",
+        "st": "[ST] Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Stopwatch timing 1-minute steady air gauge needle during leak check."
+      },
+      "memory_tricks": {
+        "en": "Air Leak Test: Hold steady for 1 MINUTE!",
+        "af": "[AF] Air Leak Test: Hold steady for 1 MINUTE!",
+        "xh": "[XH] Air Leak Test: Hold steady for 1 MINUTE!",
+        "zu": "[ZU] Air Leak Test: Hold steady for 1 MINUTE!",
+        "st": "[ST] Air Leak Test: Hold steady for 1 MINUTE!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What warning device must be placed on a load projecting more than 1.2m beyond the rear of a heavy goods vehicle at night?",
+        "af": "[AF] What warning device must be placed on a load projecting more than 1.2m beyond the rear of a heavy goods vehicle at night?",
+        "xh": "[XH] What warning device must be placed on a load projecting more than 1.2m beyond the rear of a heavy goods vehicle at night?",
+        "zu": "[ZU] What warning device must be placed on a load projecting more than 1.2m beyond the rear of a heavy goods vehicle at night?",
+        "st": "[ST] What warning device must be placed on a load projecting more than 1.2m beyond the rear of a heavy goods vehicle at night?"
+      },
+      "options": {
+        "en": {
+          "A": "A) A red light visible from at least 150 metres to the rear.",
+          "B": "B) A yellow flag.",
+          "C": "C) White reflective tape only."
+        },
+        "af": {
+          "A": "[AF] A) A red light visible from at least 150 metres to the rear.",
+          "B": "[AF] B) A yellow flag.",
+          "C": "[AF] C) White reflective tape only."
+        },
+        "xh": {
+          "A": "[XH] A) A red light visible from at least 150 metres to the rear.",
+          "B": "[XH] B) A yellow flag.",
+          "C": "[XH] C) White reflective tape only."
+        },
+        "zu": {
+          "A": "[ZU] A) A red light visible from at least 150 metres to the rear.",
+          "B": "[ZU] B) A yellow flag.",
+          "C": "[ZU] C) White reflective tape only."
+        },
+        "st": {
+          "A": "[ST] A) A red light visible from at least 150 metres to the rear.",
+          "B": "[ST] B) A yellow flag.",
+          "C": "[ST] C) White reflective tape only."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Nighttime rearward projections over 1.2m require a red light visible from at least 150m.",
+        "af": "[AF] Nighttime rearward projections over 1.2m require a red light visible from at least 150m.",
+        "xh": "[XH] Nighttime rearward projections over 1.2m require a red light visible from at least 150m.",
+        "zu": "[ZU] Nighttime rearward projections over 1.2m require a red light visible from at least 150m.",
+        "st": "[ST] Nighttime rearward projections over 1.2m require a red light visible from at least 150m."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Night scene of extended rear load with illuminated red light visible 150m away."
+      },
+      "memory_tricks": {
+        "en": "Night Rear Load Light: RED Light visible from 150m!",
+        "af": "[AF] Night Rear Load Light: RED Light visible from 150m!",
+        "xh": "[XH] Night Rear Load Light: RED Light visible from 150m!",
+        "zu": "[ZU] Night Rear Load Light: RED Light visible from 150m!",
+        "st": "[ST] Night Rear Load Light: RED Light visible from 150m!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular sign displaying '8t' over an axle diagram (Sign R203) indicate?",
+        "af": "[AF] What does a circular sign displaying '8t' over an axle diagram (Sign R203) indicate?",
+        "xh": "[XH] What does a circular sign displaying '8t' over an axle diagram (Sign R203) indicate?",
+        "zu": "[ZU] What does a circular sign displaying '8t' over an axle diagram (Sign R203) indicate?",
+        "st": "[ST] What does a circular sign displaying '8t' over an axle diagram (Sign R203) indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Axle mass load limit of 8 tonnes.",
+          "B": "B) Maximum vehicle speed of 80 km/h.",
+          "C": "C) Total vehicle mass limit of 8 tonnes."
+        },
+        "af": {
+          "A": "[AF] A) Axle mass load limit of 8 tonnes.",
+          "B": "[AF] B) Maximum vehicle speed of 80 km/h.",
+          "C": "[AF] C) Total vehicle mass limit of 8 tonnes."
+        },
+        "xh": {
+          "A": "[XH] A) Axle mass load limit of 8 tonnes.",
+          "B": "[XH] B) Maximum vehicle speed of 80 km/h.",
+          "C": "[XH] C) Total vehicle mass limit of 8 tonnes."
+        },
+        "zu": {
+          "A": "[ZU] A) Axle mass load limit of 8 tonnes.",
+          "B": "[ZU] B) Maximum vehicle speed of 80 km/h.",
+          "C": "[ZU] C) Total vehicle mass limit of 8 tonnes."
+        },
+        "st": {
+          "A": "[ST] A) Axle mass load limit of 8 tonnes.",
+          "B": "[ST] B) Maximum vehicle speed of 80 km/h.",
+          "C": "[ST] C) Total vehicle mass limit of 8 tonnes."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.",
+        "af": "[AF] Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.",
+        "xh": "[XH] Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.",
+        "zu": "[ZU] Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.",
+        "st": "[ST] Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes."
+      },
+      "media": {
+        "graphic_type": "axle_mass_limit",
+        "image_file": "axle_mass_limit.png",
+        "video_simulation_prompt": "3D Animation: Truck axle rolling onto weighbridge plate under 8t axle limit sign."
+      },
+      "memory_tricks": {
+        "en": "Axle Sign = MAX AXLE LOAD LIMIT!",
+        "af": "[AF] Axle Sign = MAX AXLE LOAD LIMIT!",
+        "xh": "[XH] Axle Sign = MAX AXLE LOAD LIMIT!",
+        "zu": "[ZU] Axle Sign = MAX AXLE LOAD LIMIT!",
+        "st": "[ST] Axle Sign = MAX AXLE LOAD LIMIT!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "What is the function of the trailer brake control lever (trolley valve / trailer supply valve) in a Code EC combination?",
+        "af": "[AF] What is the function of the trailer brake control lever (trolley valve / trailer supply valve) in a Code EC combination?",
+        "xh": "[XH] What is the function of the trailer brake control lever (trolley valve / trailer supply valve) in a Code EC combination?",
+        "zu": "[ZU] What is the function of the trailer brake control lever (trolley valve / trailer supply valve) in a Code EC combination?",
+        "st": "[ST] What is the function of the trailer brake control lever (trolley valve / trailer supply valve) in a Code EC combination?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Applies trailer air brakes independently from truck tractor brakes.",
+          "B": "B) Releases trailer parking spring brakes.",
+          "C": "C) Adjusts engine exhaust brake."
+        },
+        "af": {
+          "A": "[AF] A) Applies trailer air brakes independently from truck tractor brakes.",
+          "B": "[AF] B) Releases trailer parking spring brakes.",
+          "C": "[AF] C) Adjusts engine exhaust brake."
+        },
+        "xh": {
+          "A": "[XH] A) Applies trailer air brakes independently from truck tractor brakes.",
+          "B": "[XH] B) Releases trailer parking spring brakes.",
+          "C": "[XH] C) Adjusts engine exhaust brake."
+        },
+        "zu": {
+          "A": "[ZU] A) Applies trailer air brakes independently from truck tractor brakes.",
+          "B": "[ZU] B) Releases trailer parking spring brakes.",
+          "C": "[ZU] C) Adjusts engine exhaust brake."
+        },
+        "st": {
+          "A": "[ST] A) Applies trailer air brakes independently from truck tractor brakes.",
+          "B": "[ST] B) Releases trailer parking spring brakes.",
+          "C": "[ST] C) Adjusts engine exhaust brake."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The trailer brake control valve operates trailer brakes independently to prevent jackknifing.",
+        "af": "[AF] The trailer brake control valve operates trailer brakes independently to prevent jackknifing.",
+        "xh": "[XH] The trailer brake control valve operates trailer brakes independently to prevent jackknifing.",
+        "zu": "[ZU] The trailer brake control valve operates trailer brakes independently to prevent jackknifing.",
+        "st": "[ST] The trailer brake control valve operates trailer brakes independently to prevent jackknifing."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Hand activating trolley valve lever in truck cab while trailer brakes engage."
+      },
+      "memory_tricks": {
+        "en": "Trolley Valve = Independent Trailer Brakes!",
+        "af": "[AF] Trolley Valve = Independent Trailer Brakes!",
+        "xh": "[XH] Trolley Valve = Independent Trailer Brakes!",
+        "zu": "[ZU] Trolley Valve = Independent Trailer Brakes!",
+        "st": "[ST] Trolley Valve = Independent Trailer Brakes!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the maximum overall length permitted for an articulated vehicle combination (truck-tractor + semi-trailer)?",
+        "af": "[AF] What is the maximum overall length permitted for an articulated vehicle combination (truck-tractor + semi-trailer)?",
+        "xh": "[XH] What is the maximum overall length permitted for an articulated vehicle combination (truck-tractor + semi-trailer)?",
+        "zu": "[ZU] What is the maximum overall length permitted for an articulated vehicle combination (truck-tractor + semi-trailer)?",
+        "st": "[ST] What is the maximum overall length permitted for an articulated vehicle combination (truck-tractor + semi-trailer)?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 18.5 metres.",
+          "B": "B) 15.0 metres.",
+          "C": "C) 22.0 metres."
+        },
+        "af": {
+          "A": "[AF] A) 18.5 metres.",
+          "B": "[AF] B) 15.0 metres.",
+          "C": "[AF] C) 22.0 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 18.5 metres.",
+          "B": "[XH] B) 15.0 metres.",
+          "C": "[XH] C) 22.0 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 18.5 metres.",
+          "B": "[ZU] B) 15.0 metres.",
+          "C": "[ZU] C) 22.0 metres."
+        },
+        "st": {
+          "A": "[ST] A) 18.5 metres.",
+          "B": "[ST] B) 15.0 metres.",
+          "C": "[ST] C) 22.0 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.",
+        "af": "[AF] Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.",
+        "xh": "[XH] Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.",
+        "zu": "[ZU] Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.",
+        "st": "[ST] Articulated vehicle combinations have a maximum legal length limit of 18.5 metres."
+      },
+      "media": {
+        "graphic_type": "length_limit_15m",
+        "image_file": "length_limit_15m.png",
+        "video_simulation_prompt": "3D Animation: Dimension arrow across articulated interlink showing 18.5m max combination length."
+      },
+      "memory_tricks": {
+        "en": "Combination Length: 18.5 Metres Max!",
+        "af": "[AF] Combination Length: 18.5 Metres Max!",
+        "xh": "[XH] Combination Length: 18.5 Metres Max!",
+        "zu": "[ZU] Combination Length: 18.5 Metres Max!",
+        "st": "[ST] Combination Length: 18.5 Metres Max!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a rectangular brown sign featuring a camera over a traffic light (Sign IN25) warn drivers of?",
+        "af": "[AF] What does a rectangular brown sign featuring a camera over a traffic light (Sign IN25) warn drivers of?",
+        "xh": "[XH] What does a rectangular brown sign featuring a camera over a traffic light (Sign IN25) warn drivers of?",
+        "zu": "[ZU] What does a rectangular brown sign featuring a camera over a traffic light (Sign IN25) warn drivers of?",
+        "st": "[ST] What does a rectangular brown sign featuring a camera over a traffic light (Sign IN25) warn drivers of?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Automated traffic light and speed photo enforcement camera at intersection.",
+          "B": "B) Television studio ahead.",
+          "C": "C) Traffic light maintenance depot."
+        },
+        "af": {
+          "A": "[AF] A) Automated traffic light and speed photo enforcement camera at intersection.",
+          "B": "[AF] B) Television studio ahead.",
+          "C": "[AF] C) Traffic light maintenance depot."
+        },
+        "xh": {
+          "A": "[XH] A) Automated traffic light and speed photo enforcement camera at intersection.",
+          "B": "[XH] B) Television studio ahead.",
+          "C": "[XH] C) Traffic light maintenance depot."
+        },
+        "zu": {
+          "A": "[ZU] A) Automated traffic light and speed photo enforcement camera at intersection.",
+          "B": "[ZU] B) Television studio ahead.",
+          "C": "[ZU] C) Traffic light maintenance depot."
+        },
+        "st": {
+          "A": "[ST] A) Automated traffic light and speed photo enforcement camera at intersection.",
+          "B": "[ST] B) Television studio ahead.",
+          "C": "[ST] C) Traffic light maintenance depot."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.",
+        "af": "[AF] Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.",
+        "xh": "[XH] Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.",
+        "zu": "[ZU] Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.",
+        "st": "[ST] Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras."
+      },
+      "media": {
+        "graphic_type": "camera_traffic_light",
+        "image_file": "camera_traffic_light.png",
+        "video_simulation_prompt": "3D Animation: Camera flashing as vehicle passes through red light camera intersection."
+      },
+      "memory_tricks": {
+        "en": "Camera + Robot = Automated Photo Enforcement!",
+        "af": "[AF] Camera + Robot = Automated Photo Enforcement!",
+        "xh": "[XH] Camera + Robot = Automated Photo Enforcement!",
+        "zu": "[ZU] Camera + Robot = Automated Photo Enforcement!",
+        "st": "[ST] Camera + Robot = Automated Photo Enforcement!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "code_id": "code3_heavy_vehicle",
+      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "What check must be performed on the fifth wheel coupling during Module 2 exterior pre-trip inspection?",
+        "af": "[AF] What check must be performed on the fifth wheel coupling during Module 2 exterior pre-trip inspection?",
+        "xh": "[XH] What check must be performed on the fifth wheel coupling during Module 2 exterior pre-trip inspection?",
+        "zu": "[ZU] What check must be performed on the fifth wheel coupling during Module 2 exterior pre-trip inspection?",
+        "st": "[ST] What check must be performed on the fifth wheel coupling during Module 2 exterior pre-trip inspection?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Verify locking jaw is fully engaged around kingpin, safety latch locked, and no gap between plate and apron.",
+          "B": "B) Check tire pressure.",
+          "C": "C) Check windshield wiper blades."
+        },
+        "af": {
+          "A": "[AF] A) Verify locking jaw is fully engaged around kingpin, safety latch locked, and no gap between plate and apron.",
+          "B": "[AF] B) Check tire pressure.",
+          "C": "[AF] C) Check windshield wiper blades."
+        },
+        "xh": {
+          "A": "[XH] A) Verify locking jaw is fully engaged around kingpin, safety latch locked, and no gap between plate and apron.",
+          "B": "[XH] B) Check tire pressure.",
+          "C": "[XH] C) Check windshield wiper blades."
+        },
+        "zu": {
+          "A": "[ZU] A) Verify locking jaw is fully engaged around kingpin, safety latch locked, and no gap between plate and apron.",
+          "B": "[ZU] B) Check tire pressure.",
+          "C": "[ZU] C) Check windshield wiper blades."
+        },
+        "st": {
+          "A": "[ST] A) Verify locking jaw is fully engaged around kingpin, safety latch locked, and no gap between plate and apron.",
+          "B": "[ST] B) Check tire pressure.",
+          "C": "[ST] C) Check windshield wiper blades."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.",
+        "af": "[AF] Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.",
+        "xh": "[XH] Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.",
+        "zu": "[ZU] Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.",
+        "st": "[ST] Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation: Close-up of fifth wheel coupling checking kingpin lock jaw and safety release handle."
+      },
+      "memory_tricks": {
+        "en": "Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!",
+        "af": "[AF] Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!",
+        "xh": "[XH] Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!",
+        "zu": "[ZU] Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!",
+        "st": "[ST] Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. O o sireletsa jwang?"
+        }
+      }
+    }
+  ]
+}

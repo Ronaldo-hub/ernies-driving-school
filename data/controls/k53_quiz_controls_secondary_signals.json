@@ -1,0 +1,94 @@
+{
+  "sub_category_id": "controls_secondary_signals",
+  "sub_category_name": "Secondary Controls, Signaling & Mirrors",
+  "main_category": "Controls of the Vehicle",
+  "total_questions": 1,
+  "questions": [
+    {
+      "id": 58,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_secondary_signals",
+      "sub_category_name": "Secondary Controls, Signaling & Mirrors",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "How frequently should a driver check rear-view and exterior mirrors while driving a heavy vehicle?",
+        "af": "[AF] How frequently should a driver check rear-view and exterior mirrors while driving a heavy vehicle?",
+        "xh": "[XH] How frequently should a driver check rear-view and exterior mirrors while driving a heavy vehicle?",
+        "zu": "[ZU] How frequently should a driver check rear-view and exterior mirrors while driving a heavy vehicle?",
+        "st": "[ST] How frequently should a driver check rear-view and exterior mirrors while driving a heavy vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "Once every 5 minutes.",
+          "B": "Approximately every 5 to 8 seconds, and before any manoeuvre.",
+          "C": "Only when coming to a complete stop."
+        },
+        "af": {
+          "A": "[AF] Once every 5 minutes.",
+          "B": "[AF] Approximately every 5 to 8 seconds, and before any manoeuvre.",
+          "C": "[AF] Only when coming to a complete stop."
+        },
+        "xh": {
+          "A": "[XH] Once every 5 minutes.",
+          "B": "[XH] Approximately every 5 to 8 seconds, and before any manoeuvre.",
+          "C": "[XH] Only when coming to a complete stop."
+        },
+        "zu": {
+          "A": "[ZU] Once every 5 minutes.",
+          "B": "[ZU] Approximately every 5 to 8 seconds, and before any manoeuvre.",
+          "C": "[ZU] Only when coming to a complete stop."
+        },
+        "st": {
+          "A": "[ST] Once every 5 minutes.",
+          "B": "[ST] Approximately every 5 to 8 seconds, and before any manoeuvre.",
+          "C": "[ST] Only when coming to a complete stop."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.",
+        "af": "[AF] Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.",
+        "xh": "[XH] Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.",
+        "zu": "[ZU] Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.",
+        "st": "[ST] Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Check rear-view and side mirrors every 5 to 8 seconds to maintain full situational awareness around your heavy vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    }
+  ]
+}

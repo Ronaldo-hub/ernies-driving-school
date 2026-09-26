@@ -1,0 +1,2284 @@
+{
+  "sub_category_id": "rules_towing_cargo",
+  "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+  "main_category": "Rules of the Road",
+  "total_questions": 26,
+  "questions": [
+    {
+      "id": 2,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "An SABS approved number plate shall be affixed...",
+        "af": "[AF] An SABS approved number plate shall be affixed...",
+        "xh": "[XH] An SABS approved number plate shall be affixed...",
+        "zu": "[ZU] An SABS approved number plate shall be affixed...",
+        "st": "[ST] An SABS approved number plate shall be affixed..."
+      },
+      "options": {
+        "en": {
+          "A": "A. In an upright position or within 30 degrees.",
+          "B": "B. In such a manner that it is not easily detachable.",
+          "C": "C. All of the above."
+        },
+        "af": {
+          "A": "[AF] A. In an upright position or within 30 degrees.",
+          "B": "[AF] B. In such a manner that it is not easily detachable.",
+          "C": "[AF] C. All of the above."
+        },
+        "xh": {
+          "A": "[XH] A. In an upright position or within 30 degrees.",
+          "B": "[XH] B. In such a manner that it is not easily detachable.",
+          "C": "[XH] C. All of the above."
+        },
+        "zu": {
+          "A": "[ZU] A. In an upright position or within 30 degrees.",
+          "B": "[ZU] B. In such a manner that it is not easily detachable.",
+          "C": "[ZU] C. All of the above."
+        },
+        "st": {
+          "A": "[ST] A. In an upright position or within 30 degrees.",
+          "B": "[ST] B. In such a manner that it is not easily detachable.",
+          "C": "[ST] C. All of the above."
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Number plates must be securely attached upright or within 30 degrees of vertical.",
+        "af": "[AF] Number plates must be securely attached upright or within 30 degrees of vertical.",
+        "xh": "[XH] Number plates must be securely attached upright or within 30 degrees of vertical.",
+        "zu": "[ZU] Number plates must be securely attached upright or within 30 degrees of vertical.",
+        "st": "[ST] Number plates must be securely attached upright or within 30 degrees of vertical."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'An SABS approved number plate shall be affixed......'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Number plates must be securely attached upright or within 30 degrees of vertical.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Number plates must be securely attached upright or within 30 degrees of vertical.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Number plates must be securely attached upright or within 30 degrees of vertical.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Number plates must be securely attached upright or within 30 degrees of vertical.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Number plates must be securely attached upright or within 30 degrees of vertical.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Number plates must be securely attached upright or within 30 degrees of vertical. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Number plates must be securely attached upright or within 30 degrees of vertical. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Number plates must be securely attached upright or within 30 degrees of vertical. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Number plates must be securely attached upright or within 30 degrees of vertical. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Number plates must be securely attached upright or within 30 degrees of vertical. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Number plates must be securely attached upright or within 30 degrees of vertical. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Number plates must be securely attached upright or within 30 degrees of vertical. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Number plates must be securely attached upright or within 30 degrees of vertical. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Number plates must be securely attached upright or within 30 degrees of vertical. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Number plates must be securely attached upright or within 30 degrees of vertical. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "How many windscreen wipers must light and heavy motor vehicles have?",
+        "af": "[AF] How many windscreen wipers must light and heavy motor vehicles have?",
+        "xh": "[XH] How many windscreen wipers must light and heavy motor vehicles have?",
+        "zu": "[ZU] How many windscreen wipers must light and heavy motor vehicles have?",
+        "st": "[ST] How many windscreen wipers must light and heavy motor vehicles have?"
+      },
+      "options": {
+        "en": {
+          "A": "A. Two windscreen wipers, to clean the entire windscreen.",
+          "B": "B. At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "C": "C. Three windscreen wipers."
+        },
+        "af": {
+          "A": "[AF] A. Two windscreen wipers, to clean the entire windscreen.",
+          "B": "[AF] B. At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "C": "[AF] C. Three windscreen wipers."
+        },
+        "xh": {
+          "A": "[XH] A. Two windscreen wipers, to clean the entire windscreen.",
+          "B": "[XH] B. At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "C": "[XH] C. Three windscreen wipers."
+        },
+        "zu": {
+          "A": "[ZU] A. Two windscreen wipers, to clean the entire windscreen.",
+          "B": "[ZU] B. At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "C": "[ZU] C. Three windscreen wipers."
+        },
+        "st": {
+          "A": "[ST] A. Two windscreen wipers, to clean the entire windscreen.",
+          "B": "[ST] B. At least one windscreen wiper, to wipe the windscreen directly in front of the driver.",
+          "C": "[ST] C. Three windscreen wipers."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Vehicles must have at least one working wiper in front of the driver.",
+        "af": "[AF] Vehicles must have at least one working wiper in front of the driver.",
+        "xh": "[XH] Vehicles must have at least one working wiper in front of the driver.",
+        "zu": "[ZU] Vehicles must have at least one working wiper in front of the driver.",
+        "st": "[ST] Vehicles must have at least one working wiper in front of the driver."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'How many windscreen wipers must light and heavy motor vehicl...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Vehicles must have at least one working wiper in front of the driver.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Vehicles must have at least one working wiper in front of the driver.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Vehicles must have at least one working wiper in front of the driver.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Vehicles must have at least one working wiper in front of the driver.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Vehicles must have at least one working wiper in front of the driver.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Vehicles must have at least one working wiper in front of the driver. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Vehicles must have at least one working wiper in front of the driver. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Vehicles must have at least one working wiper in front of the driver. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Vehicles must have at least one working wiper in front of the driver. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Vehicles must have at least one working wiper in front of the driver. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Vehicles must have at least one working wiper in front of the driver. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Vehicles must have at least one working wiper in front of the driver. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Vehicles must have at least one working wiper in front of the driver. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Vehicles must have at least one working wiper in front of the driver. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Vehicles must have at least one working wiper in front of the driver. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "When towing a vehicle with a tow-rope, if the distance between vehicles exceeds 1.8 metres, how must the rope be marked?",
+        "af": "[AF] When towing a vehicle with a tow-rope, if the distance between vehicles exceeds 1.8 metres, how must the rope be marked?",
+        "xh": "[XH] When towing a vehicle with a tow-rope, if the distance between vehicles exceeds 1.8 metres, how must the rope be marked?",
+        "zu": "[ZU] When towing a vehicle with a tow-rope, if the distance between vehicles exceeds 1.8 metres, how must the rope be marked?",
+        "st": "[ST] When towing a vehicle with a tow-rope, if the distance between vehicles exceeds 1.8 metres, how must the rope be marked?"
+      },
+      "options": {
+        "en": {
+          "A": "A) With a red flag attached to the middle.",
+          "B": "B) With white tape.",
+          "C": "C) No marking is required."
+        },
+        "af": {
+          "A": "[AF] A) With a red flag attached to the middle.",
+          "B": "[AF] B) With white tape.",
+          "C": "[AF] C) No marking is required."
+        },
+        "xh": {
+          "A": "[XH] A) With a red flag attached to the middle.",
+          "B": "[XH] B) With white tape.",
+          "C": "[XH] C) No marking is required."
+        },
+        "zu": {
+          "A": "[ZU] A) With a red flag attached to the middle.",
+          "B": "[ZU] B) With white tape.",
+          "C": "[ZU] C) No marking is required."
+        },
+        "st": {
+          "A": "[ST] A) With a red flag attached to the middle.",
+          "B": "[ST] B) With white tape.",
+          "C": "[ST] C) No marking is required."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.",
+        "af": "[AF] If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.",
+        "xh": "[XH] If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.",
+        "zu": "[ZU] If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.",
+        "st": "[ST] If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'When towing a vehicle with a tow-rope, if the distance betwe...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: If the distance between towing and towed vehicles exceeds 1.8 m, the tow-rope must be clearly marked with a red flag. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum distance a load may project beyond the rear of a goods vehicle without requiring a red warning flag?",
+        "af": "[AF] What is the maximum distance a load may project beyond the rear of a goods vehicle without requiring a red warning flag?",
+        "xh": "[XH] What is the maximum distance a load may project beyond the rear of a goods vehicle without requiring a red warning flag?",
+        "zu": "[ZU] What is the maximum distance a load may project beyond the rear of a goods vehicle without requiring a red warning flag?",
+        "st": "[ST] What is the maximum distance a load may project beyond the rear of a goods vehicle without requiring a red warning flag?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 1.0 metre.",
+          "B": "B) 1.8 metres.",
+          "C": "C) 2.5 metres."
+        },
+        "af": {
+          "A": "[AF] A) 1.0 metre.",
+          "B": "[AF] B) 1.8 metres.",
+          "C": "[AF] C) 2.5 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 1.0 metre.",
+          "B": "[XH] B) 1.8 metres.",
+          "C": "[XH] C) 2.5 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 1.0 metre.",
+          "B": "[ZU] B) 1.8 metres.",
+          "C": "[ZU] C) 2.5 metres."
+        },
+        "st": {
+          "A": "[ST] A) 1.0 metre.",
+          "B": "[ST] B) 1.8 metres.",
+          "C": "[ST] C) 2.5 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.",
+        "af": "[AF] Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.",
+        "xh": "[XH] Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.",
+        "zu": "[ZU] Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.",
+        "st": "[ST] Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum distance a load may project beyond the r...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Loads projecting more than 1.0 m beyond the rear of a vehicle must be marked with a red flag by day or red light/reflector by night. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum legal length allowed for a tow connection between two vehicles?",
+        "af": "[AF] What is the maximum legal length allowed for a tow connection between two vehicles?",
+        "xh": "[XH] What is the maximum legal length allowed for a tow connection between two vehicles?",
+        "zu": "[ZU] What is the maximum legal length allowed for a tow connection between two vehicles?",
+        "st": "[ST] What is the maximum legal length allowed for a tow connection between two vehicles?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 3.5 metres.",
+          "B": "B) 2.5 metres.",
+          "C": "C) 1.8 metres."
+        },
+        "af": {
+          "A": "[AF] A) 3.5 metres.",
+          "B": "[AF] B) 2.5 metres.",
+          "C": "[AF] C) 1.8 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 3.5 metres.",
+          "B": "[XH] B) 2.5 metres.",
+          "C": "[XH] C) 1.8 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 3.5 metres.",
+          "B": "[ZU] B) 2.5 metres.",
+          "C": "[ZU] C) 1.8 metres."
+        },
+        "st": {
+          "A": "[ST] A) 3.5 metres.",
+          "B": "[ST] B) 2.5 metres.",
+          "C": "[ST] C) 1.8 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The maximum distance between towing and towed vehicles is 3.5 metres.",
+        "af": "[AF] The maximum distance between towing and towed vehicles is 3.5 metres.",
+        "xh": "[XH] The maximum distance between towing and towed vehicles is 3.5 metres.",
+        "zu": "[ZU] The maximum distance between towing and towed vehicles is 3.5 metres.",
+        "st": "[ST] The maximum distance between towing and towed vehicles is 3.5 metres."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum legal length allowed for a tow connectio...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The maximum distance between towing and towed vehicles is 3.5 metres.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The maximum distance between towing and towed vehicles is 3.5 metres.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The maximum distance between towing and towed vehicles is 3.5 metres.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The maximum distance between towing and towed vehicles is 3.5 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The maximum distance between towing and towed vehicles is 3.5 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The maximum distance between towing and towed vehicles is 3.5 metres. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The maximum distance between towing and towed vehicles is 3.5 metres. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The maximum distance between towing and towed vehicles is 3.5 metres. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The maximum distance between towing and towed vehicles is 3.5 metres. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The maximum distance between towing and towed vehicles is 3.5 metres. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The maximum distance between towing and towed vehicles is 3.5 metres. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The maximum distance between towing and towed vehicles is 3.5 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The maximum distance between towing and towed vehicles is 3.5 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The maximum distance between towing and towed vehicles is 3.5 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The maximum distance between towing and towed vehicles is 3.5 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What distance must a warning flag or red light be visible when placed on a load projecting beyond the rear of a vehicle?",
+        "af": "[AF] What distance must a warning flag or red light be visible when placed on a load projecting beyond the rear of a vehicle?",
+        "xh": "[XH] What distance must a warning flag or red light be visible when placed on a load projecting beyond the rear of a vehicle?",
+        "zu": "[ZU] What distance must a warning flag or red light be visible when placed on a load projecting beyond the rear of a vehicle?",
+        "st": "[ST] What distance must a warning flag or red light be visible when placed on a load projecting beyond the rear of a vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Visible from at least 150 metres in clear weather.",
+          "B": "B) Visible from 50 metres.",
+          "C": "C) Visible from 300 metres."
+        },
+        "af": {
+          "A": "[AF] A) Visible from at least 150 metres in clear weather.",
+          "B": "[AF] B) Visible from 50 metres.",
+          "C": "[AF] C) Visible from 300 metres."
+        },
+        "xh": {
+          "A": "[XH] A) Visible from at least 150 metres in clear weather.",
+          "B": "[XH] B) Visible from 50 metres.",
+          "C": "[XH] C) Visible from 300 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) Visible from at least 150 metres in clear weather.",
+          "B": "[ZU] B) Visible from 50 metres.",
+          "C": "[ZU] C) Visible from 300 metres."
+        },
+        "st": {
+          "A": "[ST] A) Visible from at least 150 metres in clear weather.",
+          "B": "[ST] B) Visible from 50 metres.",
+          "C": "[ST] C) Visible from 300 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.",
+        "af": "[AF] Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.",
+        "xh": "[XH] Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.",
+        "zu": "[ZU] Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.",
+        "st": "[ST] Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What distance must a warning flag or red light be visible wh...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Warning flags or lights attached to projecting loads must be clearly visible to approaching traffic from at least 150 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "The load carried by a vehicle should not project more than...",
+        "af": "[AF] The load carried by a vehicle should not project more than...",
+        "xh": "[XH] The load carried by a vehicle should not project more than...",
+        "zu": "[ZU] The load carried by a vehicle should not project more than...",
+        "st": "[ST] The load carried by a vehicle should not project more than..."
+      },
+      "options": {
+        "en": {
+          "A": "A. 100 millimetres to the front.",
+          "B": "B. 300 millimetres to the front.",
+          "C": "C. 500 millimetres to the front."
+        },
+        "af": {
+          "A": "[AF] A. 100 millimetres to the front.",
+          "B": "[AF] B. 300 millimetres to the front.",
+          "C": "[AF] C. 500 millimetres to the front."
+        },
+        "xh": {
+          "A": "[XH] A. 100 millimetres to the front.",
+          "B": "[XH] B. 300 millimetres to the front.",
+          "C": "[XH] C. 500 millimetres to the front."
+        },
+        "zu": {
+          "A": "[ZU] A. 100 millimetres to the front.",
+          "B": "[ZU] B. 300 millimetres to the front.",
+          "C": "[ZU] C. 500 millimetres to the front."
+        },
+        "st": {
+          "A": "[ST] A. 100 millimetres to the front.",
+          "B": "[ST] B. 300 millimetres to the front.",
+          "C": "[ST] C. 500 millimetres to the front."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Front load projection is restricted to a maximum of 300 mm without special flags/permits.",
+        "af": "[AF] Front load projection is restricted to a maximum of 300 mm without special flags/permits.",
+        "xh": "[XH] Front load projection is restricted to a maximum of 300 mm without special flags/permits.",
+        "zu": "[ZU] Front load projection is restricted to a maximum of 300 mm without special flags/permits.",
+        "st": "[ST] Front load projection is restricted to a maximum of 300 mm without special flags/permits."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'The load carried by a vehicle should not project more than.....'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Front load projection is restricted to a maximum of 300 mm without special flags/permits.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Front load projection is restricted to a maximum of 300 mm without special flags/permits.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Front load projection is restricted to a maximum of 300 mm without special flags/permits.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Front load projection is restricted to a maximum of 300 mm without special flags/permits.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Front load projection is restricted to a maximum of 300 mm without special flags/permits.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Front load projection is restricted to a maximum of 300 mm without special flags/permits. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Front load projection is restricted to a maximum of 300 mm without special flags/permits. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 68,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Are passengers permitted to ride on the roof or bodywork of a moving truck?",
+        "af": "[AF] Are passengers permitted to ride on the roof or bodywork of a moving truck?",
+        "xh": "[XH] Are passengers permitted to ride on the roof or bodywork of a moving truck?",
+        "zu": "[ZU] Are passengers permitted to ride on the roof or bodywork of a moving truck?",
+        "st": "[ST] Are passengers permitted to ride on the roof or bodywork of a moving truck?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Never; it is strictly prohibited.",
+          "B": "B) Allowed in urban areas.",
+          "C": "C) Allowed below 40 km/h."
+        },
+        "af": {
+          "A": "[AF] A) Never; it is strictly prohibited.",
+          "B": "[AF] B) Allowed in urban areas.",
+          "C": "[AF] C) Allowed below 40 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) Never; it is strictly prohibited.",
+          "B": "[XH] B) Allowed in urban areas.",
+          "C": "[XH] C) Allowed below 40 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) Never; it is strictly prohibited.",
+          "B": "[ZU] B) Allowed in urban areas.",
+          "C": "[ZU] C) Allowed below 40 km/h."
+        },
+        "st": {
+          "A": "[ST] A) Never; it is strictly prohibited.",
+          "B": "[ST] B) Allowed in urban areas.",
+          "C": "[ST] C) Allowed below 40 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Riding on the roof or exterior bodywork of a moving vehicle is illegal.",
+        "af": "[AF] Riding on the roof or exterior bodywork of a moving vehicle is illegal.",
+        "xh": "[XH] Riding on the roof or exterior bodywork of a moving vehicle is illegal.",
+        "zu": "[ZU] Riding on the roof or exterior bodywork of a moving vehicle is illegal.",
+        "st": "[ST] Riding on the roof or exterior bodywork of a moving vehicle is illegal."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Are passengers permitted to ride on the roof or bodywork of ...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Riding on the roof or exterior bodywork of a moving vehicle is illegal.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Riding on the roof or exterior bodywork of a moving vehicle is illegal.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Riding on the roof or exterior bodywork of a moving vehicle is illegal.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Riding on the roof or exterior bodywork of a moving vehicle is illegal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Riding on the roof or exterior bodywork of a moving vehicle is illegal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Riding on the roof or exterior bodywork of a moving vehicle is illegal. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Riding on the roof or exterior bodywork of a moving vehicle is illegal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 71,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the minimum age required to drive a heavy vehicle carrying passengers for reward (PrDP public transit)?",
+        "af": "[AF] What is the minimum age required to drive a heavy vehicle carrying passengers for reward (PrDP public transit)?",
+        "xh": "[XH] What is the minimum age required to drive a heavy vehicle carrying passengers for reward (PrDP public transit)?",
+        "zu": "[ZU] What is the minimum age required to drive a heavy vehicle carrying passengers for reward (PrDP public transit)?",
+        "st": "[ST] What is the minimum age required to drive a heavy vehicle carrying passengers for reward (PrDP public transit)?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 18 years.",
+          "B": "B) 21 years.",
+          "C": "C) 25 years."
+        },
+        "af": {
+          "A": "[AF] A) 18 years.",
+          "B": "[AF] B) 21 years.",
+          "C": "[AF] C) 25 years."
+        },
+        "xh": {
+          "A": "[XH] A) 18 years.",
+          "B": "[XH] B) 21 years.",
+          "C": "[XH] C) 25 years."
+        },
+        "zu": {
+          "A": "[ZU] A) 18 years.",
+          "B": "[ZU] B) 21 years.",
+          "C": "[ZU] C) 25 years."
+        },
+        "st": {
+          "A": "[ST] A) 18 years.",
+          "B": "[ST] B) 21 years.",
+          "C": "[ST] C) 25 years."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.",
+        "af": "[AF] A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.",
+        "xh": "[XH] A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.",
+        "zu": "[ZU] A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.",
+        "st": "[ST] A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the minimum age required to drive a heavy vehicle ca...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A Professional Driving Permit (PrDP) for passengers requires the driver to be at least 21 years old. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 73,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Who is responsible for ensuring passengers wear seatbelts in a vehicle?",
+        "af": "[AF] Who is responsible for ensuring passengers wear seatbelts in a vehicle?",
+        "xh": "[XH] Who is responsible for ensuring passengers wear seatbelts in a vehicle?",
+        "zu": "[ZU] Who is responsible for ensuring passengers wear seatbelts in a vehicle?",
+        "st": "[ST] Who is responsible for ensuring passengers wear seatbelts in a vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) The driver.",
+          "B": "B) Passengers themselves.",
+          "C": "C) Vehicle owner."
+        },
+        "af": {
+          "A": "[AF] A) The driver.",
+          "B": "[AF] B) Passengers themselves.",
+          "C": "[AF] C) Vehicle owner."
+        },
+        "xh": {
+          "A": "[XH] A) The driver.",
+          "B": "[XH] B) Passengers themselves.",
+          "C": "[XH] C) Vehicle owner."
+        },
+        "zu": {
+          "A": "[ZU] A) The driver.",
+          "B": "[ZU] B) Passengers themselves.",
+          "C": "[ZU] C) Vehicle owner."
+        },
+        "st": {
+          "A": "[ST] A) The driver.",
+          "B": "[ST] B) Passengers themselves.",
+          "C": "[ST] C) Vehicle owner."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The driver is legally responsible for ensuring all occupants wear seatbelts.",
+        "af": "[AF] The driver is legally responsible for ensuring all occupants wear seatbelts.",
+        "xh": "[XH] The driver is legally responsible for ensuring all occupants wear seatbelts.",
+        "zu": "[ZU] The driver is legally responsible for ensuring all occupants wear seatbelts.",
+        "st": "[ST] The driver is legally responsible for ensuring all occupants wear seatbelts."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Who is responsible for ensuring passengers wear seatbelts in...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The driver is legally responsible for ensuring all occupants wear seatbelts.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The driver is legally responsible for ensuring all occupants wear seatbelts.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The driver is legally responsible for ensuring all occupants wear seatbelts.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The driver is legally responsible for ensuring all occupants wear seatbelts.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The driver is legally responsible for ensuring all occupants wear seatbelts.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The driver is legally responsible for ensuring all occupants wear seatbelts. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The driver is legally responsible for ensuring all occupants wear seatbelts. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The driver is legally responsible for ensuring all occupants wear seatbelts. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The driver is legally responsible for ensuring all occupants wear seatbelts. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The driver is legally responsible for ensuring all occupants wear seatbelts. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The driver is legally responsible for ensuring all occupants wear seatbelts. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The driver is legally responsible for ensuring all occupants wear seatbelts. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The driver is legally responsible for ensuring all occupants wear seatbelts. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The driver is legally responsible for ensuring all occupants wear seatbelts. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The driver is legally responsible for ensuring all occupants wear seatbelts. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 84,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "During daytime, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "af": "[AF] During daytime, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "xh": "[XH] During daytime, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "zu": "[ZU] During daytime, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "st": "[ST] During daytime, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?"
+      },
+      "options": {
+        "en": {
+          "A": "With a white flag.",
+          "B": "With a single 300 mm square red flag at the rear.",
+          "C": "With a yellow reflective sticker."
+        },
+        "af": {
+          "A": "[AF] With a white flag.",
+          "B": "[AF] With a single 300 mm square red flag at the rear.",
+          "C": "[AF] With a yellow reflective sticker."
+        },
+        "xh": {
+          "A": "[XH] With a white flag.",
+          "B": "[XH] With a single 300 mm square red flag at the rear.",
+          "C": "[XH] With a yellow reflective sticker."
+        },
+        "zu": {
+          "A": "[ZU] With a white flag.",
+          "B": "[ZU] With a single 300 mm square red flag at the rear.",
+          "C": "[ZU] With a yellow reflective sticker."
+        },
+        "st": {
+          "A": "[ST] With a white flag.",
+          "B": "[ST] With a single 300 mm square red flag at the rear.",
+          "C": "[ST] With a yellow reflective sticker."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.",
+        "af": "[AF] Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.",
+        "xh": "[XH] Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.",
+        "zu": "[ZU] Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.",
+        "st": "[ST] Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'During daytime, if a load projects 300 mm or more beyond the...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Loads extending 300 mm or more beyond the rear must be marked with a 300 mm square red flag during daytime. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 87,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which statement is correct regarding carrying passengers on the roof or fender of a moving vehicle on a public road?",
+        "af": "[AF] Which statement is correct regarding carrying passengers on the roof or fender of a moving vehicle on a public road?",
+        "xh": "[XH] Which statement is correct regarding carrying passengers on the roof or fender of a moving vehicle on a public road?",
+        "zu": "[ZU] Which statement is correct regarding carrying passengers on the roof or fender of a moving vehicle on a public road?",
+        "st": "[ST] Which statement is correct regarding carrying passengers on the roof or fender of a moving vehicle on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Passengers may sit on the roof if the vehicle travels below 30 km/h.",
+          "B": "B) No person or animal may occupy the roof, bonnet, or fender of a vehicle while in motion.",
+          "C": "C) Passengers may sit on the roof in residential areas only."
+        },
+        "af": {
+          "A": "[AF] A) Passengers may sit on the roof if the vehicle travels below 30 km/h.",
+          "B": "[AF] B) No person or animal may occupy the roof, bonnet, or fender of a vehicle while in motion.",
+          "C": "[AF] C) Passengers may sit on the roof in residential areas only."
+        },
+        "xh": {
+          "A": "[XH] A) Passengers may sit on the roof if the vehicle travels below 30 km/h.",
+          "B": "[XH] B) No person or animal may occupy the roof, bonnet, or fender of a vehicle while in motion.",
+          "C": "[XH] C) Passengers may sit on the roof in residential areas only."
+        },
+        "zu": {
+          "A": "[ZU] A) Passengers may sit on the roof if the vehicle travels below 30 km/h.",
+          "B": "[ZU] B) No person or animal may occupy the roof, bonnet, or fender of a vehicle while in motion.",
+          "C": "[ZU] C) Passengers may sit on the roof in residential areas only."
+        },
+        "st": {
+          "A": "[ST] A) Passengers may sit on the roof if the vehicle travels below 30 km/h.",
+          "B": "[ST] B) No person or animal may occupy the roof, bonnet, or fender of a vehicle while in motion.",
+          "C": "[ST] C) Passengers may sit on the roof in residential areas only."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.",
+        "af": "[AF] It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.",
+        "xh": "[XH] It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.",
+        "zu": "[ZU] It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.",
+        "st": "[ST] It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Which statement is correct regarding carrying passengers on ...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: It is an offence to permit any person or animal to ride on the roof, bonnet, fender, or any external part of a motor vehicle while it is in motion. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 134,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum legal distance allowed between a towing vehicle and the vehicle being towed?",
+        "af": "[AF] What is the maximum legal distance allowed between a towing vehicle and the vehicle being towed?",
+        "xh": "[XH] What is the maximum legal distance allowed between a towing vehicle and the vehicle being towed?",
+        "zu": "[ZU] What is the maximum legal distance allowed between a towing vehicle and the vehicle being towed?",
+        "st": "[ST] What is the maximum legal distance allowed between a towing vehicle and the vehicle being towed?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 1.8 metres.",
+          "B": "B) 2.5 metres.",
+          "C": "C) 3.5 metres."
+        },
+        "af": {
+          "A": "[AF] A) 1.8 metres.",
+          "B": "[AF] B) 2.5 metres.",
+          "C": "[AF] C) 3.5 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 1.8 metres.",
+          "B": "[XH] B) 2.5 metres.",
+          "C": "[XH] C) 3.5 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 1.8 metres.",
+          "B": "[ZU] B) 2.5 metres.",
+          "C": "[ZU] C) 3.5 metres."
+        },
+        "st": {
+          "A": "[ST] A) 1.8 metres.",
+          "B": "[ST] B) 2.5 metres.",
+          "C": "[ST] C) 3.5 metres."
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.",
+        "af": "[AF] The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.",
+        "xh": "[XH] The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.",
+        "zu": "[ZU] The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.",
+        "st": "[ST] The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum legal distance allowed between a towing ...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The distance between a towing vehicle and a towed vehicle may not exceed 3.5 metres. If the distance exceeds 1.8 metres, the tow connection must be clearly marked with a red flag. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 141,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the legal requirement regarding the registration number plates affixed to a heavy motor vehicle?",
+        "af": "[AF] What is the legal requirement regarding the registration number plates affixed to a heavy motor vehicle?",
+        "xh": "[XH] What is the legal requirement regarding the registration number plates affixed to a heavy motor vehicle?",
+        "zu": "[ZU] What is the legal requirement regarding the registration number plates affixed to a heavy motor vehicle?",
+        "st": "[ST] What is the legal requirement regarding the registration number plates affixed to a heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A. An SABS approved number plate must be affixed to both the front and rear of the vehicle, clearly legible and unobstructed.",
+          "B": "B. A rear number plate is sufficient for goods vehicles exceeding 9,000 kg GVM.",
+          "C": "C. Number plates may be displayed behind the windscreen inside the cab."
+        },
+        "af": {
+          "A": "[AF] A. An SABS approved number plate must be affixed to both the front and rear of the vehicle, clearly legible and unobstructed.",
+          "B": "[AF] B. A rear number plate is sufficient for goods vehicles exceeding 9,000 kg GVM.",
+          "C": "[AF] C. Number plates may be displayed behind the windscreen inside the cab."
+        },
+        "xh": {
+          "A": "[XH] A. An SABS approved number plate must be affixed to both the front and rear of the vehicle, clearly legible and unobstructed.",
+          "B": "[XH] B. A rear number plate is sufficient for goods vehicles exceeding 9,000 kg GVM.",
+          "C": "[XH] C. Number plates may be displayed behind the windscreen inside the cab."
+        },
+        "zu": {
+          "A": "[ZU] A. An SABS approved number plate must be affixed to both the front and rear of the vehicle, clearly legible and unobstructed.",
+          "B": "[ZU] B. A rear number plate is sufficient for goods vehicles exceeding 9,000 kg GVM.",
+          "C": "[ZU] C. Number plates may be displayed behind the windscreen inside the cab."
+        },
+        "st": {
+          "A": "[ST] A. An SABS approved number plate must be affixed to both the front and rear of the vehicle, clearly legible and unobstructed.",
+          "B": "[ST] B. A rear number plate is sufficient for goods vehicles exceeding 9,000 kg GVM.",
+          "C": "[ST] C. Number plates may be displayed behind the windscreen inside the cab."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.",
+        "af": "[AF] All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.",
+        "xh": "[XH] All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.",
+        "zu": "[ZU] All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.",
+        "st": "[ST] All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the legal requirement regarding the registration num...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: All motor vehicles must display SABS approved, legible, and unobstructed registration plates at the front and rear. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 156,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum allowed width for a load carried on a motor vehicle on a public road?",
+        "af": "[AF] What is the maximum allowed width for a load carried on a motor vehicle on a public road?",
+        "xh": "[XH] What is the maximum allowed width for a load carried on a motor vehicle on a public road?",
+        "zu": "[ZU] What is the maximum allowed width for a load carried on a motor vehicle on a public road?",
+        "st": "[ST] What is the maximum allowed width for a load carried on a motor vehicle on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "2.5 metres.",
+          "B": "3.0 metres.",
+          "C": "1.8 metres."
+        },
+        "af": {
+          "A": "[AF] 2.5 metres.",
+          "B": "[AF] 3.0 metres.",
+          "C": "[AF] 1.8 metres."
+        },
+        "xh": {
+          "A": "[XH] 2.5 metres.",
+          "B": "[XH] 3.0 metres.",
+          "C": "[XH] 1.8 metres."
+        },
+        "zu": {
+          "A": "[ZU] 2.5 metres.",
+          "B": "[ZU] 3.0 metres.",
+          "C": "[ZU] 1.8 metres."
+        },
+        "st": {
+          "A": "[ST] 2.5 metres.",
+          "B": "[ST] 3.0 metres.",
+          "C": "[ST] 1.8 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.",
+        "af": "[AF] Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.",
+        "xh": "[XH] Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.",
+        "zu": "[ZU] Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.",
+        "st": "[ST] Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum allowed width for a load carried on a mo...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Under South African National Road Traffic Regulations, the maximum overall width for a vehicle and its load is 2.5 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 194,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "At night, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "af": "[AF] At night, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "xh": "[XH] At night, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "zu": "[ZU] At night, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?",
+        "st": "[ST] At night, if a load projects 300 mm or more beyond the rear of a vehicle, how must it be marked?"
+      },
+      "options": {
+        "en": {
+          "A": "With a red reflector at the rear end of the load.",
+          "B": "With a yellow flashing light.",
+          "C": "With a white spotlight."
+        },
+        "af": {
+          "A": "[AF] With a red reflector at the rear end of the load.",
+          "B": "[AF] With a yellow flashing light.",
+          "C": "[AF] With a white spotlight."
+        },
+        "xh": {
+          "A": "[XH] With a red reflector at the rear end of the load.",
+          "B": "[XH] With a yellow flashing light.",
+          "C": "[XH] With a white spotlight."
+        },
+        "zu": {
+          "A": "[ZU] With a red reflector at the rear end of the load.",
+          "B": "[ZU] With a yellow flashing light.",
+          "C": "[ZU] With a white spotlight."
+        },
+        "st": {
+          "A": "[ST] With a red reflector at the rear end of the load.",
+          "B": "[ST] With a yellow flashing light.",
+          "C": "[ST] With a white spotlight."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.",
+        "af": "[AF] At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.",
+        "xh": "[XH] At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.",
+        "zu": "[ZU] At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.",
+        "st": "[ST] At night, rearward projecting loads must be fitted with a red reflector at the back end of the load."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'At night, if a load projects 300 mm or more beyond the rear ...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'At night, rearward projecting loads must be fitted with a red reflector at the back end of the load.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: At night, rearward projecting loads must be fitted with a red reflector at the back end of the load. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 203,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "When carrying passengers seated in the open load bay of a goods vehicle, what is the minimum required height for the side dropsides above the seating surface?",
+        "af": "[AF] When carrying passengers seated in the open load bay of a goods vehicle, what is the minimum required height for the side dropsides above the seating surface?",
+        "xh": "[XH] When carrying passengers seated in the open load bay of a goods vehicle, what is the minimum required height for the side dropsides above the seating surface?",
+        "zu": "[ZU] When carrying passengers seated in the open load bay of a goods vehicle, what is the minimum required height for the side dropsides above the seating surface?",
+        "st": "[ST] When carrying passengers seated in the open load bay of a goods vehicle, what is the minimum required height for the side dropsides above the seating surface?"
+      },
+      "options": {
+        "en": {
+          "A": "350 mm.",
+          "B": "600 mm.",
+          "C": "900 mm."
+        },
+        "af": {
+          "A": "[AF] 350 mm.",
+          "B": "[AF] 600 mm.",
+          "C": "[AF] 900 mm."
+        },
+        "xh": {
+          "A": "[XH] 350 mm.",
+          "B": "[XH] 600 mm.",
+          "C": "[XH] 900 mm."
+        },
+        "zu": {
+          "A": "[ZU] 350 mm.",
+          "B": "[ZU] 600 mm.",
+          "C": "[ZU] 900 mm."
+        },
+        "st": {
+          "A": "[ST] 350 mm.",
+          "B": "[ST] 600 mm.",
+          "C": "[ST] 900 mm."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.",
+        "af": "[AF] If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.",
+        "xh": "[XH] If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.",
+        "zu": "[ZU] If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.",
+        "st": "[ST] If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'When carrying passengers seated in the open load bay of a go...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: If passengers are seated in the back of an open goods vehicle, the sides must be at least 350 mm high above the seating surface. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 209,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum distance a vehicle load may project beyond the rear without requiring a red flag or reflector?",
+        "af": "[AF] What is the maximum distance a vehicle load may project beyond the rear without requiring a red flag or reflector?",
+        "xh": "[XH] What is the maximum distance a vehicle load may project beyond the rear without requiring a red flag or reflector?",
+        "zu": "[ZU] What is the maximum distance a vehicle load may project beyond the rear without requiring a red flag or reflector?",
+        "st": "[ST] What is the maximum distance a vehicle load may project beyond the rear without requiring a red flag or reflector?"
+      },
+      "options": {
+        "en": {
+          "A": "A. 150 mm",
+          "B": "B. 300 mm",
+          "C": "C. 500 mm"
+        },
+        "af": {
+          "A": "[AF] A. 150 mm",
+          "B": "[AF] B. 300 mm",
+          "C": "[AF] C. 500 mm"
+        },
+        "xh": {
+          "A": "[XH] A. 150 mm",
+          "B": "[XH] B. 300 mm",
+          "C": "[XH] C. 500 mm"
+        },
+        "zu": {
+          "A": "[ZU] A. 150 mm",
+          "B": "[ZU] B. 300 mm",
+          "C": "[ZU] C. 500 mm"
+        },
+        "st": {
+          "A": "[ST] A. 150 mm",
+          "B": "[ST] B. 300 mm",
+          "C": "[ST] C. 500 mm"
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.",
+        "af": "[AF] A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.",
+        "xh": "[XH] A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.",
+        "zu": "[ZU] A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.",
+        "st": "[ST] A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum distance a vehicle load may project beyo...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A load projecting 300 mm or more beyond the rear of a vehicle must be marked with a 300 mm square red flag during the day and red reflectors at night. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 218,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "How far may a load project beyond the front of a goods vehicle on a public road?",
+        "af": "[AF] How far may a load project beyond the front of a goods vehicle on a public road?",
+        "xh": "[XH] How far may a load project beyond the front of a goods vehicle on a public road?",
+        "zu": "[ZU] How far may a load project beyond the front of a goods vehicle on a public road?",
+        "st": "[ST] How far may a load project beyond the front of a goods vehicle on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Max 500 mm.",
+          "B": "B) Max 1.0 metre.",
+          "C": "C) Max 2.0 metres."
+        },
+        "af": {
+          "A": "[AF] A) Max 500 mm.",
+          "B": "[AF] B) Max 1.0 metre.",
+          "C": "[AF] C) Max 2.0 metres."
+        },
+        "xh": {
+          "A": "[XH] A) Max 500 mm.",
+          "B": "[XH] B) Max 1.0 metre.",
+          "C": "[XH] C) Max 2.0 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) Max 500 mm.",
+          "B": "[ZU] B) Max 1.0 metre.",
+          "C": "[ZU] C) Max 2.0 metres."
+        },
+        "st": {
+          "A": "[ST] A) Max 500 mm.",
+          "B": "[ST] B) Max 1.0 metre.",
+          "C": "[ST] C) Max 2.0 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.",
+        "af": "[AF] A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.",
+        "xh": "[XH] A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.",
+        "zu": "[ZU] A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.",
+        "st": "[ST] A load may not extend more than 500 mm beyond the front of a vehicle without a special permit."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'How far may a load project beyond the front of a goods vehic...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A load may not extend more than 500 mm beyond the front of a vehicle without a special permit.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A load may not extend more than 500 mm beyond the front of a vehicle without a special permit. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 220,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum overall height permitted for a vehicle and its load without a special permit?",
+        "af": "[AF] What is the maximum overall height permitted for a vehicle and its load without a special permit?",
+        "xh": "[XH] What is the maximum overall height permitted for a vehicle and its load without a special permit?",
+        "zu": "[ZU] What is the maximum overall height permitted for a vehicle and its load without a special permit?",
+        "st": "[ST] What is the maximum overall height permitted for a vehicle and its load without a special permit?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 3.8 metres.",
+          "B": "B) 4.3 metres.",
+          "C": "C) 4.65 metres."
+        },
+        "af": {
+          "A": "[AF] A) 3.8 metres.",
+          "B": "[AF] B) 4.3 metres.",
+          "C": "[AF] C) 4.65 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 3.8 metres.",
+          "B": "[XH] B) 4.3 metres.",
+          "C": "[XH] C) 4.65 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 3.8 metres.",
+          "B": "[ZU] B) 4.3 metres.",
+          "C": "[ZU] C) 4.65 metres."
+        },
+        "st": {
+          "A": "[ST] A) 3.8 metres.",
+          "B": "[ST] B) 4.3 metres.",
+          "C": "[ST] C) 4.65 metres."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.",
+        "af": "[AF] The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.",
+        "xh": "[XH] The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.",
+        "zu": "[ZU] The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.",
+        "st": "[ST] The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum overall height permitted for a vehicle a...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The standard maximum height allowance for a vehicle and its load on South African public roads is 4.3 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 261,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Displaying an emergency warning triangle shall not apply to a vehicle being stationary on the roadway of a public road...\n(i) In a place where a road traffic sign authorises the loading or unloading of goods.\n(ii) In compliance with a road traffic sign or direction given by a traffic officer.\n(iii) On account of other traffic and the driver occupies the driving seat of such vehicle.\n(iv) In the course of events accompanying the carrying out of a state or municipal function.",
+        "af": "[AF] Displaying an emergency warning triangle shall not apply to a vehicle being stationary on the roadway of a public road...\n(i) In a place where a road traffic sign authorises the loading or unloading of goods.\n(ii) In compliance with a road traffic sign or direction given by a traffic officer.\n(iii) On account of other traffic and the driver occupies the driving seat of such vehicle.\n(iv) In the course of events accompanying the carrying out of a state or municipal function.",
+        "xh": "[XH] Displaying an emergency warning triangle shall not apply to a vehicle being stationary on the roadway of a public road...\n(i) In a place where a road traffic sign authorises the loading or unloading of goods.\n(ii) In compliance with a road traffic sign or direction given by a traffic officer.\n(iii) On account of other traffic and the driver occupies the driving seat of such vehicle.\n(iv) In the course of events accompanying the carrying out of a state or municipal function.",
+        "zu": "[ZU] Displaying an emergency warning triangle shall not apply to a vehicle being stationary on the roadway of a public road...\n(i) In a place where a road traffic sign authorises the loading or unloading of goods.\n(ii) In compliance with a road traffic sign or direction given by a traffic officer.\n(iii) On account of other traffic and the driver occupies the driving seat of such vehicle.\n(iv) In the course of events accompanying the carrying out of a state or municipal function.",
+        "st": "[ST] Displaying an emergency warning triangle shall not apply to a vehicle being stationary on the roadway of a public road...\n(i) In a place where a road traffic sign authorises the loading or unloading of goods.\n(ii) In compliance with a road traffic sign or direction given by a traffic officer.\n(iii) On account of other traffic and the driver occupies the driving seat of such vehicle.\n(iv) In the course of events accompanying the carrying out of a state or municipal function."
+      },
+      "options": {
+        "en": {
+          "A": "A. (i) Only is correct",
+          "B": "B. All of the above are correct",
+          "C": "C. None of the above are correct"
+        },
+        "af": {
+          "A": "[AF] A. (i) Only is correct",
+          "B": "[AF] B. All of the above are correct",
+          "C": "[AF] C. None of the above are correct"
+        },
+        "xh": {
+          "A": "[XH] A. (i) Only is correct",
+          "B": "[XH] B. All of the above are correct",
+          "C": "[XH] C. None of the above are correct"
+        },
+        "zu": {
+          "A": "[ZU] A. (i) Only is correct",
+          "B": "[ZU] B. All of the above are correct",
+          "C": "[ZU] C. None of the above are correct"
+        },
+        "st": {
+          "A": "[ST] A. (i) Only is correct",
+          "B": "[ST] B. All of the above are correct",
+          "C": "[ST] C. None of the above are correct"
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.",
+        "af": "[AF] Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.",
+        "xh": "[XH] Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.",
+        "zu": "[ZU] Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.",
+        "st": "[ST] Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Displaying an emergency warning triangle shall not apply to ...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Triangles are not required if stopped in authorised loading bays, by traffic officer order, or during state functions. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 262,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum allowed overall width for a load carried on a goods vehicle on a public road?",
+        "af": "[AF] What is the maximum allowed overall width for a load carried on a goods vehicle on a public road?",
+        "xh": "[XH] What is the maximum allowed overall width for a load carried on a goods vehicle on a public road?",
+        "zu": "[ZU] What is the maximum allowed overall width for a load carried on a goods vehicle on a public road?",
+        "st": "[ST] What is the maximum allowed overall width for a load carried on a goods vehicle on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 2.5 metres.",
+          "B": "B) 2.6 metres.",
+          "C": "C) 3.0 metres."
+        },
+        "af": {
+          "A": "[AF] A) 2.5 metres.",
+          "B": "[AF] B) 2.6 metres.",
+          "C": "[AF] C) 3.0 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 2.5 metres.",
+          "B": "[XH] B) 2.6 metres.",
+          "C": "[XH] C) 3.0 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 2.5 metres.",
+          "B": "[ZU] B) 2.6 metres.",
+          "C": "[ZU] C) 3.0 metres."
+        },
+        "st": {
+          "A": "[ST] A) 2.5 metres.",
+          "B": "[ST] B) 2.6 metres.",
+          "C": "[ST] C) 3.0 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.",
+        "af": "[AF] The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.",
+        "xh": "[XH] The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.",
+        "zu": "[ZU] The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.",
+        "st": "[ST] The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum allowed overall width for a load carried...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The maximum permissible width of any load on a standard goods vehicle may not exceed 2.5 metres without a special abnormal load permit. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 270,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Who is legally responsible for ensuring that all passengers inside a moving motor vehicle wear fitted seatbelts?",
+        "af": "[AF] Who is legally responsible for ensuring that all passengers inside a moving motor vehicle wear fitted seatbelts?",
+        "xh": "[XH] Who is legally responsible for ensuring that all passengers inside a moving motor vehicle wear fitted seatbelts?",
+        "zu": "[ZU] Who is legally responsible for ensuring that all passengers inside a moving motor vehicle wear fitted seatbelts?",
+        "st": "[ST] Who is legally responsible for ensuring that all passengers inside a moving motor vehicle wear fitted seatbelts?"
+      },
+      "options": {
+        "en": {
+          "A": "A) The passengers themselves if over 18 years old.",
+          "B": "B) The driver of the vehicle.",
+          "C": "C) Only the owner of the vehicle."
+        },
+        "af": {
+          "A": "[AF] A) The passengers themselves if over 18 years old.",
+          "B": "[AF] B) The driver of the vehicle.",
+          "C": "[AF] C) Only the owner of the vehicle."
+        },
+        "xh": {
+          "A": "[XH] A) The passengers themselves if over 18 years old.",
+          "B": "[XH] B) The driver of the vehicle.",
+          "C": "[XH] C) Only the owner of the vehicle."
+        },
+        "zu": {
+          "A": "[ZU] A) The passengers themselves if over 18 years old.",
+          "B": "[ZU] B) The driver of the vehicle.",
+          "C": "[ZU] C) Only the owner of the vehicle."
+        },
+        "st": {
+          "A": "[ST] A) The passengers themselves if over 18 years old.",
+          "B": "[ST] B) The driver of the vehicle.",
+          "C": "[ST] C) Only the owner of the vehicle."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.",
+        "af": "[AF] The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.",
+        "xh": "[XH] The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.",
+        "zu": "[ZU] The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.",
+        "st": "[ST] The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Who is legally responsible for ensuring that all passengers ...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The driver of the vehicle is legally responsible for ensuring that all passengers wear seatbelts where fitted. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 281,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum overall width of a goods vehicle load?",
+        "af": "[AF] What is the maximum overall width of a goods vehicle load?",
+        "xh": "[XH] What is the maximum overall width of a goods vehicle load?",
+        "zu": "[ZU] What is the maximum overall width of a goods vehicle load?",
+        "st": "[ST] What is the maximum overall width of a goods vehicle load?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 2.5 metres.",
+          "B": "B) 2.6 metres.",
+          "C": "C) 3.0 metres."
+        },
+        "af": {
+          "A": "[AF] A) 2.5 metres.",
+          "B": "[AF] B) 2.6 metres.",
+          "C": "[AF] C) 3.0 metres."
+        },
+        "xh": {
+          "A": "[XH] A) 2.5 metres.",
+          "B": "[XH] B) 2.6 metres.",
+          "C": "[XH] C) 3.0 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) 2.5 metres.",
+          "B": "[ZU] B) 2.6 metres.",
+          "C": "[ZU] C) 3.0 metres."
+        },
+        "st": {
+          "A": "[ST] A) 2.5 metres.",
+          "B": "[ST] B) 2.6 metres.",
+          "C": "[ST] C) 3.0 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Maximum load width without permit is 2.5 m.",
+        "af": "[AF] Maximum load width without permit is 2.5 m.",
+        "xh": "[XH] Maximum load width without permit is 2.5 m.",
+        "zu": "[ZU] Maximum load width without permit is 2.5 m.",
+        "st": "[ST] Maximum load width without permit is 2.5 m."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum overall width of a goods vehicle load?...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Maximum load width without permit is 2.5 m.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Maximum load width without permit is 2.5 m.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Maximum load width without permit is 2.5 m.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Maximum load width without permit is 2.5 m.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Maximum load width without permit is 2.5 m.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Maximum load width without permit is 2.5 m. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Maximum load width without permit is 2.5 m. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Maximum load width without permit is 2.5 m. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Maximum load width without permit is 2.5 m. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Maximum load width without permit is 2.5 m. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Maximum load width without permit is 2.5 m. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Maximum load width without permit is 2.5 m. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Maximum load width without permit is 2.5 m. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Maximum load width without permit is 2.5 m. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Maximum load width without permit is 2.5 m. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 339,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "When driving a goods vehicle carrying a load that projects beyond the side of the vehicle, what is the maximum lateral projection permitted without a permit?",
+        "af": "[AF] When driving a goods vehicle carrying a load that projects beyond the side of the vehicle, what is the maximum lateral projection permitted without a permit?",
+        "xh": "[XH] When driving a goods vehicle carrying a load that projects beyond the side of the vehicle, what is the maximum lateral projection permitted without a permit?",
+        "zu": "[ZU] When driving a goods vehicle carrying a load that projects beyond the side of the vehicle, what is the maximum lateral projection permitted without a permit?",
+        "st": "[ST] When driving a goods vehicle carrying a load that projects beyond the side of the vehicle, what is the maximum lateral projection permitted without a permit?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Max 75 mm.",
+          "B": "B) Max 150 mm.",
+          "C": "C) Max 300 mm."
+        },
+        "af": {
+          "A": "[AF] A) Max 75 mm.",
+          "B": "[AF] B) Max 150 mm.",
+          "C": "[AF] C) Max 300 mm."
+        },
+        "xh": {
+          "A": "[XH] A) Max 75 mm.",
+          "B": "[XH] B) Max 150 mm.",
+          "C": "[XH] C) Max 300 mm."
+        },
+        "zu": {
+          "A": "[ZU] A) Max 75 mm.",
+          "B": "[ZU] B) Max 150 mm.",
+          "C": "[ZU] C) Max 300 mm."
+        },
+        "st": {
+          "A": "[ST] A) Max 75 mm.",
+          "B": "[ST] B) Max 150 mm.",
+          "C": "[ST] C) Max 300 mm."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.",
+        "af": "[AF] A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.",
+        "xh": "[XH] A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.",
+        "zu": "[ZU] A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.",
+        "st": "[ST] A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'When driving a goods vehicle carrying a load that projects b...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A load on a goods vehicle may not extend sideways more than 75 mm beyond the widest part of the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 348,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum allowed distance that a drawbar or tow-rope may extend between a towing vehicle and a towed vehicle?",
+        "af": "[AF] What is the maximum allowed distance that a drawbar or tow-rope may extend between a towing vehicle and a towed vehicle?",
+        "xh": "[XH] What is the maximum allowed distance that a drawbar or tow-rope may extend between a towing vehicle and a towed vehicle?",
+        "zu": "[ZU] What is the maximum allowed distance that a drawbar or tow-rope may extend between a towing vehicle and a towed vehicle?",
+        "st": "[ST] What is the maximum allowed distance that a drawbar or tow-rope may extend between a towing vehicle and a towed vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "2.5 metres.",
+          "B": "3.5 metres.",
+          "C": "5.0 metres."
+        },
+        "af": {
+          "A": "[AF] 2.5 metres.",
+          "B": "[AF] 3.5 metres.",
+          "C": "[AF] 5.0 metres."
+        },
+        "xh": {
+          "A": "[XH] 2.5 metres.",
+          "B": "[XH] 3.5 metres.",
+          "C": "[XH] 5.0 metres."
+        },
+        "zu": {
+          "A": "[ZU] 2.5 metres.",
+          "B": "[ZU] 3.5 metres.",
+          "C": "[ZU] 5.0 metres."
+        },
+        "st": {
+          "A": "[ST] 2.5 metres.",
+          "B": "[ST] 3.5 metres.",
+          "C": "[ST] 5.0 metres."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.",
+        "af": "[AF] The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.",
+        "xh": "[XH] The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.",
+        "zu": "[ZU] The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.",
+        "st": "[ST] The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum allowed distance that a drawbar or tow-r...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The distance between a towing vehicle and a towed vehicle connected by a tow-rope or drawbar may not exceed 3.5 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    }
+  ]
+}

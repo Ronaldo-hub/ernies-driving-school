@@ -1,0 +1,45 @@
+{
+  "app_title": "K53 Multilingual Demo & Teaser Practice Suite",
+  "version": "1.0.0",
+  "supported_languages": {
+    "en": "English",
+    "af": "Afrikaans",
+    "xh": "isiXhosa",
+    "zu": "isiZulu",
+    "st": "Sesotho"
+  },
+  "supported_vehicle_codes": [
+    {
+      "code_id": "code1_motorcycle",
+      "label": "Code 1 - Motorcycles / Bikes",
+      "file": "k53_demo_code1_motorcycle.json",
+      "questions": 20
+    },
+    {
+      "code_id": "code2_light_vehicle",
+      "label": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "file": "k53_demo_code2_light_vehicle.json",
+      "questions": 20
+    },
+    {
+      "code_id": "code3_heavy_vehicle",
+      "label": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
+      "file": "k53_demo_code3_heavy_vehicle.json",
+      "questions": 20
+    }
+  ],
+  "supported_personas": [
+    {
+      "id": "witty_playful_coach",
+      "name": "The Witty / Playful Coach"
+    },
+    {
+      "id": "veteran_k53_examiner",
+      "name": "The Veteran K53 Examiner"
+    },
+    {
+      "id": "socratic_memory_guide",
+      "name": "The Socratic Memory Guide"
+    }
+  ]
+}

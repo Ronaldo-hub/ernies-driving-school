@@ -1,323 +1,230 @@
 <!DOCTYPE html>
-<html lang="en" class="dark scroll-smooth">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ernie's Driving School | K53 Learners & Driving Lessons</title>
+    <title>Ernie's Driving School - K53 Computerized Simulator</title>
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
-    <style>
-        body { background-color: #09090b; color: #f4f4f5; }
-    </style>
 </head>
-<body class="font-sans antialiased min-h-screen flex flex-col justify-between">
+<body class="bg-zinc-950 text-white min-h-screen flex flex-col justify-between font-sans">
 
-    <!-- NAVBAR -->
-    <header class="w-full bg-zinc-950/90 backdrop-blur-md border-b border-zinc-800/80 sticky top-0 z-50">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-20 flex items-center justify-between">
-            <a href="#" class="flex items-center gap-3 group">
-                <img src="images/logo.png" alt="Ernie's Driving School Logo" class="h-10 w-auto object-contain transition group-hover:scale-105">
-                <div class="hidden sm:block">
-                    <span class="block text-xs font-semibold tracking-wide text-zinc-300">Ernie's Driving School</span>
-                    <span class="block text-[10px] text-zinc-500 italic">Dedicated to the end</span>
+    <div>
+        <!-- Navigation Header -->
+        <header class="border-b border-zinc-800 bg-black/90 sticky top-0 z-50 backdrop-blur-md">
+            <div class="max-w-6xl mx-auto px-4 py-4 flex flex-col sm:flex-row justify-between items-center gap-3">
+                <div class="text-center sm:text-left">
+                    <h1 class="text-2xl font-black tracking-wider text-red-600">ERNIE'S DRIVING SCHOOL</h1>
+                    <p class="text-xs text-zinc-400 italic">Dedicated to the end</p>
                 </div>
-            </a>
-            <a href="https://wa.me/27737779310" target="_blank" class="bg-emerald-600 hover:bg-emerald-500 text-white font-bold py-2 px-5 rounded-full text-sm flex items-center gap-2 transition shadow-md shadow-emerald-600/20">
-                <i class="fab font-bold fa-whatsapp"></i> WhatsApp Us: 073 777 9310
-            </a>
-        </div>
-    </header>
+                <a href="https://wa.me/27737779310" target="_blank" class="bg-green-600 hover:bg-green-700 text-white text-xs font-bold py-2 px-4 rounded-full transition shadow-lg flex items-center gap-2">
+                    💬 WhatsApp Us: 073 777 9310
+                </a>
+            </div>
+        </header>
 
-    <!-- MAIN CONTENT -->
-    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 space-y-20 flex-grow">
-
-        <!-- HERO SECTION -->
-        <section class="grid grid-cols-1 lg:grid-cols-12 gap-10 items-center">
-            <div class="lg:col-span-7 space-y-6">
-                <span class="inline-block px-3 py-1 bg-red-950/60 text-red-400 border border-red-800/40 rounded-full text-xs font-semibold tracking-wider uppercase">
-                    K53 Learners & Driving Lessons
+        <!-- Main Interactive Section -->
+        <main class="max-w-4xl mx-auto px-4 py-8">
+            <!-- Header Badge & Title -->
+            <div class="text-center mb-8">
+                <span class="bg-red-950/80 text-red-400 border border-red-800/80 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full">
+                    Interactive K53 Computerized Simulator
                 </span>
-                <h1 class="text-4xl sm:text-5xl lg:text-6xl font-black text-white leading-tight">
-                    Get Your Driver's License With Confidence
-                </h1>
-                <p class="text-zinc-400 text-lg leading-relaxed max-w-2xl">
-                    We provide expert instruction for Learners, Code 8 (Light Motor Vehicle), and Code 10 (Heavy Motor Vehicle) with high pass rates.
-                </p>
-                <div class="flex flex-wrap gap-4 pt-2">
-                    <a href="#k53-test" class="bg-red-600 hover:bg-red-500 text-white font-bold py-3 px-6 rounded-lg transition shadow-lg shadow-red-600/20 flex items-center gap-2">
-                        <i class="fas fa-clipboard-check"></i> Try Free Demo Test
-                    </a>
-                    <a href="#prices" class="bg-zinc-800 hover:bg-zinc-700 text-zinc-200 border border-zinc-700 font-bold py-3 px-6 rounded-lg transition">
-                        View Prices
-                    </a>
+                <h2 class="text-3xl sm:text-5xl font-black mt-4 mb-2 tracking-tight">Master Your K53 Test</h2>
+                <p class="text-zinc-400 text-sm max-w-lg mx-auto">Select your code, preferred language, and instructor persona below to practice official K53 test questions.</p>
+            </div>
+
+            <!-- Configuration Bar directly integrated above Quiz Card -->
+            <div class="bg-zinc-900 border border-zinc-800 rounded-t-2xl p-4 grid grid-cols-1 md:grid-cols-3 gap-3">
+                <div>
+                    <label class="block text-[10px] font-bold uppercase tracking-wider text-zinc-400 mb-1">Licence Code</label>
+                    <select id="select-code" onchange="loadSelectedDataset()" class="w-full bg-zinc-950 border border-zinc-700 rounded-lg p-2.5 text-xs text-zinc-200 focus:border-red-500 focus:outline-none">
+                        <option value="k53_demo_code2_light_vehicle.json">Code 2 - Light Vehicle (Code 8 / B)</option>
+                        <option value="k53_demo_code1_motorcycle.json">Code 1 - Motorcycle (Code 1 / A)</option>
+                        <option value="k53_demo_code3_heavy_vehicle.json">Code 3 - Heavy Vehicle (Code 10/14 / C/EC)</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label class="block text-[10px] font-bold uppercase tracking-wider text-zinc-400 mb-1">Language</label>
+                    <select id="select-lang" onchange="renderQuestion()" class="w-full bg-zinc-950 border border-zinc-700 rounded-lg p-2.5 text-xs text-zinc-200 focus:border-red-500 focus:outline-none">
+                        <option value="en">English</option>
+                        <option value="af">Afrikaans</option>
+                        <option value="xh">isiXhosa</option>
+                        <option value="zu">isiZulu</option>
+                        <option value="st">Sesotho</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label class="block text-[10px] font-bold uppercase tracking-wider text-zinc-400 mb-1">Instructor Persona</label>
+                    <select id="select-persona" onchange="renderQuestion()" class="w-full bg-zinc-950 border border-zinc-700 rounded-lg p-2.5 text-xs text-zinc-200 focus:border-red-500 focus:outline-none">
+                        <option value="witty_playful_coach">The Witty / Playful Coach</option>
+                        <option value="veteran_k53_examiner">The Veteran K53 Examiner</option>
+                        <option value="socratic_memory_guide">The Socratic Memory Guide</option>
+                    </select>
                 </div>
             </div>
 
-            <!-- FULL COVER HERO CARD -->
-            <div class="lg:col-span-5 relative">
-                <div onclick="openModal('images/logo.png', 'Ernie's Driving School Logo')" class="relative rounded-3xl border border-zinc-800 bg-zinc-950 overflow-hidden shadow-2xl flex items-center justify-center cursor-pointer group hover:border-zinc-700 transition duration-300 aspect-square sm:aspect-auto sm:h-[380px] w-full">
-                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
+            <!-- Quiz Display Container -->
+            <div id="quiz-container" class="bg-zinc-900 border-x border-b border-zinc-800 rounded-b-2xl p-6 shadow-2xl">
+                <!-- Status Header -->
+                <div class="flex justify-between items-center border-b border-zinc-800 pb-4 mb-6">
+                    <span id="question-tracker" class="text-xs font-bold text-red-500 uppercase tracking-wider">Loading Questions...</span>
+                    <span id="persona-badge" class="bg-zinc-800 text-zinc-300 text-xs px-3 py-1 rounded-full border border-zinc-700"></span>
                 </div>
-                <div class="absolute -bottom-3 -right-2 bg-zinc-900/95 border border-zinc-800 px-4 py-2 rounded-xl shadow-xl z-10 backdrop-blur-sm">
-                    <p class="text-[10px] uppercase text-zinc-400 font-medium">Pass Rate Success</p>
-                    <p class="text-sm font-bold text-emerald-400">K53 Approved</p>
-                </div>
-            </div>
-        </section>
 
-        <!-- PHOTO GALLERY SECTION -->
-        <section id="gallery" class="space-y-6 border-t border-zinc-800/80 pt-12">
-            <div class="text-center space-y-2">
-                <h2 class="text-3xl font-black text-white uppercase tracking-wide">Our Fleet & Training</h2>
-                <p class="text-zinc-400 text-sm">Click any photo below to expand and inspect full resolution</p>
-            </div>
+                <!-- Question Text -->
+                <h3 id="question-text" class="text-lg font-bold mb-6 text-white leading-relaxed"></h3>
 
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                
-                <!-- Gallery Item -->
-                <div onclick="openModal('images/erniepic1.png', 'Erniepic1')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer h-64 relative flex items-center justify-center">
-                    <img src="images/erniepic1.png" alt="Erniepic1" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
-                        <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Expand</span>
-                    </div>
-                </div>
-                <!-- Gallery Item -->
-                <div onclick="openModal('images/erniepic2.png', 'Erniepic2')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer h-64 relative flex items-center justify-center">
-                    <img src="images/erniepic2.png" alt="Erniepic2" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
-                        <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Expand</span>
-                    </div>
-                </div>
-                <!-- Gallery Item -->
-                <div onclick="openModal('images/erniepic6.png', 'Erniepic6')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer h-64 relative flex items-center justify-center">
-                    <img src="images/erniepic6.png" alt="Erniepic6" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
-                        <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Expand</span>
-                    </div>
-                </div>
-                <!-- Gallery Item -->
-                <div onclick="openModal('images/erniepic3.png', 'Erniepic3')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer h-64 relative flex items-center justify-center">
-                    <img src="images/erniepic3.png" alt="Erniepic3" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
-                        <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Expand</span>
-                    </div>
-                </div>
-                <!-- Gallery Item -->
-                <div onclick="openModal('images/erniepic5.png', 'Erniepic5')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer h-64 relative flex items-center justify-center">
-                    <img src="images/erniepic5.png" alt="Erniepic5" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
-                        <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Expand</span>
-                    </div>
-                </div>
-                <!-- Gallery Item -->
-                <div onclick="openModal('images/erniepic4.png', 'Erniepic4')" class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden group hover:border-red-600/50 transition shadow-lg cursor-pointer h-64 relative flex items-center justify-center">
-                    <img src="images/erniepic4.png" alt="Erniepic4" class="w-full h-full object-cover group-hover:scale-105 transition duration-300">
-                    <div class="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition flex items-center justify-center">
-                        <span class="bg-red-600/90 text-white text-xs px-3 py-1.5 rounded-full font-bold shadow-md"><i class="fas fa-search-plus mr-1"></i> Expand</span>
-                    </div>
+                <!-- Answer Options -->
+                <div id="options-container" class="space-y-3 mb-6"></div>
+
+                <!-- Feedback Box -->
+                <div id="feedback-box" class="hidden p-4 rounded-xl mb-6 text-sm"></div>
+
+                <!-- Navigation Controls -->
+                <div class="flex justify-between items-center pt-4 border-t border-zinc-800">
+                    <button onclick="restartQuiz()" class="text-xs text-zinc-500 hover:text-zinc-300 underline">Restart Test</button>
+                    <button id="next-btn" onclick="nextQuestion()" class="hidden bg-red-600 hover:bg-red-700 text-white text-xs font-bold py-2.5 px-6 rounded-lg uppercase tracking-wider transition">
+                        Next Question &rarr;
+                    </button>
                 </div>
             </div>
-        </section>
-
-        <!-- K53 DEMO TEST SECTION -->
-        <section id="k53-test" class="space-y-6 border-t border-zinc-800/80 pt-12">
-            <div class="text-center space-y-2">
-                <h2 class="text-3xl font-black text-white uppercase tracking-wide">Interactive K53 Demo Test</h2>
-                <p class="text-zinc-400 text-sm">Test your knowledge on key South African road signs and rules of the road</p>
-            </div>
-
-            <div class="max-w-3xl mx-auto bg-zinc-900 border border-zinc-800 rounded-2xl p-6 sm:p-8 shadow-2xl space-y-6">
-                <!-- Question 1 -->
-                <div class="space-y-3 border-b border-zinc-800 pb-6">
-                    <p class="text-xs text-red-500 font-bold uppercase tracking-wider">Question 1 of 3 • Road Rules</p>
-                    <h3 class="text-lg font-bold text-white">What is the general speed limit for a light motor vehicle on a South African public freeway unless otherwise indicated?</h3>
-                    <div class="space-y-2 text-sm">
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q1" value="A" class="accent-red-600">
-                            <span>A) 100 km/h</span>
-                        </label>
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q1" value="B" class="accent-red-600">
-                            <span>B) 120 km/h</span>
-                        </label>
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q1" value="C" class="accent-red-600">
-                            <span>C) 80 km/h</span>
-                        </label>
-                    </div>
-                </div>
-
-                <!-- Question 2 -->
-                <div class="space-y-3 border-b border-zinc-800 pb-6">
-                    <p class="text-xs text-red-500 font-bold uppercase tracking-wider">Question 2 of 3 • Vehicle Controls</p>
-                    <h3 class="text-lg font-bold text-white">Under standard K53 procedures, what must a driver always check prior to pulling away from a park position?</h3>
-                    <div class="space-y-2 text-sm">
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q2" value="A" class="accent-red-600">
-                            <span>A) Turn on hazards and sound the horn</span>
-                        </label>
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q2" value="B" class="accent-red-600">
-                            <span>B) 360-degree observation, blind spot check, and indicate</span>
-                        </label>
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q2" value="C" class="accent-red-600">
-                            <span>C) Depress accelerator pedal fully</span>
-                        </label>
-                    </div>
-                </div>
-
-                <!-- Question 3 -->
-                <div class="space-y-3">
-                    <p class="text-xs text-red-500 font-bold uppercase tracking-wider">Question 3 of 3 • Road Signs</p>
-                    <h3 class="text-lg font-bold text-white">What does a red octagonal traffic sign mandate?</h3>
-                    <div class="space-y-2 text-sm">
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q3" value="A" class="accent-red-600">
-                            <span>A) Yield to oncoming traffic</span>
-                        </label>
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q3" value="B" class="accent-red-600">
-                            <span>B) Complete bring vehicle to a standstill (Stop)</span>
-                        </label>
-                        <label class="flex items-center gap-3 p-3 bg-zinc-950 border border-zinc-800 rounded-lg cursor-pointer hover:border-zinc-700 transition">
-                            <input type="radio" name="q3" value="C" class="accent-red-600">
-                            <span>C) Speed limit area starts</span>
-                        </label>
-                    </div>
-                </div>
-
-                <button onclick="evaluateTest()" class="w-full bg-red-600 hover:bg-red-500 text-white font-bold py-3.5 rounded-xl transition shadow-lg shadow-red-600/30 flex items-center justify-center gap-2">
-                    <i class="fas fa-check-circle"></i> Submit K53 Answers
-                </button>
-
-                <div id="test-result" class="hidden p-4 rounded-xl border text-sm font-medium"></div>
-            </div>
-        </section>
-
-        <!-- PRICES SECTION -->
-        <section id="prices" class="space-y-6 border-t border-zinc-800/80 pt-12">
-            <div class="text-center space-y-2">
-                <h2 class="text-3xl font-black text-white uppercase tracking-wide">Lesson & Package Prices</h2>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <div class="bg-zinc-900 border border-zinc-800 p-6 rounded-xl space-y-4">
-                    <h3 class="text-red-500 font-bold uppercase tracking-wider text-sm">Learners</h3>
-                    <p class="text-3xl font-black text-white">R750 <span class="text-xs text-zinc-400 font-normal">/ computerized test</span></p>
-                    <ul class="text-xs text-zinc-400 space-y-2">
-                        <li>• Complete Rules of the Road</li>
-                        <li>• Road Signs & Control Markings</li>
-                        <li>• Offline Practice Access</li>
-                    </ul>
-                    <a href="https://wa.me/27737779310?text=I%20want%20to%20book%20Learners%20Classes" target="_blank" class="block text-center w-full bg-red-600 hover:bg-red-500 text-white font-bold py-2.5 rounded-lg text-sm transition">Pay & Start Test</a>
-                </div>
-
-                <div class="bg-zinc-900 border border-zinc-800 p-6 rounded-xl space-y-4">
-                    <h3 class="text-red-500 font-bold uppercase tracking-wider text-sm">Code 8 (Car)</h3>
-                    <p class="text-3xl font-black text-white">R270 <span class="text-xs text-zinc-400 font-normal">/ hour</span></p>
-                    <ul class="text-xs text-zinc-400 space-y-2">
-                        <li>• 15 Lessons (Saver): R4000</li>
-                        <li>• 20 Lessons: R5200</li>
-                        <li>• Unlimited Package: R10,000</li>
-                        <li>• Car Hire: R700</li>
-                    </ul>
-                    <a href="https://wa.me/27737779310?text=I%20want%20to%20book%20Code%208%20Lessons" target="_blank" class="block text-center w-full bg-zinc-800 hover:bg-zinc-700 text-white font-bold py-2.5 rounded-lg text-sm transition border border-zinc-700">Book Code 8</a>
-                </div>
-
-                <div class="bg-zinc-900 border border-zinc-800 p-6 rounded-xl space-y-4">
-                    <h3 class="text-red-500 font-bold uppercase tracking-wider text-sm">Code 10 (Truck)</h3>
-                    <p class="text-3xl font-black text-white">R350 <span class="text-xs text-zinc-400 font-normal">/ hour</span></p>
-                    <ul class="text-xs text-zinc-400 space-y-2">
-                        <li>• Unlimited Package: R8000</li>
-                        <li>• Truck Hire: R1500</li>
-                    </ul>
-                    <a href="https://wa.me/27737779310?text=I%20want%20to%20book%20Code%2010%20Lessons" target="_blank" class="block text-center w-full bg-zinc-800 hover:bg-zinc-700 text-white font-bold py-2.5 rounded-lg text-sm transition border border-zinc-700">Book Code 10</a>
-                </div>
-            </div>
-            <p class="text-center text-xs text-zinc-500 italic">* NO REFUNDS ON ALL PACKAGES</p>
-        </section>
-
-        <!-- LOCATIONS -->
-        <section class="space-y-6 border-t border-zinc-800/80 pt-12">
-            <h3 class="text-center text-xs font-bold text-zinc-400 uppercase tracking-widest">Our Service Locations (Western Cape)</h3>
-            <div class="flex flex-wrap justify-center gap-2">
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Macassar</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Somerset West</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Strand</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Gordon's Bay</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Grabouw</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Villiersdorp</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Caledon</span>
-                <span class="px-3 py-1 bg-zinc-900 border border-zinc-800 text-zinc-300 rounded-md text-xs">Hermanus</span>
-            </div>
-        </section>
-    </main>
-
-    <!-- FOOTER -->
-    <footer class="bg-zinc-950 border-t border-zinc-800 py-6 text-xs text-zinc-500">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col md:flex-row justify-between items-center gap-4">
-            <div>
-                <p>© 2026 Ernie's Driving School (Pty) Ltd. All Rights Reserved.</p>
-                <p class="text-[11px] text-zinc-600">123 Main Road, Macassar, Cape Town, South Africa | Reg: 2026/XXXXXX/07</p>
-            </div>
-            <div class="flex gap-4">
-                <a href="#" class="hover:underline">Privacy Policy (POPIA)</a>
-                <a href="#" class="hover:underline">Terms & Legal (ECTA S43)</a>
-                <a href="#" class="hover:underline">PAIA Manual</a>
-            </div>
-        </div>
-    </footer>
-
-    <!-- IMAGE INSPECT MODAL -->
-    <div id="image-modal" class="fixed inset-0 z-50 bg-black/90 backdrop-blur-md hidden items-center justify-center p-4" onclick="closeModal()">
-        <div class="relative max-w-4xl w-full bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden p-2" onclick="event.stopPropagation()">
-            <button onclick="closeModal()" class="absolute top-4 right-4 text-white bg-zinc-800 hover:bg-zinc-700 h-10 w-10 rounded-full flex items-center justify-center font-bold text-lg shadow-lg z-10">&times;</button>
-            <div class="p-2 flex items-center justify-center max-h-[80vh]">
-                <img id="modal-img" src="" alt="Expanded View" class="max-h-[75vh] w-auto object-contain rounded-lg">
-            </div>
-        </div>
+        </main>
     </div>
 
-    <!-- INTERACTIVE JAVASCRIPT -->
+    <!-- Footer Section -->
+    <footer class="border-t border-zinc-800 py-6 text-center text-xs text-zinc-500 bg-black/50">
+        <p>&copy; Ernie's Driving School. All rights reserved.</p>
+    </footer>
+
+    <!-- Logic Script -->
     <script>
-        function openModal(src, caption) {
-            document.getElementById('modal-img').src = src;
-            document.getElementById('image-modal').classList.remove('hidden');
-            document.getElementById('image-modal').classList.add('flex');
-        }
+        let currentQuestions = [];
+        let currentIndex = 0;
+        let score = 0;
 
-        function closeModal() {
-            document.getElementById('image-modal').classList.add('hidden');
-            document.getElementById('image-modal').classList.remove('flex');
-        }
+        const personaPrefixes = {
+            'witty_playful_coach': '🏎️ Coach Ernie says: ',
+            'veteran_k53_examiner': '📋 Examiner Warning: ',
+            'socratic_memory_guide': '💡 Memory Tip: '
+        };
 
-        function evaluateTest() {
-            const q1 = document.querySelector('input[name="q1"]:checked')?.value;
-            const q2 = document.querySelector('input[name="q2"]:checked')?.value;
-            const q3 = document.querySelector('input[name="q3"]:checked')?.value;
+        async function loadSelectedDataset() {
+            const codeFile = document.getElementById('select-code').value;
+            
+            // Paths to check: relative local path, fallback root path, or raw github backup
+            const pathsToTry = [
+                `./data/codes/${codeFile}`,
+                `data/codes/${codeFile}`,
+                `https://raw.githubusercontent.com/Ronaldo-hub/ernies-driving-school/main/data/codes/${codeFile}`
+            ];
 
-            const resDiv = document.getElementById('test-result');
-            resDiv.classList.remove('hidden');
+            let loadedData = null;
 
-            if (!q1 || !q2 || !q3) {
-                resDiv.className = "p-4 rounded-xl border text-sm font-medium bg-amber-950/60 border-amber-800 text-amber-300";
-                resDiv.innerHTML = "<i class='fas fa-exclamation-triangle mr-2'></i> Please select an answer for all 3 questions before submitting.";
-                return;
+            for (const path of pathsToTry) {
+                try {
+                    const response = await fetch(path);
+                    if (response.ok) {
+                        loadedData = await response.json();
+                        break;
+                    }
+                } catch (e) {
+                    console.warn(`Failed fetching from ${path}, trying fallback...`);
+                }
             }
 
-            let score = 0;
-            if (q1 === 'B') score++;
-            if (q2 === 'B') score++;
-            if (q3 === 'B') score++;
-
-            if (score === 3) {
-                resDiv.className = "p-4 rounded-xl border text-sm font-medium bg-emerald-950/60 border-emerald-800 text-emerald-300";
-                resDiv.innerHTML = `<i class='fas fa-trophy mr-2'></i> <strong>Perfect Score! 3/3 (100%)</strong><br>Excellent work! You are ready to tackle the full computerized K53 Learners prep classes.`;
+            if (loadedData && loadedData.questions) {
+                currentQuestions = loadedData.questions;
+                currentIndex = 0;
+                score = 0;
+                renderQuestion();
             } else {
-                resDiv.className = "p-4 rounded-xl border text-sm font-medium bg-red-950/60 border-red-800 text-red-300";
-                resDiv.innerHTML = `<i class='fas fa-info-circle mr-2'></i> <strong>Score: ${score}/3</strong><br>Correct Answers: 1-B (120 km/h), 2-B (360 observation & blind spot), 3-B (Stop). Book our R750 course to master all rules!`;
+                document.getElementById('question-text').innerText = "Error loading dataset. Please check path configuration.";
             }
         }
+
+        function renderQuestion() {
+            if (!currentQuestions || currentQuestions.length === 0) return;
+
+            const q = currentQuestions[currentIndex];
+            const selectedLang = document.getElementById('select-lang').value;
+            const selectedPersona = document.getElementById('select-persona').value;
+            const personaName = document.getElementById('select-persona').options[document.getElementById('select-persona').selectedIndex].text;
+
+            document.getElementById('question-tracker').innerText = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
+            document.getElementById('persona-badge').innerText = `${personaName}`;
+
+            const questionText = (q.question && q.question[selectedLang]) ? q.question[selectedLang] : (q.question ? q.question['en'] : '');
+            const options = (q.options && q.options[selectedLang]) ? q.options[selectedLang] : (q.options ? q.options['en'] : {});
+
+            document.getElementById('question-text').innerText = questionText;
+
+            const optionsContainer = document.getElementById('options-container');
+            optionsContainer.innerHTML = '';
+            document.getElementById('feedback-box').classList.add('hidden');
+            document.getElementById('next-btn').classList.add('hidden');
+
+            Object.keys(options).forEach(key => {
+                const btn = document.createElement('button');
+                btn.className = "w-full text-left p-4 bg-zinc-950 hover:bg-zinc-800 border border-zinc-800 rounded-xl transition text-sm flex items-center gap-3";
+                btn.innerHTML = `<span class="font-bold text-red-500">${key}</span> <span>${options[key]}</span>`;
+                btn.onclick = () => checkAnswer(key, q.correct_answer, q.explanation);
+                optionsContainer.appendChild(btn);
+            });
+        }
+
+        function checkAnswer(selectedKey, correctKey, explanation) {
+            const feedbackBox = document.getElementById('feedback-box');
+            const selectedLang = document.getElementById('select-lang').value;
+            const selectedPersona = document.getElementById('select-persona').value;
+            
+            feedbackBox.classList.remove('hidden');
+
+            const explanationText = (explanation && explanation[selectedLang]) ? explanation[selectedLang] : (explanation ? explanation['en'] : '');
+            const prefix = personaPrefixes[selectedPersona] || '';
+
+            if (selectedKey === correctKey) {
+                score++;
+                feedbackBox.className = "p-4 rounded-xl mb-6 text-sm bg-green-950/80 border border-green-800 text-green-200";
+                feedbackBox.innerHTML = `<strong>Correct!</strong><br>${prefix}${explanationText}`;
+            } else {
+                feedbackBox.className = "p-4 rounded-xl mb-6 text-sm bg-red-950/80 border border-red-800 text-red-200";
+                feedbackBox.innerHTML = `<strong>Incorrect (Correct answer is ${correctKey}).</strong><br>${prefix}${explanationText}`;
+            }
+
+            document.getElementById('next-btn').classList.remove('hidden');
+        }
+
+        function nextQuestion() {
+            currentIndex++;
+            if (currentIndex < currentQuestions.length) {
+                renderQuestion();
+            } else {
+                showResults();
+            }
+        }
+
+        function showResults() {
+            document.getElementById('quiz-container').innerHTML = `
+                <div class="text-center py-8">
+                    <h3 class="text-2xl font-black mb-2">Test Completed!</h3>
+                    <p class="text-zinc-400 text-sm mb-6">Your Score: <span class="text-white font-bold">${score} / ${currentQuestions.length}</span></p>
+                    <button onclick="restartQuiz()" class="bg-red-600 hover:bg-red-700 text-white font-bold py-3 px-8 rounded-xl text-sm uppercase tracking-wider">
+                        Retake Test
+                    </button>
+                </div>
+            `;
+        }
+
+        function restartQuiz() {
+            location.reload();
+        }
+
+        // Initialize default view
+        window.onload = loadSelectedDataset;
     </script>
 </body>
 </html>

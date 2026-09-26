@@ -1,0 +1,1691 @@
+{
+  "code_id": "code1_motorcycle",
+  "code_name": "Code 1 - Motorcycles / Bikes",
+  "total_questions": 20,
+  "difficulty_breakdown": {
+    "easy": 10,
+    "hard": 10
+  },
+  "questions": [
+    {
+      "id": 1,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is mandatory for both a motorcycle rider and passenger regarding headwear while riding on a public road?",
+        "af": "[AF] What is mandatory for both a motorcycle rider and passenger regarding headwear while riding on a public road?",
+        "xh": "[XH] What is mandatory for both a motorcycle rider and passenger regarding headwear while riding on a public road?",
+        "zu": "[ZU] What is mandatory for both a motorcycle rider and passenger regarding headwear while riding on a public road?",
+        "st": "[ST] What is mandatory for both a motorcycle rider and passenger regarding headwear while riding on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) A protective helmet securely fastened with a chin strap.",
+          "B": "B) A cap or sun hat.",
+          "C": "C) Helmets are optional under 60 km/h."
+        },
+        "af": {
+          "A": "[AF] A) A protective helmet securely fastened with a chin strap.",
+          "B": "[AF] B) A cap or sun hat.",
+          "C": "[AF] C) Helmets are optional under 60 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) A protective helmet securely fastened with a chin strap.",
+          "B": "[XH] B) A cap or sun hat.",
+          "C": "[XH] C) Helmets are optional under 60 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) A protective helmet securely fastened with a chin strap.",
+          "B": "[ZU] B) A cap or sun hat.",
+          "C": "[ZU] C) Helmets are optional under 60 km/h."
+        },
+        "st": {
+          "A": "[ST] A) A protective helmet securely fastened with a chin strap.",
+          "B": "[ST] B) A cap or sun hat.",
+          "C": "[ST] C) Helmets are optional under 60 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.",
+        "af": "[AF] A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.",
+        "xh": "[XH] A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.",
+        "zu": "[ZU] A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.",
+        "st": "[ST] A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Rider and pillion passenger putting on safety helmets and securely fastening chin straps before starting the motorcycle."
+      },
+      "memory_tricks": {
+        "en": "Helmet Rule: No Helmet = No Ride! Always strap it tight!",
+        "af": "[AF] Helmet Rule: No Helmet = No Ride! Always strap it tight!",
+        "xh": "[XH] Helmet Rule: No Helmet = No Ride! Always strap it tight!",
+        "zu": "[ZU] Helmet Rule: No Helmet = No Ride! Always strap it tight!",
+        "st": "[ST] Helmet Rule: No Helmet = No Ride! Always strap it tight!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "Which control on a motorcycle is operated by the right hand twist-grip?",
+        "af": "[AF] Which control on a motorcycle is operated by the right hand twist-grip?",
+        "xh": "[XH] Which control on a motorcycle is operated by the right hand twist-grip?",
+        "zu": "[ZU] Which control on a motorcycle is operated by the right hand twist-grip?",
+        "st": "[ST] Which control on a motorcycle is operated by the right hand twist-grip?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Throttle / Accelerator.",
+          "B": "B) Clutch lever.",
+          "C": "C) Rear foot brake."
+        },
+        "af": {
+          "A": "[AF] A) Throttle / Accelerator.",
+          "B": "[AF] B) Clutch lever.",
+          "C": "[AF] C) Rear foot brake."
+        },
+        "xh": {
+          "A": "[XH] A) Throttle / Accelerator.",
+          "B": "[XH] B) Clutch lever.",
+          "C": "[XH] C) Rear foot brake."
+        },
+        "zu": {
+          "A": "[ZU] A) Throttle / Accelerator.",
+          "B": "[ZU] B) Clutch lever.",
+          "C": "[ZU] C) Rear foot brake."
+        },
+        "st": {
+          "A": "[ST] A) Throttle / Accelerator.",
+          "B": "[ST] B) Clutch lever.",
+          "C": "[ST] C) Rear foot brake."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The right handlebar twist-grip operates the throttle to increase or decrease engine speed.",
+        "af": "[AF] The right handlebar twist-grip operates the throttle to increase or decrease engine speed.",
+        "xh": "[XH] The right handlebar twist-grip operates the throttle to increase or decrease engine speed.",
+        "zu": "[ZU] The right handlebar twist-grip operates the throttle to increase or decrease engine speed.",
+        "st": "[ST] The right handlebar twist-grip operates the throttle to increase or decrease engine speed."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Close-up of rider's right hand twisting the throttle grip on the right handlebar."
+      },
+      "memory_tricks": {
+        "en": "Right Twist = Throttle Go! Right Hand Controls Speed!",
+        "af": "[AF] Right Twist = Throttle Go! Right Hand Controls Speed!",
+        "xh": "[XH] Right Twist = Throttle Go! Right Hand Controls Speed!",
+        "zu": "[ZU] Right Twist = Throttle Go! Right Hand Controls Speed!",
+        "st": "[ST] Right Twist = Throttle Go! Right Hand Controls Speed!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does an octagonal red sign with white lettering 'STOP' require a motorcycle rider to do?",
+        "af": "[AF] What does an octagonal red sign with white lettering 'STOP' require a motorcycle rider to do?",
+        "xh": "[XH] What does an octagonal red sign with white lettering 'STOP' require a motorcycle rider to do?",
+        "zu": "[ZU] What does an octagonal red sign with white lettering 'STOP' require a motorcycle rider to do?",
+        "st": "[ST] What does an octagonal red sign with white lettering 'STOP' require a motorcycle rider to do?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Bring the motorcycle to a complete standstill before the stop line.",
+          "B": "B) Slow down and proceed if no cars are coming.",
+          "C": "C) Swerve around the stop line."
+        },
+        "af": {
+          "A": "[AF] A) Bring the motorcycle to a complete standstill before the stop line.",
+          "B": "[AF] B) Slow down and proceed if no cars are coming.",
+          "C": "[AF] C) Swerve around the stop line."
+        },
+        "xh": {
+          "A": "[XH] A) Bring the motorcycle to a complete standstill before the stop line.",
+          "B": "[XH] B) Slow down and proceed if no cars are coming.",
+          "C": "[XH] C) Swerve around the stop line."
+        },
+        "zu": {
+          "A": "[ZU] A) Bring the motorcycle to a complete standstill before the stop line.",
+          "B": "[ZU] B) Slow down and proceed if no cars are coming.",
+          "C": "[ZU] C) Swerve around the stop line."
+        },
+        "st": {
+          "A": "[ST] A) Bring the motorcycle to a complete standstill before the stop line.",
+          "B": "[ST] B) Slow down and proceed if no cars are coming.",
+          "C": "[ST] C) Swerve around the stop line."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The R1 Stop sign requires a complete halt of the vehicle before the stop line.",
+        "af": "[AF] The R1 Stop sign requires a complete halt of the vehicle before the stop line.",
+        "xh": "[XH] The R1 Stop sign requires a complete halt of the vehicle before the stop line.",
+        "zu": "[ZU] The R1 Stop sign requires a complete halt of the vehicle before the stop line.",
+        "st": "[ST] The R1 Stop sign requires a complete halt of the vehicle before the stop line."
+      },
+      "media": {
+        "graphic_type": "stop_sign",
+        "image_file": "stop_sign.png",
+        "video_simulation_prompt": "3D Animation: Motorcycle approaching a red octagonal STOP sign, applying brakes, and coming to a complete stop before the white line."
+      },
+      "memory_tricks": {
+        "en": "Stop Means STOP: Complete halt, feet down, check both ways!",
+        "af": "[AF] Stop Means STOP: Complete halt, feet down, check both ways!",
+        "xh": "[XH] Stop Means STOP: Complete halt, feet down, check both ways!",
+        "zu": "[ZU] Stop Means STOP: Complete halt, feet down, check both ways!",
+        "st": "[ST] Stop Means STOP: Complete halt, feet down, check both ways!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The R1 Stop sign requires a complete halt of the vehicle before the stop line. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The R1 Stop sign requires a complete halt of the vehicle before the stop line. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the general urban speed limit for motorcycles in South Africa unless indicated otherwise?",
+        "af": "[AF] What is the general urban speed limit for motorcycles in South Africa unless indicated otherwise?",
+        "xh": "[XH] What is the general urban speed limit for motorcycles in South Africa unless indicated otherwise?",
+        "zu": "[ZU] What is the general urban speed limit for motorcycles in South Africa unless indicated otherwise?",
+        "st": "[ST] What is the general urban speed limit for motorcycles in South Africa unless indicated otherwise?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 60 km/h.",
+          "B": "B) 80 km/h.",
+          "C": "C) 100 km/h."
+        },
+        "af": {
+          "A": "[AF] A) 60 km/h.",
+          "B": "[AF] B) 80 km/h.",
+          "C": "[AF] C) 100 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) 60 km/h.",
+          "B": "[XH] B) 80 km/h.",
+          "C": "[XH] C) 100 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) 60 km/h.",
+          "B": "[ZU] B) 80 km/h.",
+          "C": "[ZU] C) 100 km/h."
+        },
+        "st": {
+          "A": "[ST] A) 60 km/h.",
+          "B": "[ST] B) 80 km/h.",
+          "C": "[ST] C) 100 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The general speed limit within urban residential and business areas is 60 km/h.",
+        "af": "[AF] The general speed limit within urban residential and business areas is 60 km/h.",
+        "xh": "[XH] The general speed limit within urban residential and business areas is 60 km/h.",
+        "zu": "[ZU] The general speed limit within urban residential and business areas is 60 km/h.",
+        "st": "[ST] The general speed limit within urban residential and business areas is 60 km/h."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Motorcycle riding smoothly through a city street with speed gauge showing 60 km/h indicator."
+      },
+      "memory_tricks": {
+        "en": "60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!",
+        "af": "[AF] 60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!",
+        "xh": "[XH] 60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!",
+        "zu": "[ZU] 60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!",
+        "st": "[ST] 60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The general speed limit within urban residential and business areas is 60 km/h.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The general speed limit within urban residential and business areas is 60 km/h.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The general speed limit within urban residential and business areas is 60 km/h.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The general speed limit within urban residential and business areas is 60 km/h.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The general speed limit within urban residential and business areas is 60 km/h.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The general speed limit within urban residential and business areas is 60 km/h. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The general speed limit within urban residential and business areas is 60 km/h. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The general speed limit within urban residential and business areas is 60 km/h. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The general speed limit within urban residential and business areas is 60 km/h. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The general speed limit within urban residential and business areas is 60 km/h. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The general speed limit within urban residential and business areas is 60 km/h. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The general speed limit within urban residential and business areas is 60 km/h. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The general speed limit within urban residential and business areas is 60 km/h. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The general speed limit within urban residential and business areas is 60 km/h. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The general speed limit within urban residential and business areas is 60 km/h. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "Which hand lever operates the front brake on a standard motorcycle?",
+        "af": "[AF] Which hand lever operates the front brake on a standard motorcycle?",
+        "xh": "[XH] Which hand lever operates the front brake on a standard motorcycle?",
+        "zu": "[ZU] Which hand lever operates the front brake on a standard motorcycle?",
+        "st": "[ST] Which hand lever operates the front brake on a standard motorcycle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Right hand lever on the handlebar.",
+          "B": "B) Left hand lever on the handlebar.",
+          "C": "C) Foot pedal on the left side."
+        },
+        "af": {
+          "A": "[AF] A) Right hand lever on the handlebar.",
+          "B": "[AF] B) Left hand lever on the handlebar.",
+          "C": "[AF] C) Foot pedal on the left side."
+        },
+        "xh": {
+          "A": "[XH] A) Right hand lever on the handlebar.",
+          "B": "[XH] B) Left hand lever on the handlebar.",
+          "C": "[XH] C) Foot pedal on the left side."
+        },
+        "zu": {
+          "A": "[ZU] A) Right hand lever on the handlebar.",
+          "B": "[ZU] B) Left hand lever on the handlebar.",
+          "C": "[ZU] C) Foot pedal on the left side."
+        },
+        "st": {
+          "A": "[ST] A) Right hand lever on the handlebar.",
+          "B": "[ST] B) Left hand lever on the handlebar.",
+          "C": "[ST] C) Foot pedal on the left side."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The right hand lever operates the front brake, providing up to 70% of stopping power.",
+        "af": "[AF] The right hand lever operates the front brake, providing up to 70% of stopping power.",
+        "xh": "[XH] The right hand lever operates the front brake, providing up to 70% of stopping power.",
+        "zu": "[ZU] The right hand lever operates the front brake, providing up to 70% of stopping power.",
+        "st": "[ST] The right hand lever operates the front brake, providing up to 70% of stopping power."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Hand squeezing the right handlebar lever, highlighting the front brake caliper clamping the disc brake."
+      },
+      "memory_tricks": {
+        "en": "Right Hand = Right Front Brake! Provides most stopping power!",
+        "af": "[AF] Right Hand = Right Front Brake! Provides most stopping power!",
+        "xh": "[XH] Right Hand = Right Front Brake! Provides most stopping power!",
+        "zu": "[ZU] Right Hand = Right Front Brake! Provides most stopping power!",
+        "st": "[ST] Right Hand = Right Front Brake! Provides most stopping power!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The right hand lever operates the front brake, providing up to 70% of stopping power. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The right hand lever operates the front brake, providing up to 70% of stopping power. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The right hand lever operates the front brake, providing up to 70% of stopping power. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The right hand lever operates the front brake, providing up to 70% of stopping power. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The right hand lever operates the front brake, providing up to 70% of stopping power. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The right hand lever operates the front brake, providing up to 70% of stopping power. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The right hand lever operates the front brake, providing up to 70% of stopping power. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The right hand lever operates the front brake, providing up to 70% of stopping power. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The right hand lever operates the front brake, providing up to 70% of stopping power. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The right hand lever operates the front brake, providing up to 70% of stopping power. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular blue sign displaying a white bicycle/motorcycle symbol indicate?",
+        "af": "[AF] What does a circular blue sign displaying a white bicycle/motorcycle symbol indicate?",
+        "xh": "[XH] What does a circular blue sign displaying a white bicycle/motorcycle symbol indicate?",
+        "zu": "[ZU] What does a circular blue sign displaying a white bicycle/motorcycle symbol indicate?",
+        "st": "[ST] What does a circular blue sign displaying a white bicycle/motorcycle symbol indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Reserved lane or track for two-wheeled vehicles.",
+          "B": "B) No motorcycles allowed.",
+          "C": "C) Warning of slippery road."
+        },
+        "af": {
+          "A": "[AF] A) Reserved lane or track for two-wheeled vehicles.",
+          "B": "[AF] B) No motorcycles allowed.",
+          "C": "[AF] C) Warning of slippery road."
+        },
+        "xh": {
+          "A": "[XH] A) Reserved lane or track for two-wheeled vehicles.",
+          "B": "[XH] B) No motorcycles allowed.",
+          "C": "[XH] C) Warning of slippery road."
+        },
+        "zu": {
+          "A": "[ZU] A) Reserved lane or track for two-wheeled vehicles.",
+          "B": "[ZU] B) No motorcycles allowed.",
+          "C": "[ZU] C) Warning of slippery road."
+        },
+        "st": {
+          "A": "[ST] A) Reserved lane or track for two-wheeled vehicles.",
+          "B": "[ST] B) No motorcycles allowed.",
+          "C": "[ST] C) Warning of slippery road."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.",
+        "af": "[AF] Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.",
+        "xh": "[XH] Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.",
+        "zu": "[ZU] Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.",
+        "st": "[ST] Blue circular command signs dictate mandatory reservations or permitted vehicle tracks."
+      },
+      "media": {
+        "graphic_type": "cycle_reservation",
+        "image_file": "cycle_reservation.png",
+        "video_simulation_prompt": "3D Animation: Motorcycle riding along a designated lane marked with blue circular command signs."
+      },
+      "memory_tricks": {
+        "en": "Blue Disc = COMMAND! You MUST follow the blue command!",
+        "af": "[AF] Blue Disc = COMMAND! You MUST follow the blue command!",
+        "xh": "[XH] Blue Disc = COMMAND! You MUST follow the blue command!",
+        "zu": "[ZU] Blue Disc = COMMAND! You MUST follow the blue command!",
+        "st": "[ST] Blue Disc = COMMAND! You MUST follow the blue command!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "Must a motorcycle rider keep the headlight switched on during daylight hours on public roads?",
+        "af": "[AF] Must a motorcycle rider keep the headlight switched on during daylight hours on public roads?",
+        "xh": "[XH] Must a motorcycle rider keep the headlight switched on during daylight hours on public roads?",
+        "zu": "[ZU] Must a motorcycle rider keep the headlight switched on during daylight hours on public roads?",
+        "st": "[ST] Must a motorcycle rider keep the headlight switched on during daylight hours on public roads?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Yes, dipped beam headlight must be on at all times.",
+          "B": "B) No, only between sunset and sunrise.",
+          "C": "C) Only when raining."
+        },
+        "af": {
+          "A": "[AF] A) Yes, dipped beam headlight must be on at all times.",
+          "B": "[AF] B) No, only between sunset and sunrise.",
+          "C": "[AF] C) Only when raining."
+        },
+        "xh": {
+          "A": "[XH] A) Yes, dipped beam headlight must be on at all times.",
+          "B": "[XH] B) No, only between sunset and sunrise.",
+          "C": "[XH] C) Only when raining."
+        },
+        "zu": {
+          "A": "[ZU] A) Yes, dipped beam headlight must be on at all times.",
+          "B": "[ZU] B) No, only between sunset and sunrise.",
+          "C": "[ZU] C) Only when raining."
+        },
+        "st": {
+          "A": "[ST] A) Yes, dipped beam headlight must be on at all times.",
+          "B": "[ST] B) No, only between sunset and sunrise.",
+          "C": "[ST] C) Only when raining."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.",
+        "af": "[AF] Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.",
+        "xh": "[XH] Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.",
+        "zu": "[ZU] Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.",
+        "st": "[ST] Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility."
+      },
+      "media": {
+        "graphic_type": "headlights_command",
+        "image_file": "headlights_command.png",
+        "video_simulation_prompt": "3D Animation: Motorcycle riding in bright sunlight with its front dipped beam headlight illuminated."
+      },
+      "memory_tricks": {
+        "en": "Always On: Headlight ON by day keeps danger away!",
+        "af": "[AF] Always On: Headlight ON by day keeps danger away!",
+        "xh": "[XH] Always On: Headlight ON by day keeps danger away!",
+        "zu": "[ZU] Always On: Headlight ON by day keeps danger away!",
+        "st": "[ST] Always On: Headlight ON by day keeps danger away!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "How is the rear brake operated on a standard motorcycle?",
+        "af": "[AF] How is the rear brake operated on a standard motorcycle?",
+        "xh": "[XH] How is the rear brake operated on a standard motorcycle?",
+        "zu": "[ZU] How is the rear brake operated on a standard motorcycle?",
+        "st": "[ST] How is the rear brake operated on a standard motorcycle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Right foot pedal.",
+          "B": "B) Left hand lever.",
+          "C": "C) Right hand twist-grip."
+        },
+        "af": {
+          "A": "[AF] A) Right foot pedal.",
+          "B": "[AF] B) Left hand lever.",
+          "C": "[AF] C) Right hand twist-grip."
+        },
+        "xh": {
+          "A": "[XH] A) Right foot pedal.",
+          "B": "[XH] B) Left hand lever.",
+          "C": "[XH] C) Right hand twist-grip."
+        },
+        "zu": {
+          "A": "[ZU] A) Right foot pedal.",
+          "B": "[ZU] B) Left hand lever.",
+          "C": "[ZU] C) Right hand twist-grip."
+        },
+        "st": {
+          "A": "[ST] A) Right foot pedal.",
+          "B": "[ST] B) Left hand lever.",
+          "C": "[ST] C) Right hand twist-grip."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The rear brake is activated by pressing down on the right foot lever.",
+        "af": "[AF] The rear brake is activated by pressing down on the right foot lever.",
+        "xh": "[XH] The rear brake is activated by pressing down on the right foot lever.",
+        "zu": "[ZU] The rear brake is activated by pressing down on the right foot lever.",
+        "st": "[ST] The rear brake is activated by pressing down on the right foot lever."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Close-up of rider's right boot pressing down on the right foot brake lever."
+      },
+      "memory_tricks": {
+        "en": "Right Foot = Rear Brake! Right Hand = Front Brake!",
+        "af": "[AF] Right Foot = Rear Brake! Right Hand = Front Brake!",
+        "xh": "[XH] Right Foot = Rear Brake! Right Hand = Front Brake!",
+        "zu": "[ZU] Right Foot = Rear Brake! Right Hand = Front Brake!",
+        "st": "[ST] Right Foot = Rear Brake! Right Hand = Front Brake!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The rear brake is activated by pressing down on the right foot lever.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The rear brake is activated by pressing down on the right foot lever.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The rear brake is activated by pressing down on the right foot lever.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The rear brake is activated by pressing down on the right foot lever.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The rear brake is activated by pressing down on the right foot lever.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The rear brake is activated by pressing down on the right foot lever. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The rear brake is activated by pressing down on the right foot lever. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The rear brake is activated by pressing down on the right foot lever. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The rear brake is activated by pressing down on the right foot lever. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The rear brake is activated by pressing down on the right foot lever. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The rear brake is activated by pressing down on the right foot lever. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The rear brake is activated by pressing down on the right foot lever. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The rear brake is activated by pressing down on the right foot lever. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The rear brake is activated by pressing down on the right foot lever. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The rear brake is activated by pressing down on the right foot lever. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does an inverted triangular sign with a red border (Yield Sign R2) require?",
+        "af": "[AF] What does an inverted triangular sign with a red border (Yield Sign R2) require?",
+        "xh": "[XH] What does an inverted triangular sign with a red border (Yield Sign R2) require?",
+        "zu": "[ZU] What does an inverted triangular sign with a red border (Yield Sign R2) require?",
+        "st": "[ST] What does an inverted triangular sign with a red border (Yield Sign R2) require?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Give way to all cross traffic and pedestrians.",
+          "B": "B) Accelerate ahead of other traffic.",
+          "C": "C) Stop for exactly 3 seconds always."
+        },
+        "af": {
+          "A": "[AF] A) Give way to all cross traffic and pedestrians.",
+          "B": "[AF] B) Accelerate ahead of other traffic.",
+          "C": "[AF] C) Stop for exactly 3 seconds always."
+        },
+        "xh": {
+          "A": "[XH] A) Give way to all cross traffic and pedestrians.",
+          "B": "[XH] B) Accelerate ahead of other traffic.",
+          "C": "[XH] C) Stop for exactly 3 seconds always."
+        },
+        "zu": {
+          "A": "[ZU] A) Give way to all cross traffic and pedestrians.",
+          "B": "[ZU] B) Accelerate ahead of other traffic.",
+          "C": "[ZU] C) Stop for exactly 3 seconds always."
+        },
+        "st": {
+          "A": "[ST] A) Give way to all cross traffic and pedestrians.",
+          "B": "[ST] B) Accelerate ahead of other traffic.",
+          "C": "[ST] C) Stop for exactly 3 seconds always."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The R2 Yield sign requires giving right-of-way to approaching traffic before entering.",
+        "af": "[AF] The R2 Yield sign requires giving right-of-way to approaching traffic before entering.",
+        "xh": "[XH] The R2 Yield sign requires giving right-of-way to approaching traffic before entering.",
+        "zu": "[ZU] The R2 Yield sign requires giving right-of-way to approaching traffic before entering.",
+        "st": "[ST] The R2 Yield sign requires giving right-of-way to approaching traffic before entering."
+      },
+      "media": {
+        "graphic_type": "yield_sign",
+        "image_file": "yield_sign.png",
+        "video_simulation_prompt": "3D Animation: Motorcycle slowing down at an inverted triangle Yield sign and waiting for a car to pass."
+      },
+      "memory_tricks": {
+        "en": "Yield = Give Way! Pointing down means slow down and give way!",
+        "af": "[AF] Yield = Give Way! Pointing down means slow down and give way!",
+        "xh": "[XH] Yield = Give Way! Pointing down means slow down and give way!",
+        "zu": "[ZU] Yield = Give Way! Pointing down means slow down and give way!",
+        "st": "[ST] Yield = Give Way! Pointing down means slow down and give way!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "Where must a motorcycle rider position their feet while the motorcycle is in motion?",
+        "af": "[AF] Where must a motorcycle rider position their feet while the motorcycle is in motion?",
+        "xh": "[XH] Where must a motorcycle rider position their feet while the motorcycle is in motion?",
+        "zu": "[ZU] Where must a motorcycle rider position their feet while the motorcycle is in motion?",
+        "st": "[ST] Where must a motorcycle rider position their feet while the motorcycle is in motion?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Resting securely on the footrests.",
+          "B": "B) Dangling near the road surface.",
+          "C": "C) Resting on the front mudguard."
+        },
+        "af": {
+          "A": "[AF] A) Resting securely on the footrests.",
+          "B": "[AF] B) Dangling near the road surface.",
+          "C": "[AF] C) Resting on the front mudguard."
+        },
+        "xh": {
+          "A": "[XH] A) Resting securely on the footrests.",
+          "B": "[XH] B) Dangling near the road surface.",
+          "C": "[XH] C) Resting on the front mudguard."
+        },
+        "zu": {
+          "A": "[ZU] A) Resting securely on the footrests.",
+          "B": "[ZU] B) Dangling near the road surface.",
+          "C": "[ZU] C) Resting on the front mudguard."
+        },
+        "st": {
+          "A": "[ST] A) Resting securely on the footrests.",
+          "B": "[ST] B) Dangling near the road surface.",
+          "C": "[ST] C) Resting on the front mudguard."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Riders and passengers must keep their feet securely positioned on footrests while in motion.",
+        "af": "[AF] Riders and passengers must keep their feet securely positioned on footrests while in motion.",
+        "xh": "[XH] Riders and passengers must keep their feet securely positioned on footrests while in motion.",
+        "zu": "[ZU] Riders and passengers must keep their feet securely positioned on footrests while in motion.",
+        "st": "[ST] Riders and passengers must keep their feet securely positioned on footrests while in motion."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Rider positioning both boots firmly on foot pegs while riding along a curve."
+      },
+      "memory_tricks": {
+        "en": "Feet on Pegs: Keep feet firmly on pegs for control and safety!",
+        "af": "[AF] Feet on Pegs: Keep feet firmly on pegs for control and safety!",
+        "xh": "[XH] Feet on Pegs: Keep feet firmly on pegs for control and safety!",
+        "zu": "[ZU] Feet on Pegs: Keep feet firmly on pegs for control and safety!",
+        "st": "[ST] Feet on Pegs: Keep feet firmly on pegs for control and safety!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Riders and passengers must keep their feet securely positioned on footrests while in motion. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Riders and passengers must keep their feet securely positioned on footrests while in motion. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Riders and passengers must keep their feet securely positioned on footrests while in motion. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Riders and passengers must keep their feet securely positioned on footrests while in motion. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Riders and passengers must keep their feet securely positioned on footrests while in motion. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Riders and passengers must keep their feet securely positioned on footrests while in motion. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "Under what condition may a motorcycle carry a pillion passenger?",
+        "af": "[AF] Under what condition may a motorcycle carry a pillion passenger?",
+        "xh": "[XH] Under what condition may a motorcycle carry a pillion passenger?",
+        "zu": "[ZU] Under what condition may a motorcycle carry a pillion passenger?",
+        "st": "[ST] Under what condition may a motorcycle carry a pillion passenger?"
+      },
+      "options": {
+        "en": {
+          "A": "A) If equipped with a suitable pillion seat, footrests, and passenger is over 10 years old with feet reaching footrests.",
+          "B": "B) Any passenger under 50 kg sitting on the fuel tank.",
+          "C": "C) Up to two passengers if sitting behind the rider."
+        },
+        "af": {
+          "A": "[AF] A) If equipped with a suitable pillion seat, footrests, and passenger is over 10 years old with feet reaching footrests.",
+          "B": "[AF] B) Any passenger under 50 kg sitting on the fuel tank.",
+          "C": "[AF] C) Up to two passengers if sitting behind the rider."
+        },
+        "xh": {
+          "A": "[XH] A) If equipped with a suitable pillion seat, footrests, and passenger is over 10 years old with feet reaching footrests.",
+          "B": "[XH] B) Any passenger under 50 kg sitting on the fuel tank.",
+          "C": "[XH] C) Up to two passengers if sitting behind the rider."
+        },
+        "zu": {
+          "A": "[ZU] A) If equipped with a suitable pillion seat, footrests, and passenger is over 10 years old with feet reaching footrests.",
+          "B": "[ZU] B) Any passenger under 50 kg sitting on the fuel tank.",
+          "C": "[ZU] C) Up to two passengers if sitting behind the rider."
+        },
+        "st": {
+          "A": "[ST] A) If equipped with a suitable pillion seat, footrests, and passenger is over 10 years old with feet reaching footrests.",
+          "B": "[ST] B) Any passenger under 50 kg sitting on the fuel tank.",
+          "C": "[ST] C) Up to two passengers if sitting behind the rider."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.",
+        "af": "[AF] Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.",
+        "xh": "[XH] Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.",
+        "zu": "[ZU] Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.",
+        "st": "[ST] Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Demonstrates a properly equipped motorcycle with dual foot pegs and helmeted passenger vs illegal seating."
+      },
+      "memory_tricks": {
+        "en": "Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!",
+        "af": "[AF] Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!",
+        "xh": "[XH] Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!",
+        "zu": "[ZU] Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!",
+        "st": "[ST] Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the legal restriction regarding riding motorcycles abreast (side-by-side) in the same lane?",
+        "af": "[AF] What is the legal restriction regarding riding motorcycles abreast (side-by-side) in the same lane?",
+        "xh": "[XH] What is the legal restriction regarding riding motorcycles abreast (side-by-side) in the same lane?",
+        "zu": "[ZU] What is the legal restriction regarding riding motorcycles abreast (side-by-side) in the same lane?",
+        "st": "[ST] What is the legal restriction regarding riding motorcycles abreast (side-by-side) in the same lane?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Maximum of two motorcycles may ride abreast in a single lane, provided the lane width allows it safely.",
+          "B": "B) Unlimited motorcycles may pack into one lane.",
+          "C": "C) Riding abreast is strictly illegal in all circumstances."
+        },
+        "af": {
+          "A": "[AF] A) Maximum of two motorcycles may ride abreast in a single lane, provided the lane width allows it safely.",
+          "B": "[AF] B) Unlimited motorcycles may pack into one lane.",
+          "C": "[AF] C) Riding abreast is strictly illegal in all circumstances."
+        },
+        "xh": {
+          "A": "[XH] A) Maximum of two motorcycles may ride abreast in a single lane, provided the lane width allows it safely.",
+          "B": "[XH] B) Unlimited motorcycles may pack into one lane.",
+          "C": "[XH] C) Riding abreast is strictly illegal in all circumstances."
+        },
+        "zu": {
+          "A": "[ZU] A) Maximum of two motorcycles may ride abreast in a single lane, provided the lane width allows it safely.",
+          "B": "[ZU] B) Unlimited motorcycles may pack into one lane.",
+          "C": "[ZU] C) Riding abreast is strictly illegal in all circumstances."
+        },
+        "st": {
+          "A": "[ST] A) Maximum of two motorcycles may ride abreast in a single lane, provided the lane width allows it safely.",
+          "B": "[ST] B) Unlimited motorcycles may pack into one lane.",
+          "C": "[ST] C) Riding abreast is strictly illegal in all circumstances."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Not more than two motorcycles may ride side-by-side in a single traffic lane.",
+        "af": "[AF] Not more than two motorcycles may ride side-by-side in a single traffic lane.",
+        "xh": "[XH] Not more than two motorcycles may ride side-by-side in a single traffic lane.",
+        "zu": "[ZU] Not more than two motorcycles may ride side-by-side in a single traffic lane.",
+        "st": "[ST] Not more than two motorcycles may ride side-by-side in a single traffic lane."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Two motorcycles riding staggered abreast within one lane, showing safe clearance."
+      },
+      "memory_tricks": {
+        "en": "Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!",
+        "af": "[AF] Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!",
+        "xh": "[XH] Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!",
+        "zu": "[ZU] Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!",
+        "st": "[ST] Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Not more than two motorcycles may ride side-by-side in a single traffic lane. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Not more than two motorcycles may ride side-by-side in a single traffic lane. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Not more than two motorcycles may ride side-by-side in a single traffic lane. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Not more than two motorcycles may ride side-by-side in a single traffic lane. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Not more than two motorcycles may ride side-by-side in a single traffic lane. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Not more than two motorcycles may ride side-by-side in a single traffic lane. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the minimum engine displacement allowed for a motorcycle to operate legally on a freeway?",
+        "af": "[AF] What is the minimum engine displacement allowed for a motorcycle to operate legally on a freeway?",
+        "xh": "[XH] What is the minimum engine displacement allowed for a motorcycle to operate legally on a freeway?",
+        "zu": "[ZU] What is the minimum engine displacement allowed for a motorcycle to operate legally on a freeway?",
+        "st": "[ST] What is the minimum engine displacement allowed for a motorcycle to operate legally on a freeway?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Exceeding 50 cc (50cm\u00b3).",
+          "B": "B) Exceeding 125 cc.",
+          "C": "C) Any engine size if traveling over 60 km/h."
+        },
+        "af": {
+          "A": "[AF] A) Exceeding 50 cc (50cm\u00b3).",
+          "B": "[AF] B) Exceeding 125 cc.",
+          "C": "[AF] C) Any engine size if traveling over 60 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) Exceeding 50 cc (50cm\u00b3).",
+          "B": "[XH] B) Exceeding 125 cc.",
+          "C": "[XH] C) Any engine size if traveling over 60 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) Exceeding 50 cc (50cm\u00b3).",
+          "B": "[ZU] B) Exceeding 125 cc.",
+          "C": "[ZU] C) Any engine size if traveling over 60 km/h."
+        },
+        "st": {
+          "A": "[ST] A) Exceeding 50 cc (50cm\u00b3).",
+          "B": "[ST] B) Exceeding 125 cc.",
+          "C": "[ST] C) Any engine size if traveling over 60 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.",
+        "af": "[AF] Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.",
+        "xh": "[XH] Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.",
+        "zu": "[ZU] Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.",
+        "st": "[ST] Motorcycles with an engine capacity of 50cc or less are prohibited from freeways."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Motorcycle entering freeway ramp with 50cc prohibition sign highlight."
+      },
+      "memory_tricks": {
+        "en": "Freeway Limit: Over 50cc to enter the Freeway!",
+        "af": "[AF] Freeway Limit: Over 50cc to enter the Freeway!",
+        "xh": "[XH] Freeway Limit: Over 50cc to enter the Freeway!",
+        "zu": "[ZU] Freeway Limit: Over 50cc to enter the Freeway!",
+        "st": "[ST] Freeway Limit: Over 50cc to enter the Freeway!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the legal requirement regarding towing another vehicle or motorcycle using a motorcycle?",
+        "af": "[AF] What is the legal requirement regarding towing another vehicle or motorcycle using a motorcycle?",
+        "xh": "[XH] What is the legal requirement regarding towing another vehicle or motorcycle using a motorcycle?",
+        "zu": "[ZU] What is the legal requirement regarding towing another vehicle or motorcycle using a motorcycle?",
+        "st": "[ST] What is the legal requirement regarding towing another vehicle or motorcycle using a motorcycle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) A motorcycle shall not tow another vehicle or motorcycle on a public road.",
+          "B": "B) Allowed if using a steel tow-bar.",
+          "C": "C) Allowed at speeds below 40 km/h."
+        },
+        "af": {
+          "A": "[AF] A) A motorcycle shall not tow another vehicle or motorcycle on a public road.",
+          "B": "[AF] B) Allowed if using a steel tow-bar.",
+          "C": "[AF] C) Allowed at speeds below 40 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) A motorcycle shall not tow another vehicle or motorcycle on a public road.",
+          "B": "[XH] B) Allowed if using a steel tow-bar.",
+          "C": "[XH] C) Allowed at speeds below 40 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) A motorcycle shall not tow another vehicle or motorcycle on a public road.",
+          "B": "[ZU] B) Allowed if using a steel tow-bar.",
+          "C": "[ZU] C) Allowed at speeds below 40 km/h."
+        },
+        "st": {
+          "A": "[ST] A) A motorcycle shall not tow another vehicle or motorcycle on a public road.",
+          "B": "[ST] B) Allowed if using a steel tow-bar.",
+          "C": "[ST] C) Allowed at speeds below 40 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Motorcycles are strictly prohibited from towing any other vehicle on public roads.",
+        "af": "[AF] Motorcycles are strictly prohibited from towing any other vehicle on public roads.",
+        "xh": "[XH] Motorcycles are strictly prohibited from towing any other vehicle on public roads.",
+        "zu": "[ZU] Motorcycles are strictly prohibited from towing any other vehicle on public roads.",
+        "st": "[ST] Motorcycles are strictly prohibited from towing any other vehicle on public roads."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Red X symbol over a motorcycle trying to tow another bike."
+      },
+      "memory_tricks": {
+        "en": "No Towing: Motorcycles CANNOT tow other vehicles!",
+        "af": "[AF] No Towing: Motorcycles CANNOT tow other vehicles!",
+        "xh": "[XH] No Towing: Motorcycles CANNOT tow other vehicles!",
+        "zu": "[ZU] No Towing: Motorcycles CANNOT tow other vehicles!",
+        "st": "[ST] No Towing: Motorcycles CANNOT tow other vehicles!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Motorcycles are strictly prohibited from towing any other vehicle on public roads. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles are strictly prohibited from towing any other vehicle on public roads. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the maximum projection allowed for cargo carried on a motorcycle in front of the front axle?",
+        "af": "[AF] What is the maximum projection allowed for cargo carried on a motorcycle in front of the front axle?",
+        "xh": "[XH] What is the maximum projection allowed for cargo carried on a motorcycle in front of the front axle?",
+        "zu": "[ZU] What is the maximum projection allowed for cargo carried on a motorcycle in front of the front axle?",
+        "st": "[ST] What is the maximum projection allowed for cargo carried on a motorcycle in front of the front axle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 600 mm (0.6 metres).",
+          "B": "B) 900 mm (0.9 metres).",
+          "C": "C) 1200 mm (1.2 metres)."
+        },
+        "af": {
+          "A": "[AF] A) 600 mm (0.6 metres).",
+          "B": "[AF] B) 900 mm (0.9 metres).",
+          "C": "[AF] C) 1200 mm (1.2 metres)."
+        },
+        "xh": {
+          "A": "[XH] A) 600 mm (0.6 metres).",
+          "B": "[XH] B) 900 mm (0.9 metres).",
+          "C": "[XH] C) 1200 mm (1.2 metres)."
+        },
+        "zu": {
+          "A": "[ZU] A) 600 mm (0.6 metres).",
+          "B": "[ZU] B) 900 mm (0.9 metres).",
+          "C": "[ZU] C) 1200 mm (1.2 metres)."
+        },
+        "st": {
+          "A": "[ST] A) 600 mm (0.6 metres).",
+          "B": "[ST] B) 900 mm (0.9 metres).",
+          "C": "[ST] C) 1200 mm (1.2 metres)."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.",
+        "af": "[AF] Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.",
+        "xh": "[XH] Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.",
+        "zu": "[ZU] Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.",
+        "st": "[ST] Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Side view of motorcycle with measurement line highlighting 600mm front projection limit."
+      },
+      "memory_tricks": {
+        "en": "Front Cargo Limit: 600 mm max in front of axle!",
+        "af": "[AF] Front Cargo Limit: 600 mm max in front of axle!",
+        "xh": "[XH] Front Cargo Limit: 600 mm max in front of axle!",
+        "zu": "[ZU] Front Cargo Limit: 600 mm max in front of axle!",
+        "st": "[ST] Front Cargo Limit: 600 mm max in front of axle!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular white sign with a red border containing a motorcycle symbol (Sign R218) indicate?",
+        "af": "[AF] What does a circular white sign with a red border containing a motorcycle symbol (Sign R218) indicate?",
+        "xh": "[XH] What does a circular white sign with a red border containing a motorcycle symbol (Sign R218) indicate?",
+        "zu": "[ZU] What does a circular white sign with a red border containing a motorcycle symbol (Sign R218) indicate?",
+        "st": "[ST] What does a circular white sign with a red border containing a motorcycle symbol (Sign R218) indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Motorcycles prohibited on this road.",
+          "B": "B) Recommended motorcycle route.",
+          "C": "C) Motorcycle parking bay ahead."
+        },
+        "af": {
+          "A": "[AF] A) Motorcycles prohibited on this road.",
+          "B": "[AF] B) Recommended motorcycle route.",
+          "C": "[AF] C) Motorcycle parking bay ahead."
+        },
+        "xh": {
+          "A": "[XH] A) Motorcycles prohibited on this road.",
+          "B": "[XH] B) Recommended motorcycle route.",
+          "C": "[XH] C) Motorcycle parking bay ahead."
+        },
+        "zu": {
+          "A": "[ZU] A) Motorcycles prohibited on this road.",
+          "B": "[ZU] B) Recommended motorcycle route.",
+          "C": "[ZU] C) Motorcycle parking bay ahead."
+        },
+        "st": {
+          "A": "[ST] A) Motorcycles prohibited on this road.",
+          "B": "[ST] B) Recommended motorcycle route.",
+          "C": "[ST] C) Motorcycle parking bay ahead."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.",
+        "af": "[AF] Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.",
+        "xh": "[XH] Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.",
+        "zu": "[ZU] Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.",
+        "st": "[ST] Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes."
+      },
+      "media": {
+        "graphic_type": "no_bicycles",
+        "image_file": "no_bicycles.png",
+        "video_simulation_prompt": "3D Animation: Motorcycle approaching a red circular prohibition sign and turning onto an alternate route."
+      },
+      "memory_tricks": {
+        "en": "Red Circle = NO! Red border disc forbids entry!",
+        "af": "[AF] Red Circle = NO! Red border disc forbids entry!",
+        "xh": "[XH] Red Circle = NO! Red border disc forbids entry!",
+        "zu": "[ZU] Red Circle = NO! Red border disc forbids entry!",
+        "st": "[ST] Red Circle = NO! Red border disc forbids entry!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "Which motorcycle control operates the gear shift mechanism?",
+        "af": "[AF] Which motorcycle control operates the gear shift mechanism?",
+        "xh": "[XH] Which motorcycle control operates the gear shift mechanism?",
+        "zu": "[ZU] Which motorcycle control operates the gear shift mechanism?",
+        "st": "[ST] Which motorcycle control operates the gear shift mechanism?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Left foot pedal.",
+          "B": "B) Right foot pedal.",
+          "C": "C) Left handlebar twist-grip."
+        },
+        "af": {
+          "A": "[AF] A) Left foot pedal.",
+          "B": "[AF] B) Right foot pedal.",
+          "C": "[AF] C) Left handlebar twist-grip."
+        },
+        "xh": {
+          "A": "[XH] A) Left foot pedal.",
+          "B": "[XH] B) Right foot pedal.",
+          "C": "[XH] C) Left handlebar twist-grip."
+        },
+        "zu": {
+          "A": "[ZU] A) Left foot pedal.",
+          "B": "[ZU] B) Right foot pedal.",
+          "C": "[ZU] C) Left handlebar twist-grip."
+        },
+        "st": {
+          "A": "[ST] A) Left foot pedal.",
+          "B": "[ST] B) Right foot pedal.",
+          "C": "[ST] C) Left handlebar twist-grip."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).",
+        "af": "[AF] Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).",
+        "xh": "[XH] Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).",
+        "zu": "[ZU] Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).",
+        "st": "[ST] Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up)."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Close-up of left boot lifting up on the gear shift pedal to select a higher gear."
+      },
+      "memory_tricks": {
+        "en": "Left Foot = Gears! Right Foot = Rear Brake!",
+        "af": "[AF] Left Foot = Gears! Right Foot = Rear Brake!",
+        "xh": "[XH] Left Foot = Gears! Right Foot = Rear Brake!",
+        "zu": "[ZU] Left Foot = Gears! Right Foot = Rear Brake!",
+        "st": "[ST] Left Foot = Gears! Right Foot = Rear Brake!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the maximum width of cargo or luggage permitted to project on either side of a motorcycle?",
+        "af": "[AF] What is the maximum width of cargo or luggage permitted to project on either side of a motorcycle?",
+        "xh": "[XH] What is the maximum width of cargo or luggage permitted to project on either side of a motorcycle?",
+        "zu": "[ZU] What is the maximum width of cargo or luggage permitted to project on either side of a motorcycle?",
+        "st": "[ST] What is the maximum width of cargo or luggage permitted to project on either side of a motorcycle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 450 mm on either side of the longitudinal centerline.",
+          "B": "B) 600 mm on either side.",
+          "C": "C) 900 mm total width."
+        },
+        "af": {
+          "A": "[AF] A) 450 mm on either side of the longitudinal centerline.",
+          "B": "[AF] B) 600 mm on either side.",
+          "C": "[AF] C) 900 mm total width."
+        },
+        "xh": {
+          "A": "[XH] A) 450 mm on either side of the longitudinal centerline.",
+          "B": "[XH] B) 600 mm on either side.",
+          "C": "[XH] C) 900 mm total width."
+        },
+        "zu": {
+          "A": "[ZU] A) 450 mm on either side of the longitudinal centerline.",
+          "B": "[ZU] B) 600 mm on either side.",
+          "C": "[ZU] C) 900 mm total width."
+        },
+        "st": {
+          "A": "[ST] A) 450 mm on either side of the longitudinal centerline.",
+          "B": "[ST] B) 600 mm on either side.",
+          "C": "[ST] C) 900 mm total width."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.",
+        "af": "[AF] Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.",
+        "xh": "[XH] Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.",
+        "zu": "[ZU] Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.",
+        "st": "[ST] Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Top-down aerial view of motorcycle showing 450mm lateral load width bounds."
+      },
+      "memory_tricks": {
+        "en": "Side Load Limit: 450 mm from Centerline!",
+        "af": "[AF] Side Load Limit: 450 mm from Centerline!",
+        "xh": "[XH] Side Load Limit: 450 mm from Centerline!",
+        "zu": "[ZU] Side Load Limit: 450 mm from Centerline!",
+        "st": "[ST] Side Load Limit: 450 mm from Centerline!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a triangular warning sign displaying a motorcycle symbol (W314) alert the rider to?",
+        "af": "[AF] What does a triangular warning sign displaying a motorcycle symbol (W314) alert the rider to?",
+        "xh": "[XH] What does a triangular warning sign displaying a motorcycle symbol (W314) alert the rider to?",
+        "zu": "[ZU] What does a triangular warning sign displaying a motorcycle symbol (W314) alert the rider to?",
+        "st": "[ST] What does a triangular warning sign displaying a motorcycle symbol (W314) alert the rider to?"
+      },
+      "options": {
+        "en": {
+          "A": "A) High density of motorcycle traffic or motorcycle crossing ahead.",
+          "B": "B) Mandatory motorcycle inspection station.",
+          "C": "C) End of dual-carriageway freeway."
+        },
+        "af": {
+          "A": "[AF] A) High density of motorcycle traffic or motorcycle crossing ahead.",
+          "B": "[AF] B) Mandatory motorcycle inspection station.",
+          "C": "[AF] C) End of dual-carriageway freeway."
+        },
+        "xh": {
+          "A": "[XH] A) High density of motorcycle traffic or motorcycle crossing ahead.",
+          "B": "[XH] B) Mandatory motorcycle inspection station.",
+          "C": "[XH] C) End of dual-carriageway freeway."
+        },
+        "zu": {
+          "A": "[ZU] A) High density of motorcycle traffic or motorcycle crossing ahead.",
+          "B": "[ZU] B) Mandatory motorcycle inspection station.",
+          "C": "[ZU] C) End of dual-carriageway freeway."
+        },
+        "st": {
+          "A": "[ST] A) High density of motorcycle traffic or motorcycle crossing ahead.",
+          "B": "[ST] B) Mandatory motorcycle inspection station.",
+          "C": "[ST] C) End of dual-carriageway freeway."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Red warning triangles alert drivers to potential hazards or high motorcycle concentration.",
+        "af": "[AF] Red warning triangles alert drivers to potential hazards or high motorcycle concentration.",
+        "xh": "[XH] Red warning triangles alert drivers to potential hazards or high motorcycle concentration.",
+        "zu": "[ZU] Red warning triangles alert drivers to potential hazards or high motorcycle concentration.",
+        "st": "[ST] Red warning triangles alert drivers to potential hazards or high motorcycle concentration."
+      },
+      "media": {
+        "graphic_type": "general_warning",
+        "image_file": "general_warning.png",
+        "video_simulation_prompt": "3D Animation: Motorcycle riding past warning triangle sign and observing other bikes entering road."
+      },
+      "memory_tricks": {
+        "en": "Triangle = Warning! Watch out for motorcycles entering!",
+        "af": "[AF] Triangle = Warning! Watch out for motorcycles entering!",
+        "xh": "[XH] Triangle = Warning! Watch out for motorcycles entering!",
+        "zu": "[ZU] Triangle = Warning! Watch out for motorcycles entering!",
+        "st": "[ST] Triangle = Warning! Watch out for motorcycles entering!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "code_id": "code1_motorcycle",
+      "code_name": "Code 1 - Motorcycles / Bikes",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "How is the clutch lever operated on a manual transmission motorcycle?",
+        "af": "[AF] How is the clutch lever operated on a manual transmission motorcycle?",
+        "xh": "[XH] How is the clutch lever operated on a manual transmission motorcycle?",
+        "zu": "[ZU] How is the clutch lever operated on a manual transmission motorcycle?",
+        "st": "[ST] How is the clutch lever operated on a manual transmission motorcycle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Squeezed with the left hand fingers on the left handlebar.",
+          "B": "B) Pressed with the left foot pedal.",
+          "C": "C) Twisted with the right wrist."
+        },
+        "af": {
+          "A": "[AF] A) Squeezed with the left hand fingers on the left handlebar.",
+          "B": "[AF] B) Pressed with the left foot pedal.",
+          "C": "[AF] C) Twisted with the right wrist."
+        },
+        "xh": {
+          "A": "[XH] A) Squeezed with the left hand fingers on the left handlebar.",
+          "B": "[XH] B) Pressed with the left foot pedal.",
+          "C": "[XH] C) Twisted with the right wrist."
+        },
+        "zu": {
+          "A": "[ZU] A) Squeezed with the left hand fingers on the left handlebar.",
+          "B": "[ZU] B) Pressed with the left foot pedal.",
+          "C": "[ZU] C) Twisted with the right wrist."
+        },
+        "st": {
+          "A": "[ST] A) Squeezed with the left hand fingers on the left handlebar.",
+          "B": "[ST] B) Pressed with the left foot pedal.",
+          "C": "[ST] C) Twisted with the right wrist."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The clutch lever is located on the left handlebar and is operated by the left hand fingers.",
+        "af": "[AF] The clutch lever is located on the left handlebar and is operated by the left hand fingers.",
+        "xh": "[XH] The clutch lever is located on the left handlebar and is operated by the left hand fingers.",
+        "zu": "[ZU] The clutch lever is located on the left handlebar and is operated by the left hand fingers.",
+        "st": "[ST] The clutch lever is located on the left handlebar and is operated by the left hand fingers."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Rider's left hand squeezing the clutch lever smoothly to disengage drive before gear change."
+      },
+      "memory_tricks": {
+        "en": "Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!",
+        "af": "[AF] Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!",
+        "xh": "[XH] Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!",
+        "zu": "[ZU] Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!",
+        "st": "[ST] Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The clutch lever is located on the left handlebar and is operated by the left hand fingers. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The clutch lever is located on the left handlebar and is operated by the left hand fingers. O o sireletsa jwang?"
+        }
+      }
+    }
+  ]
+}

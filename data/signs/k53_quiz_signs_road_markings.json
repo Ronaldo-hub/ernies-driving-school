@@ -1,0 +1,1856 @@
+{
+  "sub_category_id": "signs_road_markings",
+  "sub_category_name": "Road Surface Lines & Painted Markings",
+  "main_category": "Road Traffic Signs",
+  "total_questions": 21,
+  "questions": [
+    {
+      "id": 30,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a white painted road marking showing 'BUS' written in large letters in a lane mean?",
+        "af": "[AF] What does a white painted road marking showing 'BUS' written in large letters in a lane mean?",
+        "xh": "[XH] What does a white painted road marking showing 'BUS' written in large letters in a lane mean?",
+        "zu": "[ZU] What does a white painted road marking showing 'BUS' written in large letters in a lane mean?",
+        "st": "[ST] What does a white painted road marking showing 'BUS' written in large letters in a lane mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Exclusive lane for buses only.",
+          "B": "B) Bus stop location.",
+          "C": "C) Bus parking bay."
+        },
+        "af": {
+          "A": "[AF] A) Exclusive lane for buses only.",
+          "B": "[AF] B) Bus stop location.",
+          "C": "[AF] C) Bus parking bay."
+        },
+        "xh": {
+          "A": "[XH] A) Exclusive lane for buses only.",
+          "B": "[XH] B) Bus stop location.",
+          "C": "[XH] C) Bus parking bay."
+        },
+        "zu": {
+          "A": "[ZU] A) Exclusive lane for buses only.",
+          "B": "[ZU] B) Bus stop location.",
+          "C": "[ZU] C) Bus parking bay."
+        },
+        "st": {
+          "A": "[ST] A) Exclusive lane for buses only.",
+          "B": "[ST] B) Bus stop location.",
+          "C": "[ST] C) Bus parking bay."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.",
+        "af": "[AF] A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.",
+        "xh": "[XH] A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.",
+        "zu": "[ZU] A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.",
+        "st": "[ST] A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic."
+      },
+      "media": {
+        "graphic_type": "bus_word_marking",
+        "image_file": "bus_word_marking.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Bus Word Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 39,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a white painted box with yellow cross-hatched lines painted on an intersection (Box Junction) mean?",
+        "af": "[AF] What does a white painted box with yellow cross-hatched lines painted on an intersection (Box Junction) mean?",
+        "xh": "[XH] What does a white painted box with yellow cross-hatched lines painted on an intersection (Box Junction) mean?",
+        "zu": "[ZU] What does a white painted box with yellow cross-hatched lines painted on an intersection (Box Junction) mean?",
+        "st": "[ST] What does a white painted box with yellow cross-hatched lines painted on an intersection (Box Junction) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "You may park inside the box.",
+          "B": "You may not enter or stop in the box junction unless your exit is clear.",
+          "C": "Compulsory stop for all vehicles."
+        },
+        "af": {
+          "A": "[AF] You may park inside the box.",
+          "B": "[AF] You may not enter or stop in the box junction unless your exit is clear.",
+          "C": "[AF] Compulsory stop for all vehicles."
+        },
+        "xh": {
+          "A": "[XH] You may park inside the box.",
+          "B": "[XH] You may not enter or stop in the box junction unless your exit is clear.",
+          "C": "[XH] Compulsory stop for all vehicles."
+        },
+        "zu": {
+          "A": "[ZU] You may park inside the box.",
+          "B": "[ZU] You may not enter or stop in the box junction unless your exit is clear.",
+          "C": "[ZU] Compulsory stop for all vehicles."
+        },
+        "st": {
+          "A": "[ST] You may park inside the box.",
+          "B": "[ST] You may not enter or stop in the box junction unless your exit is clear.",
+          "C": "[ST] Compulsory stop for all vehicles."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.",
+        "af": "[AF] In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.",
+        "xh": "[XH] In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.",
+        "zu": "[ZU] In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.",
+        "st": "[ST] In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear."
+      },
+      "media": {
+        "graphic_type": "box_junction",
+        "image_file": "box_junction.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 48,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a road surface marking consisting of a thick solid white line across a lane at an intersection (RTM1) mean?",
+        "af": "[AF] What does a road surface marking consisting of a thick solid white line across a lane at an intersection (RTM1) mean?",
+        "xh": "[XH] What does a road surface marking consisting of a thick solid white line across a lane at an intersection (RTM1) mean?",
+        "zu": "[ZU] What does a road surface marking consisting of a thick solid white line across a lane at an intersection (RTM1) mean?",
+        "st": "[ST] What does a road surface marking consisting of a thick solid white line across a lane at an intersection (RTM1) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Stop line; bring vehicle to a complete standstill behind line.",
+          "B": "B) Yield line.",
+          "C": "C) Pedestrian line."
+        },
+        "af": {
+          "A": "[AF] A) Stop line; bring vehicle to a complete standstill behind line.",
+          "B": "[AF] B) Yield line.",
+          "C": "[AF] C) Pedestrian line."
+        },
+        "xh": {
+          "A": "[XH] A) Stop line; bring vehicle to a complete standstill behind line.",
+          "B": "[XH] B) Yield line.",
+          "C": "[XH] C) Pedestrian line."
+        },
+        "zu": {
+          "A": "[ZU] A) Stop line; bring vehicle to a complete standstill behind line.",
+          "B": "[ZU] B) Yield line.",
+          "C": "[ZU] C) Pedestrian line."
+        },
+        "st": {
+          "A": "[ST] A) Stop line; bring vehicle to a complete standstill behind line.",
+          "B": "[ST] B) Yield line.",
+          "C": "[ST] C) Pedestrian line."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.",
+        "af": "[AF] RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.",
+        "xh": "[XH] RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.",
+        "zu": "[ZU] RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.",
+        "st": "[ST] RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill."
+      },
+      "media": {
+        "graphic_type": "stop_line_rtm1",
+        "image_file": "stop_line_rtm1.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Line Rtm1' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 51,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a solid double white longitudinal line painted in the centre of a two-way road mean?",
+        "af": "[AF] What does a solid double white longitudinal line painted in the centre of a two-way road mean?",
+        "xh": "[XH] What does a solid double white longitudinal line painted in the centre of a two-way road mean?",
+        "zu": "[ZU] What does a solid double white longitudinal line painted in the centre of a two-way road mean?",
+        "st": "[ST] What does a solid double white longitudinal line painted in the centre of a two-way road mean?"
+      },
+      "options": {
+        "en": {
+          "A": "You may cross to overtake slow vehicles.",
+          "B": "You must not cross or straddle the double solid lines for any reason.",
+          "C": "Reserved for emergency vehicles."
+        },
+        "af": {
+          "A": "[AF] You may cross to overtake slow vehicles.",
+          "B": "[AF] You must not cross or straddle the double solid lines for any reason.",
+          "C": "[AF] Reserved for emergency vehicles."
+        },
+        "xh": {
+          "A": "[XH] You may cross to overtake slow vehicles.",
+          "B": "[XH] You must not cross or straddle the double solid lines for any reason.",
+          "C": "[XH] Reserved for emergency vehicles."
+        },
+        "zu": {
+          "A": "[ZU] You may cross to overtake slow vehicles.",
+          "B": "[ZU] You must not cross or straddle the double solid lines for any reason.",
+          "C": "[ZU] Reserved for emergency vehicles."
+        },
+        "st": {
+          "A": "[ST] You may cross to overtake slow vehicles.",
+          "B": "[ST] You must not cross or straddle the double solid lines for any reason.",
+          "C": "[ST] Reserved for emergency vehicles."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.",
+        "af": "[AF] A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.",
+        "xh": "[XH] A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.",
+        "zu": "[ZU] A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.",
+        "st": "[ST] A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time."
+      },
+      "media": {
+        "graphic_type": "double_solid_lines",
+        "image_file": "double_solid_lines.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 54,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does yellow grid RM10 (box junction) mean?",
+        "af": "[AF] What does yellow grid RM10 (box junction) mean?",
+        "xh": "[XH] What does yellow grid RM10 (box junction) mean?",
+        "zu": "[ZU] What does yellow grid RM10 (box junction) mean?",
+        "st": "[ST] What does yellow grid RM10 (box junction) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Do not enter box junction unless exit is clear.",
+          "B": "B) Parking grid.",
+          "C": "C) Taxi rank."
+        },
+        "af": {
+          "A": "[AF] A) Do not enter box junction unless exit is clear.",
+          "B": "[AF] B) Parking grid.",
+          "C": "[AF] C) Taxi rank."
+        },
+        "xh": {
+          "A": "[XH] A) Do not enter box junction unless exit is clear.",
+          "B": "[XH] B) Parking grid.",
+          "C": "[XH] C) Taxi rank."
+        },
+        "zu": {
+          "A": "[ZU] A) Do not enter box junction unless exit is clear.",
+          "B": "[ZU] B) Parking grid.",
+          "C": "[ZU] C) Taxi rank."
+        },
+        "st": {
+          "A": "[ST] A) Do not enter box junction unless exit is clear.",
+          "B": "[ST] B) Parking grid.",
+          "C": "[ST] C) Taxi rank."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Prohibits stopping inside box junction.",
+        "af": "[AF] Prohibits stopping inside box junction.",
+        "xh": "[XH] Prohibits stopping inside box junction.",
+        "zu": "[ZU] Prohibits stopping inside box junction.",
+        "st": "[ST] Prohibits stopping inside box junction."
+      },
+      "media": {
+        "graphic_type": "box_junction",
+        "image_file": "box_junction.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Prohibits stopping inside box junction.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Prohibits stopping inside box junction.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Prohibits stopping inside box junction.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Prohibits stopping inside box junction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Prohibits stopping inside box junction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Prohibits stopping inside box junction. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Prohibits stopping inside box junction. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Prohibits stopping inside box junction. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Prohibits stopping inside box junction. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Prohibits stopping inside box junction. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Prohibits stopping inside box junction. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Prohibits stopping inside box junction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Prohibits stopping inside box junction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Prohibits stopping inside box junction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Prohibits stopping inside box junction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 96,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a road surface marking showing short broken white lines (GM1) separating lanes moving in the same direction mean?",
+        "af": "[AF] What does a road surface marking showing short broken white lines (GM1) separating lanes moving in the same direction mean?",
+        "xh": "[XH] What does a road surface marking showing short broken white lines (GM1) separating lanes moving in the same direction mean?",
+        "zu": "[ZU] What does a road surface marking showing short broken white lines (GM1) separating lanes moving in the same direction mean?",
+        "st": "[ST] What does a road surface marking showing short broken white lines (GM1) separating lanes moving in the same direction mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Lane line; you may change lanes when safe to do so.",
+          "B": "B) No overtaking line.",
+          "C": "C) Stop line."
+        },
+        "af": {
+          "A": "[AF] A) Lane line; you may change lanes when safe to do so.",
+          "B": "[AF] B) No overtaking line.",
+          "C": "[AF] C) Stop line."
+        },
+        "xh": {
+          "A": "[XH] A) Lane line; you may change lanes when safe to do so.",
+          "B": "[XH] B) No overtaking line.",
+          "C": "[XH] C) Stop line."
+        },
+        "zu": {
+          "A": "[ZU] A) Lane line; you may change lanes when safe to do so.",
+          "B": "[ZU] B) No overtaking line.",
+          "C": "[ZU] C) Stop line."
+        },
+        "st": {
+          "A": "[ST] A) Lane line; you may change lanes when safe to do so.",
+          "B": "[ST] B) No overtaking line.",
+          "C": "[ST] C) Stop line."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.",
+        "af": "[AF] Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.",
+        "xh": "[XH] Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.",
+        "zu": "[ZU] Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.",
+        "st": "[ST] Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely."
+      },
+      "media": {
+        "graphic_type": "lane_lines",
+        "image_file": "lane_lines.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Lane Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 226,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does road marking GSS-1 (red/white checkerboard blocks) mean?",
+        "af": "[AF] What does road marking GSS-1 (red/white checkerboard blocks) mean?",
+        "xh": "[XH] What does road marking GSS-1 (red/white checkerboard blocks) mean?",
+        "zu": "[ZU] What does road marking GSS-1 (red/white checkerboard blocks) mean?",
+        "st": "[ST] What does road marking GSS-1 (red/white checkerboard blocks) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Arrestor bed / escape road for brake failure.",
+          "B": "B) Pedestrian crossing.",
+          "C": "C) Bus lane."
+        },
+        "af": {
+          "A": "[AF] A) Arrestor bed / escape road for brake failure.",
+          "B": "[AF] B) Pedestrian crossing.",
+          "C": "[AF] C) Bus lane."
+        },
+        "xh": {
+          "A": "[XH] A) Arrestor bed / escape road for brake failure.",
+          "B": "[XH] B) Pedestrian crossing.",
+          "C": "[XH] C) Bus lane."
+        },
+        "zu": {
+          "A": "[ZU] A) Arrestor bed / escape road for brake failure.",
+          "B": "[ZU] B) Pedestrian crossing.",
+          "C": "[ZU] C) Bus lane."
+        },
+        "st": {
+          "A": "[ST] A) Arrestor bed / escape road for brake failure.",
+          "B": "[ST] B) Pedestrian crossing.",
+          "C": "[ST] C) Bus lane."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Indicates arrestor bed for runaway heavy vehicles.",
+        "af": "[AF] Indicates arrestor bed for runaway heavy vehicles.",
+        "xh": "[XH] Indicates arrestor bed for runaway heavy vehicles.",
+        "zu": "[ZU] Indicates arrestor bed for runaway heavy vehicles.",
+        "st": "[ST] Indicates arrestor bed for runaway heavy vehicles."
+      },
+      "media": {
+        "graphic_type": "arrestor_bed",
+        "image_file": "arrestor_bed.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrestor Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Indicates arrestor bed for runaway heavy vehicles.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Indicates arrestor bed for runaway heavy vehicles.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Indicates arrestor bed for runaway heavy vehicles.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Indicates arrestor bed for runaway heavy vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Indicates arrestor bed for runaway heavy vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Indicates arrestor bed for runaway heavy vehicles. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Indicates arrestor bed for runaway heavy vehicles. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Indicates arrestor bed for runaway heavy vehicles. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Indicates arrestor bed for runaway heavy vehicles. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Indicates arrestor bed for runaway heavy vehicles. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Indicates arrestor bed for runaway heavy vehicles. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Indicates arrestor bed for runaway heavy vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Indicates arrestor bed for runaway heavy vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Indicates arrestor bed for runaway heavy vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Indicates arrestor bed for runaway heavy vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 228,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a road surface marking consisting of painted yellow zig-zag lines (RM11) near a pedestrian crossing mean?",
+        "af": "[AF] What does a road surface marking consisting of painted yellow zig-zag lines (RM11) near a pedestrian crossing mean?",
+        "xh": "[XH] What does a road surface marking consisting of painted yellow zig-zag lines (RM11) near a pedestrian crossing mean?",
+        "zu": "[ZU] What does a road surface marking consisting of painted yellow zig-zag lines (RM11) near a pedestrian crossing mean?",
+        "st": "[ST] What does a road surface marking consisting of painted yellow zig-zag lines (RM11) near a pedestrian crossing mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) No stopping or parking in the zig-zag zone; yield to pedestrians.",
+          "B": "B) Speed hump.",
+          "C": "C) Taxi zone."
+        },
+        "af": {
+          "A": "[AF] A) No stopping or parking in the zig-zag zone; yield to pedestrians.",
+          "B": "[AF] B) Speed hump.",
+          "C": "[AF] C) Taxi zone."
+        },
+        "xh": {
+          "A": "[XH] A) No stopping or parking in the zig-zag zone; yield to pedestrians.",
+          "B": "[XH] B) Speed hump.",
+          "C": "[XH] C) Taxi zone."
+        },
+        "zu": {
+          "A": "[ZU] A) No stopping or parking in the zig-zag zone; yield to pedestrians.",
+          "B": "[ZU] B) Speed hump.",
+          "C": "[ZU] C) Taxi zone."
+        },
+        "st": {
+          "A": "[ST] A) No stopping or parking in the zig-zag zone; yield to pedestrians.",
+          "B": "[ST] B) Speed hump.",
+          "C": "[ST] C) Taxi zone."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.",
+        "af": "[AF] Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.",
+        "xh": "[XH] Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.",
+        "zu": "[ZU] Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.",
+        "st": "[ST] Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden."
+      },
+      "media": {
+        "graphic_type": "zigzag_zone",
+        "image_file": "zigzag_zone.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Zigzag Zone' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 230,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a painted yellow box junction (RM10) with criss-cross lines painted inside an intersection mean?",
+        "af": "[AF] What does a painted yellow box junction (RM10) with criss-cross lines painted inside an intersection mean?",
+        "xh": "[XH] What does a painted yellow box junction (RM10) with criss-cross lines painted inside an intersection mean?",
+        "zu": "[ZU] What does a painted yellow box junction (RM10) with criss-cross lines painted inside an intersection mean?",
+        "st": "[ST] What does a painted yellow box junction (RM10) with criss-cross lines painted inside an intersection mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) You may not enter the box unless you can clear the intersection completely without stopping (except when turning right).",
+          "B": "B) Parking zone for delivery vehicles.",
+          "C": "C) Taxi pickup area."
+        },
+        "af": {
+          "A": "[AF] A) You may not enter the box unless you can clear the intersection completely without stopping (except when turning right).",
+          "B": "[AF] B) Parking zone for delivery vehicles.",
+          "C": "[AF] C) Taxi pickup area."
+        },
+        "xh": {
+          "A": "[XH] A) You may not enter the box unless you can clear the intersection completely without stopping (except when turning right).",
+          "B": "[XH] B) Parking zone for delivery vehicles.",
+          "C": "[XH] C) Taxi pickup area."
+        },
+        "zu": {
+          "A": "[ZU] A) You may not enter the box unless you can clear the intersection completely without stopping (except when turning right).",
+          "B": "[ZU] B) Parking zone for delivery vehicles.",
+          "C": "[ZU] C) Taxi pickup area."
+        },
+        "st": {
+          "A": "[ST] A) You may not enter the box unless you can clear the intersection completely without stopping (except when turning right).",
+          "B": "[ST] B) Parking zone for delivery vehicles.",
+          "C": "[ST] C) Taxi pickup area."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.",
+        "af": "[AF] A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.",
+        "xh": "[XH] A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.",
+        "zu": "[ZU] A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.",
+        "st": "[ST] A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic."
+      },
+      "media": {
+        "graphic_type": "box_junction",
+        "image_file": "box_junction.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 233,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a diagrammatic guidance sign showing a truck turning onto a steep gravel ramp (Arrestor Bed) mean?",
+        "af": "[AF] What does a diagrammatic guidance sign showing a truck turning onto a steep gravel ramp (Arrestor Bed) mean?",
+        "xh": "[XH] What does a diagrammatic guidance sign showing a truck turning onto a steep gravel ramp (Arrestor Bed) mean?",
+        "zu": "[ZU] What does a diagrammatic guidance sign showing a truck turning onto a steep gravel ramp (Arrestor Bed) mean?",
+        "st": "[ST] What does a diagrammatic guidance sign showing a truck turning onto a steep gravel ramp (Arrestor Bed) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A truck wash bay ahead.",
+          "B": "An arrestor bed ahead for heavy vehicles experiencing brake failure.",
+          "C": "A weighbridge station."
+        },
+        "af": {
+          "A": "[AF] A truck wash bay ahead.",
+          "B": "[AF] An arrestor bed ahead for heavy vehicles experiencing brake failure.",
+          "C": "[AF] A weighbridge station."
+        },
+        "xh": {
+          "A": "[XH] A truck wash bay ahead.",
+          "B": "[XH] An arrestor bed ahead for heavy vehicles experiencing brake failure.",
+          "C": "[XH] A weighbridge station."
+        },
+        "zu": {
+          "A": "[ZU] A truck wash bay ahead.",
+          "B": "[ZU] An arrestor bed ahead for heavy vehicles experiencing brake failure.",
+          "C": "[ZU] A weighbridge station."
+        },
+        "st": {
+          "A": "[ST] A truck wash bay ahead.",
+          "B": "[ST] An arrestor bed ahead for heavy vehicles experiencing brake failure.",
+          "C": "[ST] A weighbridge station."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.",
+        "af": "[AF] An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.",
+        "xh": "[XH] An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.",
+        "zu": "[ZU] An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.",
+        "st": "[ST] An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail."
+      },
+      "media": {
+        "graphic_type": "arrestor_bed",
+        "image_file": "arrestor_bed.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrestor Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 235,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Unless directed by an appropriate sign or traffic officer, you are not allowed to drive on...",
+        "af": "[AF] Unless directed by an appropriate sign or traffic officer, you are not allowed to drive on...",
+        "xh": "[XH] Unless directed by an appropriate sign or traffic officer, you are not allowed to drive on...",
+        "zu": "[ZU] Unless directed by an appropriate sign or traffic officer, you are not allowed to drive on...",
+        "st": "[ST] Unless directed by an appropriate sign or traffic officer, you are not allowed to drive on..."
+      },
+      "options": {
+        "en": {
+          "A": "A. The right hand side of a divided public road.",
+          "B": "B. a freeway.",
+          "C": "C. The painted stop sign."
+        },
+        "af": {
+          "A": "[AF] A. The right hand side of a divided public road.",
+          "B": "[AF] B. a freeway.",
+          "C": "[AF] C. The painted stop sign."
+        },
+        "xh": {
+          "A": "[XH] A. The right hand side of a divided public road.",
+          "B": "[XH] B. a freeway.",
+          "C": "[XH] C. The painted stop sign."
+        },
+        "zu": {
+          "A": "[ZU] A. The right hand side of a divided public road.",
+          "B": "[ZU] B. a freeway.",
+          "C": "[ZU] C. The painted stop sign."
+        },
+        "st": {
+          "A": "[ST] A. The right hand side of a divided public road.",
+          "B": "[ST] B. a freeway.",
+          "C": "[ST] C. The painted stop sign."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.",
+        "af": "[AF] Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.",
+        "xh": "[XH] Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.",
+        "zu": "[ZU] Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.",
+        "st": "[ST] Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited."
+      },
+      "media": {
+        "graphic_type": "painted_island",
+        "image_file": "painted_island.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 237,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a white painted arrow marking pointing diagonally to the right (WM6) mean?",
+        "af": "[AF] What does a white painted arrow marking pointing diagonally to the right (WM6) mean?",
+        "xh": "[XH] What does a white painted arrow marking pointing diagonally to the right (WM6) mean?",
+        "zu": "[ZU] What does a white painted arrow marking pointing diagonally to the right (WM6) mean?",
+        "st": "[ST] What does a white painted arrow marking pointing diagonally to the right (WM6) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Lane reduction ahead; merge to the right lane.",
+          "B": "B) Right turn compulsory.",
+          "C": "C) One way."
+        },
+        "af": {
+          "A": "[AF] A) Lane reduction ahead; merge to the right lane.",
+          "B": "[AF] B) Right turn compulsory.",
+          "C": "[AF] C) One way."
+        },
+        "xh": {
+          "A": "[XH] A) Lane reduction ahead; merge to the right lane.",
+          "B": "[XH] B) Right turn compulsory.",
+          "C": "[XH] C) One way."
+        },
+        "zu": {
+          "A": "[ZU] A) Lane reduction ahead; merge to the right lane.",
+          "B": "[ZU] B) Right turn compulsory.",
+          "C": "[ZU] C) One way."
+        },
+        "st": {
+          "A": "[ST] A) Lane reduction ahead; merge to the right lane.",
+          "B": "[ST] B) Right turn compulsory.",
+          "C": "[ST] C) One way."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.",
+        "af": "[AF] A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.",
+        "xh": "[XH] A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.",
+        "zu": "[ZU] A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.",
+        "st": "[ST] A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right."
+      },
+      "media": {
+        "graphic_type": "lane_reduction_arrow",
+        "image_file": "lane_reduction_arrow.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Lane Reduction Arrow' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 238,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a white painted road surface island (RM5) with chevron diagonal lines indicate?",
+        "af": "[AF] What does a white painted road surface island (RM5) with chevron diagonal lines indicate?",
+        "xh": "[XH] What does a white painted road surface island (RM5) with chevron diagonal lines indicate?",
+        "zu": "[ZU] What does a white painted road surface island (RM5) with chevron diagonal lines indicate?",
+        "st": "[ST] What does a white painted road surface island (RM5) with chevron diagonal lines indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Parking area.",
+          "B": "B) Painted island; no vehicle may drive over, straddle, or stop on the marking.",
+          "C": "C) Overtaking zone."
+        },
+        "af": {
+          "A": "[AF] A) Parking area.",
+          "B": "[AF] B) Painted island; no vehicle may drive over, straddle, or stop on the marking.",
+          "C": "[AF] C) Overtaking zone."
+        },
+        "xh": {
+          "A": "[XH] A) Parking area.",
+          "B": "[XH] B) Painted island; no vehicle may drive over, straddle, or stop on the marking.",
+          "C": "[XH] C) Overtaking zone."
+        },
+        "zu": {
+          "A": "[ZU] A) Parking area.",
+          "B": "[ZU] B) Painted island; no vehicle may drive over, straddle, or stop on the marking.",
+          "C": "[ZU] C) Overtaking zone."
+        },
+        "st": {
+          "A": "[ST] A) Parking area.",
+          "B": "[ST] B) Painted island; no vehicle may drive over, straddle, or stop on the marking.",
+          "C": "[ST] C) Overtaking zone."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.",
+        "af": "[AF] Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.",
+        "xh": "[XH] Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.",
+        "zu": "[ZU] Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.",
+        "st": "[ST] Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands."
+      },
+      "media": {
+        "graphic_type": "painted_island",
+        "image_file": "painted_island.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 246,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a road surface marking consisting of broken white triangles across a lane (RTM2) mean?",
+        "af": "[AF] What does a road surface marking consisting of broken white triangles across a lane (RTM2) mean?",
+        "xh": "[XH] What does a road surface marking consisting of broken white triangles across a lane (RTM2) mean?",
+        "zu": "[ZU] What does a road surface marking consisting of broken white triangles across a lane (RTM2) mean?",
+        "st": "[ST] What does a road surface marking consisting of broken white triangles across a lane (RTM2) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Yield line; give way to cross traffic, stopping if necessary.",
+          "B": "B) Stop line.",
+          "C": "C) Speed hump."
+        },
+        "af": {
+          "A": "[AF] A) Yield line; give way to cross traffic, stopping if necessary.",
+          "B": "[AF] B) Stop line.",
+          "C": "[AF] C) Speed hump."
+        },
+        "xh": {
+          "A": "[XH] A) Yield line; give way to cross traffic, stopping if necessary.",
+          "B": "[XH] B) Stop line.",
+          "C": "[XH] C) Speed hump."
+        },
+        "zu": {
+          "A": "[ZU] A) Yield line; give way to cross traffic, stopping if necessary.",
+          "B": "[ZU] B) Stop line.",
+          "C": "[ZU] C) Speed hump."
+        },
+        "st": {
+          "A": "[ST] A) Yield line; give way to cross traffic, stopping if necessary.",
+          "B": "[ST] B) Stop line.",
+          "C": "[ST] C) Speed hump."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "RTM2 is a Yield line marking where vehicles must yield right of way.",
+        "af": "[AF] RTM2 is a Yield line marking where vehicles must yield right of way.",
+        "xh": "[XH] RTM2 is a Yield line marking where vehicles must yield right of way.",
+        "zu": "[ZU] RTM2 is a Yield line marking where vehicles must yield right of way.",
+        "st": "[ST] RTM2 is a Yield line marking where vehicles must yield right of way."
+      },
+      "media": {
+        "graphic_type": "yield_line_rtm2",
+        "image_file": "yield_line_rtm2.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Yield Line Rtm2' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'RTM2 is a Yield line marking where vehicles must yield right of way.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: RTM2 is a Yield line marking where vehicles must yield right of way. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: RTM2 is a Yield line marking where vehicles must yield right of way. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: RTM2 is a Yield line marking where vehicles must yield right of way. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: RTM2 is a Yield line marking where vehicles must yield right of way. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: RTM2 is a Yield line marking where vehicles must yield right of way. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: RTM2 is a Yield line marking where vehicles must yield right of way. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: RTM2 is a Yield line marking where vehicles must yield right of way. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: RTM2 is a Yield line marking where vehicles must yield right of way. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: RTM2 is a Yield line marking where vehicles must yield right of way. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: RTM2 is a Yield line marking where vehicles must yield right of way. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 287,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a road marking consisting of double solid yellow lines along the centre of a roadway mean?",
+        "af": "[AF] What does a road marking consisting of double solid yellow lines along the centre of a roadway mean?",
+        "xh": "[XH] What does a road marking consisting of double solid yellow lines along the centre of a roadway mean?",
+        "zu": "[ZU] What does a road marking consisting of double solid yellow lines along the centre of a roadway mean?",
+        "st": "[ST] What does a road marking consisting of double solid yellow lines along the centre of a roadway mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) No parking on either side.",
+          "B": "B) Reversible lane line.",
+          "C": "C) Strict No Overtaking or crossing from either direction."
+        },
+        "af": {
+          "A": "[AF] A) No parking on either side.",
+          "B": "[AF] B) Reversible lane line.",
+          "C": "[AF] C) Strict No Overtaking or crossing from either direction."
+        },
+        "xh": {
+          "A": "[XH] A) No parking on either side.",
+          "B": "[XH] B) Reversible lane line.",
+          "C": "[XH] C) Strict No Overtaking or crossing from either direction."
+        },
+        "zu": {
+          "A": "[ZU] A) No parking on either side.",
+          "B": "[ZU] B) Reversible lane line.",
+          "C": "[ZU] C) Strict No Overtaking or crossing from either direction."
+        },
+        "st": {
+          "A": "[ST] A) No parking on either side.",
+          "B": "[ST] B) Reversible lane line.",
+          "C": "[ST] C) Strict No Overtaking or crossing from either direction."
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.",
+        "af": "[AF] Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.",
+        "xh": "[XH] Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.",
+        "zu": "[ZU] Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.",
+        "st": "[ST] Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction."
+      },
+      "media": {
+        "graphic_type": "double_solid_lines",
+        "image_file": "double_solid_lines.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 290,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does a road surface marking showing two parallel solid white lines (RM2) separating opposite traffic mean?",
+        "af": "[AF] What does a road surface marking showing two parallel solid white lines (RM2) separating opposite traffic mean?",
+        "xh": "[XH] What does a road surface marking showing two parallel solid white lines (RM2) separating opposite traffic mean?",
+        "zu": "[ZU] What does a road surface marking showing two parallel solid white lines (RM2) separating opposite traffic mean?",
+        "st": "[ST] What does a road surface marking showing two parallel solid white lines (RM2) separating opposite traffic mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) No vehicle may cross or straddle the double lines from either direction.",
+          "B": "B) Overtaking allowed.",
+          "C": "C) Parking bay."
+        },
+        "af": {
+          "A": "[AF] A) No vehicle may cross or straddle the double lines from either direction.",
+          "B": "[AF] B) Overtaking allowed.",
+          "C": "[AF] C) Parking bay."
+        },
+        "xh": {
+          "A": "[XH] A) No vehicle may cross or straddle the double lines from either direction.",
+          "B": "[XH] B) Overtaking allowed.",
+          "C": "[XH] C) Parking bay."
+        },
+        "zu": {
+          "A": "[ZU] A) No vehicle may cross or straddle the double lines from either direction.",
+          "B": "[ZU] B) Overtaking allowed.",
+          "C": "[ZU] C) Parking bay."
+        },
+        "st": {
+          "A": "[ST] A) No vehicle may cross or straddle the double lines from either direction.",
+          "B": "[ST] B) Overtaking allowed.",
+          "C": "[ST] C) Parking bay."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Double solid white lines strictly prohibit crossing or straddling from either side.",
+        "af": "[AF] Double solid white lines strictly prohibit crossing or straddling from either side.",
+        "xh": "[XH] Double solid white lines strictly prohibit crossing or straddling from either side.",
+        "zu": "[ZU] Double solid white lines strictly prohibit crossing or straddling from either side.",
+        "st": "[ST] Double solid white lines strictly prohibit crossing or straddling from either side."
+      },
+      "media": {
+        "graphic_type": "double_solid_white",
+        "image_file": "double_solid_white.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid White' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Double solid white lines strictly prohibit crossing or straddling from either side.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Double solid white lines strictly prohibit crossing or straddling from either side. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Double solid white lines strictly prohibit crossing or straddling from either side. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Double solid white lines strictly prohibit crossing or straddling from either side. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Double solid white lines strictly prohibit crossing or straddling from either side. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Double solid white lines strictly prohibit crossing or straddling from either side. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Double solid white lines strictly prohibit crossing or straddling from either side. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Double solid white lines strictly prohibit crossing or straddling from either side. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Double solid white lines strictly prohibit crossing or straddling from either side. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Double solid white lines strictly prohibit crossing or straddling from either side. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Double solid white lines strictly prohibit crossing or straddling from either side. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 291,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "You see a road surface marking showing alternating red and white blocks splitting off to the right on a steep mountain descent. What is this marking?",
+        "af": "[AF] You see a road surface marking showing alternating red and white blocks splitting off to the right on a steep mountain descent. What is this marking?",
+        "xh": "[XH] You see a road surface marking showing alternating red and white blocks splitting off to the right on a steep mountain descent. What is this marking?",
+        "zu": "[ZU] You see a road surface marking showing alternating red and white blocks splitting off to the right on a steep mountain descent. What is this marking?",
+        "st": "[ST] You see a road surface marking showing alternating red and white blocks splitting off to the right on a steep mountain descent. What is this marking?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Pedestrian zebra crossing.",
+          "B": "B) Arrestor bed / escape road for heavy vehicles experiencing brake failure.",
+          "C": "C) Bus rapid transit lane."
+        },
+        "af": {
+          "A": "[AF] A) Pedestrian zebra crossing.",
+          "B": "[AF] B) Arrestor bed / escape road for heavy vehicles experiencing brake failure.",
+          "C": "[AF] C) Bus rapid transit lane."
+        },
+        "xh": {
+          "A": "[XH] A) Pedestrian zebra crossing.",
+          "B": "[XH] B) Arrestor bed / escape road for heavy vehicles experiencing brake failure.",
+          "C": "[XH] C) Bus rapid transit lane."
+        },
+        "zu": {
+          "A": "[ZU] A) Pedestrian zebra crossing.",
+          "B": "[ZU] B) Arrestor bed / escape road for heavy vehicles experiencing brake failure.",
+          "C": "[ZU] C) Bus rapid transit lane."
+        },
+        "st": {
+          "A": "[ST] A) Pedestrian zebra crossing.",
+          "B": "[ST] B) Arrestor bed / escape road for heavy vehicles experiencing brake failure.",
+          "C": "[ST] C) Bus rapid transit lane."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.",
+        "af": "[AF] An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.",
+        "xh": "[XH] An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.",
+        "zu": "[ZU] An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.",
+        "st": "[ST] An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure."
+      },
+      "media": {
+        "graphic_type": "arrestor_bed",
+        "image_file": "arrestor_bed.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrestor Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 293,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does this road marking tell you?",
+        "af": "[AF] What does this road marking tell you?",
+        "xh": "[XH] What does this road marking tell you?",
+        "zu": "[ZU] What does this road marking tell you?",
+        "st": "[ST] What does this road marking tell you?"
+      },
+      "options": {
+        "en": {
+          "A": "A. You may park there during an emergency.",
+          "B": "B. Under no circumstances may you park there.",
+          "C": "C. Only vehicles unloading goods may park."
+        },
+        "af": {
+          "A": "[AF] A. You may park there during an emergency.",
+          "B": "[AF] B. Under no circumstances may you park there.",
+          "C": "[AF] C. Only vehicles unloading goods may park."
+        },
+        "xh": {
+          "A": "[XH] A. You may park there during an emergency.",
+          "B": "[XH] B. Under no circumstances may you park there.",
+          "C": "[XH] C. Only vehicles unloading goods may park."
+        },
+        "zu": {
+          "A": "[ZU] A. You may park there during an emergency.",
+          "B": "[ZU] B. Under no circumstances may you park there.",
+          "C": "[ZU] C. Only vehicles unloading goods may park."
+        },
+        "st": {
+          "A": "[ST] A. You may park there during an emergency.",
+          "B": "[ST] B. Under no circumstances may you park there.",
+          "C": "[ST] C. Only vehicles unloading goods may park."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.",
+        "af": "[AF] Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.",
+        "xh": "[XH] Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.",
+        "zu": "[ZU] Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.",
+        "st": "[ST] Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies."
+      },
+      "media": {
+        "graphic_type": "sos_marking",
+        "image_file": "sos_marking.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sos Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 354,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the meaning of a road marking displaying 'SOS' painted in yellow inside an oval in a road shoulder lane?",
+        "af": "[AF] What is the meaning of a road marking displaying 'SOS' painted in yellow inside an oval in a road shoulder lane?",
+        "xh": "[XH] What is the meaning of a road marking displaying 'SOS' painted in yellow inside an oval in a road shoulder lane?",
+        "zu": "[ZU] What is the meaning of a road marking displaying 'SOS' painted in yellow inside an oval in a road shoulder lane?",
+        "st": "[ST] What is the meaning of a road marking displaying 'SOS' painted in yellow inside an oval in a road shoulder lane?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Emergency stopping bay; stopping is prohibited except in a true breakdown or emergency.",
+          "B": "B) Public phone parking zone.",
+          "C": "C) Tow truck parking only."
+        },
+        "af": {
+          "A": "[AF] A) Emergency stopping bay; stopping is prohibited except in a true breakdown or emergency.",
+          "B": "[AF] B) Public phone parking zone.",
+          "C": "[AF] C) Tow truck parking only."
+        },
+        "xh": {
+          "A": "[XH] A) Emergency stopping bay; stopping is prohibited except in a true breakdown or emergency.",
+          "B": "[XH] B) Public phone parking zone.",
+          "C": "[XH] C) Tow truck parking only."
+        },
+        "zu": {
+          "A": "[ZU] A) Emergency stopping bay; stopping is prohibited except in a true breakdown or emergency.",
+          "B": "[ZU] B) Public phone parking zone.",
+          "C": "[ZU] C) Tow truck parking only."
+        },
+        "st": {
+          "A": "[ST] A) Emergency stopping bay; stopping is prohibited except in a true breakdown or emergency.",
+          "B": "[ST] B) Public phone parking zone.",
+          "C": "[ST] C) Tow truck parking only."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.",
+        "af": "[AF] An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.",
+        "xh": "[XH] An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.",
+        "zu": "[ZU] An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.",
+        "st": "[ST] An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies."
+      },
+      "media": {
+        "graphic_type": "sos_marking",
+        "image_file": "sos_marking.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sos Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 358,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does painted island RM5 (white chevrons) mean?",
+        "af": "[AF] What does painted island RM5 (white chevrons) mean?",
+        "xh": "[XH] What does painted island RM5 (white chevrons) mean?",
+        "zu": "[ZU] What does painted island RM5 (white chevrons) mean?",
+        "st": "[ST] What does painted island RM5 (white chevrons) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Painted island; driving or stopping prohibited.",
+          "B": "B) Parking bay.",
+          "C": "C) Overtaking zone."
+        },
+        "af": {
+          "A": "[AF] A) Painted island; driving or stopping prohibited.",
+          "B": "[AF] B) Parking bay.",
+          "C": "[AF] C) Overtaking zone."
+        },
+        "xh": {
+          "A": "[XH] A) Painted island; driving or stopping prohibited.",
+          "B": "[XH] B) Parking bay.",
+          "C": "[XH] C) Overtaking zone."
+        },
+        "zu": {
+          "A": "[ZU] A) Painted island; driving or stopping prohibited.",
+          "B": "[ZU] B) Parking bay.",
+          "C": "[ZU] C) Overtaking zone."
+        },
+        "st": {
+          "A": "[ST] A) Painted island; driving or stopping prohibited.",
+          "B": "[ST] B) Parking bay.",
+          "C": "[ST] C) Overtaking zone."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Driving or stopping on painted islands is illegal.",
+        "af": "[AF] Driving or stopping on painted islands is illegal.",
+        "xh": "[XH] Driving or stopping on painted islands is illegal.",
+        "zu": "[ZU] Driving or stopping on painted islands is illegal.",
+        "st": "[ST] Driving or stopping on painted islands is illegal."
+      },
+      "media": {
+        "graphic_type": "painted_island",
+        "image_file": "painted_island.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Driving or stopping on painted islands is illegal.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Driving or stopping on painted islands is illegal.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Driving or stopping on painted islands is illegal.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Driving or stopping on painted islands is illegal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Driving or stopping on painted islands is illegal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Driving or stopping on painted islands is illegal. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Driving or stopping on painted islands is illegal. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Driving or stopping on painted islands is illegal. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Driving or stopping on painted islands is illegal. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Driving or stopping on painted islands is illegal. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Driving or stopping on painted islands is illegal. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Driving or stopping on painted islands is illegal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Driving or stopping on painted islands is illegal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Driving or stopping on painted islands is illegal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Driving or stopping on painted islands is illegal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 376,
+      "category": "Road Traffic Signs",
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What does road marking RM7 ('SOS' in yellow oval) mean?",
+        "af": "[AF] What does road marking RM7 ('SOS' in yellow oval) mean?",
+        "xh": "[XH] What does road marking RM7 ('SOS' in yellow oval) mean?",
+        "zu": "[ZU] What does road marking RM7 ('SOS' in yellow oval) mean?",
+        "st": "[ST] What does road marking RM7 ('SOS' in yellow oval) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Emergency stopping bay only.",
+          "B": "B) Public parking.",
+          "C": "C) Phone booth."
+        },
+        "af": {
+          "A": "[AF] A) Emergency stopping bay only.",
+          "B": "[AF] B) Public parking.",
+          "C": "[AF] C) Phone booth."
+        },
+        "xh": {
+          "A": "[XH] A) Emergency stopping bay only.",
+          "B": "[XH] B) Public parking.",
+          "C": "[XH] C) Phone booth."
+        },
+        "zu": {
+          "A": "[ZU] A) Emergency stopping bay only.",
+          "B": "[ZU] B) Public parking.",
+          "C": "[ZU] C) Phone booth."
+        },
+        "st": {
+          "A": "[ST] A) Emergency stopping bay only.",
+          "B": "[ST] B) Public parking.",
+          "C": "[ST] C) Phone booth."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Designates emergency stopping bay.",
+        "af": "[AF] Designates emergency stopping bay.",
+        "xh": "[XH] Designates emergency stopping bay.",
+        "zu": "[ZU] Designates emergency stopping bay.",
+        "st": "[ST] Designates emergency stopping bay."
+      },
+      "media": {
+        "graphic_type": "sos_marking",
+        "image_file": "sos_marking.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sos Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Designates emergency stopping bay.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Designates emergency stopping bay.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Designates emergency stopping bay.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Designates emergency stopping bay.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Designates emergency stopping bay.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Designates emergency stopping bay. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Designates emergency stopping bay. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Designates emergency stopping bay. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Designates emergency stopping bay. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Designates emergency stopping bay. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Designates emergency stopping bay. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Designates emergency stopping bay. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Designates emergency stopping bay. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Designates emergency stopping bay. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Designates emergency stopping bay. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    }
+  ]
+}

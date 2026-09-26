@@ -1,0 +1,1691 @@
+{
+  "code_id": "code2_light_vehicle",
+  "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+  "total_questions": 20,
+  "difficulty_breakdown": {
+    "easy": 10,
+    "hard": 10
+  },
+  "questions": [
+    {
+      "id": 1,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?",
+        "af": "[AF] Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?",
+        "xh": "[XH] Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?",
+        "zu": "[ZU] Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?",
+        "st": "[ST] Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Every occupant in a seat fitted with a seatbelt.",
+          "B": "B) Only the driver.",
+          "C": "C) Only front seat passengers."
+        },
+        "af": {
+          "A": "[AF] A) Every occupant in a seat fitted with a seatbelt.",
+          "B": "[AF] B) Only the driver.",
+          "C": "[AF] C) Only front seat passengers."
+        },
+        "xh": {
+          "A": "[XH] A) Every occupant in a seat fitted with a seatbelt.",
+          "B": "[XH] B) Only the driver.",
+          "C": "[XH] C) Only front seat passengers."
+        },
+        "zu": {
+          "A": "[ZU] A) Every occupant in a seat fitted with a seatbelt.",
+          "B": "[ZU] B) Only the driver.",
+          "C": "[ZU] C) Only front seat passengers."
+        },
+        "st": {
+          "A": "[ST] A) Every occupant in a seat fitted with a seatbelt.",
+          "B": "[ST] B) Only the driver.",
+          "C": "[ST] C) Only front seat passengers."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.",
+        "af": "[AF] It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.",
+        "xh": "[XH] It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.",
+        "zu": "[ZU] It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.",
+        "st": "[ST] It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
+      },
+      "memory_tricks": {
+        "en": "Click Every Belt: Everyone belts up before moving!",
+        "af": "[AF] Click Every Belt: Everyone belts up before moving!",
+        "xh": "[XH] Click Every Belt: Everyone belts up before moving!",
+        "zu": "[ZU] Click Every Belt: Everyone belts up before moving!",
+        "st": "[ST] Click Every Belt: Everyone belts up before moving!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular sign with a red border containing the number '120' (Sign R201) mean?",
+        "af": "[AF] What does a circular sign with a red border containing the number '120' (Sign R201) mean?",
+        "xh": "[XH] What does a circular sign with a red border containing the number '120' (Sign R201) mean?",
+        "zu": "[ZU] What does a circular sign with a red border containing the number '120' (Sign R201) mean?",
+        "st": "[ST] What does a circular sign with a red border containing the number '120' (Sign R201) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Maximum speed limit of 120 km/h.",
+          "B": "B) Minimum speed limit of 120 km/h.",
+          "C": "C) Recommended speed for rainy weather."
+        },
+        "af": {
+          "A": "[AF] A) Maximum speed limit of 120 km/h.",
+          "B": "[AF] B) Minimum speed limit of 120 km/h.",
+          "C": "[AF] C) Recommended speed for rainy weather."
+        },
+        "xh": {
+          "A": "[XH] A) Maximum speed limit of 120 km/h.",
+          "B": "[XH] B) Minimum speed limit of 120 km/h.",
+          "C": "[XH] C) Recommended speed for rainy weather."
+        },
+        "zu": {
+          "A": "[ZU] A) Maximum speed limit of 120 km/h.",
+          "B": "[ZU] B) Minimum speed limit of 120 km/h.",
+          "C": "[ZU] C) Recommended speed for rainy weather."
+        },
+        "st": {
+          "A": "[ST] A) Maximum speed limit of 120 km/h.",
+          "B": "[ST] B) Minimum speed limit of 120 km/h.",
+          "C": "[ST] C) Recommended speed for rainy weather."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign R201 enforces a maximum legal speed limit of 120 km/h.",
+        "af": "[AF] Sign R201 enforces a maximum legal speed limit of 120 km/h.",
+        "xh": "[XH] Sign R201 enforces a maximum legal speed limit of 120 km/h.",
+        "zu": "[ZU] Sign R201 enforces a maximum legal speed limit of 120 km/h.",
+        "st": "[ST] Sign R201 enforces a maximum legal speed limit of 120 km/h."
+      },
+      "media": {
+        "graphic_type": "speed_120",
+        "image_file": "speed_120.png",
+        "video_simulation_prompt": "3D Animation: Light motor vehicle cruising on a freeway passing a 120 km/h speed limit sign."
+      },
+      "memory_tricks": {
+        "en": "Red Circle Number = Maximum Speed Limit!",
+        "af": "[AF] Red Circle Number = Maximum Speed Limit!",
+        "xh": "[XH] Red Circle Number = Maximum Speed Limit!",
+        "zu": "[ZU] Red Circle Number = Maximum Speed Limit!",
+        "st": "[ST] Red Circle Number = Maximum Speed Limit!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R201 enforces a maximum legal speed limit of 120 km/h.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R201 enforces a maximum legal speed limit of 120 km/h.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R201 enforces a maximum legal speed limit of 120 km/h.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R201 enforces a maximum legal speed limit of 120 km/h.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R201 enforces a maximum legal speed limit of 120 km/h.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R201 enforces a maximum legal speed limit of 120 km/h. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R201 enforces a maximum legal speed limit of 120 km/h. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R201 enforces a maximum legal speed limit of 120 km/h. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R201 enforces a maximum legal speed limit of 120 km/h. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R201 enforces a maximum legal speed limit of 120 km/h. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R201 enforces a maximum legal speed limit of 120 km/h. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign R201 enforces a maximum legal speed limit of 120 km/h. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign R201 enforces a maximum legal speed limit of 120 km/h. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign R201 enforces a maximum legal speed limit of 120 km/h. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R201 enforces a maximum legal speed limit of 120 km/h. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "Which foot pedal in a manual transmission light motor vehicle is operated exclusively using the left foot?",
+        "af": "[AF] Which foot pedal in a manual transmission light motor vehicle is operated exclusively using the left foot?",
+        "xh": "[XH] Which foot pedal in a manual transmission light motor vehicle is operated exclusively using the left foot?",
+        "zu": "[ZU] Which foot pedal in a manual transmission light motor vehicle is operated exclusively using the left foot?",
+        "st": "[ST] Which foot pedal in a manual transmission light motor vehicle is operated exclusively using the left foot?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Clutch pedal.",
+          "B": "B) Service brake pedal.",
+          "C": "C) Accelerator pedal."
+        },
+        "af": {
+          "A": "[AF] A) Clutch pedal.",
+          "B": "[AF] B) Service brake pedal.",
+          "C": "[AF] C) Accelerator pedal."
+        },
+        "xh": {
+          "A": "[XH] A) Clutch pedal.",
+          "B": "[XH] B) Service brake pedal.",
+          "C": "[XH] C) Accelerator pedal."
+        },
+        "zu": {
+          "A": "[ZU] A) Clutch pedal.",
+          "B": "[ZU] B) Service brake pedal.",
+          "C": "[ZU] C) Accelerator pedal."
+        },
+        "st": {
+          "A": "[ST] A) Clutch pedal.",
+          "B": "[ST] B) Service brake pedal.",
+          "C": "[ST] C) Accelerator pedal."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.",
+        "af": "[AF] The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.",
+        "xh": "[XH] The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.",
+        "zu": "[ZU] The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.",
+        "st": "[ST] The left foot operates only the clutch pedal, while the right foot operates brake and accelerator."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Footwell camera showing left foot depressing clutch pedal while right foot handles brake."
+      },
+      "memory_tricks": {
+        "en": "Left Foot = Clutch ONLY! Right foot handles gas & brake!",
+        "af": "[AF] Left Foot = Clutch ONLY! Right foot handles gas & brake!",
+        "xh": "[XH] Left Foot = Clutch ONLY! Right foot handles gas & brake!",
+        "zu": "[ZU] Left Foot = Clutch ONLY! Right foot handles gas & brake!",
+        "st": "[ST] Left Foot = Clutch ONLY! Right foot handles gas & brake!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The left foot operates only the clutch pedal, while the right foot operates brake and accelerator. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "When driving a light motor vehicle, when must you signal your intention to turn or change lanes?",
+        "af": "[AF] When driving a light motor vehicle, when must you signal your intention to turn or change lanes?",
+        "xh": "[XH] When driving a light motor vehicle, when must you signal your intention to turn or change lanes?",
+        "zu": "[ZU] When driving a light motor vehicle, when must you signal your intention to turn or change lanes?",
+        "st": "[ST] When driving a light motor vehicle, when must you signal your intention to turn or change lanes?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Well in advance to give ample warning to other road users.",
+          "B": "B) As you turn the steering wheel.",
+          "C": "C) Only if another vehicle is right behind you."
+        },
+        "af": {
+          "A": "[AF] A) Well in advance to give ample warning to other road users.",
+          "B": "[AF] B) As you turn the steering wheel.",
+          "C": "[AF] C) Only if another vehicle is right behind you."
+        },
+        "xh": {
+          "A": "[XH] A) Well in advance to give ample warning to other road users.",
+          "B": "[XH] B) As you turn the steering wheel.",
+          "C": "[XH] C) Only if another vehicle is right behind you."
+        },
+        "zu": {
+          "A": "[ZU] A) Well in advance to give ample warning to other road users.",
+          "B": "[ZU] B) As you turn the steering wheel.",
+          "C": "[ZU] C) Only if another vehicle is right behind you."
+        },
+        "st": {
+          "A": "[ST] A) Well in advance to give ample warning to other road users.",
+          "B": "[ST] B) As you turn the steering wheel.",
+          "C": "[ST] C) Only if another vehicle is right behind you."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Signals must be given in good time before initiating turns or lane changes.",
+        "af": "[AF] Signals must be given in good time before initiating turns or lane changes.",
+        "xh": "[XH] Signals must be given in good time before initiating turns or lane changes.",
+        "zu": "[ZU] Signals must be given in good time before initiating turns or lane changes.",
+        "st": "[ST] Signals must be given in good time before initiating turns or lane changes."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Car flicking indicator lever on 50m before turning left into an intersection."
+      },
+      "memory_tricks": {
+        "en": "Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!",
+        "af": "[AF] Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!",
+        "xh": "[XH] Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!",
+        "zu": "[ZU] Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!",
+        "st": "[ST] Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Signals must be given in good time before initiating turns or lane changes.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Signals must be given in good time before initiating turns or lane changes.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Signals must be given in good time before initiating turns or lane changes.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Signals must be given in good time before initiating turns or lane changes.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Signals must be given in good time before initiating turns or lane changes.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Signals must be given in good time before initiating turns or lane changes. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Signals must be given in good time before initiating turns or lane changes. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Signals must be given in good time before initiating turns or lane changes. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Signals must be given in good time before initiating turns or lane changes. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Signals must be given in good time before initiating turns or lane changes. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Signals must be given in good time before initiating turns or lane changes. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Signals must be given in good time before initiating turns or lane changes. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Signals must be given in good time before initiating turns or lane changes. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Signals must be given in good time before initiating turns or lane changes. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Signals must be given in good time before initiating turns or lane changes. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a circular red sign with a white horizontal bar (Sign R3) mean?",
+        "af": "[AF] What does a circular red sign with a white horizontal bar (Sign R3) mean?",
+        "xh": "[XH] What does a circular red sign with a white horizontal bar (Sign R3) mean?",
+        "zu": "[ZU] What does a circular red sign with a white horizontal bar (Sign R3) mean?",
+        "st": "[ST] What does a circular red sign with a white horizontal bar (Sign R3) mean?"
+      },
+      "options": {
+        "en": {
+          "A": "A) No Entry for all vehicles.",
+          "B": "B) Stop and yield to pedestrians.",
+          "C": "C) One-way street ahead."
+        },
+        "af": {
+          "A": "[AF] A) No Entry for all vehicles.",
+          "B": "[AF] B) Stop and yield to pedestrians.",
+          "C": "[AF] C) One-way street ahead."
+        },
+        "xh": {
+          "A": "[XH] A) No Entry for all vehicles.",
+          "B": "[XH] B) Stop and yield to pedestrians.",
+          "C": "[XH] C) One-way street ahead."
+        },
+        "zu": {
+          "A": "[ZU] A) No Entry for all vehicles.",
+          "B": "[ZU] B) Stop and yield to pedestrians.",
+          "C": "[ZU] C) One-way street ahead."
+        },
+        "st": {
+          "A": "[ST] A) No Entry for all vehicles.",
+          "B": "[ST] B) Stop and yield to pedestrians.",
+          "C": "[ST] C) One-way street ahead."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Sign R3 prohibits any vehicle from entering the road or entrance.",
+        "af": "[AF] Sign R3 prohibits any vehicle from entering the road or entrance.",
+        "xh": "[XH] Sign R3 prohibits any vehicle from entering the road or entrance.",
+        "zu": "[ZU] Sign R3 prohibits any vehicle from entering the road or entrance.",
+        "st": "[ST] Sign R3 prohibits any vehicle from entering the road or entrance."
+      },
+      "media": {
+        "graphic_type": "no_entry",
+        "image_file": "no_entry.png",
+        "video_simulation_prompt": "3D Animation: Car approaching a NO ENTRY red disc sign and turning away."
+      },
+      "memory_tricks": {
+        "en": "Red Disc White Bar = NO ENTRY! Absolute prohibition!",
+        "af": "[AF] Red Disc White Bar = NO ENTRY! Absolute prohibition!",
+        "xh": "[XH] Red Disc White Bar = NO ENTRY! Absolute prohibition!",
+        "zu": "[ZU] Red Disc White Bar = NO ENTRY! Absolute prohibition!",
+        "st": "[ST] Red Disc White Bar = NO ENTRY! Absolute prohibition!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R3 prohibits any vehicle from entering the road or entrance.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R3 prohibits any vehicle from entering the road or entrance.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R3 prohibits any vehicle from entering the road or entrance.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R3 prohibits any vehicle from entering the road or entrance.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R3 prohibits any vehicle from entering the road or entrance.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R3 prohibits any vehicle from entering the road or entrance. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R3 prohibits any vehicle from entering the road or entrance. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R3 prohibits any vehicle from entering the road or entrance. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R3 prohibits any vehicle from entering the road or entrance. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R3 prohibits any vehicle from entering the road or entrance. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R3 prohibits any vehicle from entering the road or entrance. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Sign R3 prohibits any vehicle from entering the road or entrance. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Sign R3 prohibits any vehicle from entering the road or entrance. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Sign R3 prohibits any vehicle from entering the road or entrance. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R3 prohibits any vehicle from entering the road or entrance. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the general maximum speed limit on a freeway for light motor vehicles in South Africa?",
+        "af": "[AF] What is the general maximum speed limit on a freeway for light motor vehicles in South Africa?",
+        "xh": "[XH] What is the general maximum speed limit on a freeway for light motor vehicles in South Africa?",
+        "zu": "[ZU] What is the general maximum speed limit on a freeway for light motor vehicles in South Africa?",
+        "st": "[ST] What is the general maximum speed limit on a freeway for light motor vehicles in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 120 km/h.",
+          "B": "B) 100 km/h.",
+          "C": "C) 80 km/h."
+        },
+        "af": {
+          "A": "[AF] A) 120 km/h.",
+          "B": "[AF] B) 100 km/h.",
+          "C": "[AF] C) 80 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) 120 km/h.",
+          "B": "[XH] B) 100 km/h.",
+          "C": "[XH] C) 80 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) 120 km/h.",
+          "B": "[ZU] B) 100 km/h.",
+          "C": "[ZU] C) 80 km/h."
+        },
+        "st": {
+          "A": "[ST] A) 120 km/h.",
+          "B": "[ST] B) 100 km/h.",
+          "C": "[ST] C) 80 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The general freeway speed limit for cars is 120 km/h unless posted otherwise.",
+        "af": "[AF] The general freeway speed limit for cars is 120 km/h unless posted otherwise.",
+        "xh": "[XH] The general freeway speed limit for cars is 120 km/h unless posted otherwise.",
+        "zu": "[ZU] The general freeway speed limit for cars is 120 km/h unless posted otherwise.",
+        "st": "[ST] The general freeway speed limit for cars is 120 km/h unless posted otherwise."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Car speedometer needle holding at 120 km/h on a dual freeway."
+      },
+      "memory_tricks": {
+        "en": "Freeway Max: 120 km/h for light vehicles!",
+        "af": "[AF] Freeway Max: 120 km/h for light vehicles!",
+        "xh": "[XH] Freeway Max: 120 km/h for light vehicles!",
+        "zu": "[ZU] Freeway Max: 120 km/h for light vehicles!",
+        "st": "[ST] Freeway Max: 120 km/h for light vehicles!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The general freeway speed limit for cars is 120 km/h unless posted otherwise.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The general freeway speed limit for cars is 120 km/h unless posted otherwise.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The general freeway speed limit for cars is 120 km/h unless posted otherwise.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The general freeway speed limit for cars is 120 km/h unless posted otherwise.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The general freeway speed limit for cars is 120 km/h unless posted otherwise.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The general freeway speed limit for cars is 120 km/h unless posted otherwise. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The general freeway speed limit for cars is 120 km/h unless posted otherwise. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The general freeway speed limit for cars is 120 km/h unless posted otherwise. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "What is the primary function of the handbrake (parking brake) in a light motor vehicle?",
+        "af": "[AF] What is the primary function of the handbrake (parking brake) in a light motor vehicle?",
+        "xh": "[XH] What is the primary function of the handbrake (parking brake) in a light motor vehicle?",
+        "zu": "[ZU] What is the primary function of the handbrake (parking brake) in a light motor vehicle?",
+        "st": "[ST] What is the primary function of the handbrake (parking brake) in a light motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) To keep the vehicle stationary when parked or starting on an incline.",
+          "B": "B) To slow the car down at high speeds.",
+          "C": "C) To disengage the engine clutch."
+        },
+        "af": {
+          "A": "[AF] A) To keep the vehicle stationary when parked or starting on an incline.",
+          "B": "[AF] B) To slow the car down at high speeds.",
+          "C": "[AF] C) To disengage the engine clutch."
+        },
+        "xh": {
+          "A": "[XH] A) To keep the vehicle stationary when parked or starting on an incline.",
+          "B": "[XH] B) To slow the car down at high speeds.",
+          "C": "[XH] C) To disengage the engine clutch."
+        },
+        "zu": {
+          "A": "[ZU] A) To keep the vehicle stationary when parked or starting on an incline.",
+          "B": "[ZU] B) To slow the car down at high speeds.",
+          "C": "[ZU] C) To disengage the engine clutch."
+        },
+        "st": {
+          "A": "[ST] A) To keep the vehicle stationary when parked or starting on an incline.",
+          "B": "[ST] B) To slow the car down at high speeds.",
+          "C": "[ST] C) To disengage the engine clutch."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The parking brake holds the vehicle stationary when parked or during hill starts.",
+        "af": "[AF] The parking brake holds the vehicle stationary when parked or during hill starts.",
+        "xh": "[XH] The parking brake holds the vehicle stationary when parked or during hill starts.",
+        "zu": "[ZU] The parking brake holds the vehicle stationary when parked or during hill starts.",
+        "st": "[ST] The parking brake holds the vehicle stationary when parked or during hill starts."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Driver pulling up handbrake lever while parked on an incline."
+      },
+      "memory_tricks": {
+        "en": "Handbrake = Parking Lock & Incline Start Helper!",
+        "af": "[AF] Handbrake = Parking Lock & Incline Start Helper!",
+        "xh": "[XH] Handbrake = Parking Lock & Incline Start Helper!",
+        "zu": "[ZU] Handbrake = Parking Lock & Incline Start Helper!",
+        "st": "[ST] Handbrake = Parking Lock & Incline Start Helper!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The parking brake holds the vehicle stationary when parked or during hill starts.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The parking brake holds the vehicle stationary when parked or during hill starts.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The parking brake holds the vehicle stationary when parked or during hill starts.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The parking brake holds the vehicle stationary when parked or during hill starts.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The parking brake holds the vehicle stationary when parked or during hill starts.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: The parking brake holds the vehicle stationary when parked or during hill starts. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The parking brake holds the vehicle stationary when parked or during hill starts. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The parking brake holds the vehicle stationary when parked or during hill starts. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The parking brake holds the vehicle stationary when parked or during hill starts. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The parking brake holds the vehicle stationary when parked or during hill starts. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The parking brake holds the vehicle stationary when parked or during hill starts. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The parking brake holds the vehicle stationary when parked or during hill starts. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The parking brake holds the vehicle stationary when parked or during hill starts. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The parking brake holds the vehicle stationary when parked or during hill starts. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The parking brake holds the vehicle stationary when parked or during hill starts. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a solid yellow line painted along the left curb of a public road (Sign RM202) indicate?",
+        "af": "[AF] What does a solid yellow line painted along the left curb of a public road (Sign RM202) indicate?",
+        "xh": "[XH] What does a solid yellow line painted along the left curb of a public road (Sign RM202) indicate?",
+        "zu": "[ZU] What does a solid yellow line painted along the left curb of a public road (Sign RM202) indicate?",
+        "st": "[ST] What does a solid yellow line painted along the left curb of a public road (Sign RM202) indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) No Parking permitted at any time.",
+          "B": "B) No Stopping permitted.",
+          "C": "C) Reserved parking for buses."
+        },
+        "af": {
+          "A": "[AF] A) No Parking permitted at any time.",
+          "B": "[AF] B) No Stopping permitted.",
+          "C": "[AF] C) Reserved parking for buses."
+        },
+        "xh": {
+          "A": "[XH] A) No Parking permitted at any time.",
+          "B": "[XH] B) No Stopping permitted.",
+          "C": "[XH] C) Reserved parking for buses."
+        },
+        "zu": {
+          "A": "[ZU] A) No Parking permitted at any time.",
+          "B": "[ZU] B) No Stopping permitted.",
+          "C": "[ZU] C) Reserved parking for buses."
+        },
+        "st": {
+          "A": "[ST] A) No Parking permitted at any time.",
+          "B": "[ST] B) No Stopping permitted.",
+          "C": "[ST] C) Reserved parking for buses."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "A solid yellow line on the curb edge indicates NO PARKING permitted.",
+        "af": "[AF] A solid yellow line on the curb edge indicates NO PARKING permitted.",
+        "xh": "[XH] A solid yellow line on the curb edge indicates NO PARKING permitted.",
+        "zu": "[ZU] A solid yellow line on the curb edge indicates NO PARKING permitted.",
+        "st": "[ST] A solid yellow line on the curb edge indicates NO PARKING permitted."
+      },
+      "media": {
+        "graphic_type": "yellow_line_no_parking",
+        "image_file": "yellow_line_no_parking.png",
+        "video_simulation_prompt": "3D Animation: Car driving past a yellow curb line without stopping to park."
+      },
+      "memory_tricks": {
+        "en": "Yellow Curb = NO PARKING! Red Curb = NO STOPPING!",
+        "af": "[AF] Yellow Curb = NO PARKING! Red Curb = NO STOPPING!",
+        "xh": "[XH] Yellow Curb = NO PARKING! Red Curb = NO STOPPING!",
+        "zu": "[ZU] Yellow Curb = NO PARKING! Red Curb = NO STOPPING!",
+        "st": "[ST] Yellow Curb = NO PARKING! Red Curb = NO STOPPING!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A solid yellow line on the curb edge indicates NO PARKING permitted.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A solid yellow line on the curb edge indicates NO PARKING permitted.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A solid yellow line on the curb edge indicates NO PARKING permitted.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A solid yellow line on the curb edge indicates NO PARKING permitted.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A solid yellow line on the curb edge indicates NO PARKING permitted.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: A solid yellow line on the curb edge indicates NO PARKING permitted. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A solid yellow line on the curb edge indicates NO PARKING permitted. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A solid yellow line on the curb edge indicates NO PARKING permitted. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A solid yellow line on the curb edge indicates NO PARKING permitted. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A solid yellow line on the curb edge indicates NO PARKING permitted. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: A solid yellow line on the curb edge indicates NO PARKING permitted. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: A solid yellow line on the curb edge indicates NO PARKING permitted. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: A solid yellow line on the curb edge indicates NO PARKING permitted. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: A solid yellow line on the curb edge indicates NO PARKING permitted. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: A solid yellow line on the curb edge indicates NO PARKING permitted. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What should you do if an emergency vehicle (ambulance, police, fire) approaches displaying flashing lights and sirens?",
+        "af": "[AF] What should you do if an emergency vehicle (ambulance, police, fire) approaches displaying flashing lights and sirens?",
+        "xh": "[XH] What should you do if an emergency vehicle (ambulance, police, fire) approaches displaying flashing lights and sirens?",
+        "zu": "[ZU] What should you do if an emergency vehicle (ambulance, police, fire) approaches displaying flashing lights and sirens?",
+        "st": "[ST] What should you do if an emergency vehicle (ambulance, police, fire) approaches displaying flashing lights and sirens?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Safely yield right-of-way and move to the side of the road.",
+          "B": "B) Maintain your speed and lane position.",
+          "C": "C) Speed up to stay ahead of it."
+        },
+        "af": {
+          "A": "[AF] A) Safely yield right-of-way and move to the side of the road.",
+          "B": "[AF] B) Maintain your speed and lane position.",
+          "C": "[AF] C) Speed up to stay ahead of it."
+        },
+        "xh": {
+          "A": "[XH] A) Safely yield right-of-way and move to the side of the road.",
+          "B": "[XH] B) Maintain your speed and lane position.",
+          "C": "[XH] C) Speed up to stay ahead of it."
+        },
+        "zu": {
+          "A": "[ZU] A) Safely yield right-of-way and move to the side of the road.",
+          "B": "[ZU] B) Maintain your speed and lane position.",
+          "C": "[ZU] C) Speed up to stay ahead of it."
+        },
+        "st": {
+          "A": "[ST] A) Safely yield right-of-way and move to the side of the road.",
+          "B": "[ST] B) Maintain your speed and lane position.",
+          "C": "[ST] C) Speed up to stay ahead of it."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.",
+        "af": "[AF] Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.",
+        "xh": "[XH] Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.",
+        "zu": "[ZU] Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.",
+        "st": "[ST] Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Car indicating right and pulling onto the shoulder as an ambulance passes safely."
+      },
+      "memory_tricks": {
+        "en": "Siren & Flash = Move Aside & Give Way Safely!",
+        "af": "[AF] Siren & Flash = Move Aside & Give Way Safely!",
+        "xh": "[XH] Siren & Flash = Move Aside & Give Way Safely!",
+        "zu": "[ZU] Siren & Flash = Move Aside & Give Way Safely!",
+        "st": "[ST] Siren & Flash = Move Aside & Give Way Safely!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "easy",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "Where should the driver's hands be positioned on the steering wheel under normal K53 driving standards?",
+        "af": "[AF] Where should the driver's hands be positioned on the steering wheel under normal K53 driving standards?",
+        "xh": "[XH] Where should the driver's hands be positioned on the steering wheel under normal K53 driving standards?",
+        "zu": "[ZU] Where should the driver's hands be positioned on the steering wheel under normal K53 driving standards?",
+        "st": "[ST] Where should the driver's hands be positioned on the steering wheel under normal K53 driving standards?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 'Ten-to-two' (10 and 2) or 'Quarter-to-three' (9 and 3) positions.",
+          "B": "B) Both hands at the bottom of the wheel.",
+          "C": "C) One hand on the window sill."
+        },
+        "af": {
+          "A": "[AF] A) 'Ten-to-two' (10 and 2) or 'Quarter-to-three' (9 and 3) positions.",
+          "B": "[AF] B) Both hands at the bottom of the wheel.",
+          "C": "[AF] C) One hand on the window sill."
+        },
+        "xh": {
+          "A": "[XH] A) 'Ten-to-two' (10 and 2) or 'Quarter-to-three' (9 and 3) positions.",
+          "B": "[XH] B) Both hands at the bottom of the wheel.",
+          "C": "[XH] C) One hand on the window sill."
+        },
+        "zu": {
+          "A": "[ZU] A) 'Ten-to-two' (10 and 2) or 'Quarter-to-three' (9 and 3) positions.",
+          "B": "[ZU] B) Both hands at the bottom of the wheel.",
+          "C": "[ZU] C) One hand on the window sill."
+        },
+        "st": {
+          "A": "[ST] A) 'Ten-to-two' (10 and 2) or 'Quarter-to-three' (9 and 3) positions.",
+          "B": "[ST] B) Both hands at the bottom of the wheel.",
+          "C": "[ST] C) One hand on the window sill."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.",
+        "af": "[AF] Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.",
+        "xh": "[XH] Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.",
+        "zu": "[ZU] Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.",
+        "st": "[ST] Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Close-up of steering wheel with glowing indicators at 10 and 2 o'clock positions."
+      },
+      "memory_tricks": {
+        "en": "10-to-2 or 9-and-3: Firm grip, full steering control!",
+        "af": "[AF] 10-to-2 or 9-and-3: Firm grip, full steering control!",
+        "xh": "[XH] 10-to-2 or 9-and-3: Firm grip, full steering control!",
+        "zu": "[ZU] 10-to-2 or 9-and-3: Firm grip, full steering control!",
+        "st": "[ST] 10-to-2 or 9-and-3: Firm grip, full steering control!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "How far from a bridge, tunnel, or subway underpass are you legally prohibited from stopping a motor vehicle?",
+        "af": "[AF] How far from a bridge, tunnel, or subway underpass are you legally prohibited from stopping a motor vehicle?",
+        "xh": "[XH] How far from a bridge, tunnel, or subway underpass are you legally prohibited from stopping a motor vehicle?",
+        "zu": "[ZU] How far from a bridge, tunnel, or subway underpass are you legally prohibited from stopping a motor vehicle?",
+        "st": "[ST] How far from a bridge, tunnel, or subway underpass are you legally prohibited from stopping a motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Within 6 metres.",
+          "B": "B) Within 9 metres.",
+          "C": "C) Within 12 metres."
+        },
+        "af": {
+          "A": "[AF] A) Within 6 metres.",
+          "B": "[AF] B) Within 9 metres.",
+          "C": "[AF] C) Within 12 metres."
+        },
+        "xh": {
+          "A": "[XH] A) Within 6 metres.",
+          "B": "[XH] B) Within 9 metres.",
+          "C": "[XH] C) Within 12 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) Within 6 metres.",
+          "B": "[ZU] B) Within 9 metres.",
+          "C": "[ZU] C) Within 12 metres."
+        },
+        "st": {
+          "A": "[ST] A) Within 6 metres.",
+          "B": "[ST] B) Within 9 metres.",
+          "C": "[ST] C) Within 12 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.",
+        "af": "[AF] Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.",
+        "xh": "[XH] Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.",
+        "zu": "[ZU] Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.",
+        "st": "[ST] Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Car approaching a subway tunnel with 6m highlighted zone showing NO STOPPING."
+      },
+      "memory_tricks": {
+        "en": "Rule of 6: 6 metres from Bridges, Tunnels, Subways!",
+        "af": "[AF] Rule of 6: 6 metres from Bridges, Tunnels, Subways!",
+        "xh": "[XH] Rule of 6: 6 metres from Bridges, Tunnels, Subways!",
+        "zu": "[ZU] Rule of 6: 6 metres from Bridges, Tunnels, Subways!",
+        "st": "[ST] Rule of 6: 6 metres from Bridges, Tunnels, Subways!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "When towing a vehicle using a non-rigid tow-rope on a public road, if the distance exceeds 1.8m, how must the rope be marked?",
+        "af": "[AF] When towing a vehicle using a non-rigid tow-rope on a public road, if the distance exceeds 1.8m, how must the rope be marked?",
+        "xh": "[XH] When towing a vehicle using a non-rigid tow-rope on a public road, if the distance exceeds 1.8m, how must the rope be marked?",
+        "zu": "[ZU] When towing a vehicle using a non-rigid tow-rope on a public road, if the distance exceeds 1.8m, how must the rope be marked?",
+        "st": "[ST] When towing a vehicle using a non-rigid tow-rope on a public road, if the distance exceeds 1.8m, how must the rope be marked?"
+      },
+      "options": {
+        "en": {
+          "A": "A) With a red flag tied at the center of the rope.",
+          "B": "B) With white reflective tape.",
+          "C": "C) With a flashing yellow lamp."
+        },
+        "af": {
+          "A": "[AF] A) With a red flag tied at the center of the rope.",
+          "B": "[AF] B) With white reflective tape.",
+          "C": "[AF] C) With a flashing yellow lamp."
+        },
+        "xh": {
+          "A": "[XH] A) With a red flag tied at the center of the rope.",
+          "B": "[XH] B) With white reflective tape.",
+          "C": "[XH] C) With a flashing yellow lamp."
+        },
+        "zu": {
+          "A": "[ZU] A) With a red flag tied at the center of the rope.",
+          "B": "[ZU] B) With white reflective tape.",
+          "C": "[ZU] C) With a flashing yellow lamp."
+        },
+        "st": {
+          "A": "[ST] A) With a red flag tied at the center of the rope.",
+          "B": "[ST] B) With white reflective tape.",
+          "C": "[ST] C) With a flashing yellow lamp."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.",
+        "af": "[AF] Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.",
+        "xh": "[XH] Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.",
+        "zu": "[ZU] Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.",
+        "st": "[ST] Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Towing setup with red flag tied right at the midpoint of a 2.5m tow rope."
+      },
+      "memory_tricks": {
+        "en": "Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!",
+        "af": "[AF] Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!",
+        "xh": "[XH] Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!",
+        "zu": "[ZU] Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!",
+        "st": "[ST] Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 13,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the maximum speed permitted when towing a vehicle using a non-rigid tow connection (tow-rope)?",
+        "af": "[AF] What is the maximum speed permitted when towing a vehicle using a non-rigid tow connection (tow-rope)?",
+        "xh": "[XH] What is the maximum speed permitted when towing a vehicle using a non-rigid tow connection (tow-rope)?",
+        "zu": "[ZU] What is the maximum speed permitted when towing a vehicle using a non-rigid tow connection (tow-rope)?",
+        "st": "[ST] What is the maximum speed permitted when towing a vehicle using a non-rigid tow connection (tow-rope)?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 30 km/h.",
+          "B": "B) 40 km/h.",
+          "C": "C) 60 km/h."
+        },
+        "af": {
+          "A": "[AF] A) 30 km/h.",
+          "B": "[AF] B) 40 km/h.",
+          "C": "[AF] C) 60 km/h."
+        },
+        "xh": {
+          "A": "[XH] A) 30 km/h.",
+          "B": "[XH] B) 40 km/h.",
+          "C": "[XH] C) 60 km/h."
+        },
+        "zu": {
+          "A": "[ZU] A) 30 km/h.",
+          "B": "[ZU] B) 40 km/h.",
+          "C": "[ZU] C) 60 km/h."
+        },
+        "st": {
+          "A": "[ST] A) 30 km/h.",
+          "B": "[ST] B) 40 km/h.",
+          "C": "[ST] C) 60 km/h."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.",
+        "af": "[AF] Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.",
+        "xh": "[XH] Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.",
+        "zu": "[ZU] Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.",
+        "st": "[ST] Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Two cars connected by tow rope driving slowly with speedometer locked at 30 km/h."
+      },
+      "memory_tricks": {
+        "en": "Tow Rope Speed: Max 30 km/h with a rope!",
+        "af": "[AF] Tow Rope Speed: Max 30 km/h with a rope!",
+        "xh": "[XH] Tow Rope Speed: Max 30 km/h with a rope!",
+        "zu": "[ZU] Tow Rope Speed: Max 30 km/h with a rope!",
+        "st": "[ST] Tow Rope Speed: Max 30 km/h with a rope!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 14,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the legal blood alcohol concentration limit for ordinary light motor vehicle drivers in South Africa?",
+        "af": "[AF] What is the legal blood alcohol concentration limit for ordinary light motor vehicle drivers in South Africa?",
+        "xh": "[XH] What is the legal blood alcohol concentration limit for ordinary light motor vehicle drivers in South Africa?",
+        "zu": "[ZU] What is the legal blood alcohol concentration limit for ordinary light motor vehicle drivers in South Africa?",
+        "st": "[ST] What is the legal blood alcohol concentration limit for ordinary light motor vehicle drivers in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Less than 0.05 grams per 100 ml of blood.",
+          "B": "B) Less than 0.02 grams per 100 ml.",
+          "C": "C) Exactly 0.08 grams per 100 ml."
+        },
+        "af": {
+          "A": "[AF] A) Less than 0.05 grams per 100 ml of blood.",
+          "B": "[AF] B) Less than 0.02 grams per 100 ml.",
+          "C": "[AF] C) Exactly 0.08 grams per 100 ml."
+        },
+        "xh": {
+          "A": "[XH] A) Less than 0.05 grams per 100 ml of blood.",
+          "B": "[XH] B) Less than 0.02 grams per 100 ml.",
+          "C": "[XH] C) Exactly 0.08 grams per 100 ml."
+        },
+        "zu": {
+          "A": "[ZU] A) Less than 0.05 grams per 100 ml of blood.",
+          "B": "[ZU] B) Less than 0.02 grams per 100 ml.",
+          "C": "[ZU] C) Exactly 0.08 grams per 100 ml."
+        },
+        "st": {
+          "A": "[ST] A) Less than 0.05 grams per 100 ml of blood.",
+          "B": "[ST] B) Less than 0.02 grams per 100 ml.",
+          "C": "[ST] C) Exactly 0.08 grams per 100 ml."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).",
+        "af": "[AF] Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).",
+        "xh": "[XH] Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).",
+        "zu": "[ZU] Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).",
+        "st": "[ST] Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers)."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Comparison chart: 0.05g/100ml for Ordinary Drivers vs 0.02g for Professional Drivers."
+      },
+      "memory_tricks": {
+        "en": "0.05 Ordinary vs 0.02 Professional: Don't drink and drive!",
+        "af": "[AF] 0.05 Ordinary vs 0.02 Professional: Don't drink and drive!",
+        "xh": "[XH] 0.05 Ordinary vs 0.02 Professional: Don't drink and drive!",
+        "zu": "[ZU] 0.05 Ordinary vs 0.02 Professional: Don't drink and drive!",
+        "st": "[ST] 0.05 Ordinary vs 0.02 Professional: Don't drink and drive!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers). O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a double solid white line painted down the center of a road (Sign RM2) indicate?",
+        "af": "[AF] What does a double solid white line painted down the center of a road (Sign RM2) indicate?",
+        "xh": "[XH] What does a double solid white line painted down the center of a road (Sign RM2) indicate?",
+        "zu": "[ZU] What does a double solid white line painted down the center of a road (Sign RM2) indicate?",
+        "st": "[ST] What does a double solid white line painted down the center of a road (Sign RM2) indicate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Absolute prohibition against crossing or straddling the lines from either direction.",
+          "B": "B) Overtaking allowed if clear.",
+          "C": "C) Parking bay boundary."
+        },
+        "af": {
+          "A": "[AF] A) Absolute prohibition against crossing or straddling the lines from either direction.",
+          "B": "[AF] B) Overtaking allowed if clear.",
+          "C": "[AF] C) Parking bay boundary."
+        },
+        "xh": {
+          "A": "[XH] A) Absolute prohibition against crossing or straddling the lines from either direction.",
+          "B": "[XH] B) Overtaking allowed if clear.",
+          "C": "[XH] C) Parking bay boundary."
+        },
+        "zu": {
+          "A": "[ZU] A) Absolute prohibition against crossing or straddling the lines from either direction.",
+          "B": "[ZU] B) Overtaking allowed if clear.",
+          "C": "[ZU] C) Parking bay boundary."
+        },
+        "st": {
+          "A": "[ST] A) Absolute prohibition against crossing or straddling the lines from either direction.",
+          "B": "[ST] B) Overtaking allowed if clear.",
+          "C": "[ST] C) Parking bay boundary."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Double solid white center lines strictly prohibit crossing or straddling from both sides.",
+        "af": "[AF] Double solid white center lines strictly prohibit crossing or straddling from both sides.",
+        "xh": "[XH] Double solid white center lines strictly prohibit crossing or straddling from both sides.",
+        "zu": "[ZU] Double solid white center lines strictly prohibit crossing or straddling from both sides.",
+        "st": "[ST] Double solid white center lines strictly prohibit crossing or straddling from both sides."
+      },
+      "media": {
+        "graphic_type": "double_solid_white",
+        "image_file": "double_solid_white.png",
+        "video_simulation_prompt": "3D Animation: Car approaching double solid lines and staying strictly within its lane."
+      },
+      "memory_tricks": {
+        "en": "Double Solid = DOUBLE WALL! Do NOT cross!",
+        "af": "[AF] Double Solid = DOUBLE WALL! Do NOT cross!",
+        "xh": "[XH] Double Solid = DOUBLE WALL! Do NOT cross!",
+        "zu": "[ZU] Double Solid = DOUBLE WALL! Do NOT cross!",
+        "st": "[ST] Double Solid = DOUBLE WALL! Do NOT cross!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Double solid white center lines strictly prohibit crossing or straddling from both sides.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Double solid white center lines strictly prohibit crossing or straddling from both sides.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Double solid white center lines strictly prohibit crossing or straddling from both sides.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Double solid white center lines strictly prohibit crossing or straddling from both sides.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Double solid white center lines strictly prohibit crossing or straddling from both sides.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Double solid white center lines strictly prohibit crossing or straddling from both sides. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Double solid white center lines strictly prohibit crossing or straddling from both sides. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Double solid white center lines strictly prohibit crossing or straddling from both sides. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Double solid white center lines strictly prohibit crossing or straddling from both sides. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Double solid white center lines strictly prohibit crossing or straddling from both sides. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Double solid white center lines strictly prohibit crossing or straddling from both sides. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Double solid white center lines strictly prohibit crossing or straddling from both sides. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Double solid white center lines strictly prohibit crossing or straddling from both sides. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Double solid white center lines strictly prohibit crossing or straddling from both sides. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Double solid white center lines strictly prohibit crossing or straddling from both sides. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "How far back from a pedestrian zebra crossing are you prohibited from parking your vehicle?",
+        "af": "[AF] How far back from a pedestrian zebra crossing are you prohibited from parking your vehicle?",
+        "xh": "[XH] How far back from a pedestrian zebra crossing are you prohibited from parking your vehicle?",
+        "zu": "[ZU] How far back from a pedestrian zebra crossing are you prohibited from parking your vehicle?",
+        "st": "[ST] How far back from a pedestrian zebra crossing are you prohibited from parking your vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Within 9 metres on the approach side.",
+          "B": "B) Within 6 metres.",
+          "C": "C) Within 15 metres."
+        },
+        "af": {
+          "A": "[AF] A) Within 9 metres on the approach side.",
+          "B": "[AF] B) Within 6 metres.",
+          "C": "[AF] C) Within 15 metres."
+        },
+        "xh": {
+          "A": "[XH] A) Within 9 metres on the approach side.",
+          "B": "[XH] B) Within 6 metres.",
+          "C": "[XH] C) Within 15 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) Within 9 metres on the approach side.",
+          "B": "[ZU] B) Within 6 metres.",
+          "C": "[ZU] C) Within 15 metres."
+        },
+        "st": {
+          "A": "[ST] A) Within 9 metres on the approach side.",
+          "B": "[ST] B) Within 6 metres.",
+          "C": "[ST] C) Within 15 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.",
+        "af": "[AF] Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.",
+        "xh": "[XH] Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.",
+        "zu": "[ZU] Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.",
+        "st": "[ST] Parking is prohibited within 9 metres of the approach side of a pedestrian crossing."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Zebra crossing with 9m marked clearance zone before the crossing."
+      },
+      "memory_tricks": {
+        "en": "Zebra Rule: 9 metres clearance before the zebra crossing!",
+        "af": "[AF] Zebra Rule: 9 metres clearance before the zebra crossing!",
+        "xh": "[XH] Zebra Rule: 9 metres clearance before the zebra crossing!",
+        "zu": "[ZU] Zebra Rule: 9 metres clearance before the zebra crossing!",
+        "st": "[ST] Zebra Rule: 9 metres clearance before the zebra crossing!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Parking is prohibited within 9 metres of the approach side of a pedestrian crossing. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Vehicle Controls",
+      "question": {
+        "en": "What is the correct physical sequence of actions for moving off from a stationary position under K53?",
+        "af": "[AF] What is the correct physical sequence of actions for moving off from a stationary position under K53?",
+        "xh": "[XH] What is the correct physical sequence of actions for moving off from a stationary position under K53?",
+        "zu": "[ZU] What is the correct physical sequence of actions for moving off from a stationary position under K53?",
+        "st": "[ST] What is the correct physical sequence of actions for moving off from a stationary position under K53?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Check mirrors, blind spot check, signal, engage gear, release handbrake while balancing clutch.",
+          "B": "B) Release handbrake, press accelerator, look around.",
+          "C": "C) Engage gear, signal, release handbrake without mirror checks."
+        },
+        "af": {
+          "A": "[AF] A) Check mirrors, blind spot check, signal, engage gear, release handbrake while balancing clutch.",
+          "B": "[AF] B) Release handbrake, press accelerator, look around.",
+          "C": "[AF] C) Engage gear, signal, release handbrake without mirror checks."
+        },
+        "xh": {
+          "A": "[XH] A) Check mirrors, blind spot check, signal, engage gear, release handbrake while balancing clutch.",
+          "B": "[XH] B) Release handbrake, press accelerator, look around.",
+          "C": "[XH] C) Engage gear, signal, release handbrake without mirror checks."
+        },
+        "zu": {
+          "A": "[ZU] A) Check mirrors, blind spot check, signal, engage gear, release handbrake while balancing clutch.",
+          "B": "[ZU] B) Release handbrake, press accelerator, look around.",
+          "C": "[ZU] C) Engage gear, signal, release handbrake without mirror checks."
+        },
+        "st": {
+          "A": "[ST] A) Check mirrors, blind spot check, signal, engage gear, release handbrake while balancing clutch.",
+          "B": "[ST] B) Release handbrake, press accelerator, look around.",
+          "C": "[ST] C) Engage gear, signal, release handbrake without mirror checks."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.",
+        "af": "[AF] K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.",
+        "xh": "[XH] K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.",
+        "zu": "[ZU] K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.",
+        "st": "[ST] K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Step-by-step K53 moving off routine showing head checks, indicator, gear, and clutch release."
+      },
+      "memory_tricks": {
+        "en": "Observe -> Signal -> Gear -> Handbrake -> Move!",
+        "af": "[AF] Observe -> Signal -> Gear -> Handbrake -> Move!",
+        "xh": "[XH] Observe -> Signal -> Gear -> Handbrake -> Move!",
+        "zu": "[ZU] Observe -> Signal -> Gear -> Handbrake -> Move!",
+        "st": "[ST] Observe -> Signal -> Gear -> Handbrake -> Move!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 18,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What distance must a red reflective flag placed on a rearward projecting load measure?",
+        "af": "[AF] What distance must a red reflective flag placed on a rearward projecting load measure?",
+        "xh": "[XH] What distance must a red reflective flag placed on a rearward projecting load measure?",
+        "zu": "[ZU] What distance must a red reflective flag placed on a rearward projecting load measure?",
+        "st": "[ST] What distance must a red reflective flag placed on a rearward projecting load measure?"
+      },
+      "options": {
+        "en": {
+          "A": "A) At least 300 mm x 300 mm.",
+          "B": "B) At least 200 mm x 200 mm.",
+          "C": "C) At least 500 mm x 500 mm."
+        },
+        "af": {
+          "A": "[AF] A) At least 300 mm x 300 mm.",
+          "B": "[AF] B) At least 200 mm x 200 mm.",
+          "C": "[AF] C) At least 500 mm x 500 mm."
+        },
+        "xh": {
+          "A": "[XH] A) At least 300 mm x 300 mm.",
+          "B": "[XH] B) At least 200 mm x 200 mm.",
+          "C": "[XH] C) At least 500 mm x 500 mm."
+        },
+        "zu": {
+          "A": "[ZU] A) At least 300 mm x 300 mm.",
+          "B": "[ZU] B) At least 200 mm x 200 mm.",
+          "C": "[ZU] C) At least 500 mm x 500 mm."
+        },
+        "st": {
+          "A": "[ST] A) At least 300 mm x 300 mm.",
+          "B": "[ST] B) At least 200 mm x 200 mm.",
+          "C": "[ST] C) At least 500 mm x 500 mm."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.",
+        "af": "[AF] Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.",
+        "xh": "[XH] Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.",
+        "zu": "[ZU] Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.",
+        "st": "[ST] Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Measurements showing 300mm x 300mm red flag tied onto extended timber load."
+      },
+      "memory_tricks": {
+        "en": "Red Flag Size: 300mm x 300mm square!",
+        "af": "[AF] Red Flag Size: 300mm x 300mm square!",
+        "xh": "[XH] Red Flag Size: 300mm x 300mm square!",
+        "zu": "[ZU] Red Flag Size: 300mm x 300mm square!",
+        "st": "[ST] Red Flag Size: 300mm x 300mm square!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Road Traffic Signs",
+      "question": {
+        "en": "What does a yellow painted crisscross box marking at an intersection (Sign RM10 / Box Junction) mandate?",
+        "af": "[AF] What does a yellow painted crisscross box marking at an intersection (Sign RM10 / Box Junction) mandate?",
+        "xh": "[XH] What does a yellow painted crisscross box marking at an intersection (Sign RM10 / Box Junction) mandate?",
+        "zu": "[ZU] What does a yellow painted crisscross box marking at an intersection (Sign RM10 / Box Junction) mandate?",
+        "st": "[ST] What does a yellow painted crisscross box marking at an intersection (Sign RM10 / Box Junction) mandate?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Do not enter the yellow box unless your exit route is completely clear.",
+          "B": "B) Mandatory stop for all turning vehicles.",
+          "C": "C) Reserved space for emergency vehicles."
+        },
+        "af": {
+          "A": "[AF] A) Do not enter the yellow box unless your exit route is completely clear.",
+          "B": "[AF] B) Mandatory stop for all turning vehicles.",
+          "C": "[AF] C) Reserved space for emergency vehicles."
+        },
+        "xh": {
+          "A": "[XH] A) Do not enter the yellow box unless your exit route is completely clear.",
+          "B": "[XH] B) Mandatory stop for all turning vehicles.",
+          "C": "[XH] C) Reserved space for emergency vehicles."
+        },
+        "zu": {
+          "A": "[ZU] A) Do not enter the yellow box unless your exit route is completely clear.",
+          "B": "[ZU] B) Mandatory stop for all turning vehicles.",
+          "C": "[ZU] C) Reserved space for emergency vehicles."
+        },
+        "st": {
+          "A": "[ST] A) Do not enter the yellow box unless your exit route is completely clear.",
+          "B": "[ST] B) Mandatory stop for all turning vehicles.",
+          "C": "[ST] C) Reserved space for emergency vehicles."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.",
+        "af": "[AF] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.",
+        "xh": "[XH] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.",
+        "zu": "[ZU] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.",
+        "st": "[ST] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic."
+      },
+      "media": {
+        "graphic_type": "box_junction",
+        "image_file": "box_junction.png",
+        "video_simulation_prompt": "3D Animation: Car stopping before yellow box junction grid until traffic moves ahead."
+      },
+      "memory_tricks": {
+        "en": "Yellow Box: Don't enter unless your exit is CLEAR!",
+        "af": "[AF] Yellow Box: Don't enter unless your exit is CLEAR!",
+        "xh": "[XH] Yellow Box: Don't enter unless your exit is CLEAR!",
+        "zu": "[ZU] Yellow Box: Don't enter unless your exit is CLEAR!",
+        "st": "[ST] Yellow Box: Don't enter unless your exit is CLEAR!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Drivers must not enter a yellow box junction unless their exit lane is clear of traffic.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Drivers must not enter a yellow box junction unless their exit lane is clear of traffic. O o sireletsa jwang?"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "code_id": "code2_light_vehicle",
+      "code_name": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
+      "difficulty": "hard",
+      "category": "Rules of the Road",
+      "question": {
+        "en": "What is the legal minimum tire tread depth required across the entire width and circumference of a light vehicle tire?",
+        "af": "[AF] What is the legal minimum tire tread depth required across the entire width and circumference of a light vehicle tire?",
+        "xh": "[XH] What is the legal minimum tire tread depth required across the entire width and circumference of a light vehicle tire?",
+        "zu": "[ZU] What is the legal minimum tire tread depth required across the entire width and circumference of a light vehicle tire?",
+        "st": "[ST] What is the legal minimum tire tread depth required across the entire width and circumference of a light vehicle tire?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 1.0 millimetre.",
+          "B": "B) 1.6 millimetres.",
+          "C": "C) 2.0 millimetres."
+        },
+        "af": {
+          "A": "[AF] A) 1.0 millimetre.",
+          "B": "[AF] B) 1.6 millimetres.",
+          "C": "[AF] C) 2.0 millimetres."
+        },
+        "xh": {
+          "A": "[XH] A) 1.0 millimetre.",
+          "B": "[XH] B) 1.6 millimetres.",
+          "C": "[XH] C) 2.0 millimetres."
+        },
+        "zu": {
+          "A": "[ZU] A) 1.0 millimetre.",
+          "B": "[ZU] B) 1.6 millimetres.",
+          "C": "[ZU] C) 2.0 millimetres."
+        },
+        "st": {
+          "A": "[ST] A) 1.0 millimetre.",
+          "B": "[ST] B) 1.6 millimetres.",
+          "C": "[ST] C) 2.0 millimetres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.",
+        "af": "[AF] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.",
+        "xh": "[XH] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.",
+        "zu": "[ZU] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.",
+        "st": "[ST] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Depth gauge measuring 1.0mm tire tread groove depth."
+      },
+      "memory_tricks": {
+        "en": "Tire Tread: Minimum 1.0 mm depth across tread!",
+        "af": "[AF] Tire Tread: Minimum 1.0 mm depth across tread!",
+        "xh": "[XH] Tire Tread: Minimum 1.0 mm depth across tread!",
+        "zu": "[ZU] Tire Tread: Minimum 1.0 mm depth across tread!",
+        "st": "[ST] Tire Tread: Minimum 1.0 mm depth across tread!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.' O se ke wa lahlehelwa ke dintlha!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under National Road Traffic Regulations: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Non-compliance results in test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Nie-nakoming lei tot druip.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Ukungathobeli kukhokelela ekufeyileni.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Ukungayithobeli kuholela ekuhlulekeni.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Ho se mamele ho lebisa ho hloleheng."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm. O o sireletsa jwang?"
+        }
+      }
+    }
+  ]
+}

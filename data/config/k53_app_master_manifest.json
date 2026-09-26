@@ -1,0 +1,139 @@
+{
+  "app_title": "K53 Multilingual Quiz & Remedial Suite Manifest",
+  "version": "5.5.0",
+  "total_questions": 384,
+  "sub_categories": [
+    {
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "main_category": "Controls of the Vehicle",
+      "filename": "k53_quiz_controls_primary_foot_hand.json",
+      "total_questions": 21
+    },
+    {
+      "sub_category_id": "controls_secondary_signals",
+      "sub_category_name": "Secondary Controls, Signaling & Mirrors",
+      "main_category": "Controls of the Vehicle",
+      "filename": "k53_quiz_controls_secondary_signals.json",
+      "total_questions": 1
+    },
+    {
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "main_category": "Controls of the Vehicle",
+      "filename": "k53_quiz_controls_pretrip_starting.json",
+      "total_questions": 26
+    },
+    {
+      "sub_category_id": "signs_prohibition",
+      "sub_category_name": "Prohibition Signs & Restrictions",
+      "main_category": "Road Traffic Signs",
+      "filename": "k53_quiz_signs_prohibition.json",
+      "total_questions": 30
+    },
+    {
+      "sub_category_id": "signs_road_markings",
+      "sub_category_name": "Road Surface Lines & Painted Markings",
+      "main_category": "Road Traffic Signs",
+      "filename": "k53_quiz_signs_road_markings.json",
+      "total_questions": 21
+    },
+    {
+      "sub_category_id": "signs_warning_triangles",
+      "sub_category_name": "Hazard Warning Triangles",
+      "main_category": "Road Traffic Signs",
+      "filename": "k53_quiz_signs_warning_triangles.json",
+      "total_questions": 32
+    },
+    {
+      "sub_category_id": "signs_guidance_tourism",
+      "sub_category_name": "Guidance, Tourism & Route Information",
+      "main_category": "Road Traffic Signs",
+      "filename": "k53_quiz_signs_guidance_tourism.json",
+      "total_questions": 50
+    },
+    {
+      "sub_category_id": "signs_traffic_signals",
+      "sub_category_name": "Traffic Signals & Overhead Robots",
+      "main_category": "Road Traffic Signs",
+      "filename": "k53_quiz_signs_traffic_signals.json",
+      "total_questions": 9
+    },
+    {
+      "sub_category_id": "signs_control_command",
+      "sub_category_name": "Control & Command Signs",
+      "main_category": "Road Traffic Signs",
+      "filename": "k53_quiz_signs_control_command.json",
+      "total_questions": 26
+    },
+    {
+      "sub_category_id": "rules_stopping_parking",
+      "sub_category_name": "Stopping, Parking & Prohibited Zones",
+      "main_category": "Rules of the Road",
+      "filename": "k53_quiz_rules_stopping_parking.json",
+      "total_questions": 23
+    },
+    {
+      "sub_category_id": "rules_towing_cargo",
+      "sub_category_name": "Towing, Cargo Projections & Vehicle Loads",
+      "main_category": "Rules of the Road",
+      "filename": "k53_quiz_rules_towing_cargo.json",
+      "total_questions": 26
+    },
+    {
+      "sub_category_id": "rules_general_discipline",
+      "sub_category_name": "General Driving Rules & Road Discipline",
+      "main_category": "Rules of the Road",
+      "filename": "k53_quiz_rules_general_discipline.json",
+      "total_questions": 73
+    },
+    {
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "main_category": "Rules of the Road",
+      "filename": "k53_quiz_rules_alcohol_accidents.json",
+      "total_questions": 11
+    },
+    {
+      "sub_category_id": "rules_speed_freeways",
+      "sub_category_name": "Speed Limits, Freeways & Overtaking",
+      "main_category": "Rules of the Road",
+      "filename": "k53_quiz_rules_speed_freeways.json",
+      "total_questions": 35
+    }
+  ],
+  "supported_languages": [
+    "en",
+    "af",
+    "xh",
+    "zu",
+    "st"
+  ],
+  "supported_vehicle_classes": [
+    "bike",
+    "light_vehicle",
+    "heavy_vehicle"
+  ],
+  "personas": [
+    "witty_playful_coach",
+    "veteran_k53_examiner",
+    "socratic_memory_guide"
+  ],
+  "dltc_passing_standards": {
+    "rules_of_the_road": {
+      "total": 28,
+      "required": 22,
+      "percentage": "78.5%"
+    },
+    "road_traffic_signs": {
+      "total": 28,
+      "required": 23,
+      "percentage": "82.1%"
+    },
+    "controls_of_the_vehicle": {
+      "total": 8,
+      "required": 6,
+      "percentage": "75.0%"
+    }
+  }
+}

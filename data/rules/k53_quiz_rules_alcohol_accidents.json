@@ -1,0 +1,972 @@
+{
+  "sub_category_id": "rules_alcohol_accidents",
+  "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+  "main_category": "Rules of the Road",
+  "total_questions": 11,
+  "questions": [
+    {
+      "id": 10,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Within what timeframe must an accident be reported to police?",
+        "af": "[AF] Within what timeframe must an accident be reported to police?",
+        "xh": "[XH] Within what timeframe must an accident be reported to police?",
+        "zu": "[ZU] Within what timeframe must an accident be reported to police?",
+        "st": "[ST] Within what timeframe must an accident be reported to police?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Within 24 hours.",
+          "B": "B) Within 12 hours.",
+          "C": "C) Within 48 hours."
+        },
+        "af": {
+          "A": "[AF] A) Within 24 hours.",
+          "B": "[AF] B) Within 12 hours.",
+          "C": "[AF] C) Within 48 hours."
+        },
+        "xh": {
+          "A": "[XH] A) Within 24 hours.",
+          "B": "[XH] B) Within 12 hours.",
+          "C": "[XH] C) Within 48 hours."
+        },
+        "zu": {
+          "A": "[ZU] A) Within 24 hours.",
+          "B": "[ZU] B) Within 12 hours.",
+          "C": "[ZU] C) Within 48 hours."
+        },
+        "st": {
+          "A": "[ST] A) Within 24 hours.",
+          "B": "[ST] B) Within 12 hours.",
+          "C": "[ST] C) Within 48 hours."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Collisions must be reported within 24 hours.",
+        "af": "[AF] Collisions must be reported within 24 hours.",
+        "xh": "[XH] Collisions must be reported within 24 hours.",
+        "zu": "[ZU] Collisions must be reported within 24 hours.",
+        "st": "[ST] Collisions must be reported within 24 hours."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Within what timeframe must an accident be reported to police...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Collisions must be reported within 24 hours.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Collisions must be reported within 24 hours.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Collisions must be reported within 24 hours.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Collisions must be reported within 24 hours.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Collisions must be reported within 24 hours.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Collisions must be reported within 24 hours. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Collisions must be reported within 24 hours. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Collisions must be reported within 24 hours. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Collisions must be reported within 24 hours. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Collisions must be reported within 24 hours. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Collisions must be reported within 24 hours. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Collisions must be reported within 24 hours. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Collisions must be reported within 24 hours. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Collisions must be reported within 24 hours. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Collisions must be reported within 24 hours. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 129,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the legal breath alcohol limit for a professional HMV driver in South Africa?",
+        "af": "[AF] What is the legal breath alcohol limit for a professional HMV driver in South Africa?",
+        "xh": "[XH] What is the legal breath alcohol limit for a professional HMV driver in South Africa?",
+        "zu": "[ZU] What is the legal breath alcohol limit for a professional HMV driver in South Africa?",
+        "st": "[ST] What is the legal breath alcohol limit for a professional HMV driver in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 0.10 mg per 1000 ml of breath.",
+          "B": "B) 0.24 mg per 1000 ml of breath.",
+          "C": "C) 0.50 mg per 1000 ml of breath."
+        },
+        "af": {
+          "A": "[AF] A) 0.10 mg per 1000 ml of breath.",
+          "B": "[AF] B) 0.24 mg per 1000 ml of breath.",
+          "C": "[AF] C) 0.50 mg per 1000 ml of breath."
+        },
+        "xh": {
+          "A": "[XH] A) 0.10 mg per 1000 ml of breath.",
+          "B": "[XH] B) 0.24 mg per 1000 ml of breath.",
+          "C": "[XH] C) 0.50 mg per 1000 ml of breath."
+        },
+        "zu": {
+          "A": "[ZU] A) 0.10 mg per 1000 ml of breath.",
+          "B": "[ZU] B) 0.24 mg per 1000 ml of breath.",
+          "C": "[ZU] C) 0.50 mg per 1000 ml of breath."
+        },
+        "st": {
+          "A": "[ST] A) 0.10 mg per 1000 ml of breath.",
+          "B": "[ST] B) 0.24 mg per 1000 ml of breath.",
+          "C": "[ST] C) 0.50 mg per 1000 ml of breath."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).",
+        "af": "[AF] For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).",
+        "xh": "[XH] For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).",
+        "zu": "[ZU] For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).",
+        "st": "[ST] For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood)."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the legal breath alcohol limit for a professional HM...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: For professional drivers, the breath alcohol limit is 0.10 mg per 1000 ml of breath specimen (equivalent to 0.02 g / 100 ml blood). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 130,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What action must a driver take if an emergency vehicle (ambulance, fire engine, or police vehicle) approaches sounding a siren?",
+        "af": "[AF] What action must a driver take if an emergency vehicle (ambulance, fire engine, or police vehicle) approaches sounding a siren?",
+        "xh": "[XH] What action must a driver take if an emergency vehicle (ambulance, fire engine, or police vehicle) approaches sounding a siren?",
+        "zu": "[ZU] What action must a driver take if an emergency vehicle (ambulance, fire engine, or police vehicle) approaches sounding a siren?",
+        "st": "[ST] What action must a driver take if an emergency vehicle (ambulance, fire engine, or police vehicle) approaches sounding a siren?"
+      },
+      "options": {
+        "en": {
+          "A": "Accelerate to stay ahead of the vehicle.",
+          "B": "Give right of way immediately by moving to the side of the road and stopping if necessary.",
+          "C": "Maintain your speed and lane position."
+        },
+        "af": {
+          "A": "[AF] Accelerate to stay ahead of the vehicle.",
+          "B": "[AF] Give right of way immediately by moving to the side of the road and stopping if necessary.",
+          "C": "[AF] Maintain your speed and lane position."
+        },
+        "xh": {
+          "A": "[XH] Accelerate to stay ahead of the vehicle.",
+          "B": "[XH] Give right of way immediately by moving to the side of the road and stopping if necessary.",
+          "C": "[XH] Maintain your speed and lane position."
+        },
+        "zu": {
+          "A": "[ZU] Accelerate to stay ahead of the vehicle.",
+          "B": "[ZU] Give right of way immediately by moving to the side of the road and stopping if necessary.",
+          "C": "[ZU] Maintain your speed and lane position."
+        },
+        "st": {
+          "A": "[ST] Accelerate to stay ahead of the vehicle.",
+          "B": "[ST] Give right of way immediately by moving to the side of the road and stopping if necessary.",
+          "C": "[ST] Maintain your speed and lane position."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.",
+        "af": "[AF] Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.",
+        "xh": "[XH] Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.",
+        "zu": "[ZU] Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.",
+        "st": "[ST] Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What action must a driver take if an emergency vehicle (ambu...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Drivers must immediately yield right of way to approaching emergency vehicles sounding sirens or displaying emergency lights. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 138,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "How far behind a stationary breakdown vehicle must the emergency reflective triangle be placed?",
+        "af": "[AF] How far behind a stationary breakdown vehicle must the emergency reflective triangle be placed?",
+        "xh": "[XH] How far behind a stationary breakdown vehicle must the emergency reflective triangle be placed?",
+        "zu": "[ZU] How far behind a stationary breakdown vehicle must the emergency reflective triangle be placed?",
+        "st": "[ST] How far behind a stationary breakdown vehicle must the emergency reflective triangle be placed?"
+      },
+      "options": {
+        "en": {
+          "A": "A) At least 45 metres.",
+          "B": "B) At least 30 metres.",
+          "C": "C) At least 15 metres."
+        },
+        "af": {
+          "A": "[AF] A) At least 45 metres.",
+          "B": "[AF] B) At least 30 metres.",
+          "C": "[AF] C) At least 15 metres."
+        },
+        "xh": {
+          "A": "[XH] A) At least 45 metres.",
+          "B": "[XH] B) At least 30 metres.",
+          "C": "[XH] C) At least 15 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) At least 45 metres.",
+          "B": "[ZU] B) At least 30 metres.",
+          "C": "[ZU] C) At least 15 metres."
+        },
+        "st": {
+          "A": "[ST] A) At least 45 metres.",
+          "B": "[ST] B) At least 30 metres.",
+          "C": "[ST] C) At least 15 metres."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.",
+        "af": "[AF] The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.",
+        "xh": "[XH] The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.",
+        "zu": "[ZU] The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.",
+        "st": "[ST] The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'How far behind a stationary breakdown vehicle must the emerg...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The reflective triangle must be placed at least 45 m behind the vehicle facing approaching traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 152,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the legal blood alcohol concentration limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "af": "[AF] What is the legal blood alcohol concentration limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "xh": "[XH] What is the legal blood alcohol concentration limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "zu": "[ZU] What is the legal blood alcohol concentration limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "st": "[ST] What is the legal blood alcohol concentration limit for a professional driver operating a heavy motor vehicle in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "0.05 grams per 100 ml.",
+          "B": "0.02 grams per 100 ml.",
+          "C": "0.00 grams per 100 ml."
+        },
+        "af": {
+          "A": "[AF] 0.05 grams per 100 ml.",
+          "B": "[AF] 0.02 grams per 100 ml.",
+          "C": "[AF] 0.00 grams per 100 ml."
+        },
+        "xh": {
+          "A": "[XH] 0.05 grams per 100 ml.",
+          "B": "[XH] 0.02 grams per 100 ml.",
+          "C": "[XH] 0.00 grams per 100 ml."
+        },
+        "zu": {
+          "A": "[ZU] 0.05 grams per 100 ml.",
+          "B": "[ZU] 0.02 grams per 100 ml.",
+          "C": "[ZU] 0.00 grams per 100 ml."
+        },
+        "st": {
+          "A": "[ST] 0.05 grams per 100 ml.",
+          "B": "[ST] 0.02 grams per 100 ml.",
+          "C": "[ST] 0.00 grams per 100 ml."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).",
+        "af": "[AF] For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).",
+        "xh": "[XH] For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).",
+        "zu": "[ZU] For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).",
+        "st": "[ST] For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath)."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the legal blood alcohol concentration limit for a pr...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: For professional drivers operating heavy motor vehicles, the legal blood alcohol limit is 0.02 g / 100 ml (0.10 mg/l breath). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 153,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the maximum penalty for refusing to submit to a breath or blood alcohol test when requested by a traffic officer?",
+        "af": "[AF] What is the maximum penalty for refusing to submit to a breath or blood alcohol test when requested by a traffic officer?",
+        "xh": "[XH] What is the maximum penalty for refusing to submit to a breath or blood alcohol test when requested by a traffic officer?",
+        "zu": "[ZU] What is the maximum penalty for refusing to submit to a breath or blood alcohol test when requested by a traffic officer?",
+        "st": "[ST] What is the maximum penalty for refusing to submit to a breath or blood alcohol test when requested by a traffic officer?"
+      },
+      "options": {
+        "en": {
+          "A": "A) A verbal warning.",
+          "B": "B) It is a criminal offence equivalent to driving over the legal limit.",
+          "C": "C) A small fine on the spot."
+        },
+        "af": {
+          "A": "[AF] A) A verbal warning.",
+          "B": "[AF] B) It is a criminal offence equivalent to driving over the legal limit.",
+          "C": "[AF] C) A small fine on the spot."
+        },
+        "xh": {
+          "A": "[XH] A) A verbal warning.",
+          "B": "[XH] B) It is a criminal offence equivalent to driving over the legal limit.",
+          "C": "[XH] C) A small fine on the spot."
+        },
+        "zu": {
+          "A": "[ZU] A) A verbal warning.",
+          "B": "[ZU] B) It is a criminal offence equivalent to driving over the legal limit.",
+          "C": "[ZU] C) A small fine on the spot."
+        },
+        "st": {
+          "A": "[ST] A) A verbal warning.",
+          "B": "[ST] B) It is a criminal offence equivalent to driving over the legal limit.",
+          "C": "[ST] C) A small fine on the spot."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.",
+        "af": "[AF] Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.",
+        "xh": "[XH] Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.",
+        "zu": "[ZU] Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.",
+        "st": "[ST] Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the maximum penalty for refusing to submit to a brea...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Refusing to provide a breath or blood sample is a criminal offence subject to arrest and prosecution. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 212,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "If your vehicle breaks down or becomes stationary on a public road, at what minimum distance behind the vehicle must you place the double-sided reflective warning triangle?",
+        "af": "[AF] If your vehicle breaks down or becomes stationary on a public road, at what minimum distance behind the vehicle must you place the double-sided reflective warning triangle?",
+        "xh": "[XH] If your vehicle breaks down or becomes stationary on a public road, at what minimum distance behind the vehicle must you place the double-sided reflective warning triangle?",
+        "zu": "[ZU] If your vehicle breaks down or becomes stationary on a public road, at what minimum distance behind the vehicle must you place the double-sided reflective warning triangle?",
+        "st": "[ST] If your vehicle breaks down or becomes stationary on a public road, at what minimum distance behind the vehicle must you place the double-sided reflective warning triangle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) At least 15 metres.",
+          "B": "B) At least 30 metres.",
+          "C": "C) At least 45 metres."
+        },
+        "af": {
+          "A": "[AF] A) At least 15 metres.",
+          "B": "[AF] B) At least 30 metres.",
+          "C": "[AF] C) At least 45 metres."
+        },
+        "xh": {
+          "A": "[XH] A) At least 15 metres.",
+          "B": "[XH] B) At least 30 metres.",
+          "C": "[XH] C) At least 45 metres."
+        },
+        "zu": {
+          "A": "[ZU] A) At least 15 metres.",
+          "B": "[ZU] B) At least 30 metres.",
+          "C": "[ZU] C) At least 45 metres."
+        },
+        "st": {
+          "A": "[ST] A) At least 15 metres.",
+          "B": "[ST] B) At least 30 metres.",
+          "C": "[ST] C) At least 45 metres."
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.",
+        "af": "[AF] An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.",
+        "xh": "[XH] An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.",
+        "zu": "[ZU] An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.",
+        "st": "[ST] An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'If your vehicle breaks down or becomes stationary on a publi...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An emergency reflective warning triangle must be displayed on the road surface at least 45 metres behind the stationary vehicle facing approaching traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 213,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Within what period must a road traffic collision involving damage or injury be reported to a police station?",
+        "af": "[AF] Within what period must a road traffic collision involving damage or injury be reported to a police station?",
+        "xh": "[XH] Within what period must a road traffic collision involving damage or injury be reported to a police station?",
+        "zu": "[ZU] Within what period must a road traffic collision involving damage or injury be reported to a police station?",
+        "st": "[ST] Within what period must a road traffic collision involving damage or injury be reported to a police station?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Within 12 hours.",
+          "B": "B) Within 24 hours (or immediately if injuries occurred).",
+          "C": "C) Within 48 hours."
+        },
+        "af": {
+          "A": "[AF] A) Within 12 hours.",
+          "B": "[AF] B) Within 24 hours (or immediately if injuries occurred).",
+          "C": "[AF] C) Within 48 hours."
+        },
+        "xh": {
+          "A": "[XH] A) Within 12 hours.",
+          "B": "[XH] B) Within 24 hours (or immediately if injuries occurred).",
+          "C": "[XH] C) Within 48 hours."
+        },
+        "zu": {
+          "A": "[ZU] A) Within 12 hours.",
+          "B": "[ZU] B) Within 24 hours (or immediately if injuries occurred).",
+          "C": "[ZU] C) Within 48 hours."
+        },
+        "st": {
+          "A": "[ST] A) Within 12 hours.",
+          "B": "[ST] B) Within 24 hours (or immediately if injuries occurred).",
+          "C": "[ST] C) Within 48 hours."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).",
+        "af": "[AF] A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).",
+        "xh": "[XH] A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).",
+        "zu": "[ZU] A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).",
+        "st": "[ST] A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed)."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'Within what period must a road traffic collision involving d...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A driver involved in a collision must report it to a police station within 24 hours (or immediately if anyone was injured or killed). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 217,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the permissible blood alcohol concentration (BAC) limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "af": "[AF] What is the permissible blood alcohol concentration (BAC) limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "xh": "[XH] What is the permissible blood alcohol concentration (BAC) limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "zu": "[ZU] What is the permissible blood alcohol concentration (BAC) limit for a professional driver operating a heavy motor vehicle in South Africa?",
+        "st": "[ST] What is the permissible blood alcohol concentration (BAC) limit for a professional driver operating a heavy motor vehicle in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Less than 0.05 g per 100 ml of blood.",
+          "B": "B) Less than 0.08 g per 100 ml of blood.",
+          "C": "C) Less than 0.02 g per 100 ml of blood."
+        },
+        "af": {
+          "A": "[AF] A) Less than 0.05 g per 100 ml of blood.",
+          "B": "[AF] B) Less than 0.08 g per 100 ml of blood.",
+          "C": "[AF] C) Less than 0.02 g per 100 ml of blood."
+        },
+        "xh": {
+          "A": "[XH] A) Less than 0.05 g per 100 ml of blood.",
+          "B": "[XH] B) Less than 0.08 g per 100 ml of blood.",
+          "C": "[XH] C) Less than 0.02 g per 100 ml of blood."
+        },
+        "zu": {
+          "A": "[ZU] A) Less than 0.05 g per 100 ml of blood.",
+          "B": "[ZU] B) Less than 0.08 g per 100 ml of blood.",
+          "C": "[ZU] C) Less than 0.02 g per 100 ml of blood."
+        },
+        "st": {
+          "A": "[ST] A) Less than 0.05 g per 100 ml of blood.",
+          "B": "[ST] B) Less than 0.08 g per 100 ml of blood.",
+          "C": "[ST] C) Less than 0.02 g per 100 ml of blood."
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).",
+        "af": "[AF] For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).",
+        "xh": "[XH] For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).",
+        "zu": "[ZU] For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).",
+        "st": "[ST] For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath)."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the permissible blood alcohol concentration (BAC) li...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: For professional drivers (such as HMV drivers), the legal blood alcohol limit is less than 0.02 g per 100 ml of blood (or 0.10 mg per 1000 ml of breath). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 267,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the permissible blood alcohol limit for a professional driver in South Africa?",
+        "af": "[AF] What is the permissible blood alcohol limit for a professional driver in South Africa?",
+        "xh": "[XH] What is the permissible blood alcohol limit for a professional driver in South Africa?",
+        "zu": "[ZU] What is the permissible blood alcohol limit for a professional driver in South Africa?",
+        "st": "[ST] What is the permissible blood alcohol limit for a professional driver in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 0.02 g per 100 ml of blood.",
+          "B": "B) 0.05 g per 100 ml of blood.",
+          "C": "C) 0.08 g per 100 ml of blood."
+        },
+        "af": {
+          "A": "[AF] A) 0.02 g per 100 ml of blood.",
+          "B": "[AF] B) 0.05 g per 100 ml of blood.",
+          "C": "[AF] C) 0.08 g per 100 ml of blood."
+        },
+        "xh": {
+          "A": "[XH] A) 0.02 g per 100 ml of blood.",
+          "B": "[XH] B) 0.05 g per 100 ml of blood.",
+          "C": "[XH] C) 0.08 g per 100 ml of blood."
+        },
+        "zu": {
+          "A": "[ZU] A) 0.02 g per 100 ml of blood.",
+          "B": "[ZU] B) 0.05 g per 100 ml of blood.",
+          "C": "[ZU] C) 0.08 g per 100 ml of blood."
+        },
+        "st": {
+          "A": "[ST] A) 0.02 g per 100 ml of blood.",
+          "B": "[ST] B) 0.05 g per 100 ml of blood.",
+          "C": "[ST] C) 0.08 g per 100 ml of blood."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.",
+        "af": "[AF] Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.",
+        "xh": "[XH] Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.",
+        "zu": "[ZU] Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.",
+        "st": "[ST] Professional drivers have a strict 0.02 g/100 ml blood alcohol limit."
+      },
+      "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the permissible blood alcohol limit for a profession...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Professional drivers have a strict 0.02 g/100 ml blood alcohol limit.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Professional drivers have a strict 0.02 g/100 ml blood alcohol limit. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 325,
+      "category": "Rules of the Road",
+      "sub_category_id": "rules_alcohol_accidents",
+      "sub_category_name": "Alcohol Limits, DUI & Accident Duties",
+      "applicable_vehicle_classes": [
+        "bike",
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "How far back from a stationary broken-down vehicle must an advance emergency warning triangle be placed on a public road?",
+        "af": "[AF] How far back from a stationary broken-down vehicle must an advance emergency warning triangle be placed on a public road?",
+        "xh": "[XH] How far back from a stationary broken-down vehicle must an advance emergency warning triangle be placed on a public road?",
+        "zu": "[ZU] How far back from a stationary broken-down vehicle must an advance emergency warning triangle be placed on a public road?",
+        "st": "[ST] How far back from a stationary broken-down vehicle must an advance emergency warning triangle be placed on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "At least 15 metres.",
+          "B": "At least 45 metres.",
+          "C": "At least 100 metres."
+        },
+        "af": {
+          "A": "[AF] At least 15 metres.",
+          "B": "[AF] At least 45 metres.",
+          "C": "[AF] At least 100 metres."
+        },
+        "xh": {
+          "A": "[XH] At least 15 metres.",
+          "B": "[XH] At least 45 metres.",
+          "C": "[XH] At least 100 metres."
+        },
+        "zu": {
+          "A": "[ZU] At least 15 metres.",
+          "B": "[ZU] At least 45 metres.",
+          "C": "[ZU] At least 100 metres."
+        },
+        "st": {
+          "A": "[ST] At least 15 metres.",
+          "B": "[ST] At least 45 metres.",
+          "C": "[ST] At least 100 metres."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.",
+        "af": "[AF] The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.",
+        "xh": "[XH] The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.",
+        "zu": "[ZU] The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.",
+        "st": "[ST] The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle."
+      },
+      "media": {
+        "graphic_type": "warning_triangles",
+        "image_file": "warning_triangles.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Warning Triangles' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The double-sided reflective warning triangle must be placed at least 45 metres behind a stationary broken-down vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,2245 @@
+{
+  "sub_category_id": "controls_pretrip_starting",
+  "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+  "main_category": "Controls of the Vehicle",
+  "total_questions": 26,
+  "questions": [
+    {
+      "id": 59,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 2 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 2 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 2 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 2 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 2 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Windscreen wiper / washer control.",
+          "B": "Choke control.",
+          "C": "Speedometer."
+        },
+        "af": {
+          "A": "[AF] Windscreen wiper / washer control.",
+          "B": "[AF] Choke control.",
+          "C": "[AF] Speedometer."
+        },
+        "xh": {
+          "A": "[XH] Windscreen wiper / washer control.",
+          "B": "[XH] Choke control.",
+          "C": "[XH] Speedometer."
+        },
+        "zu": {
+          "A": "[ZU] Windscreen wiper / washer control.",
+          "B": "[ZU] Choke control.",
+          "C": "[ZU] Speedometer."
+        },
+        "st": {
+          "A": "[ST] Windscreen wiper / washer control.",
+          "B": "[ST] Choke control.",
+          "C": "[ST] Speedometer."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.",
+        "af": "[AF] Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.",
+        "xh": "[XH] Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.",
+        "zu": "[ZU] Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.",
+        "st": "[ST] Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 62,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the starting procedure for a manual transmission heavy motor vehicle?",
+        "af": "[AF] What is the starting procedure for a manual transmission heavy motor vehicle?",
+        "xh": "[XH] What is the starting procedure for a manual transmission heavy motor vehicle?",
+        "zu": "[ZU] What is the starting procedure for a manual transmission heavy motor vehicle?",
+        "st": "[ST] What is the starting procedure for a manual transmission heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Parking brake on, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, build air pressure.",
+          "B": "B) Clutch down, select 1st gear, start.",
+          "C": "C) Turn key and accelerate."
+        },
+        "af": {
+          "A": "[AF] A) Parking brake on, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, build air pressure.",
+          "B": "[AF] B) Clutch down, select 1st gear, start.",
+          "C": "[AF] C) Turn key and accelerate."
+        },
+        "xh": {
+          "A": "[XH] A) Parking brake on, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, build air pressure.",
+          "B": "[XH] B) Clutch down, select 1st gear, start.",
+          "C": "[XH] C) Turn key and accelerate."
+        },
+        "zu": {
+          "A": "[ZU] A) Parking brake on, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, build air pressure.",
+          "B": "[ZU] B) Clutch down, select 1st gear, start.",
+          "C": "[ZU] C) Turn key and accelerate."
+        },
+        "st": {
+          "A": "[ST] A) Parking brake on, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, build air pressure.",
+          "B": "[ST] B) Clutch down, select 1st gear, start.",
+          "C": "[ST] C) Turn key and accelerate."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Official K53 Module 3 starting sequence.",
+        "af": "[AF] Official K53 Module 3 starting sequence.",
+        "xh": "[XH] Official K53 Module 3 starting sequence.",
+        "zu": "[ZU] Official K53 Module 3 starting sequence.",
+        "st": "[ST] Official K53 Module 3 starting sequence."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Official K53 Module 3 starting sequence.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Official K53 Module 3 starting sequence.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Official K53 Module 3 starting sequence.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Official K53 Module 3 starting sequence.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Official K53 Module 3 starting sequence.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Official K53 Module 3 starting sequence. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Official K53 Module 3 starting sequence. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Official K53 Module 3 starting sequence. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Official K53 Module 3 starting sequence. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Official K53 Module 3 starting sequence. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Official K53 Module 3 starting sequence. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Official K53 Module 3 starting sequence. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Official K53 Module 3 starting sequence. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Official K53 Module 3 starting sequence. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Official K53 Module 3 starting sequence. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 63,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What must be inspected regarding heavy vehicle dual rear wheels during Module 2 exterior pre-trip inspection?",
+        "af": "[AF] What must be inspected regarding heavy vehicle dual rear wheels during Module 2 exterior pre-trip inspection?",
+        "xh": "[XH] What must be inspected regarding heavy vehicle dual rear wheels during Module 2 exterior pre-trip inspection?",
+        "zu": "[ZU] What must be inspected regarding heavy vehicle dual rear wheels during Module 2 exterior pre-trip inspection?",
+        "st": "[ST] What must be inspected regarding heavy vehicle dual rear wheels during Module 2 exterior pre-trip inspection?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Tread wear, sidewalls, inflation, valve caps, wheel nuts, and checking for foreign objects wedged between dual tires.",
+          "B": "B) Tire brand name only.",
+          "C": "C) Hubcap shine."
+        },
+        "af": {
+          "A": "[AF] A) Tread wear, sidewalls, inflation, valve caps, wheel nuts, and checking for foreign objects wedged between dual tires.",
+          "B": "[AF] B) Tire brand name only.",
+          "C": "[AF] C) Hubcap shine."
+        },
+        "xh": {
+          "A": "[XH] A) Tread wear, sidewalls, inflation, valve caps, wheel nuts, and checking for foreign objects wedged between dual tires.",
+          "B": "[XH] B) Tire brand name only.",
+          "C": "[XH] C) Hubcap shine."
+        },
+        "zu": {
+          "A": "[ZU] A) Tread wear, sidewalls, inflation, valve caps, wheel nuts, and checking for foreign objects wedged between dual tires.",
+          "B": "[ZU] B) Tire brand name only.",
+          "C": "[ZU] C) Hubcap shine."
+        },
+        "st": {
+          "A": "[ST] A) Tread wear, sidewalls, inflation, valve caps, wheel nuts, and checking for foreign objects wedged between dual tires.",
+          "B": "[ST] B) Tire brand name only.",
+          "C": "[ST] C) Hubcap shine."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.",
+        "af": "[AF] Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.",
+        "xh": "[XH] Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.",
+        "zu": "[ZU] Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.",
+        "st": "[ST] Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 64,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 8 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 8 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 8 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 8 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 8 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Clutch pedal.",
+          "B": "Footbrake pedal.",
+          "C": "Accelerator pedal."
+        },
+        "af": {
+          "A": "[AF] Clutch pedal.",
+          "B": "[AF] Footbrake pedal.",
+          "C": "[AF] Accelerator pedal."
+        },
+        "xh": {
+          "A": "[XH] Clutch pedal.",
+          "B": "[XH] Footbrake pedal.",
+          "C": "[XH] Accelerator pedal."
+        },
+        "zu": {
+          "A": "[ZU] Clutch pedal.",
+          "B": "[ZU] Footbrake pedal.",
+          "C": "[ZU] Accelerator pedal."
+        },
+        "st": {
+          "A": "[ST] Clutch pedal.",
+          "B": "[ST] Footbrake pedal.",
+          "C": "[ST] Accelerator pedal."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Control number 8 is the clutch pedal used to disengage the engine during gear selection.",
+        "af": "[AF] Control number 8 is the clutch pedal used to disengage the engine during gear selection.",
+        "xh": "[XH] Control number 8 is the clutch pedal used to disengage the engine during gear selection.",
+        "zu": "[ZU] Control number 8 is the clutch pedal used to disengage the engine during gear selection.",
+        "st": "[ST] Control number 8 is the clutch pedal used to disengage the engine during gear selection."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 8 is the clutch pedal used to disengage the engine during gear selection. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 121,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Use ... to keep your vehicle stationary after parking.",
+        "af": "[AF] Use ... to keep your vehicle stationary after parking.",
+        "xh": "[XH] Use ... to keep your vehicle stationary after parking.",
+        "zu": "[ZU] Use ... to keep your vehicle stationary after parking.",
+        "st": "[ST] Use ... to keep your vehicle stationary after parking."
+      },
+      "options": {
+        "en": {
+          "A": "a. 7",
+          "B": "b. 8",
+          "C": "c. 9"
+        },
+        "af": {
+          "A": "[AF] a. 7",
+          "B": "[AF] b. 8",
+          "C": "[AF] c. 9"
+        },
+        "xh": {
+          "A": "[XH] a. 7",
+          "B": "[XH] b. 8",
+          "C": "[XH] c. 9"
+        },
+        "zu": {
+          "A": "[ZU] a. 7",
+          "B": "[ZU] b. 8",
+          "C": "[ZU] c. 9"
+        },
+        "st": {
+          "A": "[ST] a. 7",
+          "B": "[ST] b. 8",
+          "C": "[ST] c. 9"
+        }
+      },
+      "correct_answer": "c",
+      "explanation": {
+        "en": "Control 7/9 is used to secure the parked vehicle.",
+        "af": "[AF] Control 7/9 is used to secure the parked vehicle.",
+        "xh": "[XH] Control 7/9 is used to secure the parked vehicle.",
+        "zu": "[ZU] Control 7/9 is used to secure the parked vehicle.",
+        "st": "[ST] Control 7/9 is used to secure the parked vehicle."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 7/9 is used to secure the parked vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 7/9 is used to secure the parked vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 7/9 is used to secure the parked vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 7/9 is used to secure the parked vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 7/9 is used to secure the parked vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 7/9 is used to secure the parked vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 7/9 is used to secure the parked vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 7/9 is used to secure the parked vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 7/9 is used to secure the parked vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 7/9 is used to secure the parked vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 7/9 is used to secure the parked vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 7/9 is used to secure the parked vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 7/9 is used to secure the parked vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 7/9 is used to secure the parked vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 7/9 is used to secure the parked vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 123,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control is used when driving in rainy weather?",
+        "af": "[AF] Which control is used when driving in rainy weather?",
+        "xh": "[XH] Which control is used when driving in rainy weather?",
+        "zu": "[ZU] Which control is used when driving in rainy weather?",
+        "st": "[ST] Which control is used when driving in rainy weather?"
+      },
+      "options": {
+        "en": {
+          "A": "A. 6",
+          "B": "B. 7",
+          "C": "C. 2 (Windscreen Wiper Switch)"
+        },
+        "af": {
+          "A": "[AF] A. 6",
+          "B": "[AF] B. 7",
+          "C": "[AF] C. 2 (Windscreen Wiper Switch)"
+        },
+        "xh": {
+          "A": "[XH] A. 6",
+          "B": "[XH] B. 7",
+          "C": "[XH] C. 2 (Windscreen Wiper Switch)"
+        },
+        "zu": {
+          "A": "[ZU] A. 6",
+          "B": "[ZU] B. 7",
+          "C": "[ZU] C. 2 (Windscreen Wiper Switch)"
+        },
+        "st": {
+          "A": "[ST] A. 6",
+          "B": "[ST] B. 7",
+          "C": "[ST] C. 2 (Windscreen Wiper Switch)"
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Control 2 operates the windscreen wipers.",
+        "af": "[AF] Control 2 operates the windscreen wipers.",
+        "xh": "[XH] Control 2 operates the windscreen wipers.",
+        "zu": "[ZU] Control 2 operates the windscreen wipers.",
+        "st": "[ST] Control 2 operates the windscreen wipers."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 2 operates the windscreen wipers.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 2 operates the windscreen wipers.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 2 operates the windscreen wipers.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 2 operates the windscreen wipers.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 2 operates the windscreen wipers.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 2 operates the windscreen wipers. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 2 operates the windscreen wipers. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 2 operates the windscreen wipers. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 2 operates the windscreen wipers. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 2 operates the windscreen wipers. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 2 operates the windscreen wipers. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 2 operates the windscreen wipers. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 2 operates the windscreen wipers. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 2 operates the windscreen wipers. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 2 operates the windscreen wipers. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 124,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the K53 heavy vehicle test, what sequence of actions must be performed before turning off from a public road into an intersection?",
+        "af": "[AF] In the K53 heavy vehicle test, what sequence of actions must be performed before turning off from a public road into an intersection?",
+        "xh": "[XH] In the K53 heavy vehicle test, what sequence of actions must be performed before turning off from a public road into an intersection?",
+        "zu": "[ZU] In the K53 heavy vehicle test, what sequence of actions must be performed before turning off from a public road into an intersection?",
+        "st": "[ST] In the K53 heavy vehicle test, what sequence of actions must be performed before turning off from a public road into an intersection?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Mirror check, blind spot check, signal, decelerate, select gear, final blind spot check, turn smoothly.",
+          "B": "B) Brake hard and steer.",
+          "C": "C) Turn first then signal."
+        },
+        "af": {
+          "A": "[AF] A) Mirror check, blind spot check, signal, decelerate, select gear, final blind spot check, turn smoothly.",
+          "B": "[AF] B) Brake hard and steer.",
+          "C": "[AF] C) Turn first then signal."
+        },
+        "xh": {
+          "A": "[XH] A) Mirror check, blind spot check, signal, decelerate, select gear, final blind spot check, turn smoothly.",
+          "B": "[XH] B) Brake hard and steer.",
+          "C": "[XH] C) Turn first then signal."
+        },
+        "zu": {
+          "A": "[ZU] A) Mirror check, blind spot check, signal, decelerate, select gear, final blind spot check, turn smoothly.",
+          "B": "[ZU] B) Brake hard and steer.",
+          "C": "[ZU] C) Turn first then signal."
+        },
+        "st": {
+          "A": "[ST] A) Mirror check, blind spot check, signal, decelerate, select gear, final blind spot check, turn smoothly.",
+          "B": "[ST] B) Brake hard and steer.",
+          "C": "[ST] C) Turn first then signal."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.",
+        "af": "[AF] K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.",
+        "xh": "[XH] K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.",
+        "zu": "[ZU] K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.",
+        "st": "[ST] K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 125,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "light_vehicle",
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What procedure must be carried out during the interior pre-trip inspection (Module 1) before starting the engine?",
+        "af": "[AF] What procedure must be carried out during the interior pre-trip inspection (Module 1) before starting the engine?",
+        "xh": "[XH] What procedure must be carried out during the interior pre-trip inspection (Module 1) before starting the engine?",
+        "zu": "[ZU] What procedure must be carried out during the interior pre-trip inspection (Module 1) before starting the engine?",
+        "st": "[ST] What procedure must be carried out during the interior pre-trip inspection (Module 1) before starting the engine?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Check parking brake applied, gear in neutral, seat/mirrors adjusted, doors closed, seatbelts fastened, instruments functioning.",
+          "B": "B) Pump the footbrake 10 times.",
+          "C": "C) Immediately select first gear."
+        },
+        "af": {
+          "A": "[AF] A) Check parking brake applied, gear in neutral, seat/mirrors adjusted, doors closed, seatbelts fastened, instruments functioning.",
+          "B": "[AF] B) Pump the footbrake 10 times.",
+          "C": "[AF] C) Immediately select first gear."
+        },
+        "xh": {
+          "A": "[XH] A) Check parking brake applied, gear in neutral, seat/mirrors adjusted, doors closed, seatbelts fastened, instruments functioning.",
+          "B": "[XH] B) Pump the footbrake 10 times.",
+          "C": "[XH] C) Immediately select first gear."
+        },
+        "zu": {
+          "A": "[ZU] A) Check parking brake applied, gear in neutral, seat/mirrors adjusted, doors closed, seatbelts fastened, instruments functioning.",
+          "B": "[ZU] B) Pump the footbrake 10 times.",
+          "C": "[ZU] C) Immediately select first gear."
+        },
+        "st": {
+          "A": "[ST] A) Check parking brake applied, gear in neutral, seat/mirrors adjusted, doors closed, seatbelts fastened, instruments functioning.",
+          "B": "[ST] B) Pump the footbrake 10 times.",
+          "C": "[ST] C) Immediately select first gear."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.",
+        "af": "[AF] Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.",
+        "xh": "[XH] Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.",
+        "zu": "[ZU] Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.",
+        "st": "[ST] Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 127,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 9 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 9 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 9 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 9 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 9 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Clutch pedal.",
+          "B": "Footbrake / Service brake pedal.",
+          "C": "Parking brake lever."
+        },
+        "af": {
+          "A": "[AF] Clutch pedal.",
+          "B": "[AF] Footbrake / Service brake pedal.",
+          "C": "[AF] Parking brake lever."
+        },
+        "xh": {
+          "A": "[XH] Clutch pedal.",
+          "B": "[XH] Footbrake / Service brake pedal.",
+          "C": "[XH] Parking brake lever."
+        },
+        "zu": {
+          "A": "[ZU] Clutch pedal.",
+          "B": "[ZU] Footbrake / Service brake pedal.",
+          "C": "[ZU] Parking brake lever."
+        },
+        "st": {
+          "A": "[ST] Clutch pedal.",
+          "B": "[ST] Footbrake / Service brake pedal.",
+          "C": "[ST] Parking brake lever."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.",
+        "af": "[AF] Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.",
+        "xh": "[XH] Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.",
+        "zu": "[ZU] Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.",
+        "st": "[ST] Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 128,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control is used to stop your vehicle?",
+        "af": "[AF] Which control is used to stop your vehicle?",
+        "xh": "[XH] Which control is used to stop your vehicle?",
+        "zu": "[ZU] Which control is used to stop your vehicle?",
+        "st": "[ST] Which control is used to stop your vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "a. 8",
+          "B": "b. 10",
+          "C": "c. 9 (Foot Brake)"
+        },
+        "af": {
+          "A": "[AF] a. 8",
+          "B": "[AF] b. 10",
+          "C": "[AF] c. 9 (Foot Brake)"
+        },
+        "xh": {
+          "A": "[XH] a. 8",
+          "B": "[XH] b. 10",
+          "C": "[XH] c. 9 (Foot Brake)"
+        },
+        "zu": {
+          "A": "[ZU] a. 8",
+          "B": "[ZU] b. 10",
+          "C": "[ZU] c. 9 (Foot Brake)"
+        },
+        "st": {
+          "A": "[ST] a. 8",
+          "B": "[ST] b. 10",
+          "C": "[ST] c. 9 (Foot Brake)"
+        }
+      },
+      "correct_answer": "c",
+      "explanation": {
+        "en": "Control 9 is the footbrake / service brake.",
+        "af": "[AF] Control 9 is the footbrake / service brake.",
+        "xh": "[XH] Control 9 is the footbrake / service brake.",
+        "zu": "[ZU] Control 9 is the footbrake / service brake.",
+        "st": "[ST] Control 9 is the footbrake / service brake."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 9 is the footbrake / service brake.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 9 is the footbrake / service brake.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 9 is the footbrake / service brake.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 9 is the footbrake / service brake.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 9 is the footbrake / service brake.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 9 is the footbrake / service brake. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 9 is the footbrake / service brake. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 9 is the footbrake / service brake. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 9 is the footbrake / service brake. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 9 is the footbrake / service brake. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 9 is the footbrake / service brake. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 9 is the footbrake / service brake. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 9 is the footbrake / service brake. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 9 is the footbrake / service brake. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 9 is the footbrake / service brake. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 186,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What must you check regarding the fifth wheel coupling on an articulated truck-tractor during the pre-trip inspection?",
+        "af": "[AF] What must you check regarding the fifth wheel coupling on an articulated truck-tractor during the pre-trip inspection?",
+        "xh": "[XH] What must you check regarding the fifth wheel coupling on an articulated truck-tractor during the pre-trip inspection?",
+        "zu": "[ZU] What must you check regarding the fifth wheel coupling on an articulated truck-tractor during the pre-trip inspection?",
+        "st": "[ST] What must you check regarding the fifth wheel coupling on an articulated truck-tractor during the pre-trip inspection?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Fifth wheel plate lubrication, kingpin engagement, and safety lockpin secured.",
+          "B": "B) Tire tread depth.",
+          "C": "C) Battery terminals."
+        },
+        "af": {
+          "A": "[AF] A) Fifth wheel plate lubrication, kingpin engagement, and safety lockpin secured.",
+          "B": "[AF] B) Tire tread depth.",
+          "C": "[AF] C) Battery terminals."
+        },
+        "xh": {
+          "A": "[XH] A) Fifth wheel plate lubrication, kingpin engagement, and safety lockpin secured.",
+          "B": "[XH] B) Tire tread depth.",
+          "C": "[XH] C) Battery terminals."
+        },
+        "zu": {
+          "A": "[ZU] A) Fifth wheel plate lubrication, kingpin engagement, and safety lockpin secured.",
+          "B": "[ZU] B) Tire tread depth.",
+          "C": "[ZU] C) Battery terminals."
+        },
+        "st": {
+          "A": "[ST] A) Fifth wheel plate lubrication, kingpin engagement, and safety lockpin secured.",
+          "B": "[ST] B) Tire tread depth.",
+          "C": "[ST] C) Battery terminals."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.",
+        "af": "[AF] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.",
+        "xh": "[XH] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.",
+        "zu": "[ZU] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.",
+        "st": "[ST] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 189,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What type of braking systems must legally be fitted to a heavy motor vehicle in South Africa?",
+        "af": "[AF] What type of braking systems must legally be fitted to a heavy motor vehicle in South Africa?",
+        "xh": "[XH] What type of braking systems must legally be fitted to a heavy motor vehicle in South Africa?",
+        "zu": "[ZU] What type of braking systems must legally be fitted to a heavy motor vehicle in South Africa?",
+        "st": "[ST] What type of braking systems must legally be fitted to a heavy motor vehicle in South Africa?"
+      },
+      "options": {
+        "en": {
+          "A": "Service brake, parking brake, and emergency brake.",
+          "B": "Parking brake only.",
+          "C": "Exhaust brake only."
+        },
+        "af": {
+          "A": "[AF] Service brake, parking brake, and emergency brake.",
+          "B": "[AF] Parking brake only.",
+          "C": "[AF] Exhaust brake only."
+        },
+        "xh": {
+          "A": "[XH] Service brake, parking brake, and emergency brake.",
+          "B": "[XH] Parking brake only.",
+          "C": "[XH] Exhaust brake only."
+        },
+        "zu": {
+          "A": "[ZU] Service brake, parking brake, and emergency brake.",
+          "B": "[ZU] Parking brake only.",
+          "C": "[ZU] Exhaust brake only."
+        },
+        "st": {
+          "A": "[ST] Service brake, parking brake, and emergency brake.",
+          "B": "[ST] Parking brake only.",
+          "C": "[ST] Exhaust brake only."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.",
+        "af": "[AF] Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.",
+        "xh": "[XH] Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.",
+        "zu": "[ZU] Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.",
+        "st": "[ST] Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 190,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 10 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 10 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 10 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 10 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 10 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Clutch pedal.",
+          "B": "Footbrake / Service brake pedal.",
+          "C": "Accelerator pedal."
+        },
+        "af": {
+          "A": "[AF] Clutch pedal.",
+          "B": "[AF] Footbrake / Service brake pedal.",
+          "C": "[AF] Accelerator pedal."
+        },
+        "xh": {
+          "A": "[XH] Clutch pedal.",
+          "B": "[XH] Footbrake / Service brake pedal.",
+          "C": "[XH] Accelerator pedal."
+        },
+        "zu": {
+          "A": "[ZU] Clutch pedal.",
+          "B": "[ZU] Footbrake / Service brake pedal.",
+          "C": "[ZU] Accelerator pedal."
+        },
+        "st": {
+          "A": "[ST] Clutch pedal.",
+          "B": "[ST] Footbrake / Service brake pedal.",
+          "C": "[ST] Accelerator pedal."
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.",
+        "af": "[AF] Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.",
+        "xh": "[XH] Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.",
+        "zu": "[ZU] Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.",
+        "st": "[ST] Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 191,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 7 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 7 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 7 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 7 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 7 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Gear lever.",
+          "B": "Parking brake / Handbrake lever.",
+          "C": "Windscreen wiper switch."
+        },
+        "af": {
+          "A": "[AF] Gear lever.",
+          "B": "[AF] Parking brake / Handbrake lever.",
+          "C": "[AF] Windscreen wiper switch."
+        },
+        "xh": {
+          "A": "[XH] Gear lever.",
+          "B": "[XH] Parking brake / Handbrake lever.",
+          "C": "[XH] Windscreen wiper switch."
+        },
+        "zu": {
+          "A": "[ZU] Gear lever.",
+          "B": "[ZU] Parking brake / Handbrake lever.",
+          "C": "[ZU] Windscreen wiper switch."
+        },
+        "st": {
+          "A": "[ST] Gear lever.",
+          "B": "[ST] Parking brake / Handbrake lever.",
+          "C": "[ST] Windscreen wiper switch."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.",
+        "af": "[AF] Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.",
+        "xh": "[XH] Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.",
+        "zu": "[ZU] Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.",
+        "st": "[ST] Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 192,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "The ... control increases the vehicle speed.",
+        "af": "[AF] The ... control increases the vehicle speed.",
+        "xh": "[XH] The ... control increases the vehicle speed.",
+        "zu": "[ZU] The ... control increases the vehicle speed.",
+        "st": "[ST] The ... control increases the vehicle speed."
+      },
+      "options": {
+        "en": {
+          "A": "A. 10 (Accelerator)",
+          "B": "B. 9",
+          "C": "C. 8"
+        },
+        "af": {
+          "A": "[AF] A. 10 (Accelerator)",
+          "B": "[AF] B. 9",
+          "C": "[AF] C. 8"
+        },
+        "xh": {
+          "A": "[XH] A. 10 (Accelerator)",
+          "B": "[XH] B. 9",
+          "C": "[XH] C. 8"
+        },
+        "zu": {
+          "A": "[ZU] A. 10 (Accelerator)",
+          "B": "[ZU] B. 9",
+          "C": "[ZU] C. 8"
+        },
+        "st": {
+          "A": "[ST] A. 10 (Accelerator)",
+          "B": "[ST] B. 9",
+          "C": "[ST] C. 8"
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Control 10 is the accelerator / gas pedal.",
+        "af": "[AF] Control 10 is the accelerator / gas pedal.",
+        "xh": "[XH] Control 10 is the accelerator / gas pedal.",
+        "zu": "[ZU] Control 10 is the accelerator / gas pedal.",
+        "st": "[ST] Control 10 is the accelerator / gas pedal."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Speed Memory: Urban = 60, Rural = 100, Freeway = 120, Heavy Goods = 80!",
+        "af": "Spoed Onthou: Dorp = 60, Landelik = 100, Snelweg = 120, Swaar Voertuig = 80!",
+        "xh": "Isantya: Idolophu = 60, Indlela eya eLali = 100, Indlela eKhawulezayo = 120!",
+        "zu": "Ijubane: Edolobheni = 60, Endleleni evulekile = 100, Emgwaqweni omkhulu = 120!",
+        "st": "Lebelo: Toropong = 60, Mahaeng = 100, Tseleng e kgolo = 120!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 10 is the accelerator / gas pedal.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 10 is the accelerator / gas pedal.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 10 is the accelerator / gas pedal.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 10 is the accelerator / gas pedal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 10 is the accelerator / gas pedal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 10 is the accelerator / gas pedal. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 10 is the accelerator / gas pedal. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 10 is the accelerator / gas pedal. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 10 is the accelerator / gas pedal. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 10 is the accelerator / gas pedal. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 10 is the accelerator / gas pedal. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 10 is the accelerator / gas pedal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 10 is the accelerator / gas pedal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 10 is the accelerator / gas pedal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 10 is the accelerator / gas pedal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 249,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What error during an incline start causes immediate test failure?",
+        "af": "[AF] What error during an incline start causes immediate test failure?",
+        "xh": "[XH] What error during an incline start causes immediate test failure?",
+        "zu": "[ZU] What error during an incline start causes immediate test failure?",
+        "st": "[ST] What error during an incline start causes immediate test failure?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Allowing vehicle to roll backwards.",
+          "B": "B) Selecting neutral.",
+          "C": "C) Engine stalling."
+        },
+        "af": {
+          "A": "[AF] A) Allowing vehicle to roll backwards.",
+          "B": "[AF] B) Selecting neutral.",
+          "C": "[AF] C) Engine stalling."
+        },
+        "xh": {
+          "A": "[XH] A) Allowing vehicle to roll backwards.",
+          "B": "[XH] B) Selecting neutral.",
+          "C": "[XH] C) Engine stalling."
+        },
+        "zu": {
+          "A": "[ZU] A) Allowing vehicle to roll backwards.",
+          "B": "[ZU] B) Selecting neutral.",
+          "C": "[ZU] C) Engine stalling."
+        },
+        "st": {
+          "A": "[ST] A) Allowing vehicle to roll backwards.",
+          "B": "[ST] B) Selecting neutral.",
+          "C": "[ST] C) Engine stalling."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Rolling backwards causes immediate disqualification.",
+        "af": "[AF] Rolling backwards causes immediate disqualification.",
+        "xh": "[XH] Rolling backwards causes immediate disqualification.",
+        "zu": "[ZU] Rolling backwards causes immediate disqualification.",
+        "st": "[ST] Rolling backwards causes immediate disqualification."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Rolling backwards causes immediate disqualification.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Rolling backwards causes immediate disqualification.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Rolling backwards causes immediate disqualification.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Rolling backwards causes immediate disqualification.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Rolling backwards causes immediate disqualification.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Rolling backwards causes immediate disqualification. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Rolling backwards causes immediate disqualification. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Rolling backwards causes immediate disqualification. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Rolling backwards causes immediate disqualification. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Rolling backwards causes immediate disqualification. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Rolling backwards causes immediate disqualification. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Rolling backwards causes immediate disqualification. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Rolling backwards causes immediate disqualification. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Rolling backwards causes immediate disqualification. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Rolling backwards causes immediate disqualification. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 250,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 5 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 5 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 5 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 5 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 5 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Steering wheel.",
+          "B": "Indicator switch.",
+          "C": "Hooter / Horn button."
+        },
+        "af": {
+          "A": "[AF] Steering wheel.",
+          "B": "[AF] Indicator switch.",
+          "C": "[AF] Hooter / Horn button."
+        },
+        "xh": {
+          "A": "[XH] Steering wheel.",
+          "B": "[XH] Indicator switch.",
+          "C": "[XH] Hooter / Horn button."
+        },
+        "zu": {
+          "A": "[ZU] Steering wheel.",
+          "B": "[ZU] Indicator switch.",
+          "C": "[ZU] Hooter / Horn button."
+        },
+        "st": {
+          "A": "[ST] Steering wheel.",
+          "B": "[ST] Indicator switch.",
+          "C": "[ST] Hooter / Horn button."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Control number 5 is the steering wheel used to control directional movement of the vehicle.",
+        "af": "[AF] Control number 5 is the steering wheel used to control directional movement of the vehicle.",
+        "xh": "[XH] Control number 5 is the steering wheel used to control directional movement of the vehicle.",
+        "zu": "[ZU] Control number 5 is the steering wheel used to control directional movement of the vehicle.",
+        "st": "[ST] Control number 5 is the steering wheel used to control directional movement of the vehicle."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 5 is the steering wheel used to control directional movement of the vehicle. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 5 is the steering wheel used to control directional movement of the vehicle. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 5 is the steering wheel used to control directional movement of the vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 5 is the steering wheel used to control directional movement of the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 5 is the steering wheel used to control directional movement of the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 5 is the steering wheel used to control directional movement of the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 254,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In the heavy vehicle cockpit diagram, control number 6 is the...",
+        "af": "[AF] In the heavy vehicle cockpit diagram, control number 6 is the...",
+        "xh": "[XH] In the heavy vehicle cockpit diagram, control number 6 is the...",
+        "zu": "[ZU] In the heavy vehicle cockpit diagram, control number 6 is the...",
+        "st": "[ST] In the heavy vehicle cockpit diagram, control number 6 is the..."
+      },
+      "options": {
+        "en": {
+          "A": "Gear lever.",
+          "B": "Parking brake lever.",
+          "C": "Steering wheel."
+        },
+        "af": {
+          "A": "[AF] Gear lever.",
+          "B": "[AF] Parking brake lever.",
+          "C": "[AF] Steering wheel."
+        },
+        "xh": {
+          "A": "[XH] Gear lever.",
+          "B": "[XH] Parking brake lever.",
+          "C": "[XH] Steering wheel."
+        },
+        "zu": {
+          "A": "[ZU] Gear lever.",
+          "B": "[ZU] Parking brake lever.",
+          "C": "[ZU] Steering wheel."
+        },
+        "st": {
+          "A": "[ST] Gear lever.",
+          "B": "[ST] Parking brake lever.",
+          "C": "[ST] Steering wheel."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Control number 6 is the gear lever used to select appropriate forward or reverse gears.",
+        "af": "[AF] Control number 6 is the gear lever used to select appropriate forward or reverse gears.",
+        "xh": "[XH] Control number 6 is the gear lever used to select appropriate forward or reverse gears.",
+        "zu": "[ZU] Control number 6 is the gear lever used to select appropriate forward or reverse gears.",
+        "st": "[ST] Control number 6 is the gear lever used to select appropriate forward or reverse gears."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 6 is the gear lever used to select appropriate forward or reverse gears. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 255,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control helps to change the direction of the vehicle?",
+        "af": "[AF] Which control helps to change the direction of the vehicle?",
+        "xh": "[XH] Which control helps to change the direction of the vehicle?",
+        "zu": "[ZU] Which control helps to change the direction of the vehicle?",
+        "st": "[ST] Which control helps to change the direction of the vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "a. 4",
+          "B": "b. 3",
+          "C": "c. 1"
+        },
+        "af": {
+          "A": "[AF] a. 4",
+          "B": "[AF] b. 3",
+          "C": "[AF] c. 1"
+        },
+        "xh": {
+          "A": "[XH] a. 4",
+          "B": "[XH] b. 3",
+          "C": "[XH] c. 1"
+        },
+        "zu": {
+          "A": "[ZU] a. 4",
+          "B": "[ZU] b. 3",
+          "C": "[ZU] c. 1"
+        },
+        "st": {
+          "A": "[ST] a. 4",
+          "B": "[ST] b. 3",
+          "C": "[ST] c. 1"
+        }
+      },
+      "correct_answer": "a",
+      "explanation": {
+        "en": "Control 4 is the steering wheel.",
+        "af": "[AF] Control 4 is the steering wheel.",
+        "xh": "[XH] Control 4 is the steering wheel.",
+        "zu": "[ZU] Control 4 is the steering wheel.",
+        "st": "[ST] Control 4 is the steering wheel."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 4 is the steering wheel.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 4 is the steering wheel.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 4 is the steering wheel.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 4 is the steering wheel.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 4 is the steering wheel.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 4 is the steering wheel. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 4 is the steering wheel. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 4 is the steering wheel. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 4 is the steering wheel. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 4 is the steering wheel. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 4 is the steering wheel. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 4 is the steering wheel. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 4 is the steering wheel. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 4 is the steering wheel. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 4 is the steering wheel. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 256,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control is used to turn or change direction?",
+        "af": "[AF] Which control is used to turn or change direction?",
+        "xh": "[XH] Which control is used to turn or change direction?",
+        "zu": "[ZU] Which control is used to turn or change direction?",
+        "st": "[ST] Which control is used to turn or change direction?"
+      },
+      "options": {
+        "en": {
+          "A": "a. 4 (Steering Wheel)",
+          "B": "b. 5 (Indicator)",
+          "C": "c. 1 (Rear View Mirror)"
+        },
+        "af": {
+          "A": "[AF] a. 4 (Steering Wheel)",
+          "B": "[AF] b. 5 (Indicator)",
+          "C": "[AF] c. 1 (Rear View Mirror)"
+        },
+        "xh": {
+          "A": "[XH] a. 4 (Steering Wheel)",
+          "B": "[XH] b. 5 (Indicator)",
+          "C": "[XH] c. 1 (Rear View Mirror)"
+        },
+        "zu": {
+          "A": "[ZU] a. 4 (Steering Wheel)",
+          "B": "[ZU] b. 5 (Indicator)",
+          "C": "[ZU] c. 1 (Rear View Mirror)"
+        },
+        "st": {
+          "A": "[ST] a. 4 (Steering Wheel)",
+          "B": "[ST] b. 5 (Indicator)",
+          "C": "[ST] c. 1 (Rear View Mirror)"
+        }
+      },
+      "correct_answer": "a",
+      "explanation": {
+        "en": "The steering wheel (control 4) controls vehicle direction.",
+        "af": "[AF] The steering wheel (control 4) controls vehicle direction.",
+        "xh": "[XH] The steering wheel (control 4) controls vehicle direction.",
+        "zu": "[ZU] The steering wheel (control 4) controls vehicle direction.",
+        "st": "[ST] The steering wheel (control 4) controls vehicle direction."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The steering wheel (control 4) controls vehicle direction.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The steering wheel (control 4) controls vehicle direction.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The steering wheel (control 4) controls vehicle direction.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The steering wheel (control 4) controls vehicle direction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The steering wheel (control 4) controls vehicle direction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The steering wheel (control 4) controls vehicle direction. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The steering wheel (control 4) controls vehicle direction. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The steering wheel (control 4) controls vehicle direction. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The steering wheel (control 4) controls vehicle direction. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The steering wheel (control 4) controls vehicle direction. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The steering wheel (control 4) controls vehicle direction. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The steering wheel (control 4) controls vehicle direction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The steering wheel (control 4) controls vehicle direction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The steering wheel (control 4) controls vehicle direction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The steering wheel (control 4) controls vehicle direction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 313,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control is used to ensure that your parked vehicle does not move?",
+        "af": "[AF] Which control is used to ensure that your parked vehicle does not move?",
+        "xh": "[XH] Which control is used to ensure that your parked vehicle does not move?",
+        "zu": "[ZU] Which control is used to ensure that your parked vehicle does not move?",
+        "st": "[ST] Which control is used to ensure that your parked vehicle does not move?"
+      },
+      "options": {
+        "en": {
+          "A": "a. 7 (Park Brake / Handbrake)",
+          "B": "b. 8",
+          "C": "c. 9"
+        },
+        "af": {
+          "A": "[AF] a. 7 (Park Brake / Handbrake)",
+          "B": "[AF] b. 8",
+          "C": "[AF] c. 9"
+        },
+        "xh": {
+          "A": "[XH] a. 7 (Park Brake / Handbrake)",
+          "B": "[XH] b. 8",
+          "C": "[XH] c. 9"
+        },
+        "zu": {
+          "A": "[ZU] a. 7 (Park Brake / Handbrake)",
+          "B": "[ZU] b. 8",
+          "C": "[ZU] c. 9"
+        },
+        "st": {
+          "A": "[ST] a. 7 (Park Brake / Handbrake)",
+          "B": "[ST] b. 8",
+          "C": "[ST] c. 9"
+        }
+      },
+      "correct_answer": "a",
+      "explanation": {
+        "en": "Control 7 is the parking brake lever.",
+        "af": "[AF] Control 7 is the parking brake lever.",
+        "xh": "[XH] Control 7 is the parking brake lever.",
+        "zu": "[ZU] Control 7 is the parking brake lever.",
+        "st": "[ST] Control 7 is the parking brake lever."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 7 is the parking brake lever.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 7 is the parking brake lever.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 7 is the parking brake lever.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 7 is the parking brake lever.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 7 is the parking brake lever.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 7 is the parking brake lever. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 7 is the parking brake lever. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 7 is the parking brake lever. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 7 is the parking brake lever. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 7 is the parking brake lever. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 7 is the parking brake lever. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 7 is the parking brake lever. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 7 is the parking brake lever. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 7 is the parking brake lever. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 7 is the parking brake lever. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 314,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which heavy vehicle control is used to prevent an articulated combination from rolling backwards when starting on a steep incline?",
+        "af": "[AF] Which heavy vehicle control is used to prevent an articulated combination from rolling backwards when starting on a steep incline?",
+        "xh": "[XH] Which heavy vehicle control is used to prevent an articulated combination from rolling backwards when starting on a steep incline?",
+        "zu": "[ZU] Which heavy vehicle control is used to prevent an articulated combination from rolling backwards when starting on a steep incline?",
+        "st": "[ST] Which heavy vehicle control is used to prevent an articulated combination from rolling backwards when starting on a steep incline?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Footbrake only.",
+          "B": "B) Parking brake / trailer control valve applied, clutch held at bite point, accelerator depressed smoothly, then release brake.",
+          "C": "C) Gear lever held in neutral."
+        },
+        "af": {
+          "A": "[AF] A) Footbrake only.",
+          "B": "[AF] B) Parking brake / trailer control valve applied, clutch held at bite point, accelerator depressed smoothly, then release brake.",
+          "C": "[AF] C) Gear lever held in neutral."
+        },
+        "xh": {
+          "A": "[XH] A) Footbrake only.",
+          "B": "[XH] B) Parking brake / trailer control valve applied, clutch held at bite point, accelerator depressed smoothly, then release brake.",
+          "C": "[XH] C) Gear lever held in neutral."
+        },
+        "zu": {
+          "A": "[ZU] A) Footbrake only.",
+          "B": "[ZU] B) Parking brake / trailer control valve applied, clutch held at bite point, accelerator depressed smoothly, then release brake.",
+          "C": "[ZU] C) Gear lever held in neutral."
+        },
+        "st": {
+          "A": "[ST] A) Footbrake only.",
+          "B": "[ST] B) Parking brake / trailer control valve applied, clutch held at bite point, accelerator depressed smoothly, then release brake.",
+          "C": "[ST] C) Gear lever held in neutral."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.",
+        "af": "[AF] Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.",
+        "xh": "[XH] Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.",
+        "zu": "[ZU] Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.",
+        "st": "[ST] Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 316,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the correct physical sequence of steps for the starting procedure of a manual transmission heavy motor vehicle?",
+        "af": "[AF] What is the correct physical sequence of steps for the starting procedure of a manual transmission heavy motor vehicle?",
+        "xh": "[XH] What is the correct physical sequence of steps for the starting procedure of a manual transmission heavy motor vehicle?",
+        "zu": "[ZU] What is the correct physical sequence of steps for the starting procedure of a manual transmission heavy motor vehicle?",
+        "st": "[ST] What is the correct physical sequence of steps for the starting procedure of a manual transmission heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Turn key, depress accelerator, release parking brake immediately.",
+          "B": "B) Ensure parking brake is applied, gear lever in neutral, turn key to 'ON', check instruments, pre-heat if diesel, start engine, build up air pressure.",
+          "C": "C) Depress clutch, select gear, turn key, and move off."
+        },
+        "af": {
+          "A": "[AF] A) Turn key, depress accelerator, release parking brake immediately.",
+          "B": "[AF] B) Ensure parking brake is applied, gear lever in neutral, turn key to 'ON', check instruments, pre-heat if diesel, start engine, build up air pressure.",
+          "C": "[AF] C) Depress clutch, select gear, turn key, and move off."
+        },
+        "xh": {
+          "A": "[XH] A) Turn key, depress accelerator, release parking brake immediately.",
+          "B": "[XH] B) Ensure parking brake is applied, gear lever in neutral, turn key to 'ON', check instruments, pre-heat if diesel, start engine, build up air pressure.",
+          "C": "[XH] C) Depress clutch, select gear, turn key, and move off."
+        },
+        "zu": {
+          "A": "[ZU] A) Turn key, depress accelerator, release parking brake immediately.",
+          "B": "[ZU] B) Ensure parking brake is applied, gear lever in neutral, turn key to 'ON', check instruments, pre-heat if diesel, start engine, build up air pressure.",
+          "C": "[ZU] C) Depress clutch, select gear, turn key, and move off."
+        },
+        "st": {
+          "A": "[ST] A) Turn key, depress accelerator, release parking brake immediately.",
+          "B": "[ST] B) Ensure parking brake is applied, gear lever in neutral, turn key to 'ON', check instruments, pre-heat if diesel, start engine, build up air pressure.",
+          "C": "[ST] C) Depress clutch, select gear, turn key, and move off."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.",
+        "af": "[AF] K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.",
+        "xh": "[XH] K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.",
+        "zu": "[ZU] K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.",
+        "st": "[ST] K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 318,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control is used to signal your intention to turn left or right or change lanes?",
+        "af": "[AF] Which control is used to signal your intention to turn left or right or change lanes?",
+        "xh": "[XH] Which control is used to signal your intention to turn left or right or change lanes?",
+        "zu": "[ZU] Which control is used to signal your intention to turn left or right or change lanes?",
+        "st": "[ST] Which control is used to signal your intention to turn left or right or change lanes?"
+      },
+      "options": {
+        "en": {
+          "A": "A. Steering wheel (Control 4)",
+          "B": "B. Direction indicator stalk (Control 5)",
+          "C": "C. Wiper control (Control 3)"
+        },
+        "af": {
+          "A": "[AF] A. Steering wheel (Control 4)",
+          "B": "[AF] B. Direction indicator stalk (Control 5)",
+          "C": "[AF] C. Wiper control (Control 3)"
+        },
+        "xh": {
+          "A": "[XH] A. Steering wheel (Control 4)",
+          "B": "[XH] B. Direction indicator stalk (Control 5)",
+          "C": "[XH] C. Wiper control (Control 3)"
+        },
+        "zu": {
+          "A": "[ZU] A. Steering wheel (Control 4)",
+          "B": "[ZU] B. Direction indicator stalk (Control 5)",
+          "C": "[ZU] C. Wiper control (Control 3)"
+        },
+        "st": {
+          "A": "[ST] A. Steering wheel (Control 4)",
+          "B": "[ST] B. Direction indicator stalk (Control 5)",
+          "C": "[ST] C. Wiper control (Control 3)"
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The indicator lever (Control 5) signals direction changes to other road users.",
+        "af": "[AF] The indicator lever (Control 5) signals direction changes to other road users.",
+        "xh": "[XH] The indicator lever (Control 5) signals direction changes to other road users.",
+        "zu": "[ZU] The indicator lever (Control 5) signals direction changes to other road users.",
+        "st": "[ST] The indicator lever (Control 5) signals direction changes to other road users."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The indicator lever (Control 5) signals direction changes to other road users.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The indicator lever (Control 5) signals direction changes to other road users.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The indicator lever (Control 5) signals direction changes to other road users.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The indicator lever (Control 5) signals direction changes to other road users.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The indicator lever (Control 5) signals direction changes to other road users.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The indicator lever (Control 5) signals direction changes to other road users. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The indicator lever (Control 5) signals direction changes to other road users. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The indicator lever (Control 5) signals direction changes to other road users. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The indicator lever (Control 5) signals direction changes to other road users. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The indicator lever (Control 5) signals direction changes to other road users. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The indicator lever (Control 5) signals direction changes to other road users. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The indicator lever (Control 5) signals direction changes to other road users. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The indicator lever (Control 5) signals direction changes to other road users. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The indicator lever (Control 5) signals direction changes to other road users. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The indicator lever (Control 5) signals direction changes to other road users. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 377,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What must be checked in the interior pre-trip inspection before starting engine?",
+        "af": "[AF] What must be checked in the interior pre-trip inspection before starting engine?",
+        "xh": "[XH] What must be checked in the interior pre-trip inspection before starting engine?",
+        "zu": "[ZU] What must be checked in the interior pre-trip inspection before starting engine?",
+        "st": "[ST] What must be checked in the interior pre-trip inspection before starting engine?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Parking brake, neutral gear, seat/mirrors, gauges, doors, seatbelts.",
+          "B": "B) Pump footbrake.",
+          "C": "C) Select 1st gear."
+        },
+        "af": {
+          "A": "[AF] A) Parking brake, neutral gear, seat/mirrors, gauges, doors, seatbelts.",
+          "B": "[AF] B) Pump footbrake.",
+          "C": "[AF] C) Select 1st gear."
+        },
+        "xh": {
+          "A": "[XH] A) Parking brake, neutral gear, seat/mirrors, gauges, doors, seatbelts.",
+          "B": "[XH] B) Pump footbrake.",
+          "C": "[XH] C) Select 1st gear."
+        },
+        "zu": {
+          "A": "[ZU] A) Parking brake, neutral gear, seat/mirrors, gauges, doors, seatbelts.",
+          "B": "[ZU] B) Pump footbrake.",
+          "C": "[ZU] C) Select 1st gear."
+        },
+        "st": {
+          "A": "[ST] A) Parking brake, neutral gear, seat/mirrors, gauges, doors, seatbelts.",
+          "B": "[ST] B) Pump footbrake.",
+          "C": "[ST] C) Select 1st gear."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Module 1 interior pre-trip checklist.",
+        "af": "[AF] Module 1 interior pre-trip checklist.",
+        "xh": "[XH] Module 1 interior pre-trip checklist.",
+        "zu": "[ZU] Module 1 interior pre-trip checklist.",
+        "st": "[ST] Module 1 interior pre-trip checklist."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Module 1 interior pre-trip checklist.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Module 1 interior pre-trip checklist.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Module 1 interior pre-trip checklist.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Module 1 interior pre-trip checklist.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Module 1 interior pre-trip checklist.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Module 1 interior pre-trip checklist. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Module 1 interior pre-trip checklist. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Module 1 interior pre-trip checklist. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Module 1 interior pre-trip checklist. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Module 1 interior pre-trip checklist. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Module 1 interior pre-trip checklist. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Module 1 interior pre-trip checklist. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Module 1 interior pre-trip checklist. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Module 1 interior pre-trip checklist. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 1 interior pre-trip checklist. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 383,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_pretrip_starting",
+      "sub_category_name": "Pre-Trip Inspection & Engine Starting",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What must you do before moving off from a stationary position at the side of the road?",
+        "af": "[AF] What must you do before moving off from a stationary position at the side of the road?",
+        "xh": "[XH] What must you do before moving off from a stationary position at the side of the road?",
+        "zu": "[ZU] What must you do before moving off from a stationary position at the side of the road?",
+        "st": "[ST] What must you do before moving off from a stationary position at the side of the road?"
+      },
+      "options": {
+        "en": {
+          "A": "A. Check mirrors and blind spots, signal intention, select gear, obtain clutch control, release parking brake, and move off when safe.",
+          "B": "B. Release the parking brake immediately and accelerate into traffic.",
+          "C": "C. Sound the hooter to warn approaching traffic before moving off."
+        },
+        "af": {
+          "A": "[AF] A. Check mirrors and blind spots, signal intention, select gear, obtain clutch control, release parking brake, and move off when safe.",
+          "B": "[AF] B. Release the parking brake immediately and accelerate into traffic.",
+          "C": "[AF] C. Sound the hooter to warn approaching traffic before moving off."
+        },
+        "xh": {
+          "A": "[XH] A. Check mirrors and blind spots, signal intention, select gear, obtain clutch control, release parking brake, and move off when safe.",
+          "B": "[XH] B. Release the parking brake immediately and accelerate into traffic.",
+          "C": "[XH] C. Sound the hooter to warn approaching traffic before moving off."
+        },
+        "zu": {
+          "A": "[ZU] A. Check mirrors and blind spots, signal intention, select gear, obtain clutch control, release parking brake, and move off when safe.",
+          "B": "[ZU] B. Release the parking brake immediately and accelerate into traffic.",
+          "C": "[ZU] C. Sound the hooter to warn approaching traffic before moving off."
+        },
+        "st": {
+          "A": "[ST] A. Check mirrors and blind spots, signal intention, select gear, obtain clutch control, release parking brake, and move off when safe.",
+          "B": "[ST] B. Release the parking brake immediately and accelerate into traffic.",
+          "C": "[ST] C. Sound the hooter to warn approaching traffic before moving off."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.",
+        "af": "[AF] The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.",
+        "xh": "[XH] The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.",
+        "zu": "[ZU] The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.",
+        "st": "[ST] The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    }
+  ]
+}

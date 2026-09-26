@@ -1,0 +1,1814 @@
+{
+  "sub_category_id": "controls_primary_foot_hand",
+  "sub_category_name": "Primary Foot & Hand Driving Controls",
+  "main_category": "Controls of the Vehicle",
+  "total_questions": 21,
+  "questions": [
+    {
+      "id": 57,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the primary function of the parking brake (handbrake) in a heavy motor vehicle?",
+        "af": "[AF] What is the primary function of the parking brake (handbrake) in a heavy motor vehicle?",
+        "xh": "[XH] What is the primary function of the parking brake (handbrake) in a heavy motor vehicle?",
+        "zu": "[ZU] What is the primary function of the parking brake (handbrake) in a heavy motor vehicle?",
+        "st": "[ST] What is the primary function of the parking brake (handbrake) in a heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "To slow down the vehicle while driving at high speed.",
+          "B": "To keep the vehicle stationary once parked and prevent rolling.",
+          "C": "To change gear ratios."
+        },
+        "af": {
+          "A": "[AF] To slow down the vehicle while driving at high speed.",
+          "B": "[AF] To keep the vehicle stationary once parked and prevent rolling.",
+          "C": "[AF] To change gear ratios."
+        },
+        "xh": {
+          "A": "[XH] To slow down the vehicle while driving at high speed.",
+          "B": "[XH] To keep the vehicle stationary once parked and prevent rolling.",
+          "C": "[XH] To change gear ratios."
+        },
+        "zu": {
+          "A": "[ZU] To slow down the vehicle while driving at high speed.",
+          "B": "[ZU] To keep the vehicle stationary once parked and prevent rolling.",
+          "C": "[ZU] To change gear ratios."
+        },
+        "st": {
+          "A": "[ST] To slow down the vehicle while driving at high speed.",
+          "B": "[ST] To keep the vehicle stationary once parked and prevent rolling.",
+          "C": "[ST] To change gear ratios."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.",
+        "af": "[AF] The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.",
+        "xh": "[XH] The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.",
+        "zu": "[ZU] The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.",
+        "st": "[ST] The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The parking brake is designed to hold a stationary vehicle securely in place when parked or stopping on inclines. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 60,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the correct hand position on the steering wheel (Control 4) when driving straight on a public road?",
+        "af": "[AF] What is the correct hand position on the steering wheel (Control 4) when driving straight on a public road?",
+        "xh": "[XH] What is the correct hand position on the steering wheel (Control 4) when driving straight on a public road?",
+        "zu": "[ZU] What is the correct hand position on the steering wheel (Control 4) when driving straight on a public road?",
+        "st": "[ST] What is the correct hand position on the steering wheel (Control 4) when driving straight on a public road?"
+      },
+      "options": {
+        "en": {
+          "A": "A. One hand at 12 o'clock position.",
+          "B": "B. Both hands firmly on the wheel at the 10-to-2 or 9-and-3 position.",
+          "C": "C. Both hands resting on the gear lever knob."
+        },
+        "af": {
+          "A": "[AF] A. One hand at 12 o'clock position.",
+          "B": "[AF] B. Both hands firmly on the wheel at the 10-to-2 or 9-and-3 position.",
+          "C": "[AF] C. Both hands resting on the gear lever knob."
+        },
+        "xh": {
+          "A": "[XH] A. One hand at 12 o'clock position.",
+          "B": "[XH] B. Both hands firmly on the wheel at the 10-to-2 or 9-and-3 position.",
+          "C": "[XH] C. Both hands resting on the gear lever knob."
+        },
+        "zu": {
+          "A": "[ZU] A. One hand at 12 o'clock position.",
+          "B": "[ZU] B. Both hands firmly on the wheel at the 10-to-2 or 9-and-3 position.",
+          "C": "[ZU] C. Both hands resting on the gear lever knob."
+        },
+        "st": {
+          "A": "[ST] A. One hand at 12 o'clock position.",
+          "B": "[ST] B. Both hands firmly on the wheel at the 10-to-2 or 9-and-3 position.",
+          "C": "[ST] C. Both hands resting on the gear lever knob."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.",
+        "af": "[AF] Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.",
+        "xh": "[XH] Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.",
+        "zu": "[ZU] Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.",
+        "st": "[ST] Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Keep both hands on the steering wheel at the 10-to-2 or 9-and-3 position except when operating controls. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 61,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In an automatic transmission heavy motor vehicle, what gear selector position must be engaged before starting the engine?",
+        "af": "[AF] In an automatic transmission heavy motor vehicle, what gear selector position must be engaged before starting the engine?",
+        "xh": "[XH] In an automatic transmission heavy motor vehicle, what gear selector position must be engaged before starting the engine?",
+        "zu": "[ZU] In an automatic transmission heavy motor vehicle, what gear selector position must be engaged before starting the engine?",
+        "st": "[ST] In an automatic transmission heavy motor vehicle, what gear selector position must be engaged before starting the engine?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Drive (D).",
+          "B": "B) Park (P) or Neutral (N).",
+          "C": "C) Reverse (R)."
+        },
+        "af": {
+          "A": "[AF] A) Drive (D).",
+          "B": "[AF] B) Park (P) or Neutral (N).",
+          "C": "[AF] C) Reverse (R)."
+        },
+        "xh": {
+          "A": "[XH] A) Drive (D).",
+          "B": "[XH] B) Park (P) or Neutral (N).",
+          "C": "[XH] C) Reverse (R)."
+        },
+        "zu": {
+          "A": "[ZU] A) Drive (D).",
+          "B": "[ZU] B) Park (P) or Neutral (N).",
+          "C": "[ZU] C) Reverse (R)."
+        },
+        "st": {
+          "A": "[ST] A) Drive (D).",
+          "B": "[ST] B) Park (P) or Neutral (N).",
+          "C": "[ST] C) Reverse (R)."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The engine will only crank when the automatic selector is in Park (P) or Neutral (N).",
+        "af": "[AF] The engine will only crank when the automatic selector is in Park (P) or Neutral (N).",
+        "xh": "[XH] The engine will only crank when the automatic selector is in Park (P) or Neutral (N).",
+        "zu": "[ZU] The engine will only crank when the automatic selector is in Park (P) or Neutral (N).",
+        "st": "[ST] The engine will only crank when the automatic selector is in Park (P) or Neutral (N)."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The engine will only crank when the automatic selector is in Park (P) or Neutral (N).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The engine will only crank when the automatic selector is in Park (P) or Neutral (N).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The engine will only crank when the automatic selector is in Park (P) or Neutral (N).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The engine will only crank when the automatic selector is in Park (P) or Neutral (N).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The engine will only crank when the automatic selector is in Park (P) or Neutral (N).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The engine will only crank when the automatic selector is in Park (P) or Neutral (N). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 122,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What must you check on heavy vehicle air brake pressure gauges before moving off?",
+        "af": "[AF] What must you check on heavy vehicle air brake pressure gauges before moving off?",
+        "xh": "[XH] What must you check on heavy vehicle air brake pressure gauges before moving off?",
+        "zu": "[ZU] What must you check on heavy vehicle air brake pressure gauges before moving off?",
+        "st": "[ST] What must you check on heavy vehicle air brake pressure gauges before moving off?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Ensure system air pressure has built up to the required operating level (typically 6-8 bar / green zone).",
+          "B": "B) Ensure air pressure is zero.",
+          "C": "C) Ignore gauges."
+        },
+        "af": {
+          "A": "[AF] A) Ensure system air pressure has built up to the required operating level (typically 6-8 bar / green zone).",
+          "B": "[AF] B) Ensure air pressure is zero.",
+          "C": "[AF] C) Ignore gauges."
+        },
+        "xh": {
+          "A": "[XH] A) Ensure system air pressure has built up to the required operating level (typically 6-8 bar / green zone).",
+          "B": "[XH] B) Ensure air pressure is zero.",
+          "C": "[XH] C) Ignore gauges."
+        },
+        "zu": {
+          "A": "[ZU] A) Ensure system air pressure has built up to the required operating level (typically 6-8 bar / green zone).",
+          "B": "[ZU] B) Ensure air pressure is zero.",
+          "C": "[ZU] C) Ignore gauges."
+        },
+        "st": {
+          "A": "[ST] A) Ensure system air pressure has built up to the required operating level (typically 6-8 bar / green zone).",
+          "B": "[ST] B) Ensure air pressure is zero.",
+          "C": "[ST] C) Ignore gauges."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.",
+        "af": "[AF] Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.",
+        "xh": "[XH] Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.",
+        "zu": "[ZU] Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.",
+        "st": "[ST] Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Air brake systems require full operating pressure to release spring parking brakes and provide full stopping power. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 126,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "af": "[AF] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "xh": "[XH] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "zu": "[ZU] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?",
+        "st": "[ST] Before starting the engine of a heavy motor vehicle, what position must the gear lever (Control 6) be in?"
+      },
+      "options": {
+        "en": {
+          "A": "A. In 1st gear with clutch depressed.",
+          "B": "B. In Neutral (N) position.",
+          "C": "C. In Reverse (R) position."
+        },
+        "af": {
+          "A": "[AF] A. In 1st gear with clutch depressed.",
+          "B": "[AF] B. In Neutral (N) position.",
+          "C": "[AF] C. In Reverse (R) position."
+        },
+        "xh": {
+          "A": "[XH] A. In 1st gear with clutch depressed.",
+          "B": "[XH] B. In Neutral (N) position.",
+          "C": "[XH] C. In Reverse (R) position."
+        },
+        "zu": {
+          "A": "[ZU] A. In 1st gear with clutch depressed.",
+          "B": "[ZU] B. In Neutral (N) position.",
+          "C": "[ZU] C. In Reverse (R) position."
+        },
+        "st": {
+          "A": "[ST] A. In 1st gear with clutch depressed.",
+          "B": "[ST] B. In Neutral (N) position.",
+          "C": "[ST] C. In Reverse (R) position."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.",
+        "af": "[AF] Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.",
+        "xh": "[XH] Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.",
+        "zu": "[ZU] Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.",
+        "st": "[ST] Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Always ensure the gear lever is in Neutral (or Park for automatic) before starting the engine. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 185,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the function of the footbrake pedal (Control 9) in a heavy vehicle?",
+        "af": "[AF] What is the function of the footbrake pedal (Control 9) in a heavy vehicle?",
+        "xh": "[XH] What is the function of the footbrake pedal (Control 9) in a heavy vehicle?",
+        "zu": "[ZU] What is the function of the footbrake pedal (Control 9) in a heavy vehicle?",
+        "st": "[ST] What is the function of the footbrake pedal (Control 9) in a heavy vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A. To disengage the engine from the gearbox.",
+          "B": "B. To apply the service brakes on all wheels to reduce speed or bring the vehicle to a complete stop.",
+          "C": "C. To increase engine speed."
+        },
+        "af": {
+          "A": "[AF] A. To disengage the engine from the gearbox.",
+          "B": "[AF] B. To apply the service brakes on all wheels to reduce speed or bring the vehicle to a complete stop.",
+          "C": "[AF] C. To increase engine speed."
+        },
+        "xh": {
+          "A": "[XH] A. To disengage the engine from the gearbox.",
+          "B": "[XH] B. To apply the service brakes on all wheels to reduce speed or bring the vehicle to a complete stop.",
+          "C": "[XH] C. To increase engine speed."
+        },
+        "zu": {
+          "A": "[ZU] A. To disengage the engine from the gearbox.",
+          "B": "[ZU] B. To apply the service brakes on all wheels to reduce speed or bring the vehicle to a complete stop.",
+          "C": "[ZU] C. To increase engine speed."
+        },
+        "st": {
+          "A": "[ST] A. To disengage the engine from the gearbox.",
+          "B": "[ST] B. To apply the service brakes on all wheels to reduce speed or bring the vehicle to a complete stop.",
+          "C": "[ST] C. To increase engine speed."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The footbrake pedal (Control 9) operates the main service braking system on all wheels.",
+        "af": "[AF] The footbrake pedal (Control 9) operates the main service braking system on all wheels.",
+        "xh": "[XH] The footbrake pedal (Control 9) operates the main service braking system on all wheels.",
+        "zu": "[ZU] The footbrake pedal (Control 9) operates the main service braking system on all wheels.",
+        "st": "[ST] The footbrake pedal (Control 9) operates the main service braking system on all wheels."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The footbrake pedal (Control 9) operates the main service braking system on all wheels.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The footbrake pedal (Control 9) operates the main service braking system on all wheels.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The footbrake pedal (Control 9) operates the main service braking system on all wheels.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The footbrake pedal (Control 9) operates the main service braking system on all wheels.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The footbrake pedal (Control 9) operates the main service braking system on all wheels.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The footbrake pedal (Control 9) operates the main service braking system on all wheels. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The footbrake pedal (Control 9) operates the main service braking system on all wheels. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 187,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "During the exterior pre-trip inspection (Module 2), what must you check regarding air brake pressure tanks?",
+        "af": "[AF] During the exterior pre-trip inspection (Module 2), what must you check regarding air brake pressure tanks?",
+        "xh": "[XH] During the exterior pre-trip inspection (Module 2), what must you check regarding air brake pressure tanks?",
+        "zu": "[ZU] During the exterior pre-trip inspection (Module 2), what must you check regarding air brake pressure tanks?",
+        "st": "[ST] During the exterior pre-trip inspection (Module 2), what must you check regarding air brake pressure tanks?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Check for physical damage, security, and drain water/condensation from air tanks.",
+          "B": "B) Fill tanks with water.",
+          "C": "C) Paint tanks red."
+        },
+        "af": {
+          "A": "[AF] A) Check for physical damage, security, and drain water/condensation from air tanks.",
+          "B": "[AF] B) Fill tanks with water.",
+          "C": "[AF] C) Paint tanks red."
+        },
+        "xh": {
+          "A": "[XH] A) Check for physical damage, security, and drain water/condensation from air tanks.",
+          "B": "[XH] B) Fill tanks with water.",
+          "C": "[XH] C) Paint tanks red."
+        },
+        "zu": {
+          "A": "[ZU] A) Check for physical damage, security, and drain water/condensation from air tanks.",
+          "B": "[ZU] B) Fill tanks with water.",
+          "C": "[ZU] C) Paint tanks red."
+        },
+        "st": {
+          "A": "[ST] A) Check for physical damage, security, and drain water/condensation from air tanks.",
+          "B": "[ST] B) Fill tanks with water.",
+          "C": "[ST] C) Paint tanks red."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.",
+        "af": "[AF] Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.",
+        "xh": "[XH] Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.",
+        "zu": "[ZU] Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.",
+        "st": "[ST] Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 2 requires inspecting air brake reservoirs for damage, secure mounting, and bleeding moisture from drain valves. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 188,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the primary function of the exhaust brake / engine brake in a heavy motor vehicle?",
+        "af": "[AF] What is the primary function of the exhaust brake / engine brake in a heavy motor vehicle?",
+        "xh": "[XH] What is the primary function of the exhaust brake / engine brake in a heavy motor vehicle?",
+        "zu": "[ZU] What is the primary function of the exhaust brake / engine brake in a heavy motor vehicle?",
+        "st": "[ST] What is the primary function of the exhaust brake / engine brake in a heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A) To bring the vehicle to an emergency stop.",
+          "B": "B) To assist in slowing the vehicle on steep downgrades and prevent service brake overheating.",
+          "C": "C) To increase engine power."
+        },
+        "af": {
+          "A": "[AF] A) To bring the vehicle to an emergency stop.",
+          "B": "[AF] B) To assist in slowing the vehicle on steep downgrades and prevent service brake overheating.",
+          "C": "[AF] C) To increase engine power."
+        },
+        "xh": {
+          "A": "[XH] A) To bring the vehicle to an emergency stop.",
+          "B": "[XH] B) To assist in slowing the vehicle on steep downgrades and prevent service brake overheating.",
+          "C": "[XH] C) To increase engine power."
+        },
+        "zu": {
+          "A": "[ZU] A) To bring the vehicle to an emergency stop.",
+          "B": "[ZU] B) To assist in slowing the vehicle on steep downgrades and prevent service brake overheating.",
+          "C": "[ZU] C) To increase engine power."
+        },
+        "st": {
+          "A": "[ST] A) To bring the vehicle to an emergency stop.",
+          "B": "[ST] B) To assist in slowing the vehicle on steep downgrades and prevent service brake overheating.",
+          "C": "[ST] C) To increase engine power."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.",
+        "af": "[AF] An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.",
+        "xh": "[XH] An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.",
+        "zu": "[ZU] An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.",
+        "st": "[ST] An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An exhaust/engine brake retards engine speed on steep declines, helping control vehicle speed without overheating the wheel brakes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 251,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control pedal increases engine RPM and vehicle speed when depressed?",
+        "af": "[AF] Which control pedal increases engine RPM and vehicle speed when depressed?",
+        "xh": "[XH] Which control pedal increases engine RPM and vehicle speed when depressed?",
+        "zu": "[ZU] Which control pedal increases engine RPM and vehicle speed when depressed?",
+        "st": "[ST] Which control pedal increases engine RPM and vehicle speed when depressed?"
+      },
+      "options": {
+        "en": {
+          "A": "A. Clutch pedal (Control 8)",
+          "B": "B. Footbrake pedal (Control 9)",
+          "C": "C. Accelerator pedal (Control 10)"
+        },
+        "af": {
+          "A": "[AF] A. Clutch pedal (Control 8)",
+          "B": "[AF] B. Footbrake pedal (Control 9)",
+          "C": "[AF] C. Accelerator pedal (Control 10)"
+        },
+        "xh": {
+          "A": "[XH] A. Clutch pedal (Control 8)",
+          "B": "[XH] B. Footbrake pedal (Control 9)",
+          "C": "[XH] C. Accelerator pedal (Control 10)"
+        },
+        "zu": {
+          "A": "[ZU] A. Clutch pedal (Control 8)",
+          "B": "[ZU] B. Footbrake pedal (Control 9)",
+          "C": "[ZU] C. Accelerator pedal (Control 10)"
+        },
+        "st": {
+          "A": "[ST] A. Clutch pedal (Control 8)",
+          "B": "[ST] B. Footbrake pedal (Control 9)",
+          "C": "[ST] C. Accelerator pedal (Control 10)"
+        }
+      },
+      "correct_answer": "C",
+      "explanation": {
+        "en": "The accelerator pedal (Control 10) controls fuel flow and engine speed.",
+        "af": "[AF] The accelerator pedal (Control 10) controls fuel flow and engine speed.",
+        "xh": "[XH] The accelerator pedal (Control 10) controls fuel flow and engine speed.",
+        "zu": "[ZU] The accelerator pedal (Control 10) controls fuel flow and engine speed.",
+        "st": "[ST] The accelerator pedal (Control 10) controls fuel flow and engine speed."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Speed Memory: Urban = 60, Rural = 100, Freeway = 120, Heavy Goods = 80!",
+        "af": "Spoed Onthou: Dorp = 60, Landelik = 100, Snelweg = 120, Swaar Voertuig = 80!",
+        "xh": "Isantya: Idolophu = 60, Indlela eya eLali = 100, Indlela eKhawulezayo = 120!",
+        "zu": "Ijubane: Edolobheni = 60, Endleleni evulekile = 100, Emgwaqweni omkhulu = 120!",
+        "st": "Lebelo: Toropong = 60, Mahaeng = 100, Tseleng e kgolo = 120!"
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The accelerator pedal (Control 10) controls fuel flow and engine speed.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The accelerator pedal (Control 10) controls fuel flow and engine speed.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The accelerator pedal (Control 10) controls fuel flow and engine speed.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The accelerator pedal (Control 10) controls fuel flow and engine speed.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The accelerator pedal (Control 10) controls fuel flow and engine speed.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The accelerator pedal (Control 10) controls fuel flow and engine speed. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The accelerator pedal (Control 10) controls fuel flow and engine speed. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The accelerator pedal (Control 10) controls fuel flow and engine speed. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The accelerator pedal (Control 10) controls fuel flow and engine speed. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The accelerator pedal (Control 10) controls fuel flow and engine speed. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The accelerator pedal (Control 10) controls fuel flow and engine speed. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The accelerator pedal (Control 10) controls fuel flow and engine speed. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The accelerator pedal (Control 10) controls fuel flow and engine speed. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The accelerator pedal (Control 10) controls fuel flow and engine speed. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The accelerator pedal (Control 10) controls fuel flow and engine speed. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 252,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In a heavy motor vehicle with automatic transmission, which pedal is absent compared to manual transmission vehicles?",
+        "af": "[AF] In a heavy motor vehicle with automatic transmission, which pedal is absent compared to manual transmission vehicles?",
+        "xh": "[XH] In a heavy motor vehicle with automatic transmission, which pedal is absent compared to manual transmission vehicles?",
+        "zu": "[ZU] In a heavy motor vehicle with automatic transmission, which pedal is absent compared to manual transmission vehicles?",
+        "st": "[ST] In a heavy motor vehicle with automatic transmission, which pedal is absent compared to manual transmission vehicles?"
+      },
+      "options": {
+        "en": {
+          "A": "Footbrake pedal.",
+          "B": "Clutch pedal.",
+          "C": "Accelerator pedal."
+        },
+        "af": {
+          "A": "[AF] Footbrake pedal.",
+          "B": "[AF] Clutch pedal.",
+          "C": "[AF] Accelerator pedal."
+        },
+        "xh": {
+          "A": "[XH] Footbrake pedal.",
+          "B": "[XH] Clutch pedal.",
+          "C": "[XH] Accelerator pedal."
+        },
+        "zu": {
+          "A": "[ZU] Footbrake pedal.",
+          "B": "[ZU] Clutch pedal.",
+          "C": "[ZU] Accelerator pedal."
+        },
+        "st": {
+          "A": "[ST] Footbrake pedal.",
+          "B": "[ST] Clutch pedal.",
+          "C": "[ST] Accelerator pedal."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Automatic vehicles do not have a clutch pedal (control 8).",
+        "af": "[AF] Automatic vehicles do not have a clutch pedal (control 8).",
+        "xh": "[XH] Automatic vehicles do not have a clutch pedal (control 8).",
+        "zu": "[ZU] Automatic vehicles do not have a clutch pedal (control 8).",
+        "st": "[ST] Automatic vehicles do not have a clutch pedal (control 8)."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Automatic vehicles do not have a clutch pedal (control 8).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Automatic vehicles do not have a clutch pedal (control 8).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Automatic vehicles do not have a clutch pedal (control 8).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Automatic vehicles do not have a clutch pedal (control 8).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Automatic vehicles do not have a clutch pedal (control 8).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Automatic vehicles do not have a clutch pedal (control 8). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Automatic vehicles do not have a clutch pedal (control 8). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Automatic vehicles do not have a clutch pedal (control 8). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Automatic vehicles do not have a clutch pedal (control 8). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Automatic vehicles do not have a clutch pedal (control 8). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Automatic vehicles do not have a clutch pedal (control 8). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Automatic vehicles do not have a clutch pedal (control 8). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Automatic vehicles do not have a clutch pedal (control 8). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Automatic vehicles do not have a clutch pedal (control 8). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Automatic vehicles do not have a clutch pedal (control 8). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 253,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the correct hand positioning method on the steering wheel when driving a heavy motor vehicle under normal conditions?",
+        "af": "[AF] What is the correct hand positioning method on the steering wheel when driving a heavy motor vehicle under normal conditions?",
+        "xh": "[XH] What is the correct hand positioning method on the steering wheel when driving a heavy motor vehicle under normal conditions?",
+        "zu": "[ZU] What is the correct hand positioning method on the steering wheel when driving a heavy motor vehicle under normal conditions?",
+        "st": "[ST] What is the correct hand positioning method on the steering wheel when driving a heavy motor vehicle under normal conditions?"
+      },
+      "options": {
+        "en": {
+          "A": "Ten-to-two or quarter-to-three position using the push-pull method.",
+          "B": "One hand at the top of the wheel.",
+          "C": "Both hands holding the bottom spoke."
+        },
+        "af": {
+          "A": "[AF] Ten-to-two or quarter-to-three position using the push-pull method.",
+          "B": "[AF] One hand at the top of the wheel.",
+          "C": "[AF] Both hands holding the bottom spoke."
+        },
+        "xh": {
+          "A": "[XH] Ten-to-two or quarter-to-three position using the push-pull method.",
+          "B": "[XH] One hand at the top of the wheel.",
+          "C": "[XH] Both hands holding the bottom spoke."
+        },
+        "zu": {
+          "A": "[ZU] Ten-to-two or quarter-to-three position using the push-pull method.",
+          "B": "[ZU] One hand at the top of the wheel.",
+          "C": "[ZU] Both hands holding the bottom spoke."
+        },
+        "st": {
+          "A": "[ST] Ten-to-two or quarter-to-three position using the push-pull method.",
+          "B": "[ST] One hand at the top of the wheel.",
+          "C": "[ST] Both hands holding the bottom spoke."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.",
+        "af": "[AF] Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.",
+        "xh": "[XH] Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.",
+        "zu": "[ZU] Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.",
+        "st": "[ST] Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Hold the steering wheel firmly with both hands at ten-to-two or quarter-to-three using the push-pull steering method. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 315,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "In a heavy motor vehicle fitted with air brakes, what warning device alerts the driver if air pressure drops dangerously low?",
+        "af": "[AF] In a heavy motor vehicle fitted with air brakes, what warning device alerts the driver if air pressure drops dangerously low?",
+        "xh": "[XH] In a heavy motor vehicle fitted with air brakes, what warning device alerts the driver if air pressure drops dangerously low?",
+        "zu": "[ZU] In a heavy motor vehicle fitted with air brakes, what warning device alerts the driver if air pressure drops dangerously low?",
+        "st": "[ST] In a heavy motor vehicle fitted with air brakes, what warning device alerts the driver if air pressure drops dangerously low?"
+      },
+      "options": {
+        "en": {
+          "A": "A low air pressure warning buzzer or light on the dashboard.",
+          "B": "A flashing green indicator.",
+          "C": "The speedometer needle vibrating."
+        },
+        "af": {
+          "A": "[AF] A low air pressure warning buzzer or light on the dashboard.",
+          "B": "[AF] A flashing green indicator.",
+          "C": "[AF] The speedometer needle vibrating."
+        },
+        "xh": {
+          "A": "[XH] A low air pressure warning buzzer or light on the dashboard.",
+          "B": "[XH] A flashing green indicator.",
+          "C": "[XH] The speedometer needle vibrating."
+        },
+        "zu": {
+          "A": "[ZU] A low air pressure warning buzzer or light on the dashboard.",
+          "B": "[ZU] A flashing green indicator.",
+          "C": "[ZU] The speedometer needle vibrating."
+        },
+        "st": {
+          "A": "[ST] A low air pressure warning buzzer or light on the dashboard.",
+          "B": "[ST] A flashing green indicator.",
+          "C": "[ST] The speedometer needle vibrating."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.",
+        "af": "[AF] An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.",
+        "xh": "[XH] An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.",
+        "zu": "[ZU] An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.",
+        "st": "[ST] An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An audible buzzer or warning light on the instrument panel alerts the driver when brake air pressure drops below safe operational limits. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 317,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which foot pedal is absent in a heavy motor vehicle equipped with an automatic transmission?",
+        "af": "[AF] Which foot pedal is absent in a heavy motor vehicle equipped with an automatic transmission?",
+        "xh": "[XH] Which foot pedal is absent in a heavy motor vehicle equipped with an automatic transmission?",
+        "zu": "[ZU] Which foot pedal is absent in a heavy motor vehicle equipped with an automatic transmission?",
+        "st": "[ST] Which foot pedal is absent in a heavy motor vehicle equipped with an automatic transmission?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Footbrake pedal.",
+          "B": "B) Clutch pedal.",
+          "C": "C) Accelerator pedal."
+        },
+        "af": {
+          "A": "[AF] A) Footbrake pedal.",
+          "B": "[AF] B) Clutch pedal.",
+          "C": "[AF] C) Accelerator pedal."
+        },
+        "xh": {
+          "A": "[XH] A) Footbrake pedal.",
+          "B": "[XH] B) Clutch pedal.",
+          "C": "[XH] C) Accelerator pedal."
+        },
+        "zu": {
+          "A": "[ZU] A) Footbrake pedal.",
+          "B": "[ZU] B) Clutch pedal.",
+          "C": "[ZU] C) Accelerator pedal."
+        },
+        "st": {
+          "A": "[ST] A) Footbrake pedal.",
+          "B": "[ST] B) Clutch pedal.",
+          "C": "[ST] C) Accelerator pedal."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "Automatic heavy motor vehicles do not have a clutch pedal.",
+        "af": "[AF] Automatic heavy motor vehicles do not have a clutch pedal.",
+        "xh": "[XH] Automatic heavy motor vehicles do not have a clutch pedal.",
+        "zu": "[ZU] Automatic heavy motor vehicles do not have a clutch pedal.",
+        "st": "[ST] Automatic heavy motor vehicles do not have a clutch pedal."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Automatic heavy motor vehicles do not have a clutch pedal.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Automatic heavy motor vehicles do not have a clutch pedal.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Automatic heavy motor vehicles do not have a clutch pedal.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Automatic heavy motor vehicles do not have a clutch pedal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Automatic heavy motor vehicles do not have a clutch pedal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Automatic heavy motor vehicles do not have a clutch pedal. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Automatic heavy motor vehicles do not have a clutch pedal. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Automatic heavy motor vehicles do not have a clutch pedal. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Automatic heavy motor vehicles do not have a clutch pedal. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Automatic heavy motor vehicles do not have a clutch pedal. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Automatic heavy motor vehicles do not have a clutch pedal. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Automatic heavy motor vehicles do not have a clutch pedal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Automatic heavy motor vehicles do not have a clutch pedal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Automatic heavy motor vehicles do not have a clutch pedal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Automatic heavy motor vehicles do not have a clutch pedal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 319,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the required hand position on the steering wheel during road driving?",
+        "af": "[AF] What is the required hand position on the steering wheel during road driving?",
+        "xh": "[XH] What is the required hand position on the steering wheel during road driving?",
+        "zu": "[ZU] What is the required hand position on the steering wheel during road driving?",
+        "st": "[ST] What is the required hand position on the steering wheel during road driving?"
+      },
+      "options": {
+        "en": {
+          "A": "A) 10-to-2 or 9-to-3 push-pull steering.",
+          "B": "B) One hand at top.",
+          "C": "C) Both hands at bottom."
+        },
+        "af": {
+          "A": "[AF] A) 10-to-2 or 9-to-3 push-pull steering.",
+          "B": "[AF] B) One hand at top.",
+          "C": "[AF] C) Both hands at bottom."
+        },
+        "xh": {
+          "A": "[XH] A) 10-to-2 or 9-to-3 push-pull steering.",
+          "B": "[XH] B) One hand at top.",
+          "C": "[XH] C) Both hands at bottom."
+        },
+        "zu": {
+          "A": "[ZU] A) 10-to-2 or 9-to-3 push-pull steering.",
+          "B": "[ZU] B) One hand at top.",
+          "C": "[ZU] C) Both hands at bottom."
+        },
+        "st": {
+          "A": "[ST] A) 10-to-2 or 9-to-3 push-pull steering.",
+          "B": "[ST] B) One hand at top.",
+          "C": "[ST] C) Both hands at bottom."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Push-pull steering in 10-to-2 or 9-to-3 position.",
+        "af": "[AF] Push-pull steering in 10-to-2 or 9-to-3 position.",
+        "xh": "[XH] Push-pull steering in 10-to-2 or 9-to-3 position.",
+        "zu": "[ZU] Push-pull steering in 10-to-2 or 9-to-3 position.",
+        "st": "[ST] Push-pull steering in 10-to-2 or 9-to-3 position."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
+        "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
+        "xh": "Imilo neLanga: Isirkyuli eMbozi = UKUVALA, eLuhlaza = UMYALELO, iDriehoek eMbozi = ISILUMKISO.",
+        "zu": "Isimo Nombala: Indilinga Ebomvu = INQABO, Indilinga Esibhakabhaka = UMYALELO, Unxantathu = ISIXWAYISO.",
+        "st": "Setso le Mmala: Selikaliko se Sehibedu = TLELE, Selikaliko se Serohlano = TSHWANELO, Dithothokiso = DILEMO."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Push-pull steering in 10-to-2 or 9-to-3 position.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Push-pull steering in 10-to-2 or 9-to-3 position.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Push-pull steering in 10-to-2 or 9-to-3 position.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Push-pull steering in 10-to-2 or 9-to-3 position.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Push-pull steering in 10-to-2 or 9-to-3 position.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Push-pull steering in 10-to-2 or 9-to-3 position. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Push-pull steering in 10-to-2 or 9-to-3 position. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Push-pull steering in 10-to-2 or 9-to-3 position. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Push-pull steering in 10-to-2 or 9-to-3 position. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Push-pull steering in 10-to-2 or 9-to-3 position. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Push-pull steering in 10-to-2 or 9-to-3 position. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Push-pull steering in 10-to-2 or 9-to-3 position. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Push-pull steering in 10-to-2 or 9-to-3 position. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Push-pull steering in 10-to-2 or 9-to-3 position. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Push-pull steering in 10-to-2 or 9-to-3 position. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 320,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the purpose of an exhaust brake / engine retarder fitted to a heavy motor vehicle?",
+        "af": "[AF] What is the purpose of an exhaust brake / engine retarder fitted to a heavy motor vehicle?",
+        "xh": "[XH] What is the purpose of an exhaust brake / engine retarder fitted to a heavy motor vehicle?",
+        "zu": "[ZU] What is the purpose of an exhaust brake / engine retarder fitted to a heavy motor vehicle?",
+        "st": "[ST] What is the purpose of an exhaust brake / engine retarder fitted to a heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "To increase top engine speed on freeways.",
+          "B": "To assist the service brakes in slowing the vehicle on steep downgrades and prevent brake overheating.",
+          "C": "To operate the power steering pump."
+        },
+        "af": {
+          "A": "[AF] To increase top engine speed on freeways.",
+          "B": "[AF] To assist the service brakes in slowing the vehicle on steep downgrades and prevent brake overheating.",
+          "C": "[AF] To operate the power steering pump."
+        },
+        "xh": {
+          "A": "[XH] To increase top engine speed on freeways.",
+          "B": "[XH] To assist the service brakes in slowing the vehicle on steep downgrades and prevent brake overheating.",
+          "C": "[XH] To operate the power steering pump."
+        },
+        "zu": {
+          "A": "[ZU] To increase top engine speed on freeways.",
+          "B": "[ZU] To assist the service brakes in slowing the vehicle on steep downgrades and prevent brake overheating.",
+          "C": "[ZU] To operate the power steering pump."
+        },
+        "st": {
+          "A": "[ST] To increase top engine speed on freeways.",
+          "B": "[ST] To assist the service brakes in slowing the vehicle on steep downgrades and prevent brake overheating.",
+          "C": "[ST] To operate the power steering pump."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.",
+        "af": "[AF] An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.",
+        "xh": "[XH] An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.",
+        "zu": "[ZU] An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.",
+        "st": "[ST] An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An exhaust brake or retarder provides auxiliary engine braking to help maintain speed on downhill gradients without overheating the service brakes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 378,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the primary purpose of the parking brake lever (Control 7) in a heavy motor vehicle?",
+        "af": "[AF] What is the primary purpose of the parking brake lever (Control 7) in a heavy motor vehicle?",
+        "xh": "[XH] What is the primary purpose of the parking brake lever (Control 7) in a heavy motor vehicle?",
+        "zu": "[ZU] What is the primary purpose of the parking brake lever (Control 7) in a heavy motor vehicle?",
+        "st": "[ST] What is the primary purpose of the parking brake lever (Control 7) in a heavy motor vehicle?"
+      },
+      "options": {
+        "en": {
+          "A": "A. To slow down the vehicle when descending steep hills.",
+          "B": "B. To hold the vehicle stationary once it has been parked, or during an incline start.",
+          "C": "C. To assist the driver when changing gears."
+        },
+        "af": {
+          "A": "[AF] A. To slow down the vehicle when descending steep hills.",
+          "B": "[AF] B. To hold the vehicle stationary once it has been parked, or during an incline start.",
+          "C": "[AF] C. To assist the driver when changing gears."
+        },
+        "xh": {
+          "A": "[XH] A. To slow down the vehicle when descending steep hills.",
+          "B": "[XH] B. To hold the vehicle stationary once it has been parked, or during an incline start.",
+          "C": "[XH] C. To assist the driver when changing gears."
+        },
+        "zu": {
+          "A": "[ZU] A. To slow down the vehicle when descending steep hills.",
+          "B": "[ZU] B. To hold the vehicle stationary once it has been parked, or during an incline start.",
+          "C": "[ZU] C. To assist the driver when changing gears."
+        },
+        "st": {
+          "A": "[ST] A. To slow down the vehicle when descending steep hills.",
+          "B": "[ST] B. To hold the vehicle stationary once it has been parked, or during an incline start.",
+          "C": "[ST] C. To assist the driver when changing gears."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.",
+        "af": "[AF] The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.",
+        "xh": "[XH] The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.",
+        "zu": "[ZU] The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.",
+        "st": "[ST] The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The parking brake (handbrake) holds the parked vehicle stationary and prevents rollback. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 379,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which control should assist the driver to change gears?",
+        "af": "[AF] Which control should assist the driver to change gears?",
+        "xh": "[XH] Which control should assist the driver to change gears?",
+        "zu": "[ZU] Which control should assist the driver to change gears?",
+        "st": "[ST] Which control should assist the driver to change gears?"
+      },
+      "options": {
+        "en": {
+          "A": "a. 8 (Clutch Pedal)",
+          "B": "b. 9",
+          "C": "c. 10"
+        },
+        "af": {
+          "A": "[AF] a. 8 (Clutch Pedal)",
+          "B": "[AF] b. 9",
+          "C": "[AF] c. 10"
+        },
+        "xh": {
+          "A": "[XH] a. 8 (Clutch Pedal)",
+          "B": "[XH] b. 9",
+          "C": "[XH] c. 10"
+        },
+        "zu": {
+          "A": "[ZU] a. 8 (Clutch Pedal)",
+          "B": "[ZU] b. 9",
+          "C": "[ZU] c. 10"
+        },
+        "st": {
+          "A": "[ST] a. 8 (Clutch Pedal)",
+          "B": "[ST] b. 9",
+          "C": "[ST] c. 10"
+        }
+      },
+      "correct_answer": "a",
+      "explanation": {
+        "en": "Control 8 is the clutch pedal (disengages engine for gear changes).",
+        "af": "[AF] Control 8 is the clutch pedal (disengages engine for gear changes).",
+        "xh": "[XH] Control 8 is the clutch pedal (disengages engine for gear changes).",
+        "zu": "[ZU] Control 8 is the clutch pedal (disengages engine for gear changes).",
+        "st": "[ST] Control 8 is the clutch pedal (disengages engine for gear changes)."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Control 8 is the clutch pedal (disengages engine for gear changes).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 8 is the clutch pedal (disengages engine for gear changes).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 8 is the clutch pedal (disengages engine for gear changes).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 8 is the clutch pedal (disengages engine for gear changes).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 8 is the clutch pedal (disengages engine for gear changes).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Control 8 is the clutch pedal (disengages engine for gear changes). Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Control 8 is the clutch pedal (disengages engine for gear changes). Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Control 8 is the clutch pedal (disengages engine for gear changes). Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Control 8 is the clutch pedal (disengages engine for gear changes). Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 8 is the clutch pedal (disengages engine for gear changes). Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 8 is the clutch pedal (disengages engine for gear changes). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 8 is the clutch pedal (disengages engine for gear changes). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 8 is the clutch pedal (disengages engine for gear changes). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 8 is the clutch pedal (disengages engine for gear changes). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 8 is the clutch pedal (disengages engine for gear changes). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 380,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "What is the primary function of the engine/exhaust brake?",
+        "af": "[AF] What is the primary function of the engine/exhaust brake?",
+        "xh": "[XH] What is the primary function of the engine/exhaust brake?",
+        "zu": "[ZU] What is the primary function of the engine/exhaust brake?",
+        "st": "[ST] What is the primary function of the engine/exhaust brake?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Assist slowing on steep downgrades to prevent service brake fading.",
+          "B": "B) Emergency stop.",
+          "C": "C) Increase speed."
+        },
+        "af": {
+          "A": "[AF] A) Assist slowing on steep downgrades to prevent service brake fading.",
+          "B": "[AF] B) Emergency stop.",
+          "C": "[AF] C) Increase speed."
+        },
+        "xh": {
+          "A": "[XH] A) Assist slowing on steep downgrades to prevent service brake fading.",
+          "B": "[XH] B) Emergency stop.",
+          "C": "[XH] C) Increase speed."
+        },
+        "zu": {
+          "A": "[ZU] A) Assist slowing on steep downgrades to prevent service brake fading.",
+          "B": "[ZU] B) Emergency stop.",
+          "C": "[ZU] C) Increase speed."
+        },
+        "st": {
+          "A": "[ST] A) Assist slowing on steep downgrades to prevent service brake fading.",
+          "B": "[ST] B) Emergency stop.",
+          "C": "[ST] C) Increase speed."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "Exhaust brake retards downhill speed and saves service brakes.",
+        "af": "[AF] Exhaust brake retards downhill speed and saves service brakes.",
+        "xh": "[XH] Exhaust brake retards downhill speed and saves service brakes.",
+        "zu": "[ZU] Exhaust brake retards downhill speed and saves service brakes.",
+        "st": "[ST] Exhaust brake retards downhill speed and saves service brakes."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'Exhaust brake retards downhill speed and saves service brakes.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Exhaust brake retards downhill speed and saves service brakes.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Exhaust brake retards downhill speed and saves service brakes.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Exhaust brake retards downhill speed and saves service brakes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Exhaust brake retards downhill speed and saves service brakes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: Exhaust brake retards downhill speed and saves service brakes. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Exhaust brake retards downhill speed and saves service brakes. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Exhaust brake retards downhill speed and saves service brakes. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Exhaust brake retards downhill speed and saves service brakes. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Exhaust brake retards downhill speed and saves service brakes. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Exhaust brake retards downhill speed and saves service brakes. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Exhaust brake retards downhill speed and saves service brakes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Exhaust brake retards downhill speed and saves service brakes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Exhaust brake retards downhill speed and saves service brakes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Exhaust brake retards downhill speed and saves service brakes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 381,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which foot pedal in a manual transmission heavy vehicle is operated using the left foot only?",
+        "af": "[AF] Which foot pedal in a manual transmission heavy vehicle is operated using the left foot only?",
+        "xh": "[XH] Which foot pedal in a manual transmission heavy vehicle is operated using the left foot only?",
+        "zu": "[ZU] Which foot pedal in a manual transmission heavy vehicle is operated using the left foot only?",
+        "st": "[ST] Which foot pedal in a manual transmission heavy vehicle is operated using the left foot only?"
+      },
+      "options": {
+        "en": {
+          "A": "A. Clutch pedal (Control 8)",
+          "B": "B. Footbrake pedal (Control 9)",
+          "C": "C. Accelerator pedal (Control 10)"
+        },
+        "af": {
+          "A": "[AF] A. Clutch pedal (Control 8)",
+          "B": "[AF] B. Footbrake pedal (Control 9)",
+          "C": "[AF] C. Accelerator pedal (Control 10)"
+        },
+        "xh": {
+          "A": "[XH] A. Clutch pedal (Control 8)",
+          "B": "[XH] B. Footbrake pedal (Control 9)",
+          "C": "[XH] C. Accelerator pedal (Control 10)"
+        },
+        "zu": {
+          "A": "[ZU] A. Clutch pedal (Control 8)",
+          "B": "[ZU] B. Footbrake pedal (Control 9)",
+          "C": "[ZU] C. Accelerator pedal (Control 10)"
+        },
+        "st": {
+          "A": "[ST] A. Clutch pedal (Control 8)",
+          "B": "[ST] B. Footbrake pedal (Control 9)",
+          "C": "[ST] C. Accelerator pedal (Control 10)"
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "The clutch pedal (Control 8) must always be operated using the left foot only.",
+        "af": "[AF] The clutch pedal (Control 8) must always be operated using the left foot only.",
+        "xh": "[XH] The clutch pedal (Control 8) must always be operated using the left foot only.",
+        "zu": "[ZU] The clutch pedal (Control 8) must always be operated using the left foot only.",
+        "st": "[ST] The clutch pedal (Control 8) must always be operated using the left foot only."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The clutch pedal (Control 8) must always be operated using the left foot only.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The clutch pedal (Control 8) must always be operated using the left foot only.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The clutch pedal (Control 8) must always be operated using the left foot only.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The clutch pedal (Control 8) must always be operated using the left foot only.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The clutch pedal (Control 8) must always be operated using the left foot only.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The clutch pedal (Control 8) must always be operated using the left foot only. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The clutch pedal (Control 8) must always be operated using the left foot only. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The clutch pedal (Control 8) must always be operated using the left foot only. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The clutch pedal (Control 8) must always be operated using the left foot only. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The clutch pedal (Control 8) must always be operated using the left foot only. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The clutch pedal (Control 8) must always be operated using the left foot only. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The clutch pedal (Control 8) must always be operated using the left foot only. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The clutch pedal (Control 8) must always be operated using the left foot only. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The clutch pedal (Control 8) must always be operated using the left foot only. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The clutch pedal (Control 8) must always be operated using the left foot only. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 382,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "When driving a heavy vehicle with manual transmission, when should you depress the clutch pedal completely?",
+        "af": "[AF] When driving a heavy vehicle with manual transmission, when should you depress the clutch pedal completely?",
+        "xh": "[XH] When driving a heavy vehicle with manual transmission, when should you depress the clutch pedal completely?",
+        "zu": "[ZU] When driving a heavy vehicle with manual transmission, when should you depress the clutch pedal completely?",
+        "st": "[ST] When driving a heavy vehicle with manual transmission, when should you depress the clutch pedal completely?"
+      },
+      "options": {
+        "en": {
+          "A": "Whenever you apply the accelerator.",
+          "B": "When changing gears or stopping to prevent the engine from stalling.",
+          "C": "Continuously while coasting downhill."
+        },
+        "af": {
+          "A": "[AF] Whenever you apply the accelerator.",
+          "B": "[AF] When changing gears or stopping to prevent the engine from stalling.",
+          "C": "[AF] Continuously while coasting downhill."
+        },
+        "xh": {
+          "A": "[XH] Whenever you apply the accelerator.",
+          "B": "[XH] When changing gears or stopping to prevent the engine from stalling.",
+          "C": "[XH] Continuously while coasting downhill."
+        },
+        "zu": {
+          "A": "[ZU] Whenever you apply the accelerator.",
+          "B": "[ZU] When changing gears or stopping to prevent the engine from stalling.",
+          "C": "[ZU] Continuously while coasting downhill."
+        },
+        "st": {
+          "A": "[ST] Whenever you apply the accelerator.",
+          "B": "[ST] When changing gears or stopping to prevent the engine from stalling.",
+          "C": "[ST] Continuously while coasting downhill."
+        }
+      },
+      "correct_answer": "B",
+      "explanation": {
+        "en": "The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.",
+        "af": "[AF] The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.",
+        "xh": "[XH] The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.",
+        "zu": "[ZU] The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.",
+        "st": "[ST] The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The clutch pedal should be depressed completely when changing gear ratios or when coming to a complete stop. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    },
+    {
+      "id": 384,
+      "category": "Controls of the Vehicle",
+      "sub_category_id": "controls_primary_foot_hand",
+      "sub_category_name": "Primary Foot & Hand Driving Controls",
+      "applicable_vehicle_classes": [
+        "heavy_vehicle"
+      ],
+      "question": {
+        "en": "Which controls are used to maintain safe steering and directional control when driving a heavy motor vehicle under K53 standards?",
+        "af": "[AF] Which controls are used to maintain safe steering and directional control when driving a heavy motor vehicle under K53 standards?",
+        "xh": "[XH] Which controls are used to maintain safe steering and directional control when driving a heavy motor vehicle under K53 standards?",
+        "zu": "[ZU] Which controls are used to maintain safe steering and directional control when driving a heavy motor vehicle under K53 standards?",
+        "st": "[ST] Which controls are used to maintain safe steering and directional control when driving a heavy motor vehicle under K53 standards?"
+      },
+      "options": {
+        "en": {
+          "A": "A) Steering wheel held in ten-to-two or quarter-to-three position using the push-and-pull method.",
+          "B": "B) One hand on the gear lever at all times.",
+          "C": "C) Steering with palms resting on the center pad."
+        },
+        "af": {
+          "A": "[AF] A) Steering wheel held in ten-to-two or quarter-to-three position using the push-and-pull method.",
+          "B": "[AF] B) One hand on the gear lever at all times.",
+          "C": "[AF] C) Steering with palms resting on the center pad."
+        },
+        "xh": {
+          "A": "[XH] A) Steering wheel held in ten-to-two or quarter-to-three position using the push-and-pull method.",
+          "B": "[XH] B) One hand on the gear lever at all times.",
+          "C": "[XH] C) Steering with palms resting on the center pad."
+        },
+        "zu": {
+          "A": "[ZU] A) Steering wheel held in ten-to-two or quarter-to-three position using the push-and-pull method.",
+          "B": "[ZU] B) One hand on the gear lever at all times.",
+          "C": "[ZU] C) Steering with palms resting on the center pad."
+        },
+        "st": {
+          "A": "[ST] A) Steering wheel held in ten-to-two or quarter-to-three position using the push-and-pull method.",
+          "B": "[ST] B) One hand on the gear lever at all times.",
+          "C": "[ST] C) Steering with palms resting on the center pad."
+        }
+      },
+      "correct_answer": "A",
+      "explanation": {
+        "en": "K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.",
+        "af": "[AF] K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.",
+        "xh": "[XH] K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.",
+        "zu": "[ZU] K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.",
+        "st": "[ST] K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving."
+      },
+      "media": {
+        "graphic_type": "hmv_cockpit",
+        "image_file": "hmv_cockpit.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+      },
+      "memory_tricks": {
+        "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
+        "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
+        "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
+      },
+      "persona_responses": {
+        "witty_playful_coach": {
+          "en": "Whoa there, champion! 🏎️ Remember: 'K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+        },
+        "veteran_k53_examiner": {
+          "en": "Attention Candidate. Under the National Road Traffic Act: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Ho se mamele ho lebisa ho hloleheng hang-hang."
+        },
+        "socratic_memory_guide": {
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 Module 14 requires keeping both hands on the steering wheel in the 10-to-2 or 9-to-3 position using push-pull steering during road driving. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+        }
+      }
+    }
+  ]
+}
