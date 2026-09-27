@@ -1232,7 +1232,7 @@
         "st": "[ST] Double solid white center lines strictly prohibit crossing or straddling from both sides."
       },
       "media": {
-        "graphic_type": "double_solid_white",
+        "graphic_type": "double_solid_white_lines",
         "image_file": "assets/images/RM2.svg",
         "video_simulation_prompt": "3D Animation: Car approaching double solid lines and staying strictly within its lane."
       },
@@ -1568,8 +1568,8 @@
         "st": "[ST] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic."
       },
       "media": {
-        "graphic_type": "box_junction",
-        "image_file": "assets/images/RM10.svg",
+        "graphic_type": "yield_sign",
+        "image_file": "assets/images/R2.svg",
         "video_simulation_prompt": "3D Animation: Car stopping before yellow box junction grid until traffic moves ahead."
       },
       "memory_tricks": {
