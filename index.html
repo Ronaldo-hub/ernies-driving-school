@@ -8,11 +8,12 @@
     <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
 
-        <style id="k53-side-by-side-layout">
-      .question-card, .quiz-card-container {
-        max-width: 960px !important;
-        width: 100% !important;
+            <style id="k53-side-by-side-layout">
+      .quiz-card-container {
+        max-width: 900px !important;
+        padding: 16px 20px !important;
         box-sizing: border-box !important;
+        margin: 0 auto;
       }
 
       .question-content-wrapper {
@@ -20,47 +21,56 @@
         flex-direction: row !important;
         align-items: center !important;
         justify-content: space-between !important;
-        gap: 24px !important;
+        gap: 20px !important;
         width: 100% !important;
       }
 
       .question-left-col {
-        flex: 1 1 60% !important;
-        min-width: 0 !important; /* Fixes CSS flex-shrink issue */
+        flex: 1 1 65% !important;
+        min-width: 0 !important; /* Fixes CSS flex-shrink text wrapping issue */
         display: flex !important;
         flex-direction: column !important;
-        gap: 12px !important;
+        gap: 10px !important;
       }
 
       .question-right-col {
-        flex: 0 0 35% !important;
-        max-width: 260px !important;
+        flex: 0 0 30% !important;
+        max-width: 200px !important;
         display: flex !important;
         justify-content: center !important;
         align-items: center !important;
+        box-sizing: border-box !important;
       }
 
-      .question-right-col img, 
+      .question-right-col img,
       .question-right-col svg {
-        max-width: 100% !important;
-        max-height: 200px !important;
+        max-width: 160px !important;
+        max-height: 160px !important;
         width: auto !important;
         height: auto !important;
         object-fit: contain !important;
         margin: 0 auto !important;
       }
 
-      /* Standard mobile responsiveness fallback */
+      /* Compact buttons padding to save vertical viewport space */
+      #options-container button, .option-btn, .options-group button {
+        padding: 8px 14px !important;
+        margin-bottom: 4px !important;
+        font-size: 0.9rem !important;
+      }
+
+      /* Mobile stack vertical fallback */
       @media (max-width: 768px) {
         .question-content-wrapper {
           flex-direction: column !important;
+          gap: 16px !important;
         }
         .question-left-col, .question-right-col {
           flex: 1 1 100% !important;
           max-width: 100% !important;
         }
         .question-right-col img {
-          max-height: 150px !important;
+          max-height: 140px !important;
         }
       }
     </style>
