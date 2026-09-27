@@ -58,8 +58,7 @@
       },
       "media": {
         "image_file": "images/signs/RM202.svg",
-        "graphic_type": "yellow_line_no_parking",
-        "title": "RM202 No Parking Yellow Line"
+        "graphic_type": "yellow_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -410,8 +409,7 @@
       },
       "media": {
         "image_file": "images/signs/RM202.svg",
-        "graphic_type": "yellow_line_no_parking",
-        "title": "RM202 No Parking Yellow Line"
+        "graphic_type": "yellow_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",

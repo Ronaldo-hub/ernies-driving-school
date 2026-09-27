@@ -4199,8 +4199,7 @@
       },
       "media": {
         "image_file": "images/signs/RM202.svg",
-        "graphic_type": "yellow_line_no_parking",
-        "title": "RM202 No Parking Yellow Line"
+        "graphic_type": "yellow_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -5078,9 +5077,8 @@
         "st": "[ST] In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear."
       },
       "media": {
-        "graphic_type": "box_junction",
-        "image_file": "box_junction.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM10.svg",
+        "graphic_type": "box_junction"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -6134,8 +6132,7 @@
       },
       "media": {
         "image_file": "images/signs/RM2.svg",
-        "graphic_type": "double_solid_white_lines",
-        "title": "RM2 Double Solid White Center Lines"
+        "graphic_type": "double_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -6397,9 +6394,8 @@
         "st": "[ST] Prohibits stopping inside box junction."
       },
       "media": {
-        "graphic_type": "box_junction",
-        "image_file": "box_junction.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM10.svg",
+        "graphic_type": "box_junction"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -7012,8 +7008,7 @@
       },
       "media": {
         "image_file": "images/signs/RM202.svg",
-        "graphic_type": "yellow_line_no_parking",
-        "title": "RM202 No Parking Yellow Line"
+        "graphic_type": "yellow_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -12372,9 +12367,8 @@
         "st": "[ST] A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic."
       },
       "media": {
-        "graphic_type": "box_junction",
-        "image_file": "box_junction.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM10.svg",
+        "graphic_type": "box_junction"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -14219,8 +14213,7 @@
       },
       "media": {
         "image_file": "images/signs/RM202.svg",
-        "graphic_type": "yellow_line_no_parking",
-        "title": "RM202 No Parking Yellow Line"
+        "graphic_type": "yellow_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -14483,8 +14476,7 @@
       },
       "media": {
         "image_file": "images/signs/RM2.svg",
-        "graphic_type": "double_solid_white_lines",
-        "title": "RM2 Double Solid White Center Lines"
+        "graphic_type": "double_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -31923,8 +31915,7 @@
       },
       "media": {
         "image_file": "images/signs/RM2.svg",
-        "graphic_type": "double_solid_white_lines",
-        "title": "RM2 Double Solid White Center Lines"
+        "graphic_type": "double_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",

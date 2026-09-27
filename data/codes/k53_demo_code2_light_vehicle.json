@@ -645,8 +645,7 @@
       },
       "media": {
         "image_file": "images/signs/RM202.svg",
-        "graphic_type": "yellow_line_no_parking",
-        "title": "RM202 No Parking Yellow Line"
+        "graphic_type": "yellow_line"
       },
       "memory_tricks": {
         "en": "Yellow Curb = NO PARKING! Red Curb = NO STOPPING!",
@@ -1233,8 +1232,7 @@
       },
       "media": {
         "image_file": "images/signs/RM2.svg",
-        "graphic_type": "double_solid_white_lines",
-        "title": "RM2 Double Solid White Center Lines"
+        "graphic_type": "double_line"
       },
       "memory_tricks": {
         "en": "Double Solid = DOUBLE WALL! Do NOT cross!",
@@ -1568,9 +1566,8 @@
         "st": "[ST] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic."
       },
       "media": {
-        "graphic_type": "caution_general",
         "image_file": "images/signs/RM10.svg",
-        "video_simulation_prompt": "3D Animation: Car stopping before yellow box junction grid until traffic moves ahead."
+        "graphic_type": "box_junction"
       },
       "memory_tricks": {
         "en": "Yellow Box: Don't enter unless your exit is CLEAR!",

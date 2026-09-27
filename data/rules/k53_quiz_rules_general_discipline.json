@@ -5661,8 +5661,7 @@
       },
       "media": {
         "image_file": "images/signs/RM2.svg",
-        "graphic_type": "double_solid_white_lines",
-        "title": "RM2 Double Solid White Center Lines"
+        "graphic_type": "double_line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",

@@ -8,70 +8,30 @@
     <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
 
-            <style id="k53-side-by-side-layout">
+            
+    
+
+    <style id="k53-top-image-layout">
       .quiz-card-container {
-        max-width: 900px !important;
-        padding: 16px 20px !important;
-        box-sizing: border-box !important;
+        max-width: 720px !important;
         margin: 0 auto;
       }
-
-      .question-content-wrapper {
-        display: flex !important;
-        flex-direction: row !important;
-        align-items: center !important;
-        justify-content: space-between !important;
-        gap: 20px !important;
-        width: 100% !important;
-      }
-
-      .question-left-col {
-        flex: 1 1 65% !important;
-        min-width: 0 !important; /* Fixes CSS flex-shrink text wrapping issue */
-        display: flex !important;
-        flex-direction: column !important;
-        gap: 10px !important;
-      }
-
-      .question-right-col {
-        flex: 0 0 30% !important;
-        max-width: 200px !important;
+      .question-media-container {
         display: flex !important;
         justify-content: center !important;
         align-items: center !important;
-        box-sizing: border-box !important;
+        margin: 0 auto 16px auto !important;
+        width: 100% !important;
       }
-
-      .question-right-col img,
-      .question-right-col svg {
-        max-width: 160px !important;
-        max-height: 160px !important;
+      .question-media-container img,
+      .question-media-container svg {
+        max-width: 180px !important;
+        max-height: 180px !important;
         width: auto !important;
         height: auto !important;
         object-fit: contain !important;
+        display: block !important;
         margin: 0 auto !important;
-      }
-
-      /* Compact buttons padding to save vertical viewport space */
-      #options-container button, .option-btn, .options-group button {
-        padding: 8px 14px !important;
-        margin-bottom: 4px !important;
-        font-size: 0.9rem !important;
-      }
-
-      /* Mobile stack vertical fallback */
-      @media (max-width: 768px) {
-        .question-content-wrapper {
-          flex-direction: column !important;
-          gap: 16px !important;
-        }
-        .question-left-col, .question-right-col {
-          flex: 1 1 100% !important;
-          max-width: 100% !important;
-        }
-        .question-right-col img {
-          max-height: 140px !important;
-        }
       }
     </style>
     
