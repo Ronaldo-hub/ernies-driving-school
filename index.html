@@ -8,63 +8,59 @@
     <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
 
-    <style id="k53-side-by-side-layout">
-      /* Card Container Constraints */
-      .quiz-card-container {
-        max-width: 900px !important;
-        margin: 0 auto;
-        box-sizing: border-box;
+        <style id="k53-side-by-side-layout">
+      .question-card, .quiz-card-container {
+        max-width: 960px !important;
+        width: 100% !important;
+        box-sizing: border-box !important;
       }
 
-      /* Grid / Flex Layout for Question Body */
-      .question-body-wrapper {
-        display: flex;
-        flex-direction: row;
-        align-items: center;
-        justify-content: space-between;
-        gap: 24px;
-        width: 100%;
-        box-sizing: border-box;
+      .question-content-wrapper {
+        display: flex !important;
+        flex-direction: row !important;
+        align-items: center !important;
+        justify-content: space-between !important;
+        gap: 24px !important;
+        width: 100% !important;
       }
 
-      /* Text and Options Column */
-      .question-text-col {
-        flex: 1 1 60%;
-        min-width: 0; /* Prevents flex item text expansion */
+      .question-left-col {
+        flex: 1 1 60% !important;
+        min-width: 0 !important; /* Fixes CSS flex-shrink issue */
+        display: flex !important;
+        flex-direction: column !important;
+        gap: 12px !important;
       }
 
-      /* Image Column on the Right */
-      .question-media-col {
-        flex: 0 0 35%;
-        max-width: 300px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        box-sizing: border-box;
+      .question-right-col {
+        flex: 0 0 35% !important;
+        max-width: 260px !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
       }
 
-      .question-media-col img, 
-      .question-media-col svg {
+      .question-right-col img, 
+      .question-right-col svg {
         max-width: 100% !important;
-        max-height: 220px !important;
+        max-height: 200px !important;
+        width: auto !important;
         height: auto !important;
         object-fit: contain !important;
-        border-radius: 8px;
+        margin: 0 auto !important;
       }
 
-      /* Mobile and Tablet Responsive Breakpoint */
+      /* Standard mobile responsiveness fallback */
       @media (max-width: 768px) {
-        .question-body-wrapper {
+        .question-content-wrapper {
           flex-direction: column !important;
-          gap: 16px;
         }
-        .question-text-col, .question-media-col {
+        .question-left-col, .question-right-col {
           flex: 1 1 100% !important;
           max-width: 100% !important;
         }
-        .question-media-col img, 
-        .question-media-col svg {
-          max-height: 180px !important;
+        .question-right-col img {
+          max-height: 150px !important;
         }
       }
     </style>
@@ -403,14 +399,20 @@
             document.getElementById('question-tracker').innerText = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
             document.getElementById('persona-badge').innerText = `${personaName}`;
 
-            // Handle optional SVG Road Sign image rendering
+                        // Handle optional SVG Road Sign image rendering
             const imgContainer = document.getElementById('question-image-container');
             const imgElement = document.getElementById('question-image');
+            const leftCol = document.querySelector('.question-left-col');
 
-            if (q.media && q.media.image_file) { imgElement.src = q.media.image_file;
-                imgContainer.classList.remove('hidden');
+            // Check if media object and image_file property exist
+            if (q.media && q.media.image_file) {
+                imgElement.src = `${q.media.image_file}?v=${Date.now()}`; // Apply cache-busting
+                imgElement.alt = q.media.alt_text || 'K53 Road Sign Graphic'; // Set alt text
+                imgContainer.classList.remove('hidden'); // Show container
+                if (leftCol) leftCol.style.flex = '1 1 60%';
             } else {
-                imgContainer.classList.add('hidden');
+                imgContainer.classList.add('hidden'); // Hide container
+                if (leftCol) leftCol.style.flex = '1 1 100%';
             }
 
             // Render English text explicitly
