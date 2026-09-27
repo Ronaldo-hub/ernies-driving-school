@@ -644,9 +644,9 @@
         "st": "[ST] A solid yellow line on the curb edge indicates NO PARKING permitted."
       },
       "media": {
-        "graphic_type": "yellow_line_no_parking",
         "image_file": "images/signs/RM202.svg",
-        "video_simulation_prompt": "3D Animation: Car driving past a yellow curb line without stopping to park."
+        "graphic_type": "yellow_line_no_parking",
+        "title": "RM202 No Parking Yellow Line"
       },
       "memory_tricks": {
         "en": "Yellow Curb = NO PARKING! Red Curb = NO STOPPING!",
@@ -1232,9 +1232,9 @@
         "st": "[ST] Double solid white center lines strictly prohibit crossing or straddling from both sides."
       },
       "media": {
-        "graphic_type": "double_solid_white_lines",
         "image_file": "images/signs/RM2.svg",
-        "video_simulation_prompt": "3D Animation: Car approaching double solid lines and staying strictly within its lane."
+        "graphic_type": "double_solid_white_lines",
+        "title": "RM2 Double Solid White Center Lines"
       },
       "memory_tricks": {
         "en": "Double Solid = DOUBLE WALL! Do NOT cross!",

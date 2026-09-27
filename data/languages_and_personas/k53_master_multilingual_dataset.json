@@ -4202,9 +4202,9 @@
         "st": "[ST] A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping."
       },
       "media": {
-        "graphic_type": "no_parking_yellow_line",
-        "image_file": "no_parking_yellow_line.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM202.svg",
+        "graphic_type": "yellow_line_no_parking",
+        "title": "RM202 No Parking Yellow Line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -6137,9 +6137,9 @@
         "st": "[ST] A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time."
       },
       "media": {
-        "graphic_type": "double_solid_lines",
-        "image_file": "double_solid_lines.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM2.svg",
+        "graphic_type": "double_solid_white_lines",
+        "title": "RM2 Double Solid White Center Lines"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -7015,9 +7015,9 @@
         "st": "[ST] Solid yellow line indicates No Parking."
       },
       "media": {
-        "graphic_type": "no_parking_yellow_line",
-        "image_file": "no_parking_yellow_line.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM202.svg",
+        "graphic_type": "yellow_line_no_parking",
+        "title": "RM202 No Parking Yellow Line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -14222,9 +14222,9 @@
         "st": "[ST] Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction."
       },
       "media": {
-        "graphic_type": "double_solid_lines",
-        "image_file": "double_solid_lines.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM202.svg",
+        "graphic_type": "yellow_line_no_parking",
+        "title": "RM202 No Parking Yellow Line"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -14486,9 +14486,9 @@
         "st": "[ST] Double solid white lines strictly prohibit crossing or straddling from either side."
       },
       "media": {
-        "graphic_type": "double_solid_white",
-        "image_file": "double_solid_white.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid White' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
+        "image_file": "images/signs/RM2.svg",
+        "graphic_type": "double_solid_white_lines",
+        "title": "RM2 Double Solid White Center Lines"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
@@ -31934,9 +31934,9 @@
         "st": "[ST] A solid white channelizing or no-overtaking line may not be crossed or straddled, except to gain access to property or pass a stationary hazard."
       },
       "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the rule regarding crossing a solid white dividing l...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+        "image_file": "images/signs/RM2.svg",
+        "graphic_type": "double_solid_white_lines",
+        "title": "RM2 Double Solid White Center Lines"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",

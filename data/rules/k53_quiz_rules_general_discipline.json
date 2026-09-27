@@ -5668,9 +5668,9 @@
         "st": "[ST] A solid white channelizing or no-overtaking line may not be crossed or straddled, except to gain access to property or pass a stationary hazard."
       },
       "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the rule regarding crossing a solid white dividing l...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
+        "image_file": "images/signs/RM2.svg",
+        "graphic_type": "double_solid_white_lines",
+        "title": "RM2 Double Solid White Center Lines"
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
