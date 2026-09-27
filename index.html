@@ -8,25 +8,69 @@
     <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
 
-<style id="k53-strict-top-image">
-  /* Force top image container to remain compact and centered */
-  .question-card img, 
-  #quiz-container img, 
-  .media-container img,
-  .question-media img {
-    max-width: 140px !important;
-    max-height: 140px !important;
+
+
+
+<style id="k53-flex-layout-right">
+  /* Main Container Constraint */
+  .quiz-card-container, #quiz-container, .question-card {
+    max-width: 800px !important;
+    margin: 0 auto !important;
+    padding: 16px !important;
+  }
+
+  /* Two-column layout container */
+  .k53-row-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    align-items: flex-start !important;
+    gap: 20px !important;
+    width: 100% !important;
+  }
+
+  /* Left Column: Question + Options */
+  .k53-left-col {
+    flex: 1 1 65% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    min-width: 0 !important;
+  }
+
+  /* Right Column: Image */
+  .k53-right-col {
+    flex: 0 0 180px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: flex-start !important;
+  }
+
+  /* SVG & Image Size Boundary Constraints */
+  .k53-right-col img, 
+  .k53-right-col svg,
+  .question-media img,
+  #quiz-container img {
+    max-width: 180px !important;
+    max-height: 180px !important;
     width: auto !important;
     height: auto !important;
     object-fit: contain !important;
     display: block !important;
-    margin: 0 auto 12px auto !important;
   }
-  
-  /* Restrain overall container height to avoid page scrolling */
-  .quiz-card-container, #quiz-container {
-    max-width: 680px !important;
-    margin: 0 auto !important;
+
+  /* Mobile responsiveness (Stack on narrow screens) */
+  @media (max-width: 640px) {
+    .k53-row-wrapper {
+      flex-direction: column-reverse !important;
+      align-items: center !important;
+    }
+    .k53-left-col {
+      width: 100% !important;
+    }
+    .k53-right-col {
+      flex: 0 0 auto !important;
+      margin-bottom: 12px !important;
+    }
   }
 </style>
 
