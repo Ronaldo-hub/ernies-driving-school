@@ -531,5 +531,71 @@
 
         window.onload = loadSelectedDataset;
     </script>
+
+<!-- DOM Restructuring Script for Side-by-Side Layout -->
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const observer = new MutationObserver((mutations) => {
+      mutations.forEach((mutation) => {
+        if (mutation.addedNodes.length) {
+          const quizContainer = document.getElementById('quiz-container') || document.querySelector('.question-card');
+          if (!quizContainer) return;
+
+          // Find the image, question text, and options
+          const mediaElement = quizContainer.querySelector('img, svg, .question-media, .media-container');
+          const questionText = quizContainer.querySelector('h2, h3, p.question-text, .question-title');
+          const optionsList = quizContainer.querySelector('ul, .options-container, .options-group');
+
+          // If they exist and aren't already wrapped, restructure them
+          if (mediaElement && questionText && optionsList && !quizContainer.querySelector('.k53-flex-row')) {
+            
+            // Create the main row wrapper
+            const flexRow = document.createElement('div');
+            flexRow.className = 'k53-flex-row';
+            flexRow.style.cssText = 'display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; gap: 20px; width: 100%;';
+
+            // Create left column (Text + Options)
+            const leftCol = document.createElement('div');
+            leftCol.className = 'k53-left-col';
+            leftCol.style.cssText = 'flex: 1 1 65%; display: flex; flex-direction: column; min-width: 0;';
+
+            // Create right column (Image)
+            const rightCol = document.createElement('div');
+            rightCol.className = 'k53-right-col';
+            rightCol.style.cssText = 'flex: 0 0 160px; display: flex; justify-content: center; align-items: flex-start; margin-top: 8px;';
+
+            // Limit image size to prevent expanding
+            if (mediaElement.tagName === 'IMG' || mediaElement.tagName === 'SVG') {
+                mediaElement.style.cssText = 'max-width: 160px !important; max-height: 160px !important; width: 100%; height: auto; object-fit: contain;';
+            } else {
+                const innerImg = mediaElement.querySelector('img, svg');
+                if (innerImg) innerImg.style.cssText = 'max-width: 160px !important; max-height: 160px !important; width: 100%; height: auto; object-fit: contain;';
+            }
+
+            // Insert wrappers before the media element
+            mediaElement.parentNode.insertBefore(flexRow, mediaElement);
+            
+            // Move items into the left column
+            if (questionText.parentNode) leftCol.appendChild(questionText);
+            if (optionsList.parentNode) leftCol.appendChild(optionsList);
+            
+            // Move media into the right column
+            if (mediaElement.parentNode) rightCol.appendChild(mediaElement);
+
+            // Append columns to the flex row
+            flexRow.appendChild(leftCol);
+            flexRow.appendChild(rightCol);
+          }
+        }
+      });
+    });
+
+    const targetNode = document.getElementById('quiz-container') || document.querySelector('.quiz-card-container') || document.body;
+    if(targetNode) {
+        observer.observe(targetNode, { childList: true, subtree: true });
+    }
+  });
+</script>
+
 </body>
 </html>
