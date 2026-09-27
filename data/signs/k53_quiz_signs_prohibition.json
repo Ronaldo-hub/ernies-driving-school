@@ -58,7 +58,7 @@
       },
       "media": {
         "graphic_type": "no_parking_yellow_line",
-        "image_file": "no_parking_yellow_line.png",
+        "image_file": "images/signs/RM202.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -410,7 +410,7 @@
       },
       "media": {
         "graphic_type": "no_parking_yellow_line",
-        "image_file": "no_parking_yellow_line.png",
+        "image_file": "images/signs/RM202.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
