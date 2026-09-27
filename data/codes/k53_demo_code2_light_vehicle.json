@@ -141,7 +141,7 @@
       },
       "media": {
         "graphic_type": "speed_120",
-        "image_file": "assets/images/R201-120.svg",
+        "image_file": "images/signs/R201-120.svg",
         "video_simulation_prompt": "3D Animation: Light motor vehicle cruising on a freeway passing a 120 km/h speed limit sign."
       },
       "memory_tricks": {
@@ -393,7 +393,7 @@
       },
       "media": {
         "graphic_type": "no_entry",
-        "image_file": "assets/images/R3.svg",
+        "image_file": "images/signs/R3.svg",
         "video_simulation_prompt": "3D Animation: Car approaching a NO ENTRY red disc sign and turning away."
       },
       "memory_tricks": {
@@ -645,7 +645,7 @@
       },
       "media": {
         "graphic_type": "yellow_line_no_parking",
-        "image_file": "assets/images/RM202.svg",
+        "image_file": "images/signs/RM202.svg",
         "video_simulation_prompt": "3D Animation: Car driving past a yellow curb line without stopping to park."
       },
       "memory_tricks": {
@@ -1233,7 +1233,7 @@
       },
       "media": {
         "graphic_type": "double_solid_white_lines",
-        "image_file": "assets/images/RM2.svg",
+        "image_file": "images/signs/RM2.svg",
         "video_simulation_prompt": "3D Animation: Car approaching double solid lines and staying strictly within its lane."
       },
       "memory_tricks": {
@@ -1568,8 +1568,8 @@
         "st": "[ST] Drivers must not enter a yellow box junction unless their exit lane is clear of traffic."
       },
       "media": {
-        "graphic_type": "yield_sign",
-        "image_file": "assets/images/R2.svg",
+        "graphic_type": "caution_general",
+        "image_file": "images/signs/RM10.svg",
         "video_simulation_prompt": "3D Animation: Car stopping before yellow box junction grid until traffic moves ahead."
       },
       "memory_tricks": {
