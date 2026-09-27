@@ -915,11 +915,7 @@
         "zu": "[ZU] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.",
         "st": "[ST] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin."
       },
-      "media": {
-        "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
         "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",

@@ -1533,11 +1533,7 @@
         "zu": "[ZU] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.",
         "st": "[ST] Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin."
       },
-      "media": {
-        "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
-        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
         "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
@@ -21857,11 +21853,7 @@
         "zu": "[ZU] Legal tyre tread depth must be at least 1 mm.",
         "st": "[ST] Legal tyre tread depth must be at least 1 mm."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the minimum tyre tread depth required across the tyr...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Shape & Colour Rule: Red Circles = PROHIBITION (NO!), Blue Circles = COMMAND (MUST!), Red Triangles = WARNING (WATCH OUT!).",
         "af": "Vorm & Kleur: Rooi Sirkels = VERBOD (NEE!), Blou Sirkels = OPDRAG (MOET!), Rooi Driehoeke = WAARSKUWING.",
@@ -22208,11 +22200,7 @@
         "zu": "[ZU] South African National Road Traffic Regulations specify a minimum tread depth of 1 mm across the main tread grooves of the tyre.",
         "st": "[ST] South African National Road Traffic Regulations specify a minimum tread depth of 1 mm across the main tread grooves of the tyre."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the minimum legal tyre tread depth across the entire...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
         "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",

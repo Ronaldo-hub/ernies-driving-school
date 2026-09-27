@@ -1651,11 +1651,7 @@
         "zu": "[ZU] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.",
         "st": "[ST] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": "null",
-        "video_simulation_prompt": "3D Animation: Depth gauge measuring 1.0mm tire tread groove depth."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Tire Tread: Minimum 1.0 mm depth across tread!",
         "af": "[AF] Tire Tread: Minimum 1.0 mm depth across tread!",
