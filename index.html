@@ -7,6 +7,68 @@
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
+
+    <style id="k53-side-by-side-layout">
+      /* Card Container Constraints */
+      .quiz-card-container {
+        max-width: 900px !important;
+        margin: 0 auto;
+        box-sizing: border-box;
+      }
+
+      /* Grid / Flex Layout for Question Body */
+      .question-body-wrapper {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+        justify-content: space-between;
+        gap: 24px;
+        width: 100%;
+        box-sizing: border-box;
+      }
+
+      /* Text and Options Column */
+      .question-text-col {
+        flex: 1 1 60%;
+        min-width: 0; /* Prevents flex item text expansion */
+      }
+
+      /* Image Column on the Right */
+      .question-media-col {
+        flex: 0 0 35%;
+        max-width: 300px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        box-sizing: border-box;
+      }
+
+      .question-media-col img, 
+      .question-media-col svg {
+        max-width: 100% !important;
+        max-height: 220px !important;
+        height: auto !important;
+        object-fit: contain !important;
+        border-radius: 8px;
+      }
+
+      /* Mobile and Tablet Responsive Breakpoint */
+      @media (max-width: 768px) {
+        .question-body-wrapper {
+          flex-direction: column !important;
+          gap: 16px;
+        }
+        .question-text-col, .question-media-col {
+          flex: 1 1 100% !important;
+          max-width: 100% !important;
+        }
+        .question-media-col img, 
+        .question-media-col svg {
+          max-height: 180px !important;
+        }
+      }
+    </style>
+    
 </head>
 <body class="bg-zinc-950 text-white min-h-screen flex flex-col justify-between font-sans selection:bg-red-600 selection:text-white">
 
