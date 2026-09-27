@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="200" height="300">
+  <!-- Asphalt Road Base -->
+  <rect width="200" height="300" fill="#1e1e1e" />
+
+  <!-- Left Road Edge Line (Single Solid White) -->
+  <line x1="15" y1="0" x2="15" y2="300" stroke="#FFFFFF" stroke-width="4" />
+
+  <!-- Right Road Edge Line (Single Solid White) -->
+  <line x1="185" y1="0" x2="185" y2="300" stroke="#FFFFFF" stroke-width="4" />
+
+  <!-- RM2 Double Solid White Center Lines (No Crossing Line) -->
+  <line x1="93" y1="0" x2="93" y2="300" stroke="#FFFFFF" stroke-width="6" />
+  <line x1="107" y1="0" x2="107" y2="300" stroke="#FFFFFF" stroke-width="6" />
+
+  <!-- Directional Lane Arrows (Showing 2-way traffic) -->
+  <!-- Left Lane: Upward Arrow -->
+  <path d="M 52,140 L 52,170 M 45,148 L 52,140 L 59,148" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.4" />
+  
+  <!-- Right Lane: Downward Arrow -->
+  <path d="M 148,160 L 148,130 M 141,152 L 148,160 L 155,152" stroke="#FFFFFF" stroke-width="3" fill="none" opacity="0.4" />
+
+  <!-- Marking Label Overlay -->
+  <rect x="35" y="240" width="130" height="45" rx="6" fill="#000000" fill-opacity="0.8" />
+  <text x="100" y="258" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="12" font-weight="bold" text-anchor="middle">RM2</text>
+  <text x="100" y="274" fill="#E53E3E" font-family="Arial, sans-serif" font-size="10" font-weight="bold" text-anchor="middle">NO CROSSING LINE</text>
+</svg>
