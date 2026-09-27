@@ -8,33 +8,20 @@
     <meta name="theme-color" content="#0b0b0b">
     <script src="https://cdn.tailwindcss.com"></script>
 
-            
-    
+<style id="k53-top-image-fix">
+  .quiz-card-container img, 
+  #quiz-container img,
+  .question-media img {
+    max-width: 160px !important;
+    max-height: 160px !important;
+    width: auto !important;
+    height: auto !important;
+    object-fit: contain !important;
+    display: block !important;
+    margin: 0 auto 15px auto !important;
+  }
+</style>
 
-    <style id="k53-top-image-layout">
-      .quiz-card-container {
-        max-width: 720px !important;
-        margin: 0 auto;
-      }
-      .question-media-container {
-        display: flex !important;
-        justify-content: center !important;
-        align-items: center !important;
-        margin: 0 auto 16px auto !important;
-        width: 100% !important;
-      }
-      .question-media-container img,
-      .question-media-container svg {
-        max-width: 180px !important;
-        max-height: 180px !important;
-        width: auto !important;
-        height: auto !important;
-        object-fit: contain !important;
-        display: block !important;
-        margin: 0 auto !important;
-      }
-    </style>
-    
 </head>
 <body class="bg-zinc-950 text-white min-h-screen flex flex-col justify-between font-sans selection:bg-red-600 selection:text-white">
 
@@ -166,19 +153,16 @@
                     <span id="persona-badge" class="bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-full border border-zinc-700"></span>
                 </div>
 
-                <!-- 2-Column Responsive Structural Container -->
-                <div class="question-content-wrapper mb-6">
-                    <!-- Left Column: Text & Choices -->
-                    <div class="question-text-col">
-                        <h3 id="question-text" class="text-base sm:text-lg font-bold text-white leading-relaxed"></h3>
-                        <div id="options-container" class="space-y-3"></div>
-                    </div>
-                    
-                    <!-- Right Column: Sign Image -->
-                    <div id="question-image-container" class="question-media-col hidden">
-                        <img id="question-image" src="" alt="K53 Road Sign">
-                    </div>
+                <!-- Optional SVG Road Sign Image Container -->
+                <div id="question-image-container" class="hidden mb-6 flex justify-center">
+                    <img id="question-image" src="" alt="K53 Road Sign" class="max-h-48 w-auto object-contain bg-zinc-950 p-3 border border-zinc-800 rounded-xl shadow-lg">
                 </div>
+
+                <!-- Question Title -->
+                <h3 id="question-text" class="text-base sm:text-lg font-bold mb-6 text-white leading-relaxed"></h3>
+
+                <!-- Answer Choices -->
+                <div id="options-container" class="space-y-3 mb-6"></div>
 
                 <!-- Feedback & Memory Tricks Box -->
                 <div id="feedback-box" class="hidden p-4 rounded-xl mb-6 text-sm"></div>
@@ -369,34 +353,19 @@
             document.getElementById('question-tracker').innerText = `Question ${currentIndex + 1} of ${currentQuestions.length}`;
             document.getElementById('persona-badge').innerText = `${personaName}`;
 
-                        // Handle optional SVG Road Sign image rendering
+            // Handle optional SVG Road Sign image rendering
             const imgContainer = document.getElementById('question-image-container');
             const imgElement = document.getElementById('question-image');
-            const leftCol = document.querySelector('.question-left-col');
 
-            // Check if media object and image_file property exist
-            if (q.media && q.media.image_file) {
-                imgElement.src = `${q.media.image_file}?v=${Date.now()}`; // Apply cache-busting
-                imgElement.alt = q.media.alt_text || 'K53 Road Sign Graphic'; // Set alt text
-                imgContainer.classList.remove('hidden'); // Show container
-                if (leftCol) leftCol.style.flex = '1 1 60%';
+            if (q.media && q.media.image_file) { imgElement.src = q.media.image_file;
+                imgContainer.classList.remove('hidden');
             } else {
-                imgContainer.classList.add('hidden'); // Hide container
-                if (leftCol) leftCol.style.flex = '1 1 100%';
+                imgContainer.classList.add('hidden');
             }
 
             // Render English text explicitly
             const qText = (typeof q.question === 'object') ? (q.question['en'] || q.question) : q.question;
             document.getElementById('question-text').innerText = qText;
-
-            const textCol = document.querySelector('.question-text-col');
-            if (textCol) {
-                if (q.media && q.media.image_file) {
-                    textCol.style.flex = '1 1 62%';
-                } else {
-                    textCol.style.flex = '1 1 100%';
-                }
-            }
 
             const optionsContainer = document.getElementById('options-container');
             optionsContainer.innerHTML = '';
