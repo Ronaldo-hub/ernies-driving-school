@@ -322,7 +322,7 @@
       },
       "media": {
         "graphic_type": "double_solid_lines",
-        "image_file": "images/signs/RM2.svg",
+        "image_file": "double_solid_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1290,7 +1290,7 @@
       },
       "media": {
         "graphic_type": "double_solid_lines",
-        "image_file": "images/signs/RM202.svg",
+        "image_file": "double_solid_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1378,7 +1378,7 @@
       },
       "media": {
         "graphic_type": "double_solid_white",
-        "image_file": "images/signs/RM2.svg",
+        "image_file": "double_solid_white.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid White' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {

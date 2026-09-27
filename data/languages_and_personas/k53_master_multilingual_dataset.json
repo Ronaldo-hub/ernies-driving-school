@@ -4203,7 +4203,7 @@
       },
       "media": {
         "graphic_type": "no_parking_yellow_line",
-        "image_file": "images/signs/RM202.svg",
+        "image_file": "no_parking_yellow_line.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6138,7 +6138,7 @@
       },
       "media": {
         "graphic_type": "double_solid_lines",
-        "image_file": "images/signs/RM2.svg",
+        "image_file": "double_solid_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7016,7 +7016,7 @@
       },
       "media": {
         "graphic_type": "no_parking_yellow_line",
-        "image_file": "images/signs/RM202.svg",
+        "image_file": "no_parking_yellow_line.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14223,7 +14223,7 @@
       },
       "media": {
         "graphic_type": "double_solid_lines",
-        "image_file": "images/signs/RM202.svg",
+        "image_file": "double_solid_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14487,7 +14487,7 @@
       },
       "media": {
         "graphic_type": "double_solid_white",
-        "image_file": "images/signs/RM2.svg",
+        "image_file": "double_solid_white.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid White' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -31935,7 +31935,7 @@
       },
       "media": {
         "graphic_type": "none",
-        "image_file": "images/signs/RM2.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animated Scenario: Demonstrates rule concept 'What is the rule regarding crossing a solid white dividing l...'. Shows a vehicle on a dual-carriageway road. Overlay graphics highlight distance measurements (metres), speedometer gauges, and correct driver action under K53 guidelines."
       },
       "memory_tricks": {
