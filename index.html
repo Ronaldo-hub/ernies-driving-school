@@ -15,7 +15,7 @@
         <header class="border-b border-zinc-800 bg-black/90 sticky top-0 z-50 backdrop-blur-md">
             <div class="max-w-6xl mx-auto px-4 py-3 flex justify-between items-center gap-4">
                 <a href="#" class="flex items-center gap-3 group">
-                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="h-10 w-auto object-contain transition group-hover:scale-105" onerror="this.style.display='none'">
+                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="h-10 w-auto object-contain transition group-hover:scale-105" >
                     <div>
                         <h1 class="text-xl font-black tracking-wider text-red-600 leading-none">ERNIE'S DRIVING SCHOOL</h1>
                         <p class="text-[10px] text-zinc-400 italic mt-0.5">Dedicated to the end</p>
@@ -66,7 +66,7 @@
             <!-- Hero Image Banner Container -->
             <div class="md:col-span-5 flex justify-center">
                 <div class="w-full max-w-sm bg-zinc-900 border border-zinc-800 rounded-2xl overflow-hidden relative shadow-2xl group cursor-pointer" onclick="openModal('images/logo.png')">
-                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="w-full h-auto object-contain group-hover:scale-105 transition duration-300 p-4" onerror="this.src='https://via.placeholder.com/400x300?text=Ernie%27s+Driving+School'">
+                    <img src="images/logo.png" alt="Ernie's Driving School Logo" class="w-full h-auto object-contain group-hover:scale-105 transition duration-300 p-4" >
                     <div class="bg-zinc-950/90 border-t border-zinc-800 p-3 text-center">
                         <span class="text-[11px] text-red-500 font-bold uppercase tracking-wider">Officially Backed • K53 Approved</span>
                     </div>
@@ -83,22 +83,22 @@
 
             <div class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden h-52 cursor-pointer group" onclick="openModal('images/erniepic1.png')">
-                    <img src="images/erniepic1.png" alt="Code B Training" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" onerror="this.src='https://via.placeholder.com/300x200?text=Code+B+Training'">
+                    <img src="images/erniepic1.png" alt="Code B Training" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" >
                 </div>
                 <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden h-52 cursor-pointer group" onclick="openModal('images/erniepic2.png')">
-                    <img src="images/erniepic2.png" alt="Driving Lessons" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" onerror="this.src='https://via.placeholder.com/300x200?text=Driving+Lessons'">
+                    <img src="images/erniepic2.png" alt="Driving Lessons" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" >
                 </div>
                 <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden h-52 cursor-pointer group" onclick="openModal('images/erniepic3.png')">
-                    <img src="images/erniepic3.png" alt="Truck Fleet" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" onerror="this.src='https://via.placeholder.com/300x200?text=Truck+Fleet'">
+                    <img src="images/erniepic3.png" alt="Truck Fleet" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" >
                 </div>
                 <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden h-52 cursor-pointer group" onclick="openModal('images/erniepic4.png')">
-                    <img src="images/erniepic4.png" alt="Vehicle Yard" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" onerror="this.src='https://via.placeholder.com/300x200?text=Vehicle+Yard'">
+                    <img src="images/erniepic4.png" alt="Vehicle Yard" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" >
                 </div>
                 <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden h-52 cursor-pointer group" onclick="openModal('images/erniepic5.png')">
-                    <img src="images/erniepic5.png" alt="Learner Driver Success" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" onerror="this.src='https://via.placeholder.com/300x200?text=Learner+Success'">
+                    <img src="images/erniepic5.png" alt="Learner Driver Success" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" >
                 </div>
                 <div class="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden h-52 cursor-pointer group" onclick="openModal('images/erniepic6.png')">
-                    <img src="images/erniepic6.png" alt="Passed License" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" onerror="this.src='https://via.placeholder.com/300x200?text=Passed+License'">
+                    <img src="images/erniepic6.png" alt="Passed License" class="w-full h-full object-cover group-hover:scale-105 transition duration-300" >
                 </div>
             </div>
         </section>
@@ -342,8 +342,7 @@
             const imgContainer = document.getElementById('question-image-container');
             const imgElement = document.getElementById('question-image');
 
-            if (q.image) {
-                imgElement.src = q.image;
+            if (q.media && q.media.image_file) { imgElement.src = q.media.image_file;
                 imgContainer.classList.remove('hidden');
             } else {
                 imgContainer.classList.add('hidden');
