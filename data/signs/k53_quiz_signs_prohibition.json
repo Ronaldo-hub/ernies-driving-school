@@ -57,23 +57,24 @@
         "st": "[ST] A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping."
       },
       "media": {
-        "image_file": "assets/images/RM202.svg",
-        "alt_text": "Sign RM202 Road Marking"
+        "graphic_type": "no_parking_yellow_line",
+        "image_file": "no_parking_yellow_line.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Non-compliance results in immediate test failure.",
@@ -83,11 +84,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A solid or broken yellow edge line indicates a No Parking restriction, whereas a solid RED line indicates No Stopping. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -157,11 +158,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R202 sets a mandatory height restriction limit of 4.3 metres.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Non-compliance results in immediate test failure.",
@@ -171,11 +172,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R202 sets a mandatory height restriction limit of 4.3 metres. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R202 sets a mandatory height restriction limit of 4.3 metres. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R202 sets a mandatory height restriction limit of 4.3 metres. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -238,18 +239,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Non-compliance results in immediate test failure.",
@@ -259,11 +260,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A prohibition sign showing two trucks side-by-side with a red slash prohibits goods vehicles from overtaking. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -333,11 +334,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R210 strictly prohibits drivers from making a U-turn.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R210 strictly prohibits drivers from making a U-turn.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R210 strictly prohibits drivers from making a U-turn.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R210 strictly prohibits drivers from making a U-turn.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R210 strictly prohibits drivers from making a U-turn.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R210 strictly prohibits drivers from making a U-turn.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R210 strictly prohibits drivers from making a U-turn.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R210 strictly prohibits drivers from making a U-turn.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R210 strictly prohibits drivers from making a U-turn.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R210 strictly prohibits drivers from making a U-turn.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R210 strictly prohibits drivers from making a U-turn. Non-compliance results in immediate test failure.",
@@ -347,11 +348,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R210 strictly prohibits drivers from making a U-turn. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R210 strictly prohibits drivers from making a U-turn. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R210 strictly prohibits drivers from making a U-turn. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R210 strictly prohibits drivers from making a U-turn. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R210 strictly prohibits drivers from making a U-turn. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R210 strictly prohibits drivers from making a U-turn. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R210 strictly prohibits drivers from making a U-turn. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R210 strictly prohibits drivers from making a U-turn. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R210 strictly prohibits drivers from making a U-turn. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R210 strictly prohibits drivers from making a U-turn. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R210 strictly prohibits drivers from making a U-turn. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -414,18 +415,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Solid yellow line indicates No Parking.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Solid yellow line indicates No Parking.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Solid yellow line indicates No Parking.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Solid yellow line indicates No Parking.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Solid yellow line indicates No Parking.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Solid yellow line indicates No Parking.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Solid yellow line indicates No Parking.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Solid yellow line indicates No Parking.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Solid yellow line indicates No Parking.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Solid yellow line indicates No Parking.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Solid yellow line indicates No Parking. Non-compliance results in immediate test failure.",
@@ -435,11 +436,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Solid yellow line indicates No Parking. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Solid yellow line indicates No Parking. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Solid yellow line indicates No Parking. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Solid yellow line indicates No Parking. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Solid yellow line indicates No Parking. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Solid yellow line indicates No Parking. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Solid yellow line indicates No Parking. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Solid yellow line indicates No Parking. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Solid yellow line indicates No Parking. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Solid yellow line indicates No Parking. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Solid yellow line indicates No Parking. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -509,11 +510,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Non-compliance results in immediate test failure.",
@@ -523,11 +524,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Red-bordered disc signs with numbers specify mandatory maximum speed limits (R201). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -597,11 +598,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Non-compliance results in immediate test failure.",
@@ -611,11 +612,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This sign prohibits vehicles with gross mass exceeding 10 tonnes from proceeding past the sign. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -685,11 +686,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'R217 prohibits stopping for any reason.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'R217 prohibits stopping for any reason.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'R217 prohibits stopping for any reason.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'R217 prohibits stopping for any reason.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'R217 prohibits stopping for any reason.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'R217 prohibits stopping for any reason.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'R217 prohibits stopping for any reason.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'R217 prohibits stopping for any reason.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'R217 prohibits stopping for any reason.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'R217 prohibits stopping for any reason.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: R217 prohibits stopping for any reason. Non-compliance results in immediate test failure.",
@@ -699,11 +700,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: R217 prohibits stopping for any reason. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: R217 prohibits stopping for any reason. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: R217 prohibits stopping for any reason. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: R217 prohibits stopping for any reason. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: R217 prohibits stopping for any reason. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R217 prohibits stopping for any reason. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: R217 prohibits stopping for any reason. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: R217 prohibits stopping for any reason. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: R217 prohibits stopping for any reason. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: R217 prohibits stopping for any reason. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R217 prohibits stopping for any reason. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -773,11 +774,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Non-compliance results in immediate test failure.",
@@ -787,11 +788,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red-bordered disc with a truck symbol and slash prohibits goods vehicles from using that roadway. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -861,11 +862,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R216 strictly prohibits the use of vehicle horns or loud noises.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Non-compliance results in immediate test failure.",
@@ -875,11 +876,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R216 strictly prohibits the use of vehicle horns or loud noises. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R216 strictly prohibits the use of vehicle horns or loud noises. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R216 strictly prohibits the use of vehicle horns or loud noises. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -942,18 +943,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Non-compliance results in immediate test failure.",
@@ -963,11 +964,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign A8 (No Entry) prohibits any vehicle from proceeding beyond the sign. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1037,11 +1038,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Non-compliance results in immediate test failure.",
@@ -1051,11 +1052,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A speed limit sign paired with a goods vehicle plate enforces a mandatory maximum speed of 80 km/h for trucks. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1125,11 +1126,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Solid red line indicates No Stopping.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Solid red line indicates No Stopping.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Solid red line indicates No Stopping.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Solid red line indicates No Stopping.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Solid red line indicates No Stopping.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Solid red line indicates No Stopping.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Solid red line indicates No Stopping.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Solid red line indicates No Stopping.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Solid red line indicates No Stopping.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Solid red line indicates No Stopping.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Solid red line indicates No Stopping. Non-compliance results in immediate test failure.",
@@ -1139,11 +1140,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Solid red line indicates No Stopping. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Solid red line indicates No Stopping. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Solid red line indicates No Stopping. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Solid red line indicates No Stopping. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Solid red line indicates No Stopping. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Solid red line indicates No Stopping. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Solid red line indicates No Stopping. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Solid red line indicates No Stopping. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Solid red line indicates No Stopping. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Solid red line indicates No Stopping. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Solid red line indicates No Stopping. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1213,11 +1214,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Non-compliance results in immediate test failure.",
@@ -1227,11 +1228,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This regulatory sign prohibits vehicles exceeding 4.3 metres in overall height from proceeding under an overhead structure. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1301,11 +1302,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A solid red line along the road edge means No Stopping at any time for any vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A solid red line along the road edge means No Stopping at any time for any vehicle. Non-compliance results in immediate test failure.",
@@ -1315,11 +1316,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A solid red line along the road edge means No Stopping at any time for any vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A solid red line along the road edge means No Stopping at any time for any vehicle. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A solid red line along the road edge means No Stopping at any time for any vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A solid red line along the road edge means No Stopping at any time for any vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A solid red line along the road edge means No Stopping at any time for any vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A solid red line along the road edge means No Stopping at any time for any vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A solid red line along the road edge means No Stopping at any time for any vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A solid red line along the road edge means No Stopping at any time for any vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A solid red line along the road edge means No Stopping at any time for any vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A solid red line along the road edge means No Stopping at any time for any vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A solid red line along the road edge means No Stopping at any time for any vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1389,11 +1390,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Non-compliance results in immediate test failure.",
@@ -1403,11 +1404,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red-bordered disc showing a truck silhouette (R213) prohibits goods vehicles from entering or using the road. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1477,11 +1478,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Non-compliance results in immediate test failure.",
@@ -1491,11 +1492,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R204 sets a mandatory Gross Vehicle Mass limit of 10 tonnes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1564,11 +1565,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Non-compliance results in immediate test failure.",
@@ -1578,11 +1579,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red circle with an 'S' and diagonal slash indicates 'No Stopping'. The vehicle plate restricts this stopping prohibition specifically to light motor vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1652,11 +1653,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This regulatory sign prohibits goods vehicles from overtaking other goods vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Non-compliance results in immediate test failure.",
@@ -1666,11 +1667,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This regulatory sign prohibits goods vehicles from overtaking other goods vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1740,11 +1741,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Non-compliance results in immediate test failure.",
@@ -1754,11 +1755,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red-bordered sign with a bicycle crossed out prohibits pedal cycles from entering. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1821,18 +1822,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A red circle with a horizontal white bar is a No Entry sign (R1).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A red circle with a horizontal white bar is a No Entry sign (R1).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A red circle with a horizontal white bar is a No Entry sign (R1).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A red circle with a horizontal white bar is a No Entry sign (R1). Non-compliance results in immediate test failure.",
@@ -1842,11 +1843,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A red circle with a horizontal white bar is a No Entry sign (R1). Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A red circle with a horizontal white bar is a No Entry sign (R1). What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A red circle with a horizontal white bar is a No Entry sign (R1). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A red circle with a horizontal white bar is a No Entry sign (R1). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A red circle with a horizontal white bar is a No Entry sign (R1). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red circle with a horizontal white bar is a No Entry sign (R1). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A red circle with a horizontal white bar is a No Entry sign (R1). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A red circle with a horizontal white bar is a No Entry sign (R1). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A red circle with a horizontal white bar is a No Entry sign (R1). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A red circle with a horizontal white bar is a No Entry sign (R1). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A red circle with a horizontal white bar is a No Entry sign (R1). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1916,11 +1917,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Non-compliance results in immediate test failure.",
@@ -1930,11 +1931,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This regulatory sign prohibits vehicles or combinations exceeding 15 metres in length from using the road. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2004,11 +2005,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Non-compliance results in immediate test failure.",
@@ -2018,11 +2019,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R205 prohibits vehicles or combinations exceeding 15 metres overall length. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2092,11 +2093,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red circle sets maximum speed limit.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red circle sets maximum speed limit.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red circle sets maximum speed limit.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red circle sets maximum speed limit.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red circle sets maximum speed limit.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Red circle sets maximum speed limit.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Red circle sets maximum speed limit.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Red circle sets maximum speed limit.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Red circle sets maximum speed limit.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Red circle sets maximum speed limit.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Red circle sets maximum speed limit. Non-compliance results in immediate test failure.",
@@ -2106,11 +2107,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red circle sets maximum speed limit. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Red circle sets maximum speed limit. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Red circle sets maximum speed limit. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Red circle sets maximum speed limit. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Red circle sets maximum speed limit. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Red circle sets maximum speed limit. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Red circle sets maximum speed limit. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Red circle sets maximum speed limit. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Red circle sets maximum speed limit. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Red circle sets maximum speed limit. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Red circle sets maximum speed limit. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2180,11 +2181,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R204-532 restricts maximum permissible axle load to 5 tonnes.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Non-compliance results in immediate test failure.",
@@ -2194,11 +2195,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R204-532 restricts maximum permissible axle load to 5 tonnes. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2267,11 +2268,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R209 strictly prohibits drivers from making a right turn at the intersection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Non-compliance results in immediate test failure.",
@@ -2281,11 +2282,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R209 strictly prohibits drivers from making a right turn at the intersection. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R209 strictly prohibits drivers from making a right turn at the intersection. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R209 strictly prohibits drivers from making a right turn at the intersection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2353,11 +2354,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Non-compliance results in immediate test failure.",
@@ -2367,11 +2368,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A prohibition sign depicting a truck pulling a trailer bars vehicle combinations from entering. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2441,11 +2442,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Red circular signs showing a number indicate the maximum legal speed limit in km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Non-compliance results in immediate test failure.",
@@ -2455,11 +2456,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Red circular signs showing a number indicate the maximum legal speed limit in km/h. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Red circular signs showing a number indicate the maximum legal speed limit in km/h. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Red circular signs showing a number indicate the maximum legal speed limit in km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2529,11 +2530,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Non-compliance results in immediate test failure.",
@@ -2543,11 +2544,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R3 (No Entry) strictly prohibits all vehicles from entering the roadway. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2616,11 +2617,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R212 prohibits all vehicles from overtaking other motor vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Non-compliance results in immediate test failure.",
@@ -2630,11 +2631,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R212 prohibits all vehicles from overtaking other motor vehicles. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R212 prohibits all vehicles from overtaking other motor vehicles. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R212 prohibits all vehicles from overtaking other motor vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     }

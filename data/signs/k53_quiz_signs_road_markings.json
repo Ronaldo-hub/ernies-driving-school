@@ -63,18 +63,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Non-compliance results in immediate test failure.",
@@ -84,11 +84,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A word surface marking 'BUS' (RM17) designates an exclusive lane reserved for bus traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -151,18 +151,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Non-compliance results in immediate test failure.",
@@ -172,11 +172,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: In a box junction, you may not stop on the painted yellow grid unless turning right and waiting for oncoming traffic to clear. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -233,23 +233,24 @@
         "st": "[ST] RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill."
       },
       "media": {
-        "image_file": "assets/images/RM2.svg",
-        "alt_text": "Sign RM2 Road Marking"
+        "graphic_type": "stop_line_rtm1",
+        "image_file": "stop_line_rtm1.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Line Rtm1' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Non-compliance results in immediate test failure.",
@@ -259,11 +260,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: RTM1 is the mandatory Stop line marking where vehicles must come to a complete standstill. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -326,18 +327,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Non-compliance results in immediate test failure.",
@@ -347,11 +348,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A double solid white line prohibits drivers on either side from straddling or crossing the lines at any time. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -414,18 +415,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Prohibits stopping inside box junction.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Prohibits stopping inside box junction.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Prohibits stopping inside box junction.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Prohibits stopping inside box junction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Prohibits stopping inside box junction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Prohibits stopping inside box junction.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Prohibits stopping inside box junction.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Prohibits stopping inside box junction.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Prohibits stopping inside box junction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Prohibits stopping inside box junction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Prohibits stopping inside box junction. Non-compliance results in immediate test failure.",
@@ -435,11 +436,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Prohibits stopping inside box junction. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Prohibits stopping inside box junction. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Prohibits stopping inside box junction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Prohibits stopping inside box junction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Prohibits stopping inside box junction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Prohibits stopping inside box junction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Prohibits stopping inside box junction. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Prohibits stopping inside box junction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Prohibits stopping inside box junction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Prohibits stopping inside box junction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Prohibits stopping inside box junction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -502,18 +503,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Non-compliance results in immediate test failure.",
@@ -523,11 +524,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Standard broken white lane lines (GM1) separate traffic lanes moving in the same direction and may be crossed safely. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -597,11 +598,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Indicates arrestor bed for runaway heavy vehicles.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Indicates arrestor bed for runaway heavy vehicles.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Indicates arrestor bed for runaway heavy vehicles.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Indicates arrestor bed for runaway heavy vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Indicates arrestor bed for runaway heavy vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Indicates arrestor bed for runaway heavy vehicles.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Indicates arrestor bed for runaway heavy vehicles.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Indicates arrestor bed for runaway heavy vehicles.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Indicates arrestor bed for runaway heavy vehicles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Indicates arrestor bed for runaway heavy vehicles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Indicates arrestor bed for runaway heavy vehicles. Non-compliance results in immediate test failure.",
@@ -611,11 +612,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Indicates arrestor bed for runaway heavy vehicles. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Indicates arrestor bed for runaway heavy vehicles. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Indicates arrestor bed for runaway heavy vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Indicates arrestor bed for runaway heavy vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Indicates arrestor bed for runaway heavy vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Indicates arrestor bed for runaway heavy vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Indicates arrestor bed for runaway heavy vehicles. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Indicates arrestor bed for runaway heavy vehicles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Indicates arrestor bed for runaway heavy vehicles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Indicates arrestor bed for runaway heavy vehicles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Indicates arrestor bed for runaway heavy vehicles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -678,18 +679,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Non-compliance results in immediate test failure.",
@@ -699,11 +700,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Zig-zag markings approach pedestrian crossings where stopping or overtaking is strictly forbidden. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -766,18 +767,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Non-compliance results in immediate test failure.",
@@ -787,11 +788,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A box junction marking prohibits entering the grid unless your exit lane is clear so you do not block cross traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -854,18 +855,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Non-compliance results in immediate test failure.",
@@ -875,11 +876,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An arrestor bed sign indicates an emergency gravel ramp designed to stop heavy vehicles safely if their brakes fail. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -942,18 +943,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Non-compliance results in immediate test failure.",
@@ -963,11 +964,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Driving on the right-hand side of a divided road (against traffic flow) is strictly prohibited. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1030,18 +1031,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Non-compliance results in immediate test failure.",
@@ -1051,11 +1052,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A furcation/lane reduction arrow (WM6) warns that a lane discontinues and traffic must merge right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1118,18 +1119,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Non-compliance results in immediate test failure.",
@@ -1139,11 +1140,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Painted traffic islands regulate channelized traffic flow. Vehicles are strictly prohibited from driving or stopping over painted islands. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1206,18 +1207,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'RTM2 is a Yield line marking where vehicles must yield right of way.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'RTM2 is a Yield line marking where vehicles must yield right of way.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'RTM2 is a Yield line marking where vehicles must yield right of way.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: RTM2 is a Yield line marking where vehicles must yield right of way. Non-compliance results in immediate test failure.",
@@ -1227,11 +1228,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: RTM2 is a Yield line marking where vehicles must yield right of way. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: RTM2 is a Yield line marking where vehicles must yield right of way. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: RTM2 is a Yield line marking where vehicles must yield right of way. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: RTM2 is a Yield line marking where vehicles must yield right of way. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: RTM2 is a Yield line marking where vehicles must yield right of way. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: RTM2 is a Yield line marking where vehicles must yield right of way. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: RTM2 is a Yield line marking where vehicles must yield right of way. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: RTM2 is a Yield line marking where vehicles must yield right of way. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: RTM2 is a Yield line marking where vehicles must yield right of way. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: RTM2 is a Yield line marking where vehicles must yield right of way. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: RTM2 is a Yield line marking where vehicles must yield right of way. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1288,23 +1289,24 @@
         "st": "[ST] Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction."
       },
       "media": {
-        "image_file": "assets/images/RM202.svg",
-        "alt_text": "Sign RM202 Road Marking"
+        "graphic_type": "double_solid_lines",
+        "image_file": "double_solid_lines.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Non-compliance results in immediate test failure.",
@@ -1314,11 +1316,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Double solid centre lines prohibit overtaking or driving to the right of the line from either traffic direction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1375,23 +1377,24 @@
         "st": "[ST] Double solid white lines strictly prohibit crossing or straddling from either side."
       },
       "media": {
-        "image_file": "assets/images/RM2.svg",
-        "alt_text": "Sign RM2 Road Marking"
+        "graphic_type": "double_solid_white",
+        "image_file": "double_solid_white.png",
+        "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid White' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Double solid white lines strictly prohibit crossing or straddling from either side.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Double solid white lines strictly prohibit crossing or straddling from either side.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Double solid white lines strictly prohibit crossing or straddling from either side.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Double solid white lines strictly prohibit crossing or straddling from either side. Non-compliance results in immediate test failure.",
@@ -1401,11 +1404,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Double solid white lines strictly prohibit crossing or straddling from either side. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Double solid white lines strictly prohibit crossing or straddling from either side. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Double solid white lines strictly prohibit crossing or straddling from either side. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Double solid white lines strictly prohibit crossing or straddling from either side. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Double solid white lines strictly prohibit crossing or straddling from either side. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Double solid white lines strictly prohibit crossing or straddling from either side. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Double solid white lines strictly prohibit crossing or straddling from either side. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Double solid white lines strictly prohibit crossing or straddling from either side. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Double solid white lines strictly prohibit crossing or straddling from either side. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Double solid white lines strictly prohibit crossing or straddling from either side. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Double solid white lines strictly prohibit crossing or straddling from either side. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1475,11 +1478,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Non-compliance results in immediate test failure.",
@@ -1489,11 +1492,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An arrestor bed marking (GSS-1 / WM9.1) indicates a deep gravel escape ramp designed to stop runaway heavy vehicles during brake failure. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1556,18 +1559,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Non-compliance results in immediate test failure.",
@@ -1577,11 +1580,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Yellow painted 'SOS' markings indicate an emergency bay where stopping is permitted only during emergencies. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1644,18 +1647,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Non-compliance results in immediate test failure.",
@@ -1665,11 +1668,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: An SOS surface marking (RM7) designates an emergency stopping area where stopping or parking is illegal except during genuine emergencies. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1732,18 +1735,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Driving or stopping on painted islands is illegal.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Driving or stopping on painted islands is illegal.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Driving or stopping on painted islands is illegal.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Driving or stopping on painted islands is illegal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Driving or stopping on painted islands is illegal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Driving or stopping on painted islands is illegal.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Driving or stopping on painted islands is illegal.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Driving or stopping on painted islands is illegal.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Driving or stopping on painted islands is illegal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Driving or stopping on painted islands is illegal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Driving or stopping on painted islands is illegal. Non-compliance results in immediate test failure.",
@@ -1753,11 +1756,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Driving or stopping on painted islands is illegal. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Driving or stopping on painted islands is illegal. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Driving or stopping on painted islands is illegal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Driving or stopping on painted islands is illegal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Driving or stopping on painted islands is illegal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Driving or stopping on painted islands is illegal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Driving or stopping on painted islands is illegal. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Driving or stopping on painted islands is illegal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Driving or stopping on painted islands is illegal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Driving or stopping on painted islands is illegal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Driving or stopping on painted islands is illegal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1820,18 +1823,18 @@
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Designates emergency stopping bay.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Designates emergency stopping bay.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Designates emergency stopping bay.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Designates emergency stopping bay.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Designates emergency stopping bay.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Designates emergency stopping bay.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Designates emergency stopping bay.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Designates emergency stopping bay.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Designates emergency stopping bay.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Designates emergency stopping bay.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Designates emergency stopping bay. Non-compliance results in immediate test failure.",
@@ -1841,11 +1844,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Designates emergency stopping bay. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Designates emergency stopping bay. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Designates emergency stopping bay. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Designates emergency stopping bay. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Designates emergency stopping bay. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Designates emergency stopping bay. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Designates emergency stopping bay. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Designates emergency stopping bay. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Designates emergency stopping bay. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Designates emergency stopping bay. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Designates emergency stopping bay. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     }

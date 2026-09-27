@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 450" width="100%" height="100%">
+  <rect x="0" y="0" width="40" height="450" fill="#7a8b8e" />
+  <rect x="40" y="0" width="8" height="450" fill="#cbd5e1" />
+  <rect x="48" y="0" width="252" height="450" fill="#1e1e24" />
+  <pattern id="asphalt-grain" width="10" height="10" patternUnits="userSpaceOnUse">
+    <circle cx="2" cy="2" r="1" fill="#ffffff" opacity="0.03"/>
+  </pattern>
+  <rect x="48" y="0" width="252" height="450" fill="url(#asphalt-grain)" />
+  <rect x="48" y="0" width="18" height="450" fill="#ffcc00" />
+  <line x1="180" y1="0" x2="180" y2="450" stroke="#4a4d52" stroke-width="4" stroke-dasharray="30,25" />
+</svg>
