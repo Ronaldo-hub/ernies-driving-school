@@ -69,21 +69,21 @@
         "video_simulation_prompt": "3D Animation: Heavy articulated truck cruising on highway with speedometer capped at 80 km/h."
       },
       "memory_tricks": {
-        "en": "Heavy and grand — eighty's the command!",
-        "af": "Swaar en groot — tagtig is die nood!",
-        "xh": "Esisindayo nkulu — u-80 km/h kuphela!",
-        "zu": "Isindayo nkulu — u-80 km/h kuphela!",
-        "st": "E boima e kgolo — 80 km/h feela!",
-        "tn": "E boima e kgolo — 80 km/h fela!"
+        "en": "Heavy and grand \u2014 eighty's the command!",
+        "af": "Swaar en groot \u2014 tagtig is die nood!",
+        "xh": "Esisindayo nkulu \u2014 u-80 km/h kuphela!",
+        "zu": "Isindayo nkulu \u2014 u-80 km/h kuphela!",
+        "st": "E boima e kgolo \u2014 80 km/h feela!",
+        "tn": "E boima e kgolo \u2014 80 km/h fela!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Swaar goederevoertuie met 'n BVM van meer as 9,000 kg word beperk tot 'n maksimum spoedbeperking van 80 km/h op alle openbare paaie.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Izithuthi ezisindayo zempahla eneGVM engaphezulu kwe-9,000 kg zithintelwe kwisantya esiphezulu se-80 km/h kuzo zonke iindlela zoluntu.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Izimoto ezisindayo zempahla ezine-GVM engaphezu kuka-9,000 kg zikhawulelwe esivinini esiphakeme se-80 km/h kuyo yonke imigwaqo yomphakathi.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Dikoloi tse boima tsa thepa tse nang le GVM e fetang 9,000 kg di thibetsweng lebelong le phahameng la 80 km/h ditseleng tsohle tsa setjhaba.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Dikoloi tse di boima tsa dithoto tse di nang le GVM e e fetang 9,000 kg di iletswe mo lobelong lo lo kwa godimo lwa 80 km/h mo ditseleng tsotlhe tsa setshaba.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Swaar goederevoertuie met 'n BVM van meer as 9,000 kg word beperk tot 'n maksimum spoedbeperking van 80 km/h op alle openbare paaie.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Izithuthi ezisindayo zempahla eneGVM engaphezulu kwe-9,000 kg zithintelwe kwisantya esiphezulu se-80 km/h kuzo zonke iindlela zoluntu.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Izimoto ezisindayo zempahla ezine-GVM engaphezu kuka-9,000 kg zikhawulelwe esivinini esiphakeme se-80 km/h kuyo yonke imigwaqo yomphakathi.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Dikoloi tse boima tsa thepa tse nang le GVM e fetang 9,000 kg di thibetsweng lebelong le phahameng la 80 km/h ditseleng tsohle tsa setjhaba.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Dikoloi tse di boima tsa dithoto tse di nang le GVM e e fetang 9,000 kg di iletswe mo lobelong lo lo kwa godimo lwa 80 km/h mo ditseleng tsotlhe tsa setshaba.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. Non-compliance results in test failure.",
@@ -94,12 +94,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Dikoloi tse di boima tsa dithoto tse di nang le GVM e e fetang 9,000 kg di iletswe mo lobelong lo lo kwa godimo lwa 80 km/h mo ditseleng tsotlhe tsa setshaba. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Swaar goederevoertuie met 'n BVM van meer as 9,000 kg word beperk tot 'n maksimum spoedbeperking van 80 km/h op alle openbare paaie. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Izithuthi ezisindayo zempahla eneGVM engaphezulu kwe-9,000 kg zithintelwe kwisantya esiphezulu se-80 km/h kuzo zonke iindlela zoluntu. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Izimoto ezisindayo zempahla ezine-GVM engaphezu kuka-9,000 kg zikhawulelwe esivinini esiphakeme se-80 km/h kuyo yonke imigwaqo yomphakathi. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Dikoloi tse boima tsa thepa tse nang le GVM e fetang 9,000 kg di thibetsweng lebelong le phahameng la 80 km/h ditseleng tsohle tsa setjhaba. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Dikoloi tse di boima tsa dithoto tse di nang le GVM e e fetang 9,000 kg di iletswe mo lobelong lo lo kwa godimo lwa 80 km/h mo ditseleng tsotlhe tsa setshaba. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Swaar goederevoertuie met 'n BVM van meer as 9,000 kg word beperk tot 'n maksimum spoedbeperking van 80 km/h op alle openbare paaie. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Izithuthi ezisindayo zempahla eneGVM engaphezulu kwe-9,000 kg zithintelwe kwisantya esiphezulu se-80 km/h kuzo zonke iindlela zoluntu. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Izimoto ezisindayo zempahla ezine-GVM engaphezu kuka-9,000 kg zikhawulelwe esivinini esiphakeme se-80 km/h kuyo yonke imigwaqo yomphakathi. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Dikoloi tse boima tsa thepa tse nang le GVM e fetang 9,000 kg di thibetsweng lebelong le phahameng la 80 km/h ditseleng tsohle tsa setjhaba. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Dikoloi tse di boima tsa dithoto tse di nang le GVM e e fetang 9,000 kg di iletswe mo lobelong lo lo kwa godimo lwa 80 km/h mo ditseleng tsotlhe tsa setshaba. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -160,25 +160,25 @@
       },
       "media": {
         "graphic_type": "low_gear_command",
-        "image_file": "images/signs/R102-L.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Heavy truck approaching steep mountain pass, seeing blue Low Gear sign, and downshifting."
       },
       "memory_tricks": {
-        "en": "Truck plus L — shift low, all is well!",
-        "af": "Vragmotor plus L — skakel laag, dis wel!",
-        "xh": "Ilori kunye no-L — faka igiya elisezantsi!",
-        "zu": "Ilori kanye no-L — faka igiya eliphansi!",
-        "st": "Lori le L — kenya giya e tlase!",
-        "tn": "Lori le L — tsenya gia e e kwa tlase!"
+        "en": "Truck plus L \u2014 shift low, all is well!",
+        "af": "Vragmotor plus L \u2014 skakel laag, dis wel!",
+        "xh": "Ilori kunye no-L \u2014 faka igiya elisezantsi!",
+        "zu": "Ilori kanye no-L \u2014 faka igiya eliphansi!",
+        "st": "Lori le L \u2014 kenya giya e tlase!",
+        "tn": "Lori le L \u2014 tsenya gia e e kwa tlase!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken R102-L vereis dat swaarvoertuigbestuurders na 'n lae rat oorskakel voor steil afdraande.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu R102-L luyalela ukuba abaqhubi bezithuthi ezisindayo batshintshele kwigiya elisezantsi phambi kokuhla intaba enkulu.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu R102-L luphoqa ukuthi abashayeli bezimoto ezisindayo bafake igiya eliphansi ngaphambi kokwehla intaba.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sesupo R102-L se laela hore bakgweli ba dikoloi tse boima ba fetohele giya e tlase pele ba theoha dithaba tse maotwana.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Letshwao R102-L le laela gore bakgweetsi ba dikoloi tse di boima ba fetogele mo giaring e e kwa tlase pele ba fologa dithaba tse di maotoana.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Teken R102-L vereis dat swaarvoertuigbestuurders na 'n lae rat oorskakel voor steil afdraande.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R102-L luyalela ukuba abaqhubi bezithuthi ezisindayo batshintshele kwigiya elisezantsi phambi kokuhla intaba enkulu.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R102-L luphoqa ukuthi abashayeli bezimoto ezisindayo bafake igiya eliphansi ngaphambi kokwehla intaba.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sesupo R102-L se laela hore bakgweli ba dikoloi tse boima ba fetohele giya e tlase pele ba theoha dithaba tse maotwana.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Letshwao R102-L le laela gore bakgweetsi ba dikoloi tse di boima ba fetogele mo giaring e e kwa tlase pele ba fologa dithaba tse di maotoana.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. Non-compliance results in test failure.",
@@ -189,12 +189,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao R102-L le laela gore bakgweetsi ba dikoloi tse di boima ba fetogele mo giaring e e kwa tlase pele ba fologa dithaba tse di maotoana. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Teken R102-L vereis dat swaarvoertuigbestuurders na 'n lae rat oorskakel voor steil afdraande. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R102-L luyalela ukuba abaqhubi bezithuthi ezisindayo batshintshele kwigiya elisezantsi phambi kokuhla intaba enkulu. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R102-L luphoqa ukuthi abashayeli bezimoto ezisindayo bafake igiya eliphansi ngaphambi kokwehla intaba. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R102-L se laela hore bakgweli ba dikoloi tse boima ba fetohele giya e tlase pele ba theoha dithaba tse maotwana. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R102-L le laela gore bakgweetsi ba dikoloi tse di boima ba fetogele mo giaring e e kwa tlase pele ba fologa dithaba tse di maotoana. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R102-L mandates that heavy vehicle drivers shift into low gear before steep descents. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Teken R102-L vereis dat swaarvoertuigbestuurders na 'n lae rat oorskakel voor steil afdraande. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R102-L luyalela ukuba abaqhubi bezithuthi ezisindayo batshintshele kwigiya elisezantsi phambi kokuhla intaba enkulu. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R102-L luphoqa ukuthi abashayeli bezimoto ezisindayo bafake igiya eliphansi ngaphambi kokwehla intaba. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R102-L se laela hore bakgweli ba dikoloi tse boima ba fetohele giya e tlase pele ba theoha dithaba tse maotwana. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R102-L le laela gore bakgweetsi ba dikoloi tse di boima ba fetogele mo giaring e e kwa tlase pele ba fologa dithaba tse di maotoana. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -206,7 +206,7 @@
       "category": "Vehicle Controls",
       "question": {
         "en": "In the heavy vehicle cockpit diagram, what is the primary function of the exhaust brake / engine retarder?",
-        "af": "In die swaarvoertuig-stuurkajuitdiagram, wat is die primêre funksie van die uitlaatrem / enjinvertrager?",
+        "af": "In die swaarvoertuig-stuurkajuitdiagram, wat is die prim\u00eare funksie van die uitlaatrem / enjinvertrager?",
         "xh": "Kwidayagram yekhabhini yesithuthi esisindayo, yintoni umsebenzi ophambili webhreki yomsi / isithintelo senjini?",
         "zu": "Kudiyagremu yekhabhini yemoto esindayo, yini umsebenzi oyinhloko webhuleki lomshiso/isivimbi senjini?",
         "st": "Ho diagram ya khabine ya koloi e boima, ke eng mosebetsi wa mantlha wa boreka ba mosi / sethibi sa enjine?",
@@ -255,25 +255,25 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "images/signs/HMV-CABIN-11.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Truck descending pass with exhaust brake engaged, preventing brake fade."
       },
       "memory_tricks": {
-        "en": "Exhaust brake slows the grind — saves your brakes, keeps them kind!",
-        "af": "Uitlaatrem help af — spaar jou remme, dis 'n gaaf!",
-        "xh": "Ibhreki yomsi iyanceda — igcina ezinye iibhreki!",
-        "zu": "Ibhuleki lomshiso liyasiza — ligcina amanye amabhuleki!",
-        "st": "Boreka ba mosi bo a thusa — bo boloka boreka bo bong!",
-        "tn": "Boreka jwa mosi bo a thusa — bo boloka boreka jo bongwe!"
+        "en": "Exhaust brake slows the grind \u2014 saves your brakes, keeps them kind!",
+        "af": "Uitlaatrem help af \u2014 spaar jou remme, dis 'n gaaf!",
+        "xh": "Ibhreki yomsi iyanceda \u2014 igcina ezinye iibhreki!",
+        "zu": "Ibhuleki lomshiso liyasiza \u2014 ligcina amanye amabhuleki!",
+        "st": "Boreka ba mosi bo a thusa \u2014 bo boloka boreka bo bong!",
+        "tn": "Boreka jwa mosi bo a thusa \u2014 bo boloka boreka jo bongwe!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Uitlaat-/enjinremme verskaf bykomende vertraging, wat lugdiensremme op steil afdraandes bespaar.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Iibhreki zomsi/zenjini zinika ukucotha okongezelelweyo, zigcina iibhreki zomoya zenkonzo ezintabeni ezinkulu.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Amabhuleki omshiso/enjini anikeza ukwehla kwesivinini okwengeziwe, egcina amabhuleki omoya omsebenzi ezintabeni ezinkulu.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Boreka ba mosi/enjine bo fana ka ho fokotsa lebelo ho eketsehileng, bo boloka boreka ba moya ba tshebeletso dithabeng tse maotwana.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Boreka jwa mosi/enjene bo naya go fokotsa lobelo go go oketsegileng, bo boloka boreka jwa moya jwa tirelo mo dithoteng tse di maotoana.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Uitlaat-/enjinremme verskaf bykomende vertraging, wat lugdiensremme op steil afdraandes bespaar.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Iibhreki zomsi/zenjini zinika ukucotha okongezelelweyo, zigcina iibhreki zomoya zenkonzo ezintabeni ezinkulu.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Amabhuleki omshiso/enjini anikeza ukwehla kwesivinini okwengeziwe, egcina amabhuleki omoya omsebenzi ezintabeni ezinkulu.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Boreka ba mosi/enjine bo fana ka ho fokotsa lebelo ho eketsehileng, bo boloka boreka ba moya ba tshebeletso dithabeng tse maotwana.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Boreka jwa mosi/enjene bo naya go fokotsa lobelo go go oketsegileng, bo boloka boreka jwa moya jwa tirelo mo dithoteng tse di maotoana.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. Non-compliance results in test failure.",
@@ -284,12 +284,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Boreka jwa mosi/enjene bo naya go fokotsa lobelo go go oketsegileng, bo boloka boreka jwa moya jwa tirelo mo dithoteng tse di maotoana. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Uitlaat-/enjinremme verskaf bykomende vertraging, wat lugdiensremme op steil afdraandes bespaar. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Iibhreki zomsi/zenjini zinika ukucotha okongezelelweyo, zigcina iibhreki zomoya zenkonzo ezintabeni ezinkulu. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Amabhuleki omshiso/enjini anikeza ukwehla kwesivinini okwengeziwe, egcina amabhuleki omoya omsebenzi ezintabeni ezinkulu. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Boreka ba mosi/enjine bo fana ka ho fokotsa lebelo ho eketsehileng, bo boloka boreka ba moya ba tshebeletso dithabeng tse maotwana. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Boreka jwa mosi/enjene bo naya go fokotsa lobelo go go oketsegileng, bo boloka boreka jwa moya jwa tirelo mo dithoteng tse di maotoana. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Uitlaat-/enjinremme verskaf bykomende vertraging, wat lugdiensremme op steil afdraandes bespaar. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Iibhreki zomsi/zenjini zinika ukucotha okongezelelweyo, zigcina iibhreki zomoya zenkonzo ezintabeni ezinkulu. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Amabhuleki omshiso/enjini anikeza ukwehla kwesivinini okwengeziwe, egcina amabhuleki omoya omsebenzi ezintabeni ezinkulu. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Boreka ba mosi/enjine bo fana ka ho fokotsa lebelo ho eketsehileng, bo boloka boreka ba moya ba tshebeletso dithabeng tse maotwana. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Boreka jwa mosi/enjene bo naya go fokotsa lobelo go go oketsegileng, bo boloka boreka jwa moya jwa tirelo mo dithoteng tse di maotoana. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -350,25 +350,25 @@
       },
       "media": {
         "graphic_type": "mass_limit_10t",
-        "image_file": "images/signs/R202.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Heavy truck checking load weight rating before 10t bridge entry sign."
       },
       "memory_tricks": {
-        "en": "Red ring, ten tonnes tight — that's the maximum, all right!",
-        "af": "Rooi ring, tien ton se perk — meer as dit is te sterk!",
-        "xh": "Ijikelezi ebomvu, iitoni ezi-10 — akugqithwa!",
-        "zu": "Indilinga ebomvu, amathani ayi-10 — akudluliwe!",
-        "st": "Sebolo se sefubedu, ditone tse 10 — ha ho fetwe!",
-        "tn": "Sedikologa se sehibidu, ditone tse 10 — ga go fetwe!"
+        "en": "Red ring, ten tonnes tight \u2014 that's the maximum, all right!",
+        "af": "Rooi ring, tien ton se perk \u2014 meer as dit is te sterk!",
+        "xh": "Ijikelezi ebomvu, iitoni ezi-10 \u2014 akugqithwa!",
+        "zu": "Indilinga ebomvu, amathani ayi-10 \u2014 akudluliwe!",
+        "st": "Sebolo se sefubedu, ditone tse 10 \u2014 ha ho fetwe!",
+        "tn": "Sedikologa se sehibidu, ditone tse 10 \u2014 ga go fetwe!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken R202 verbied voertuie met 'n bruto voertuigmassa wat die aangeduide tonnemaat (10t) oorskry.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu R202 luthintela izithuthi ezinobunzima obupheleleyo obugqitha iitoni ezikhonjisiweyo (10t).' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu R202 luvimbela izimoto ezinesisindo esiphelele esidlula izinthonelo ezikhonjisiwe (10t).' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sesupo R202 se thibela dikoloi tse nang le boima bo felletseng bo fetang ditone tse bontshitsweng (10t).' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Letshwao R202 le gana dikoloi tse di nang le bokete jotlhe jo bo fetang ditone tse di bontshitsweng (10t).' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Teken R202 verbied voertuie met 'n bruto voertuigmassa wat die aangeduide tonnemaat (10t) oorskry.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R202 luthintela izithuthi ezinobunzima obupheleleyo obugqitha iitoni ezikhonjisiweyo (10t).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R202 luvimbela izimoto ezinesisindo esiphelele esidlula izinthonelo ezikhonjisiwe (10t).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sesupo R202 se thibela dikoloi tse nang le boima bo felletseng bo fetang ditone tse bontshitsweng (10t).' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Letshwao R202 le gana dikoloi tse di nang le bokete jotlhe jo bo fetang ditone tse di bontshitsweng (10t).' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Non-compliance results in test failure.",
@@ -379,12 +379,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao R202 le gana dikoloi tse di nang le bokete jotlhe jo bo fetang ditone tse di bontshitsweng (10t). Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Teken R202 verbied voertuie met 'n bruto voertuigmassa wat die aangeduide tonnemaat (10t) oorskry. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R202 luthintela izithuthi ezinobunzima obupheleleyo obugqitha iitoni ezikhonjisiweyo (10t). Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R202 luvimbela izimoto ezinesisindo esiphelele esidlula izinthonelo ezikhonjisiwe (10t). Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R202 se thibela dikoloi tse nang le boima bo felletseng bo fetang ditone tse bontshitsweng (10t). O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R202 le gana dikoloi tse di nang le bokete jotlhe jo bo fetang ditone tse di bontshitsweng (10t). O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Teken R202 verbied voertuie met 'n bruto voertuigmassa wat die aangeduide tonnemaat (10t) oorskry. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R202 luthintela izithuthi ezinobunzima obupheleleyo obugqitha iitoni ezikhonjisiweyo (10t). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R202 luvimbela izimoto ezinesisindo esiphelele esidlula izinthonelo ezikhonjisiwe (10t). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R202 se thibela dikoloi tse nang le boima bo felletseng bo fetang ditone tse bontshitsweng (10t). O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R202 le gana dikoloi tse di nang le bokete jotlhe jo bo fetang ditone tse di bontshitsweng (10t). O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -400,7 +400,7 @@
         "xh": "Yintoni umda osemthethweni wotywala egazini kubaqhubi abangoosomabhizinisi abaqhuba izithuthi ezisindayo (abanePrDP)?",
         "zu": "Yisiphi isilinganiso esisemthethweni sotshwala egazini kubashayeli abangosomabhizinisi abashayela izimoto ezisindayo (ababambe i-PrDP)?",
         "st": "Ke sefe selekanyo se dumelletsweng ka molao sa jwala mading bakeng sa bakgweli ba diprofeshenale ba sebedisang dikoloi tse boima (ba nang le PrDP)?",
-        "tn": "Ke selekanyo sefe se se letleletsweng ka molao sa bojalwa mo mading bakeng sa bakgweetsi ba diporofešenale ba ba dirisang dikoloi tse di boima (ba ba nang le PrDP)?"
+        "tn": "Ke selekanyo sefe se se letleletsweng ka molao sa bojalwa mo mading bakeng sa bakgweetsi ba diporofe\u0161enale ba ba dirisang dikoloi tse di boima (ba ba nang le PrDP)?"
       },
       "options": {
         "en": {
@@ -449,21 +449,21 @@
         "video_simulation_prompt": "3D Animation: PrDP card graphic highlighting 0.02g/100ml blood alcohol threshold."
       },
       "memory_tricks": {
-        "en": "Pro drivers strict — point-oh-two's the trick!",
-        "af": "Professionele bestuurders streng — nul-komma-twee, hou dit eng!",
-        "xh": "Abaqhubi be-PrDP — u-0.02 kuphela!",
-        "zu": "Abashayeli be-PrDP — u-0.02 kuphela!",
-        "st": "Bakgweli ba PrDP — 0.02 feela!",
-        "tn": "Bakgweetsi ba PrDP — 0.02 fela!"
+        "en": "Pro drivers strict \u2014 point-oh-two's the trick!",
+        "af": "Professionele bestuurders streng \u2014 nul-komma-twee, hou dit eng!",
+        "xh": "Abaqhubi be-PrDP \u2014 u-0.02 kuphela!",
+        "zu": "Abashayeli be-PrDP \u2014 u-0.02 kuphela!",
+        "st": "Bakgweli ba PrDP \u2014 0.02 feela!",
+        "tn": "Bakgweetsi ba PrDP \u2014 0.02 fela!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'PrDP-bestuurders wat swaar motorvoertuie bestuur het 'n streng bloedalkoholbeperking van 0.02g/100ml.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Abaqhubi be-PrDP abaqhuba izithuthi ezisindayo banomda oqinileyo wotywala egazini we-0.02g/100ml.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Abashayeli be-PrDP abashayela izimoto ezisindayo banesilinganiso esiqinile sotshwala egazini se-0.02g/100ml.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Bakgweli ba PrDP ba sebedisang dikoloi tse boima ba na le selekanyo se qinileng sa jwala mading sa 0.02g/100ml.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Bakgweetsi ba PrDP ba ba dirisang dikoloi tse di boima ba na le selekanyo se se thata sa bojalwa mo mading sa 0.02g/100ml.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'PrDP-bestuurders wat swaar motorvoertuie bestuur het 'n streng bloedalkoholbeperking van 0.02g/100ml.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Abaqhubi be-PrDP abaqhuba izithuthi ezisindayo banomda oqinileyo wotywala egazini we-0.02g/100ml.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Abashayeli be-PrDP abashayela izimoto ezisindayo banesilinganiso esiqinile sotshwala egazini se-0.02g/100ml.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Bakgweli ba PrDP ba sebedisang dikoloi tse boima ba na le selekanyo se qinileng sa jwala mading sa 0.02g/100ml.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Bakgweetsi ba PrDP ba ba dirisang dikoloi tse di boima ba na le selekanyo se se thata sa bojalwa mo mading sa 0.02g/100ml.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. Non-compliance results in test failure.",
@@ -474,12 +474,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Bakgweetsi ba PrDP ba ba dirisang dikoloi tse di boima ba na le selekanyo se se thata sa bojalwa mo mading sa 0.02g/100ml. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: PrDP-bestuurders wat swaar motorvoertuie bestuur het 'n streng bloedalkoholbeperking van 0.02g/100ml. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Abaqhubi be-PrDP abaqhuba izithuthi ezisindayo banomda oqinileyo wotywala egazini we-0.02g/100ml. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Abashayeli be-PrDP abashayela izimoto ezisindayo banesilinganiso esiqinile sotshwala egazini se-0.02g/100ml. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Bakgweli ba PrDP ba sebedisang dikoloi tse boima ba na le selekanyo se qinileng sa jwala mading sa 0.02g/100ml. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Bakgweetsi ba PrDP ba ba dirisang dikoloi tse di boima ba na le selekanyo se se thata sa bojalwa mo mading sa 0.02g/100ml. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: PrDP-bestuurders wat swaar motorvoertuie bestuur het 'n streng bloedalkoholbeperking van 0.02g/100ml. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Abaqhubi be-PrDP abaqhuba izithuthi ezisindayo banomda oqinileyo wotywala egazini we-0.02g/100ml. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Abashayeli be-PrDP abashayela izimoto ezisindayo banesilinganiso esiqinile sotshwala egazini se-0.02g/100ml. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Bakgweli ba PrDP ba sebedisang dikoloi tse boima ba na le selekanyo se qinileng sa jwala mading sa 0.02g/100ml. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Bakgweetsi ba PrDP ba ba dirisang dikoloi tse di boima ba na le selekanyo se se thata sa bojalwa mo mading sa 0.02g/100ml. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -505,7 +505,7 @@
         },
         "af": {
           "A": "A) Hoorbare waarskuwingsbrommer en lae-drukmeterlig.",
-          "B": "B) Flikkerende aanwyserlig op syspieël.",
+          "B": "B) Flikkerende aanwyserlig op syspie\u00ebl.",
           "C": "C) Stuurwielvibrasie."
         },
         "xh": {
@@ -544,21 +544,21 @@
         "video_simulation_prompt": "3D Animation: Heavy vehicle dashboard gauge showing red air pressure needle with warning buzzer sound wave."
       },
       "memory_tricks": {
-        "en": "Low air — buzzer blares, red light glares!",
-        "af": "Lae lug — brommer skree, rooi lig ook mee!",
-        "xh": "Uxinzelelo oluphantsi — isilumkiso kunye nesibane esibomvu!",
-        "zu": "Ingcindezi ephansi — isexwayiso kanye nesibani esibomvu!",
-        "st": "Khatello e tlase — temoso le lebone le lefubedu!",
-        "tn": "Kgatelelo e kwa tlase — temoso le lebone le le hibidu!"
+        "en": "Low air \u2014 buzzer blares, red light glares!",
+        "af": "Lae lug \u2014 brommer skree, rooi lig ook mee!",
+        "xh": "Uxinzelelo oluphantsi \u2014 isilumkiso kunye nesibane esibomvu!",
+        "zu": "Ingcindezi ephansi \u2014 isexwayiso kanye nesibani esibomvu!",
+        "st": "Khatello e tlase \u2014 temoso le lebone le lefubedu!",
+        "tn": "Kgatelelo e kwa tlase \u2014 temoso le lebone le le hibidu!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Lugremstelsels het 'n hoorbare brommer en dashboardwaarskuwingslig wanneer stelseldruk onder die veilige drempel daal.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Iinkqubo zebhreki yomoya zineisilumkiso esivakalayo nesibane sesilumkiso kwidashbhodi xa uxinzelelo lwenkqubo lusiwa phantsi komda ochulumancileyo.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Izinhlelo zamabhuleki omoya zinesixwayiso esizwakalayo nesibani sesixwayiso edeshibhodini uma ingcindezi yesistimu iwa ngaphansi kwezinga eliphephile.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Ditsamaiso tsa boreka ba moya di na le temoso e utlwahalang le lebone la temoso la dashboard ha khatello ya tsamaiso e wela tlase ho tlola tekanyo e sireletsehileng.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Ditsamaiso tsa boreka jwa moya di na le temoso e e utlwalang le lebone la temoso la dashboard fa kgatelelo ya tsamaiso e wela kwa tlase ga tekanyo e e babalesegileng.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Lugremstelsels het 'n hoorbare brommer en dashboardwaarskuwingslig wanneer stelseldruk onder die veilige drempel daal.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Iinkqubo zebhreki yomoya zineisilumkiso esivakalayo nesibane sesilumkiso kwidashbhodi xa uxinzelelo lwenkqubo lusiwa phantsi komda ochulumancileyo.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Izinhlelo zamabhuleki omoya zinesixwayiso esizwakalayo nesibani sesixwayiso edeshibhodini uma ingcindezi yesistimu iwa ngaphansi kwezinga eliphephile.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Ditsamaiso tsa boreka ba moya di na le temoso e utlwahalang le lebone la temoso la dashboard ha khatello ya tsamaiso e wela tlase ho tlola tekanyo e sireletsehileng.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Ditsamaiso tsa boreka jwa moya di na le temoso e e utlwalang le lebone la temoso la dashboard fa kgatelelo ya tsamaiso e wela kwa tlase ga tekanyo e e babalesegileng.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. Non-compliance results in test failure.",
@@ -569,12 +569,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Ditsamaiso tsa boreka jwa moya di na le temoso e e utlwalang le lebone la temoso la dashboard fa kgatelelo ya tsamaiso e wela kwa tlase ga tekanyo e e babalesegileng. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Lugremstelsels het 'n hoorbare brommer en dashboardwaarskuwingslig wanneer stelseldruk onder die veilige drempel daal. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Iinkqubo zebhreki yomoya zineisilumkiso esivakalayo nesibane sesilumkiso kwidashbhodi xa uxinzelelo lwenkqubo lusiwa phantsi komda ochulumancileyo. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Izinhlelo zamabhuleki omoya zinesixwayiso esizwakalayo nesibani sesixwayiso edeshibhodini uma ingcindezi yesistimu iwa ngaphansi kwezinga eliphephile. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Ditsamaiso tsa boreka ba moya di na le temoso e utlwahalang le lebone la temoso la dashboard ha khatello ya tsamaiso e wela tlase ho tlola tekanyo e sireletsehileng. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Ditsamaiso tsa boreka jwa moya di na le temoso e e utlwalang le lebone la temoso la dashboard fa kgatelelo ya tsamaiso e wela kwa tlase ga tekanyo e e babalesegileng. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Lugremstelsels het 'n hoorbare brommer en dashboardwaarskuwingslig wanneer stelseldruk onder die veilige drempel daal. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Iinkqubo zebhreki yomoya zineisilumkiso esivakalayo nesibane sesilumkiso kwidashbhodi xa uxinzelelo lwenkqubo lusiwa phantsi komda ochulumancileyo. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Izinhlelo zamabhuleki omoya zinesixwayiso esizwakalayo nesibani sesixwayiso edeshibhodini uma ingcindezi yesistimu iwa ngaphansi kwezinga eliphephile. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Ditsamaiso tsa boreka ba moya di na le temoso e utlwahalang le lebone la temoso la dashboard ha khatello ya tsamaiso e wela tlase ho tlola tekanyo e sireletsehileng. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Ditsamaiso tsa boreka jwa moya di na le temoso e e utlwalang le lebone la temoso la dashboard fa kgatelelo ya tsamaiso e wela kwa tlase ga tekanyo e e babalesegileng. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -621,7 +621,7 @@
         "tn": {
           "A": "A) Mobu wa go tshwara kwa pele bakeng sa dikoloi tse di boima tse di se nang taolo.",
           "B": "B) Go tswa ga tsela e kgolo bakeng sa boikhutso.",
-          "C": "C) Seteisēne sa go sekaseka sekala sa bokete."
+          "C": "C) Seteise\u0304ne sa go sekaseka sekala sa bokete."
         }
       },
       "correct_answer": "A",
@@ -635,25 +635,25 @@
       },
       "media": {
         "graphic_type": "arrestor_bed",
-        "image_file": "images/signs/IN11.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Runaway truck steering into a gravel arrestor bed ramp to stop safely."
       },
       "memory_tricks": {
-        "en": "Brakes gone, don't fret — the sand bed's your safety net!",
-        "af": "Remme weg — die sandbed vang jou reg!",
-        "xh": "Iibhreki ezingasebenziyo — umgca wentlabathi uyakusindisa!",
-        "zu": "Amabhuleki ehlulekile — umbhede wesihlabathi uyakusindisa!",
-        "st": "Boreka bo hlolehileng — mmele wa lehlabathe o a o pholosa!",
-        "tn": "Boreka jo bo paletsweng — mobu wa mmu o a go boloka!"
+        "en": "Brakes gone, don't fret \u2014 the sand bed's your safety net!",
+        "af": "Remme weg \u2014 die sandbed vang jou reg!",
+        "xh": "Iibhreki ezingasebenziyo \u2014 umgca wentlabathi uyakusindisa!",
+        "zu": "Amabhuleki ehlulekile \u2014 umbhede wesihlabathi uyakusindisa!",
+        "st": "Boreka bo hlolehileng \u2014 mmele wa lehlabathe o a o pholosa!",
+        "tn": "Boreka jo bo paletsweng \u2014 mobu wa mmu o a go boloka!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken IN11 lei weghollende swaar voertuie met gefaalde remme in 'n sand-/gruisvangbed in.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu IN11 lukhokela izithuthi ezisindayo eziwayo ngaphandle kolawulo ezineebhreki ezingasebenziyo kumgca wentlabathi/wamatye wokubamba.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu IN11 luholela izimoto ezisindayo eziwa ngokungalawuleki ezinamabhuleki ehlulekile embhedeni wesihlabathi/wamatshana wokubamba.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sesupo IN11 se tataisa dikoloi tse boima tse ntseng di wa ntle le taolo tse nang le boreka bo hlolehileng ho mmele wa lehlabathe/majwe wa ho tshwara.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Letshwao IN11 le kaela dikoloi tse di boima tse di tswang mo taolong tse di nang le boreka jo bo paletsweng go tsena mo mobung wa mmu/matlapa wa go tshwara.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Teken IN11 lei weghollende swaar voertuie met gefaalde remme in 'n sand-/gruisvangbed in.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uphawu IN11 lukhokela izithuthi ezisindayo eziwayo ngaphandle kolawulo ezineebhreki ezingasebenziyo kumgca wentlabathi/wamatye wokubamba.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Uphawu IN11 luholela izimoto ezisindayo eziwa ngokungalawuleki ezinamabhuleki ehlulekile embhedeni wesihlabathi/wamatshana wokubamba.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sesupo IN11 se tataisa dikoloi tse boima tse ntseng di wa ntle le taolo tse nang le boreka bo hlolehileng ho mmele wa lehlabathe/majwe wa ho tshwara.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Letshwao IN11 le kaela dikoloi tse di boima tse di tswang mo taolong tse di nang le boreka jo bo paletsweng go tsena mo mobung wa mmu/matlapa wa go tshwara.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. Non-compliance results in test failure.",
@@ -664,12 +664,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao IN11 le kaela dikoloi tse di boima tse di tswang mo taolong tse di nang le boreka jo bo paletsweng go tsena mo mobung wa mmu/matlapa wa go tshwara. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Teken IN11 lei weghollende swaar voertuie met gefaalde remme in 'n sand-/gruisvangbed in. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu IN11 lukhokela izithuthi ezisindayo eziwayo ngaphandle kolawulo ezineebhreki ezingasebenziyo kumgca wentlabathi/wamatye wokubamba. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Uphawu IN11 luholela izimoto ezisindayo eziwa ngokungalawuleki ezinamabhuleki ehlulekile embhedeni wesihlabathi/wamatshana wokubamba. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo IN11 se tataisa dikoloi tse boima tse ntseng di wa ntle le taolo tse nang le boreka bo hlolehileng ho mmele wa lehlabathe/majwe wa ho tshwara. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao IN11 le kaela dikoloi tse di boima tse di tswang mo taolong tse di nang le boreka jo bo paletsweng go tsena mo mobung wa mmu/matlapa wa go tshwara. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign IN11 guides runaway heavy vehicles with failed brakes into a sand/gravel arrestor bed. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Teken IN11 lei weghollende swaar voertuie met gefaalde remme in 'n sand-/gruisvangbed in. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu IN11 lukhokela izithuthi ezisindayo eziwayo ngaphandle kolawulo ezineebhreki ezingasebenziyo kumgca wentlabathi/wamatye wokubamba. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Uphawu IN11 luholela izimoto ezisindayo eziwa ngokungalawuleki ezinamabhuleki ehlulekile embhedeni wesihlabathi/wamatshana wokubamba. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo IN11 se tataisa dikoloi tse boima tse ntseng di wa ntle le taolo tse nang le boreka bo hlolehileng ho mmele wa lehlabathe/majwe wa ho tshwara. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao IN11 le kaela dikoloi tse di boima tse di tswang mo taolong tse di nang le boreka jo bo paletsweng go tsena mo mobung wa mmu/matlapa wa go tshwara. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -730,25 +730,25 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "images/signs/HMV-CABIN-11.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Hand wiggling gear lever side-to-side in Neutral position before turning ignition key."
       },
       "memory_tricks": {
-        "en": "Gear in neutral, then ignite — that's the starting rule, all right!",
+        "en": "Gear in neutral, then ignite \u2014 that's the starting rule, all right!",
         "af": "Rat op leeg, dan eers draai!",
-        "xh": "Igiya kuNeutral kuqala — uze ujikeleze!",
-        "zu": "Igiya kuNeutral kuqala — base uphenye!",
-        "st": "Giya ho Neutral pele — ebe o a fetoha!",
-        "tn": "Gia mo Neutral pele — morago o sokamise!"
+        "xh": "Igiya kuNeutral kuqala \u2014 uze ujikeleze!",
+        "zu": "Igiya kuNeutral kuqala \u2014 base uphenye!",
+        "st": "Giya ho Neutral pele \u2014 ebe o a fetoha!",
+        "tn": "Gia mo Neutral pele \u2014 morago o sokamise!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'The gear lever must be checked in Neutral before cranking the starter motor.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Die rathefboom moet in Neutraal nagegaan word voordat die selfstartmotor gedraai word.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Isixhobo segiya kufuneka sihlolwe sikwiNeutral phambi kokujikeleza injini yokuqalisa.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Isilawuli segiya kufanele sihlolwe sikwiNeutral ngaphambi kokuphenya injini yokuqalisa.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Lever ya giya e tlameha ho hlahlojwa e le ho Neutral pele ho fetoha enjine ya ho qala.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Lebole la gia le tshwanetse go sekasekwa le le mo Neutral pele go sokamisiwa enjene ya go simolola.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The gear lever must be checked in Neutral before cranking the starter motor.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Die rathefboom moet in Neutraal nagegaan word voordat die selfstartmotor gedraai word.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Isixhobo segiya kufuneka sihlolwe sikwiNeutral phambi kokujikeleza injini yokuqalisa.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Isilawuli segiya kufanele sihlolwe sikwiNeutral ngaphambi kokuphenya injini yokuqalisa.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Lever ya giya e tlameha ho hlahlojwa e le ho Neutral pele ho fetoha enjine ya ho qala.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Lebole la gia le tshwanetse go sekasekwa le le mo Neutral pele go sokamisiwa enjene ya go simolola.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The gear lever must be checked in Neutral before cranking the starter motor. Non-compliance results in test failure.",
@@ -759,12 +759,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Lebole la gia le tshwanetse go sekasekwa le le mo Neutral pele go sokamisiwa enjene ya go simolola. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The gear lever must be checked in Neutral before cranking the starter motor. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Die rathefboom moet in Neutraal nagegaan word voordat die selfstartmotor gedraai word. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Isixhobo segiya kufuneka sihlolwe sikwiNeutral phambi kokujikeleza injini yokuqalisa. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Isilawuli segiya kufanele sihlolwe sikwiNeutral ngaphambi kokuphenya injini yokuqalisa. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Lever ya giya e tlameha ho hlahlojwa e le ho Neutral pele ho fetoha enjine ya ho qala. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Lebole la gia le tshwanetse go sekasekwa le le mo Neutral pele go sokamisiwa enjene ya go simolola. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The gear lever must be checked in Neutral before cranking the starter motor. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Die rathefboom moet in Neutraal nagegaan word voordat die selfstartmotor gedraai word. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Isixhobo segiya kufuneka sihlolwe sikwiNeutral phambi kokujikeleza injini yokuqalisa. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Isilawuli segiya kufanele sihlolwe sikwiNeutral ngaphambi kokuphenya injini yokuqalisa. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Lever ya giya e tlameha ho hlahlojwa e le ho Neutral pele ho fetoha enjine ya ho qala. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Lebole la gia le tshwanetse go sekasekwa le le mo Neutral pele go sokamisiwa enjene ya go simolola. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -825,25 +825,25 @@
       },
       "media": {
         "graphic_type": "no_overtaking_goods",
-        "image_file": "images/signs/R215.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Heavy goods vehicle remaining behind another truck past a R215 No Overtaking sign."
       },
       "memory_tricks": {
-        "en": "Two trucks shown — no passing zone!",
-        "af": "Twee vragmotors gewys — geen verbygaan, dis die prys!",
-        "xh": "Iilori ezimbini — akukho kudlula!",
-        "zu": "Amalori amabili — akukho kudlula!",
-        "st": "Dilori tse pedi — ha ho feta!",
-        "tn": "Dilori tse pedi — ga go fete!"
+        "en": "Two trucks shown \u2014 no passing zone!",
+        "af": "Twee vragmotors gewys \u2014 geen verbygaan, dis die prys!",
+        "xh": "Iilori ezimbini \u2014 akukho kudlula!",
+        "zu": "Amalori amabili \u2014 akukho kudlula!",
+        "st": "Dilori tse pedi \u2014 ha ho feta!",
+        "tn": "Dilori tse pedi \u2014 ga go fete!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken R215 verbied goederevoertuie om enige bewegende voertuig op daardie gedeelte van die pad verby te steek.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu R215 luthintela izithuthi zempahla ekudluleni naliphi na isithuthi esihambayo kwelo candelo lendlela.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu R215 luvimbela izimoto zempahla ekudluleni noma yisiphi isimoto esihambayo kuleyo ngxenye yomgwaqo.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sesupo R215 se thibela dikoloi tsa thepa ho feta koloi efe kapa efe e tsamayang karolong eo ya tsela.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Letshwao R215 le gana dikoloi tsa dithoto go feta koloi epe fela e e tsamayang mo karolong eo ya tsela.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Teken R215 verbied goederevoertuie om enige bewegende voertuig op daardie gedeelte van die pad verby te steek.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R215 luthintela izithuthi zempahla ekudluleni naliphi na isithuthi esihambayo kwelo candelo lendlela.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R215 luvimbela izimoto zempahla ekudluleni noma yisiphi isimoto esihambayo kuleyo ngxenye yomgwaqo.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sesupo R215 se thibela dikoloi tsa thepa ho feta koloi efe kapa efe e tsamayang karolong eo ya tsela.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Letshwao R215 le gana dikoloi tsa dithoto go feta koloi epe fela e e tsamayang mo karolong eo ya tsela.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. Non-compliance results in test failure.",
@@ -854,12 +854,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao R215 le gana dikoloi tsa dithoto go feta koloi epe fela e e tsamayang mo karolong eo ya tsela. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Teken R215 verbied goederevoertuie om enige bewegende voertuig op daardie gedeelte van die pad verby te steek. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R215 luthintela izithuthi zempahla ekudluleni naliphi na isithuthi esihambayo kwelo candelo lendlela. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R215 luvimbela izimoto zempahla ekudluleni noma yisiphi isimoto esihambayo kuleyo ngxenye yomgwaqo. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R215 se thibela dikoloi tsa thepa ho feta koloi efe kapa efe e tsamayang karolong eo ya tsela. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R215 le gana dikoloi tsa dithoto go feta koloi epe fela e e tsamayang mo karolong eo ya tsela. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R215 prohibits goods vehicles from overtaking any moving vehicle on that section of road. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Teken R215 verbied goederevoertuie om enige bewegende voertuig op daardie gedeelte van die pad verby te steek. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R215 luthintela izithuthi zempahla ekudluleni naliphi na isithuthi esihambayo kwelo candelo lendlela. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R215 luvimbela izimoto zempahla ekudluleni noma yisiphi isimoto esihambayo kuleyo ngxenye yomgwaqo. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R215 se thibela dikoloi tsa thepa ho feta koloi efe kapa efe e tsamayang karolong eo ya tsela. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R215 le gana dikoloi tsa dithoto go feta koloi epe fela e e tsamayang mo karolong eo ya tsela. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -924,21 +924,21 @@
         "video_simulation_prompt": "3D Animation: High-cube container truck passing under height gauge marked 4.3m."
       },
       "memory_tricks": {
-        "en": "Four-point-three's the height decree — giraffes can't hitch a ride!",
-        "af": "Vier-komma-drie is die hoogte se grens — kameelperde kry nie 'n lift nie!",
-        "xh": "Ii-4.3 zeemitha — ubude obuphezulu. Iindlulamthi azikwazi ukukhwela!",
-        "zu": "U-4.3 wamamitha — ukuphakama okuphakeme. Izindlulamithi azikwazi ukugibela!",
-        "st": "4.3 dimithara — boholo bo phahameng. Dithutlwa ha di kgone ho palama!",
-        "tn": "4.3 dimetara — bogolo jo bo kwa godimo. Dithutlwa ga di kgone go palama!"
+        "en": "Four-point-three's the height decree \u2014 giraffes can't hitch a ride!",
+        "af": "Vier-komma-drie is die hoogte se grens \u2014 kameelperde kry nie 'n lift nie!",
+        "xh": "Ii-4.3 zeemitha \u2014 ubude obuphezulu. Iindlulamthi azikwazi ukukhwela!",
+        "zu": "U-4.3 wamamitha \u2014 ukuphakama okuphakeme. Izindlulamithi azikwazi ukugibela!",
+        "st": "4.3 dimithara \u2014 boholo bo phahameng. Dithutlwa ha di kgone ho palama!",
+        "tn": "4.3 dimetara \u2014 bogolo jo bo kwa godimo. Dithutlwa ga di kgone go palama!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Die standaard maksimum algehele voertuig- en vraghoogtebeperking is 4.3 meter.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Umda oqhelekileyo ophezulu wobude obupheleleyo besithuthi nomthwalo yiimitha ezi-4.3.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Umkhawulo wokuphakama okujwayelekile okuphelele wemoto nomthwalo ungamamitha ayi-4.3.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Moedi o tlwaelehileng o phahameng wa boholo bo felletseng ba koloi le thepa ke dimithara tse 4.3.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Molelwane o o tlwaelegileng o o kwa godimo wa bogolo jotlhe jwa koloi le morwalo ke dimetara tse 4.3.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Standard maximum overall vehicle and load height limit is 4.3 metres.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Die standaard maksimum algehele voertuig- en vraghoogtebeperking is 4.3 meter.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Umda oqhelekileyo ophezulu wobude obupheleleyo besithuthi nomthwalo yiimitha ezi-4.3.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Umkhawulo wokuphakama okujwayelekile okuphelele wemoto nomthwalo ungamamitha ayi-4.3.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Moedi o tlwaelehileng o phahameng wa boholo bo felletseng ba koloi le thepa ke dimithara tse 4.3.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Molelwane o o tlwaelegileng o o kwa godimo wa bogolo jotlhe jwa koloi le morwalo ke dimetara tse 4.3.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Standard maximum overall vehicle and load height limit is 4.3 metres. Non-compliance results in test failure.",
@@ -949,12 +949,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Molelwane o o tlwaelegileng o o kwa godimo wa bogolo jotlhe jwa koloi le morwalo ke dimetara tse 4.3. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Standard maximum overall vehicle and load height limit is 4.3 metres. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Die standaard maksimum algehele voertuig- en vraghoogtebeperking is 4.3 meter. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Umda oqhelekileyo ophezulu wobude obupheleleyo besithuthi nomthwalo yiimitha ezi-4.3. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Umkhawulo wokuphakama okujwayelekile okuphelele wemoto nomthwalo ungamamitha ayi-4.3. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Moedi o tlwaelehileng o phahameng wa boholo bo felletseng ba koloi le thepa ke dimithara tse 4.3. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Molelwane o o tlwaelegileng o o kwa godimo wa bogolo jotlhe jwa koloi le morwalo ke dimetara tse 4.3. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Standard maximum overall vehicle and load height limit is 4.3 metres. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Die standaard maksimum algehele voertuig- en vraghoogtebeperking is 4.3 meter. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Umda oqhelekileyo ophezulu wobude obupheleleyo besithuthi nomthwalo yiimitha ezi-4.3. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Umkhawulo wokuphakama okujwayelekile okuphelele wemoto nomthwalo ungamamitha ayi-4.3. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Moedi o tlwaelehileng o phahameng wa boholo bo felletseng ba koloi le thepa ke dimithara tse 4.3. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Molelwane o o tlwaelegileng o o kwa godimo wa bogolo jotlhe jwa koloi le morwalo ke dimetara tse 4.3. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1019,21 +1019,21 @@
         "video_simulation_prompt": "3D Animation: Heavy truck tracking behind a lead vehicle with 4-second gap counter overlay."
       },
       "memory_tricks": {
-        "en": "Three or four seconds back — count \"one vetkoek, two vetkoek, three vetkoek, four\"!",
-        "af": "Drie tot vier sekondes — tel \"een vetkoek, twee vetkoek, drie vetkoek, vier\"!",
-        "xh": "Imizuzu emithathu ukuya kwemine — bala amagwinya: elinye, amabini, amathathu, amane!",
-        "zu": "Imizuzwana emithathu kuya kwemine — bala amagwinya: elilodwa, amabili, amathathu, amane!",
-        "st": "Metsotswana e tharo ho isa ho e nne — bala makoenya: e le mong, a mabedi, a mararo, a mane!",
-        "tn": "Metsotswana e le meraro go ya go e nne — bala magwinya: le le lengwe, a mabedi, a mararo, a mane!"
+        "en": "Three or four seconds back \u2014 count \"one vetkoek, two vetkoek, three vetkoek, four\"!",
+        "af": "Drie tot vier sekondes \u2014 tel \"een vetkoek, twee vetkoek, drie vetkoek, vier\"!",
+        "xh": "Imizuzu emithathu ukuya kwemine \u2014 bala amagwinya: elinye, amabini, amathathu, amane!",
+        "zu": "Imizuzwana emithathu kuya kwemine \u2014 bala amagwinya: elilodwa, amabili, amathathu, amane!",
+        "st": "Metsotswana e tharo ho isa ho e nne \u2014 bala makoenya: e le mong, a mabedi, a mararo, a mane!",
+        "tn": "Metsotswana e le meraro go ya go e nne \u2014 bala magwinya: le le lengwe, a mabedi, a mararo, a mane!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Swaar voertuie benodig 'n verlengde volgafstand van 3 tot 4 sekondes weens langer remafstande.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Izithuthi ezisindayo zifuna umgama olandelayo owelulekiweyo weemizuzwana emi-3 ukuya kwemi-4 ngenxa yemigama emide yokumisa.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Izimoto ezisindayo zidinga ibanga elandelayo elelulekile lemizuzwana emi-3 kuya kwemi-4 ngenxa yamabanga amade okumisa.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Dikoloi tse boima di hloka bokgole bo eketsehileng ba ho latela ba metsotswana e 3 ho isa ho 4 ka lebaka la dibaka tse telele tsa ho ema.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Dikoloi tse di boima di tlhoka sekgala se se oketsegileng sa go latela sa metsotswana e le 3 go ya go 4 ka ntlha ya dikgala tse di telele tsa go ema.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Swaar voertuie benodig 'n verlengde volgafstand van 3 tot 4 sekondes weens langer remafstande.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Izithuthi ezisindayo zifuna umgama olandelayo owelulekiweyo weemizuzwana emi-3 ukuya kwemi-4 ngenxa yemigama emide yokumisa.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Izimoto ezisindayo zidinga ibanga elandelayo elelulekile lemizuzwana emi-3 kuya kwemi-4 ngenxa yamabanga amade okumisa.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Dikoloi tse boima di hloka bokgole bo eketsehileng ba ho latela ba metsotswana e 3 ho isa ho 4 ka lebaka la dibaka tse telele tsa ho ema.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Dikoloi tse di boima di tlhoka sekgala se se oketsegileng sa go latela sa metsotswana e le 3 go ya go 4 ka ntlha ya dikgala tse di telele tsa go ema.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. Non-compliance results in test failure.",
@@ -1044,12 +1044,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Dikoloi tse di boima di tlhoka sekgala se se oketsegileng sa go latela sa metsotswana e le 3 go ya go 4 ka ntlha ya dikgala tse di telele tsa go ema. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Swaar voertuie benodig 'n verlengde volgafstand van 3 tot 4 sekondes weens langer remafstande. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Izithuthi ezisindayo zifuna umgama olandelayo owelulekiweyo weemizuzwana emi-3 ukuya kwemi-4 ngenxa yemigama emide yokumisa. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Izimoto ezisindayo zidinga ibanga elandelayo elelulekile lemizuzwana emi-3 kuya kwemi-4 ngenxa yamabanga amade okumisa. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Dikoloi tse boima di hloka bokgole bo eketsehileng ba ho latela ba metsotswana e 3 ho isa ho 4 ka lebaka la dibaka tse telele tsa ho ema. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Dikoloi tse di boima di tlhoka sekgala se se oketsegileng sa go latela sa metsotswana e le 3 go ya go 4 ka ntlha ya dikgala tse di telele tsa go ema. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Swaar voertuie benodig 'n verlengde volgafstand van 3 tot 4 sekondes weens langer remafstande. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Izithuthi ezisindayo zifuna umgama olandelayo owelulekiweyo weemizuzwana emi-3 ukuya kwemi-4 ngenxa yemigama emide yokumisa. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Izimoto ezisindayo zidinga ibanga elandelayo elelulekile lemizuzwana emi-3 kuya kwemi-4 ngenxa yamabanga amade okumisa. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Dikoloi tse boima di hloka bokgole bo eketsehileng ba ho latela ba metsotswana e 3 ho isa ho 4 ka lebaka la dibaka tse telele tsa ho ema. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Dikoloi tse di boima di tlhoka sekgala se se oketsegileng sa go latela sa metsotswana e le 3 go ya go 4 ka ntlha ya dikgala tse di telele tsa go ema. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1102,7 +1102,7 @@
       "correct_answer": "A",
       "explanation": {
         "en": "Official K53 yard test rules allow up to 2 forward correction movements during alley docking.",
-        "af": "Amptelike K53-werfe-toetsreëls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering.",
+        "af": "Amptelike K53-werfe-toetsre\u00ebls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering.",
         "xh": "Imithetho esemthethweni yovavanyo lwebala le-K53 ivumela ukuya kuthi ga kwizihlandlo ezibini zolungiso oluya phambili ngexesha lokungena kwindawo emxinwa.",
         "zu": "Imithetho esemthethweni yokuhlolwa kwegceke ye-K53 ivumela kuze kufike kokubili kokunyakaza kokulungisa okuya phambili ngesikhathi sokungena endaweni encane.",
         "st": "Melao e semmuso ya teko ya lebala la K53 e dumella ho fihla ho maqhubu a mabedi a tokiso a pele nakong ya ho kena sebakeng se moqotwana.",
@@ -1114,37 +1114,37 @@
         "video_simulation_prompt": "3D Animation: Top-down view of articulated truck alley docking maneuver showing 1st and 2nd forward correction pulls."
       },
       "memory_tricks": {
-        "en": "Two corrections, no more — the third time, the examiner checks his watch!",
-        "af": "Twee regstellings — die derde keer kyk die eksaminator na sy horlosie!",
-        "xh": "Okubini kolungiso — okwesithathu, umvavanyi ujonga iwotshi yakhe!",
-        "zu": "Okubili kokulungisa — okwesithathu, umhloli ubuka iwashi lakhe!",
-        "st": "Tokiso tse pedi — la boraro, mohlahlobi o sheba wachi ya hae!",
-        "tn": "Tokiso tse pedi — la boraro, mosekaseki o leba wachi ya gagwe!"
+        "en": "Two corrections, no more \u2014 the third time, the examiner checks his watch!",
+        "af": "Twee regstellings \u2014 die derde keer kyk die eksaminator na sy horlosie!",
+        "xh": "Okubini kolungiso \u2014 okwesithathu, umvavanyi ujonga iwotshi yakhe!",
+        "zu": "Okubili kokulungisa \u2014 okwesithathu, umhloli ubuka iwashi lakhe!",
+        "st": "Tokiso tse pedi \u2014 la boraro, mohlahlobi o sheba wachi ya hae!",
+        "tn": "Tokiso tse pedi \u2014 la boraro, mosekaseki o leba wachi ya gagwe!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Amptelike K53-werfe-toetsreëls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Imithetho esemthethweni yovavanyo lwebala le-K53 ivumela ukuya kuthi ga kwizihlandlo ezibini zolungiso oluya phambili ngexesha lokungena kwindawo emxinwa.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Imithetho esemthethweni yokuhlolwa kwegceke ye-K53 ivumela kuze kufike kokubili kokunyakaza kokulungisa okuya phambili ngesikhathi sokungena endaweni encane.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Melao e semmuso ya teko ya lebala la K53 e dumella ho fihla ho maqhubu a mabedi a tokiso a pele nakong ya ho kena sebakeng se moqotwana.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Melao e e semmuso ya teko ya lebala la K53 e letla go fitlha go matshikinyego a mabedi a tokiso a fa pele fa go tsena mo lefelong le lesesane.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Official K53 yard test rules allow up to 2 forward correction movements during alley docking.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Amptelike K53-werfe-toetsre\u00ebls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Imithetho esemthethweni yovavanyo lwebala le-K53 ivumela ukuya kuthi ga kwizihlandlo ezibini zolungiso oluya phambili ngexesha lokungena kwindawo emxinwa.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Imithetho esemthethweni yokuhlolwa kwegceke ye-K53 ivumela kuze kufike kokubili kokunyakaza kokulungisa okuya phambili ngesikhathi sokungena endaweni encane.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Melao e semmuso ya teko ya lebala la K53 e dumella ho fihla ho maqhubu a mabedi a tokiso a pele nakong ya ho kena sebakeng se moqotwana.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Melao e e semmuso ya teko ya lebala la K53 e letla go fitlha go matshikinyego a mabedi a tokiso a fa pele fa go tsena mo lefelong le lesesane.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. Non-compliance results in test failure.",
-          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Amptelike K53-werfe-toetsreëls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering. Nie-nakoming lei tot druip.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Amptelike K53-werfe-toetsre\u00ebls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering. Nie-nakoming lei tot druip.",
           "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Imithetho esemthethweni yovavanyo lwebala le-K53 ivumela ukuya kuthi ga kwizihlandlo ezibini zolungiso oluya phambili ngexesha lokungena kwindawo emxinwa. Ukungathobeli kukhokelela ekufeyileni.",
           "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Imithetho esemthethweni yokuhlolwa kwegceke ye-K53 ivumela kuze kufike kokubili kokunyakaza kokulungisa okuya phambili ngesikhathi sokungena endaweni encane. Ukungayithobeli kuholela ekuhlulekeni.",
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Melao e semmuso ya teko ya lebala la K53 e dumella ho fihla ho maqhubu a mabedi a tokiso a pele nakong ya ho kena sebakeng se moqotwana. Ho se mamele ho lebisa ho hloleheng.",
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Melao e e semmuso ya teko ya lebala la K53 e letla go fitlha go matshikinyego a mabedi a tokiso a fa pele fa go tsena mo lefelong le lesesane. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Amptelike K53-werfe-toetsreëls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Imithetho esemthethweni yovavanyo lwebala le-K53 ivumela ukuya kuthi ga kwizihlandlo ezibini zolungiso oluya phambili ngexesha lokungena kwindawo emxinwa. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Imithetho esemthethweni yokuhlolwa kwegceke ye-K53 ivumela kuze kufike kokubili kokunyakaza kokulungisa okuya phambili ngesikhathi sokungena endaweni encane. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Melao e semmuso ya teko ya lebala la K53 e dumella ho fihla ho maqhubu a mabedi a tokiso a pele nakong ya ho kena sebakeng se moqotwana. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Melao e e semmuso ya teko ya lebala la K53 e letla go fitlha go matshikinyego a mabedi a tokiso a fa pele fa go tsena mo lefelong le lesesane. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Official K53 yard test rules allow up to 2 forward correction movements during alley docking. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Amptelike K53-werfe-toetsre\u00ebls laat tot 2 voorwaartse regstellingsbewegings toe tydens alleeninparkering. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Imithetho esemthethweni yovavanyo lwebala le-K53 ivumela ukuya kuthi ga kwizihlandlo ezibini zolungiso oluya phambili ngexesha lokungena kwindawo emxinwa. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Imithetho esemthethweni yokuhlolwa kwegceke ye-K53 ivumela kuze kufike kokubili kokunyakaza kokulungisa okuya phambili ngesikhathi sokungena endaweni encane. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Melao e semmuso ya teko ya lebala la K53 e dumella ho fihla ho maqhubu a mabedi a tokiso a pele nakong ya ho kena sebakeng se moqotwana. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Melao e e semmuso ya teko ya lebala la K53 e letla go fitlha go matshikinyego a mabedi a tokiso a fa pele fa go tsena mo lefelong le lesesane. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1218,12 +1218,12 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: ''n Stywe goederevoertuig (enkelchassis) het 'n maksimum algehele lengtebeperking van 12.5 meter (18.5m vir kombinasies).' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Isithuthi esiqinileyo sempahla (ishasi elinye) sinomda wobude obupheleleyo ophezulu weemitha ezi-12.5 (i-18.5m kwimifuziselo).' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Imoto eqinile yempahla (ishasi elilodwa) inomkhawulo wobude obuphelele obuphakeme ongamamitha ayi-12.5 (ama-18.5m ezinhlanganiselo).' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Koloi e thata ya thepa (chassis e le nngwe) e na le moedi wa botelele bo felletseng bo phahameng ba dimithara tse 12.5 (18.5m bakeng sa dikopanyo).' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Koloi e e thata ya dithoto (chassis e le nngwe) e na le molelwane wa boleele jotlhe jo bo kwa godimo jwa dimetara tse 12.5 (18.5m bakeng sa dikopano).' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: ''n Stywe goederevoertuig (enkelchassis) het 'n maksimum algehele lengtebeperking van 12.5 meter (18.5m vir kombinasies).' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Isithuthi esiqinileyo sempahla (ishasi elinye) sinomda wobude obupheleleyo ophezulu weemitha ezi-12.5 (i-18.5m kwimifuziselo).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Imoto eqinile yempahla (ishasi elilodwa) inomkhawulo wobude obuphelele obuphakeme ongamamitha ayi-12.5 (ama-18.5m ezinhlanganiselo).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Koloi e thata ya thepa (chassis e le nngwe) e na le moedi wa botelele bo felletseng bo phahameng ba dimithara tse 12.5 (18.5m bakeng sa dikopanyo).' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Koloi e e thata ya dithoto (chassis e le nngwe) e na le molelwane wa boleele jotlhe jo bo kwa godimo jwa dimetara tse 12.5 (18.5m bakeng sa dikopano).' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). Non-compliance results in test failure.",
@@ -1234,12 +1234,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Koloi e e thata ya dithoto (chassis e le nngwe) e na le molelwane wa boleele jotlhe jo bo kwa godimo jwa dimetara tse 12.5 (18.5m bakeng sa dikopano). Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: 'n Stywe goederevoertuig (enkelchassis) het 'n maksimum algehele lengtebeperking van 12.5 meter (18.5m vir kombinasies). Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Isithuthi esiqinileyo sempahla (ishasi elinye) sinomda wobude obupheleleyo ophezulu weemitha ezi-12.5 (i-18.5m kwimifuziselo). Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Imoto eqinile yempahla (ishasi elilodwa) inomkhawulo wobude obuphelele obuphakeme ongamamitha ayi-12.5 (ama-18.5m ezinhlanganiselo). Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Koloi e thata ya thepa (chassis e le nngwe) e na le moedi wa botelele bo felletseng bo phahameng ba dimithara tse 12.5 (18.5m bakeng sa dikopanyo). O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Koloi e e thata ya dithoto (chassis e le nngwe) e na le molelwane wa boleele jotlhe jo bo kwa godimo jwa dimetara tse 12.5 (18.5m bakeng sa dikopano). O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: 'n Stywe goederevoertuig (enkelchassis) het 'n maksimum algehele lengtebeperking van 12.5 meter (18.5m vir kombinasies). Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Isithuthi esiqinileyo sempahla (ishasi elinye) sinomda wobude obupheleleyo ophezulu weemitha ezi-12.5 (i-18.5m kwimifuziselo). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Imoto eqinile yempahla (ishasi elilodwa) inomkhawulo wobude obuphelele obuphakeme ongamamitha ayi-12.5 (ama-18.5m ezinhlanganiselo). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Koloi e thata ya thepa (chassis e le nngwe) e na le moedi wa botelele bo felletseng bo phahameng ba dimithara tse 12.5 (18.5m bakeng sa dikopanyo). O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Koloi e e thata ya dithoto (chassis e le nngwe) e na le molelwane wa boleele jotlhe jo bo kwa godimo jwa dimetara tse 12.5 (18.5m bakeng sa dikopano). O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1304,21 +1304,21 @@
         "video_simulation_prompt": "3D Animation: Stopwatch timing 1-minute steady air gauge needle during leak check."
       },
       "memory_tricks": {
-        "en": "One full minute, hold it steady — that's the air test, are you ready?",
-        "af": "Een minuut lank, styf en stil — dis die lugtoets, teen jou wil!",
-        "xh": "Umzuzu omnye — bamba luzinzile!",
-        "zu": "Umzuzu owodwa — bamba izinzile!",
-        "st": "Motsotso o le mong — tshwara e tsitsitse!",
-        "tn": "Motsotso o le mongwe — tshegetsa e nitame!"
+        "en": "One full minute, hold it steady \u2014 that's the air test, are you ready?",
+        "af": "Een minuut lank, styf en stil \u2014 dis die lugtoets, teen jou wil!",
+        "xh": "Umzuzu omnye \u2014 bamba luzinzile!",
+        "zu": "Umzuzu owodwa \u2014 bamba izinzile!",
+        "st": "Motsotso o le mong \u2014 tshwara e tsitsitse!",
+        "tn": "Motsotso o le mongwe \u2014 tshegetsa e nitame!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Die lugremlek-toets vereis dat druk vir 1 minuut gehou word met die enjin af om stelselintegriteit te bevestig.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uvavanyo lokuvuza kwebhreki yomoya lufuna ukubamba uxinzelelo umzuzu omnye injini icinyiwe ukuqinisekisa ubuqotho benkqubo.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Ukuhlolwa kokuvuza kwebhuleki lomoya kudinga ukubamba ingcindezi umzuzu owodwa ngenjini icimile ukuze kuqinisekiswe ubuqotho besistimu.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Tlhahlobo ya ho dutla ha boreka ba moya e hloka ho tshwara khatello motsotso o le mong ha enjine e timile ho netefatsa botshepehi ba tsamaiso.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Tlhatlhobo ya go dutla ga boreka jwa moya e tlhoka go tshegetsa kgatelelo motsotso o le mongwe fa enjene e timilwe go netefatsa boitshepo jwa tsamaiso.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Die lugremlek-toets vereis dat druk vir 1 minuut gehou word met die enjin af om stelselintegriteit te bevestig.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uvavanyo lokuvuza kwebhreki yomoya lufuna ukubamba uxinzelelo umzuzu omnye injini icinyiwe ukuqinisekisa ubuqotho benkqubo.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Ukuhlolwa kokuvuza kwebhuleki lomoya kudinga ukubamba ingcindezi umzuzu owodwa ngenjini icimile ukuze kuqinisekiswe ubuqotho besistimu.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Tlhahlobo ya ho dutla ha boreka ba moya e hloka ho tshwara khatello motsotso o le mong ha enjine e timile ho netefatsa botshepehi ba tsamaiso.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Tlhatlhobo ya go dutla ga boreka jwa moya e tlhoka go tshegetsa kgatelelo motsotso o le mongwe fa enjene e timilwe go netefatsa boitshepo jwa tsamaiso.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. Non-compliance results in test failure.",
@@ -1329,12 +1329,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Tlhatlhobo ya go dutla ga boreka jwa moya e tlhoka go tshegetsa kgatelelo motsotso o le mongwe fa enjene e timilwe go netefatsa boitshepo jwa tsamaiso. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Die lugremlek-toets vereis dat druk vir 1 minuut gehou word met die enjin af om stelselintegriteit te bevestig. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uvavanyo lokuvuza kwebhreki yomoya lufuna ukubamba uxinzelelo umzuzu omnye injini icinyiwe ukuqinisekisa ubuqotho benkqubo. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Ukuhlolwa kokuvuza kwebhuleki lomoya kudinga ukubamba ingcindezi umzuzu owodwa ngenjini icimile ukuze kuqinisekiswe ubuqotho besistimu. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Tlhahlobo ya ho dutla ha boreka ba moya e hloka ho tshwara khatello motsotso o le mong ha enjine e timile ho netefatsa botshepehi ba tsamaiso. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Tlhatlhobo ya go dutla ga boreka jwa moya e tlhoka go tshegetsa kgatelelo motsotso o le mongwe fa enjene e timilwe go netefatsa boitshepo jwa tsamaiso. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Air brake leak check requires holding pressure for 1 minute with engine off to confirm system integrity. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Die lugremlek-toets vereis dat druk vir 1 minuut gehou word met die enjin af om stelselintegriteit te bevestig. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uvavanyo lokuvuza kwebhreki yomoya lufuna ukubamba uxinzelelo umzuzu omnye injini icinyiwe ukuqinisekisa ubuqotho benkqubo. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Ukuhlolwa kokuvuza kwebhuleki lomoya kudinga ukubamba ingcindezi umzuzu owodwa ngenjini icimile ukuze kuqinisekiswe ubuqotho besistimu. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Tlhahlobo ya ho dutla ha boreka ba moya e hloka ho tshwara khatello motsotso o le mong ha enjine e timile ho netefatsa botshepehi ba tsamaiso. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Tlhatlhobo ya go dutla ga boreka jwa moya e tlhoka go tshegetsa kgatelelo motsotso o le mongwe fa enjene e timilwe go netefatsa boitshepo jwa tsamaiso. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1399,21 +1399,21 @@
         "video_simulation_prompt": "3D Animation: Night scene of extended rear load with illuminated red light visible 150m away."
       },
       "memory_tricks": {
-        "en": "Load out at night needs a red light in sight — 150 metres, that's right!",
-        "af": "Vooruitstekend snags — rooi lig, 150 se afstand!",
-        "xh": "Ebusuku, okuphumayo — isibane esibomvu ukusuka kwi-150m!",
-        "zu": "Ebusuku, okuphumayo — isibani esibomvu kusukela ku-150m!",
-        "st": "Bosiu, se tswang — lebone le lefubedu ho tloha 150m!",
-        "tn": "Bosigo, se se tswang — lebone le le hibidu go tswa 150m!"
+        "en": "Load out at night needs a red light in sight \u2014 150 metres, that's right!",
+        "af": "Vooruitstekend snags \u2014 rooi lig, 150 se afstand!",
+        "xh": "Ebusuku, okuphumayo \u2014 isibane esibomvu ukusuka kwi-150m!",
+        "zu": "Ebusuku, okuphumayo \u2014 isibani esibomvu kusukela ku-150m!",
+        "st": "Bosiu, se tswang \u2014 lebone le lefubedu ho tloha 150m!",
+        "tn": "Bosigo, se se tswang \u2014 lebone le le hibidu go tswa 150m!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Nagtelike agteruitsteeksels van meer as 1.2m benodig 'n rooi lig sigbaar vanaf ten minste 150m.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Ukuphuma ngasemva ebusuku okungaphezulu kwe-1.2m kufuna isibane esibomvu esibonakalayo ukusuka kubuncinane kwiimitha ezi-150.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Ukuphuma ngasemuva ebusuku okungaphezu kuka-1.2m kudinga isibani esibomvu esibonakala kusukela okungenani kumamitha ayi-150.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Ho tswa ka morao bosiu ho fetang 1.2m ho hloka lebone le lefubedu le bonahalang ho tloha bonyane dimithara tse 150.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Go tswela kwa morago bosigo go go fetang 1.2m go tlhoka lebone le le hibidu le le bonalang go tswa bonnyennyennye dimetara tse 150.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Nighttime rearward projections over 1.2m require a red light visible from at least 150m.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Nagtelike agteruitsteeksels van meer as 1.2m benodig 'n rooi lig sigbaar vanaf ten minste 150m.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Ukuphuma ngasemva ebusuku okungaphezulu kwe-1.2m kufuna isibane esibomvu esibonakalayo ukusuka kubuncinane kwiimitha ezi-150.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Ukuphuma ngasemuva ebusuku okungaphezu kuka-1.2m kudinga isibani esibomvu esibonakala kusukela okungenani kumamitha ayi-150.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Ho tswa ka morao bosiu ho fetang 1.2m ho hloka lebone le lefubedu le bonahalang ho tloha bonyane dimithara tse 150.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Go tswela kwa morago bosigo go go fetang 1.2m go tlhoka lebone le le hibidu le le bonalang go tswa bonnyennyennye dimetara tse 150.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. Non-compliance results in test failure.",
@@ -1424,12 +1424,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Go tswela kwa morago bosigo go go fetang 1.2m go tlhoka lebone le le hibidu le le bonalang go tswa bonnyennyennye dimetara tse 150. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Nagtelike agteruitsteeksels van meer as 1.2m benodig 'n rooi lig sigbaar vanaf ten minste 150m. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Ukuphuma ngasemva ebusuku okungaphezulu kwe-1.2m kufuna isibane esibomvu esibonakalayo ukusuka kubuncinane kwiimitha ezi-150. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Ukuphuma ngasemuva ebusuku okungaphezu kuka-1.2m kudinga isibani esibomvu esibonakala kusukela okungenani kumamitha ayi-150. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Ho tswa ka morao bosiu ho fetang 1.2m ho hloka lebone le lefubedu le bonahalang ho tloha bonyane dimithara tse 150. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Go tswela kwa morago bosigo go go fetang 1.2m go tlhoka lebone le le hibidu le le bonalang go tswa bonnyennyennye dimetara tse 150. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Nighttime rearward projections over 1.2m require a red light visible from at least 150m. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Nagtelike agteruitsteeksels van meer as 1.2m benodig 'n rooi lig sigbaar vanaf ten minste 150m. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Ukuphuma ngasemva ebusuku okungaphezulu kwe-1.2m kufuna isibane esibomvu esibonakalayo ukusuka kubuncinane kwiimitha ezi-150. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Ukuphuma ngasemuva ebusuku okungaphezu kuka-1.2m kudinga isibani esibomvu esibonakala kusukela okungenani kumamitha ayi-150. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Ho tswa ka morao bosiu ho fetang 1.2m ho hloka lebone le lefubedu le bonahalang ho tloha bonyane dimithara tse 150. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Go tswela kwa morago bosigo go go fetang 1.2m go tlhoka lebone le le hibidu le le bonalang go tswa bonnyennyennye dimetara tse 150. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1490,25 +1490,25 @@
       },
       "media": {
         "graphic_type": "axle_mass_limit",
-        "image_file": "images/signs/R203.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Truck axle rolling onto weighbridge plate under 8t axle limit sign."
       },
       "memory_tricks": {
-        "en": "Eight per axle, no more to add — that's a big elephant and then some!",
-        "af": "Agt ton per as — meer as 'n groot olifant, maar nie meer nie!",
-        "xh": "Iitoni ezi-8 nge-aksi — ngaphezu kwendlovu enkulu, kodwa hayi ngaphezulu!",
-        "zu": "Amathani ayi-8 nge-akse — ngaphezu kwendlovu enkulu, kodwa hhayi ngaphezulu!",
-        "st": "Ditone tse 8 ka aksele — ho feta tlou e kgolo, empa eseng ho feta!",
-        "tn": "Ditone tse 8 ka aekesele — go feta tlou e kgolo, mme eseng go feta!"
+        "en": "Eight per axle, no more to add \u2014 that's a big elephant and then some!",
+        "af": "Agt ton per as \u2014 meer as 'n groot olifant, maar nie meer nie!",
+        "xh": "Iitoni ezi-8 nge-aksi \u2014 ngaphezu kwendlovu enkulu, kodwa hayi ngaphezulu!",
+        "zu": "Amathani ayi-8 nge-akse \u2014 ngaphezu kwendlovu enkulu, kodwa hhayi ngaphezulu!",
+        "st": "Ditone tse 8 ka aksele \u2014 ho feta tlou e kgolo, empa eseng ho feta!",
+        "tn": "Ditone tse 8 ka aekesele \u2014 go feta tlou e kgolo, mme eseng go feta!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken R203 beperk die maksimum toelaatbare vrag op enige enkele as of aseenheid tot 8 ton.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu R203 luthintela umthwalo omkhulu ovunyelweyo kwi-aksi enye okanye iyunithi ye-aksi ukuya kutsho kwiitoni ezi-8.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu R203 lukhawulela umthwalo omkhulu ovunyelwe ku-akse eyodwa noma iyunithi ye-akse kuze kufike ezinthonelweni eziyi-8.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sesupo R203 se thibela mojaro o phahameng o dumelletsweng ho aksele e le nngwe kapa yuniti ya aksele ho fihla ditoneng tse 8.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Letshwao R203 le gana morwalo o mogolo o o letleletsweng mo aekeseleng e le nngwe kgotsa yuniti ya aekesele go fitlha ditoneng tse 8.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Teken R203 beperk die maksimum toelaatbare vrag op enige enkele as of aseenheid tot 8 ton.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R203 luthintela umthwalo omkhulu ovunyelweyo kwi-aksi enye okanye iyunithi ye-aksi ukuya kutsho kwiitoni ezi-8.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Uphawu R203 lukhawulela umthwalo omkhulu ovunyelwe ku-akse eyodwa noma iyunithi ye-akse kuze kufike ezinthonelweni eziyi-8.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sesupo R203 se thibela mojaro o phahameng o dumelletsweng ho aksele e le nngwe kapa yuniti ya aksele ho fihla ditoneng tse 8.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Letshwao R203 le gana morwalo o mogolo o o letleletsweng mo aekeseleng e le nngwe kgotsa yuniti ya aekesele go fitlha ditoneng tse 8.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. Non-compliance results in test failure.",
@@ -1519,12 +1519,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao R203 le gana morwalo o mogolo o o letleletsweng mo aekeseleng e le nngwe kgotsa yuniti ya aekesele go fitlha ditoneng tse 8. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Teken R203 beperk die maksimum toelaatbare vrag op enige enkele as of aseenheid tot 8 ton. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R203 luthintela umthwalo omkhulu ovunyelweyo kwi-aksi enye okanye iyunithi ye-aksi ukuya kutsho kwiitoni ezi-8. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R203 lukhawulela umthwalo omkhulu ovunyelwe ku-akse eyodwa noma iyunithi ye-akse kuze kufike ezinthonelweni eziyi-8. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R203 se thibela mojaro o phahameng o dumelletsweng ho aksele e le nngwe kapa yuniti ya aksele ho fihla ditoneng tse 8. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R203 le gana morwalo o mogolo o o letleletsweng mo aekeseleng e le nngwe kgotsa yuniti ya aekesele go fitlha ditoneng tse 8. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign R203 restricts the maximum allowable load bearing on any single axle or axle unit to 8 tonnes. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Teken R203 beperk die maksimum toelaatbare vrag op enige enkele as of aseenheid tot 8 ton. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu R203 luthintela umthwalo omkhulu ovunyelweyo kwi-aksi enye okanye iyunithi ye-aksi ukuya kutsho kwiitoni ezi-8. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Uphawu R203 lukhawulela umthwalo omkhulu ovunyelwe ku-akse eyodwa noma iyunithi ye-akse kuze kufike ezinthonelweni eziyi-8. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo R203 se thibela mojaro o phahameng o dumelletsweng ho aksele e le nngwe kapa yuniti ya aksele ho fihla ditoneng tse 8. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao R203 le gana morwalo o mogolo o o letleletsweng mo aekeseleng e le nngwe kgotsa yuniti ya aekesele go fitlha ditoneng tse 8. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1589,21 +1589,21 @@
         "video_simulation_prompt": "3D Animation: Hand activating trolley valve lever in truck cab while trailer brakes engage."
       },
       "memory_tricks": {
-        "en": "Trolley valve, trailer's own — brakes it holds, on its own!",
+        "en": "Trolley valve, trailer's own \u2014 brakes it holds, on its own!",
         "af": "Trollieklep gee die sleepwa sy eie rem!",
-        "xh": "Ivalve yetroli — iibhreki zetreyile zizimele zodwa!",
-        "zu": "Ivalvu yetroli — amabhuleki etreyila azimele wodwa!",
-        "st": "Valve ya trolley — boreka ba terele bo ikemetse bo le bong!",
-        "tn": "Vaalefe ya trolley — boreka jwa thelele bo ipusa bo le bosi!"
+        "xh": "Ivalve yetroli \u2014 iibhreki zetreyile zizimele zodwa!",
+        "zu": "Ivalvu yetroli \u2014 amabhuleki etreyila azimele wodwa!",
+        "st": "Valve ya trolley \u2014 boreka ba terele bo ikemetse bo le bong!",
+        "tn": "Vaalefe ya trolley \u2014 boreka jwa thelele bo ipusa bo le bosi!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Die sleepwaremkontrole-klep bedien sleepwaremme onafhanklik om te verhoed dat die kombinasie insnoer.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Ivalve yolawulo lwebhreki yetreyile isebenzisa iibhreki zetreyile ngokuzimela ukuthintela ukugoba njengengqingqa.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Ivalvu yokulawula ibhuleki letreyila isebenzisa amabhuleki etreyila ngokuzimela ukuvimbela ukugoqeka.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Valve ya taolo ya boreka ba terele e sebedisa boreka ba terele ka boikemelo ho thibela ho mena jwaloka mokotla.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Vaalefe ya taolo ya boreka jwa thelele e dirisa boreka jwa thelele ka boipuso go thibela go kobega jaaka thipa.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The trailer brake control valve operates trailer brakes independently to prevent jackknifing.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Die sleepwaremkontrole-klep bedien sleepwaremme onafhanklik om te verhoed dat die kombinasie insnoer.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Ivalve yolawulo lwebhreki yetreyile isebenzisa iibhreki zetreyile ngokuzimela ukuthintela ukugoba njengengqingqa.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Ivalvu yokulawula ibhuleki letreyila isebenzisa amabhuleki etreyila ngokuzimela ukuvimbela ukugoqeka.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Valve ya taolo ya boreka ba terele e sebedisa boreka ba terele ka boikemelo ho thibela ho mena jwaloka mokotla.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Vaalefe ya taolo ya boreka jwa thelele e dirisa boreka jwa thelele ka boipuso go thibela go kobega jaaka thipa.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. Non-compliance results in test failure.",
@@ -1614,12 +1614,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Vaalefe ya taolo ya boreka jwa thelele e dirisa boreka jwa thelele ka boipuso go thibela go kobega jaaka thipa. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Die sleepwaremkontrole-klep bedien sleepwaremme onafhanklik om te verhoed dat die kombinasie insnoer. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Ivalve yolawulo lwebhreki yetreyile isebenzisa iibhreki zetreyile ngokuzimela ukuthintela ukugoba njengengqingqa. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Ivalvu yokulawula ibhuleki letreyila isebenzisa amabhuleki etreyila ngokuzimela ukuvimbela ukugoqeka. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Valve ya taolo ya boreka ba terele e sebedisa boreka ba terele ka boikemelo ho thibela ho mena jwaloka mokotla. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Vaalefe ya taolo ya boreka jwa thelele e dirisa boreka jwa thelele ka boipuso go thibela go kobega jaaka thipa. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The trailer brake control valve operates trailer brakes independently to prevent jackknifing. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Die sleepwaremkontrole-klep bedien sleepwaremme onafhanklik om te verhoed dat die kombinasie insnoer. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Ivalve yolawulo lwebhreki yetreyile isebenzisa iibhreki zetreyile ngokuzimela ukuthintela ukugoba njengengqingqa. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Ivalvu yokulawula ibhuleki letreyila isebenzisa amabhuleki etreyila ngokuzimela ukuvimbela ukugoqeka. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Valve ya taolo ya boreka ba terele e sebedisa boreka ba terele ka boikemelo ho thibela ho mena jwaloka mokotla. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Vaalefe ya taolo ya boreka jwa thelele e dirisa boreka jwa thelele ka boipuso go thibela go kobega jaaka thipa. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1684,21 +1684,21 @@
         "video_simulation_prompt": "3D Animation: Dimension arrow across articulated interlink showing 18.5m max combination length."
       },
       "memory_tricks": {
-        "en": "Combination's call — eighteen-five, that's all!",
-        "af": "Kombinasie se maat — agtien-vyf, dis die maatstaf!",
-        "xh": "Umfuziselo — u-18.5 kuphela!",
-        "zu": "Inhlanganisela — u-18.5 kuphela!",
-        "st": "Kopanyo — 18.5 feela!",
-        "tn": "Kopano — 18.5 fela!"
+        "en": "Combination's call \u2014 eighteen-five, that's all!",
+        "af": "Kombinasie se maat \u2014 agtien-vyf, dis die maatstaf!",
+        "xh": "Umfuziselo \u2014 u-18.5 kuphela!",
+        "zu": "Inhlanganisela \u2014 u-18.5 kuphela!",
+        "st": "Kopanyo \u2014 18.5 feela!",
+        "tn": "Kopano \u2014 18.5 fela!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Skarniervoertuigkombinasies het 'n wettige maksimum lengtebeperking van 18.5 meter.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Imifuziselo yezithuthi ezidibeneyo inomda wobude obusemthethweni ophezulu weemitha ezi-18.5.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Izinhlanganisela zezimoto ezixhunyiwe zinomkhawulo wobude obusemthethweni ophakeme ongamamitha ayi-18.5.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Dikopanyo tsa dikoloi tse hokahaneng di na le moedi wa botelele o semmuso o phahameng wa dimithara tse 18.5.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Dikopano tsa dikoloi tse di kgokagantsweng di na le molelwane wa boleele jo bo semmuso jo bo kwa godimo jwa dimetara tse 18.5.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Articulated vehicle combinations have a maximum legal length limit of 18.5 metres.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Skarniervoertuigkombinasies het 'n wettige maksimum lengtebeperking van 18.5 meter.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Imifuziselo yezithuthi ezidibeneyo inomda wobude obusemthethweni ophezulu weemitha ezi-18.5.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Izinhlanganisela zezimoto ezixhunyiwe zinomkhawulo wobude obusemthethweni ophakeme ongamamitha ayi-18.5.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Dikopanyo tsa dikoloi tse hokahaneng di na le moedi wa botelele o semmuso o phahameng wa dimithara tse 18.5.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Dikopano tsa dikoloi tse di kgokagantsweng di na le molelwane wa boleele jo bo semmuso jo bo kwa godimo jwa dimetara tse 18.5.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. Non-compliance results in test failure.",
@@ -1709,12 +1709,12 @@
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Dikopano tsa dikoloi tse di kgokagantsweng di na le molelwane wa boleele jo bo semmuso jo bo kwa godimo jwa dimetara tse 18.5. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Skarniervoertuigkombinasies het 'n wettige maksimum lengtebeperking van 18.5 meter. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Imifuziselo yezithuthi ezidibeneyo inomda wobude obusemthethweni ophezulu weemitha ezi-18.5. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Izinhlanganisela zezimoto ezixhunyiwe zinomkhawulo wobude obusemthethweni ophakeme ongamamitha ayi-18.5. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Dikopanyo tsa dikoloi tse hokahaneng di na le moedi wa botelele o semmuso o phahameng wa dimithara tse 18.5. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Dikopano tsa dikoloi tse di kgokagantsweng di na le molelwane wa boleele jo bo semmuso jo bo kwa godimo jwa dimetara tse 18.5. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Articulated vehicle combinations have a maximum legal length limit of 18.5 metres. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Skarniervoertuigkombinasies het 'n wettige maksimum lengtebeperking van 18.5 meter. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Imifuziselo yezithuthi ezidibeneyo inomda wobude obusemthethweni ophezulu weemitha ezi-18.5. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Izinhlanganisela zezimoto ezixhunyiwe zinomkhawulo wobude obusemthethweni ophakeme ongamamitha ayi-18.5. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Dikopanyo tsa dikoloi tse hokahaneng di na le moedi wa botelele o semmuso o phahameng wa dimithara tse 18.5. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Dikopano tsa dikoloi tse di kgokagantsweng di na le molelwane wa boleele jo bo semmuso jo bo kwa godimo jwa dimetara tse 18.5. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1730,7 +1730,7 @@
         "xh": "Yintoni elumkisa abaqhubi luphawu olungunxande olumdaka olunekhamera phezu kwerobhothi yendlela (Uphawu IN25)?",
         "zu": "Yini exwayisa abashayeli uphawu olulisikwele elinsundu elinekhamera phezu kwerobhothi lomgwaqo (Uphawu IN25)?",
         "st": "Ke eng seo se lemosang bakgweli sesupo se sehlangothi se sebala botsho se nang le khamera hodima robot ya tsela (Sesupo IN25)?",
-        "tn": "Ke eng se se tlhagisang bakgweetsi ka sona letshwao la khutlonnetlha le lesotho le le nang le khamera kwa godimo ga rôbôtô ya tsela (Letshwao IN25)?"
+        "tn": "Ke eng se se tlhagisang bakgweetsi ka sona letshwao la khutlonnetlha le lesotho le le nang le khamera kwa godimo ga r\u00f4b\u00f4t\u00f4 ya tsela (Letshwao IN25)?"
       },
       "options": {
         "en": {
@@ -1759,9 +1759,9 @@
           "C": "C) Depo ya ho lokisa robot ya tsela."
         },
         "tn": {
-          "A": "A) Khamera e e itirang ya rôbôtô le lobelo ya go tirisediwa molao kwa mahakanelong.",
+          "A": "A) Khamera e e itirang ya r\u00f4b\u00f4t\u00f4 le lobelo ya go tirisediwa molao kwa mahakanelong.",
           "B": "B) Setudio sa thelebishene kwa pele.",
-          "C": "C) Depo ya go baakanya rôbôtô ya tsela."
+          "C": "C) Depo ya go baakanya r\u00f4b\u00f4t\u00f4 ya tsela."
         }
       },
       "correct_answer": "A",
@@ -1771,29 +1771,29 @@
         "xh": "Uphawu IN25 lulumkisa abaqhubi ukuba ukwaphulwa kwerobhothi ebomvu nokukhawuleza kubukelwa ngamakhamera azenzekelayo.",
         "zu": "Uphawu IN25 luxwayisa abashayeli ukuthi ukwephulwa kwerobhothi elibomvu nokushesha kuqashwa amakhamera azenzakalelayo.",
         "st": "Sesupo IN25 se lemosa bakgweli hore ho tlola robot e kgubedu le ho akgehla ho lekolwa ke dikhamera tse ikentseng.",
-        "tn": "Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga rôbôtô e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang."
+        "tn": "Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga r\u00f4b\u00f4t\u00f4 e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang."
       },
       "media": {
         "graphic_type": "camera_traffic_light",
-        "image_file": "images/signs/IN25.svg",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation: Camera flashing as vehicle passes through red light camera intersection."
       },
       "memory_tricks": {
-        "en": "Camera and light — catches you if you're not right!",
-        "af": "Kamera en robot — hulle vang jou as jy te vinnig trot!",
-        "xh": "Ikhamera nerobhothi — ziyakubamba xa wenza okubi!",
-        "zu": "Ikhamera nerobhothi — ziyakubamba uma wenza okubi!",
-        "st": "Khamera le robot — di a o tshwara ha o etsa phoso!",
-        "tn": "Khamera le rôbôtô — di a go tshwara fa o dira phoso!"
+        "en": "Camera and light \u2014 catches you if you're not right!",
+        "af": "Kamera en robot \u2014 hulle vang jou as jy te vinnig trot!",
+        "xh": "Ikhamera nerobhothi \u2014 ziyakubamba xa wenza okubi!",
+        "zu": "Ikhamera nerobhothi \u2014 ziyakubamba uma wenza okubi!",
+        "st": "Khamera le robot \u2014 di a o tshwara ha o etsa phoso!",
+        "tn": "Khamera le r\u00f4b\u00f4t\u00f4 \u2014 di a go tshwara fa o dira phoso!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken IN25 waarsku bestuurders dat rooiligoortredings en spoed deur outomatiese kameras gemonitor word.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu IN25 lulumkisa abaqhubi ukuba ukwaphulwa kwerobhothi ebomvu nokukhawuleza kubukelwa ngamakhamera azenzekelayo.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu IN25 luxwayisa abashayeli ukuthi ukwephulwa kwerobhothi elibomvu nokushesha kuqashwa amakhamera azenzakalelayo.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sesupo IN25 se lemosa bakgweli hore ho tlola robot e kgubedu le ho akgehla ho lekolwa ke dikhamera tse ikentseng.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga rôbôtô e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Teken IN25 waarsku bestuurders dat rooiligoortredings en spoed deur outomatiese kameras gemonitor word.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uphawu IN25 lulumkisa abaqhubi ukuba ukwaphulwa kwerobhothi ebomvu nokukhawuleza kubukelwa ngamakhamera azenzekelayo.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Uphawu IN25 luxwayisa abashayeli ukuthi ukwephulwa kwerobhothi elibomvu nokushesha kuqashwa amakhamera azenzakalelayo.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sesupo IN25 se lemosa bakgweli hore ho tlola robot e kgubedu le ho akgehla ho lekolwa ke dikhamera tse ikentseng.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga r\u00f4b\u00f4t\u00f4 e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. Non-compliance results in test failure.",
@@ -1801,15 +1801,15 @@
           "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Uphawu IN25 lulumkisa abaqhubi ukuba ukwaphulwa kwerobhothi ebomvu nokukhawuleza kubukelwa ngamakhamera azenzekelayo. Ukungathobeli kukhokelela ekufeyileni.",
           "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Uphawu IN25 luxwayisa abashayeli ukuthi ukwephulwa kwerobhothi elibomvu nokushesha kuqashwa amakhamera azenzakalelayo. Ukungayithobeli kuholela ekuhlulekeni.",
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sesupo IN25 se lemosa bakgweli hore ho tlola robot e kgubedu le ho akgehla ho lekolwa ke dikhamera tse ikentseng. Ho se mamele ho lebisa ho hloleheng.",
-          "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga rôbôtô e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang. Go sa latele go isa go go paleng teko."
+          "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga r\u00f4b\u00f4t\u00f4 e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Teken IN25 waarsku bestuurders dat rooiligoortredings en spoed deur outomatiese kameras gemonitor word. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu IN25 lulumkisa abaqhubi ukuba ukwaphulwa kwerobhothi ebomvu nokukhawuleza kubukelwa ngamakhamera azenzekelayo. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Uphawu IN25 luxwayisa abashayeli ukuthi ukwephulwa kwerobhothi elibomvu nokushesha kuqashwa amakhamera azenzakalelayo. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo IN25 se lemosa bakgweli hore ho tlola robot e kgubedu le ho akgehla ho lekolwa ke dikhamera tse ikentseng. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga rôbôtô e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Sign IN25 alerts drivers that red-light violations and speeding are monitored by automated cameras. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Teken IN25 waarsku bestuurders dat rooiligoortredings en spoed deur outomatiese kameras gemonitor word. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uphawu IN25 lulumkisa abaqhubi ukuba ukwaphulwa kwerobhothi ebomvu nokukhawuleza kubukelwa ngamakhamera azenzekelayo. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Uphawu IN25 luxwayisa abashayeli ukuthi ukwephulwa kwerobhothi elibomvu nokushesha kuqashwa amakhamera azenzakalelayo. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sesupo IN25 se lemosa bakgweli hore ho tlola robot e kgubedu le ho akgehla ho lekolwa ke dikhamera tse ikentseng. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Letshwao IN25 le tlhagisa bakgweetsi gore go tlolwa ga r\u00f4b\u00f4t\u00f4 e hibidu le go akofisa go beilwe leitlho ke dikhamera tse di itirang. O go sireletsa jang mo tseleng?"
         }
       }
     },
@@ -1836,7 +1836,7 @@
         "af": {
           "A": "A) Verifieer dat die sluitkake volledig om die koningspen gesluit is, veiligheidsgrendel gesluit is, en geen gaping tussen plaat en voorskoot is nie.",
           "B": "B) Kyk bandspanning.",
-          "C": "C) Kyk voorruit-veërblaaie."
+          "C": "C) Kyk voorruit-ve\u00ebrblaaie."
         },
         "xh": {
           "A": "A) Qinisekisa ukuba umhlathi wokutshixa ubambe ngokupheleleyo ngeenxa zonke ze-kingpin, isivalo sokhuseleko sitshixiwe, kwaye akukho sikhewu phakathi kwepleyiti nefaskoti.",
@@ -1862,7 +1862,7 @@
       "correct_answer": "A",
       "explanation": {
         "en": "Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.",
-        "af": "Vyfdewiel-inspeksie vereis verifiëring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping.",
+        "af": "Vyfdewiel-inspeksie vereis verifi\u00ebring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping.",
         "xh": "Uhlolo lwevili lesihlanu lufuna ukuqinisekiswa kokubambeka komhlathi we-kingpin, indawo yesivalo sokhuseleko, nesikhewu esingumsobo sepleyiti.",
         "zu": "Ukuhlolwa kwesondo lesihlanu kudinga ukuqinisekiswa kokubambeka komhlathi we-kingpin, isikhundla sesivalo sokuphepha, nesikhala esiyize sepuleti.",
         "st": "Tlhahlobo ya sesondo sa bohlano e hloka ho netefatswa ha ho tshwarwa ha mohlahare wa kingpin, sebaka sa notlolo ya tshireletso, le sekgala sa poleiti se leqe.",
@@ -1874,37 +1874,37 @@
         "video_simulation_prompt": "3D Animation: Close-up of fifth wheel coupling checking kingpin lock jaw and safety release handle."
       },
       "memory_tricks": {
-        "en": "Kingpin locked, latch shut tight — no divorce for trailer and truck on the N1!",
-        "af": "Koningspen toe, grendel styf — geen egskeiding tussen sleepwa en trekker op die N1!",
-        "xh": "I-kingpin itshixiwe, isivalo sivaliwe — akukho kwahlukana kwetreyile netrakta e-N1!",
-        "zu": "I-kingpin ikhiyiwe, isivalo sivaliwe — akukho sehlukaniso phakathi kwetreyila nethrakthara e-N1!",
-        "st": "Kingpin e notletswe, notlolo e kwetswe — ha ho kgaohano ya terele le tractor N1!",
-        "tn": "Kingpin e notletswe, notlelo e kwetswe — ga go kgaogano ya thelele le terekere mo N1!"
+        "en": "Kingpin locked, latch shut tight \u2014 no divorce for trailer and truck on the N1!",
+        "af": "Koningspen toe, grendel styf \u2014 geen egskeiding tussen sleepwa en trekker op die N1!",
+        "xh": "I-kingpin itshixiwe, isivalo sivaliwe \u2014 akukho kwahlukana kwetreyile netrakta e-N1!",
+        "zu": "I-kingpin ikhiyiwe, isivalo sivaliwe \u2014 akukho sehlukaniso phakathi kwetreyila nethrakthara e-N1!",
+        "st": "Kingpin e notletswe, notlolo e kwetswe \u2014 ha ho kgaohano ya terele le tractor N1!",
+        "tn": "Kingpin e notletswe, notlelo e kwetswe \u2014 ga go kgaogano ya thelele le terekere mo N1!"
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Vyfdewiel-inspeksie vereis verifiëring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uhlolo lwevili lesihlanu lufuna ukuqinisekiswa kokubambeka komhlathi we-kingpin, indawo yesivalo sokhuseleko, nesikhewu esingumsobo sepleyiti.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Ukuhlolwa kwesondo lesihlanu kudinga ukuqinisekiswa kokubambeka komhlathi we-kingpin, isikhundla sesivalo sokuphepha, nesikhala esiyize sepuleti.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Tlhahlobo ya sesondo sa bohlano e hloka ho netefatswa ha ho tshwarwa ha mohlahare wa kingpin, sebaka sa notlolo ya tshireletso, le sekgala sa poleiti se leqe.' O se ke wa lahlehelwa ke dintlha!",
-          "tn": "Ema fao, mogale! 🏎️ Gakologelwa: 'Tlhatlhobo ya leotwana la boraro fa e le tlhano e tlhoka go netefatsa go tshwarega ga lonoka lwa kingpin, boemo jwa notlelo ya tshireletso, le sekgala se se se yong sa poleite.' O se ka wa latlhegelwa ke dintlha!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Vyfdewiel-inspeksie vereis verifi\u00ebring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Uhlolo lwevili lesihlanu lufuna ukuqinisekiswa kokubambeka komhlathi we-kingpin, indawo yesivalo sokhuseleko, nesikhewu esingumsobo sepleyiti.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Ukuhlolwa kwesondo lesihlanu kudinga ukuqinisekiswa kokubambeka komhlathi we-kingpin, isikhundla sesivalo sokuphepha, nesikhala esiyize sepuleti.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Tlhahlobo ya sesondo sa bohlano e hloka ho netefatswa ha ho tshwarwa ha mohlahare wa kingpin, sebaka sa notlolo ya tshireletso, le sekgala sa poleiti se leqe.' O se ke wa lahlehelwa ke dintlha!",
+          "tn": "Ema fao, mogale! \ud83c\udfce\ufe0f Gakologelwa: 'Tlhatlhobo ya leotwana la boraro fa e le tlhano e tlhoka go netefatsa go tshwarega ga lonoka lwa kingpin, boemo jwa notlelo ya tshireletso, le sekgala se se se yong sa poleite.' O se ka wa latlhegelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. Non-compliance results in test failure.",
-          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Vyfdewiel-inspeksie vereis verifiëring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping. Nie-nakoming lei tot druip.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Vyfdewiel-inspeksie vereis verifi\u00ebring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping. Nie-nakoming lei tot druip.",
           "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Uhlolo lwevili lesihlanu lufuna ukuqinisekiswa kokubambeka komhlathi we-kingpin, indawo yesivalo sokhuseleko, nesikhewu esingumsobo sepleyiti. Ukungathobeli kukhokelela ekufeyileni.",
           "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Ukuhlolwa kwesondo lesihlanu kudinga ukuqinisekiswa kokubambeka komhlathi we-kingpin, isikhundla sesivalo sokuphepha, nesikhala esiyize sepuleti. Ukungayithobeli kuholela ekuhlulekeni.",
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Tlhahlobo ya sesondo sa bohlano e hloka ho netefatswa ha ho tshwarwa ha mohlahare wa kingpin, sebaka sa notlolo ya tshireletso, le sekgala sa poleiti se leqe. Ho se mamele ho lebisa ho hloleheng.",
           "tn": "Ela tlhoko Mokgweetsi. Kafa tlase ga Melao ya Tsela ya Setshaba: Tlhatlhobo ya leotwana la boraro fa e le tlhano e tlhoka go netefatsa go tshwarega ga lonoka lwa kingpin, boemo jwa notlelo ya tshireletso, le sekgala se se se yong sa poleite. Go sa latele go isa go go paleng teko."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Vyfdewiel-inspeksie vereis verifiëring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Uhlolo lwevili lesihlanu lufuna ukuqinisekiswa kokubambeka komhlathi we-kingpin, indawo yesivalo sokhuseleko, nesikhewu esingumsobo sepleyiti. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Ukuhlolwa kwesondo lesihlanu kudinga ukuqinisekiswa kokubambeka komhlathi we-kingpin, isikhundla sesivalo sokuphepha, nesikhala esiyize sepuleti. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Tlhahlobo ya sesondo sa bohlano e hloka ho netefatswa ha ho tshwarwa ha mohlahare wa kingpin, sebaka sa notlolo ya tshireletso, le sekgala sa poleiti se leqe. O o sireletsa jwang?",
-          "tn": "A re sekaseke seno mmogo 🤔 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Tlhatlhobo ya leotwana la boraro fa e le tlhano e tlhoka go netefatsa go tshwarega ga lonoka lwa kingpin, boemo jwa notlelo ya tshireletso, le sekgala se se se yong sa poleite. O go sireletsa jang mo tseleng?"
+          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Vyfdewiel-inspeksie vereis verifi\u00ebring van koningspen-kaakomsluiting, veiligheidsgrendelposisie, en nul plaatgaping. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Uhlolo lwevili lesihlanu lufuna ukuqinisekiswa kokubambeka komhlathi we-kingpin, indawo yesivalo sokhuseleko, nesikhewu esingumsobo sepleyiti. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Ukuhlolwa kwesondo lesihlanu kudinga ukuqinisekiswa kokubambeka komhlathi we-kingpin, isikhundla sesivalo sokuphepha, nesikhala esiyize sepuleti. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Tlhahlobo ya sesondo sa bohlano e hloka ho netefatswa ha ho tshwarwa ha mohlahare wa kingpin, sebaka sa notlolo ya tshireletso, le sekgala sa poleiti se leqe. O o sireletsa jwang?",
+          "tn": "A re sekaseke seno mmogo \ud83e\udd14 Ke ka ntlha yeng fa molao ono o le botlhokwa? Gakologelwa: Tlhatlhobo ya leotwana la boraro fa e le tlhano e tlhoka go netefatsa go tshwarega ga lonoka lwa kingpin, boemo jwa notlelo ya tshireletso, le sekgala se se se yong sa poleite. O go sireletsa jang mo tseleng?"
         }
       }
     }
