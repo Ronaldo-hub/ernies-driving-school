@@ -12,19 +12,19 @@
     {
       "code_id": "code1_motorcycle",
       "label": "Code 1 - Motorcycles / Bikes",
-      "file": "k53_demo_code1_motorcycle.json",
+      "file": "k53_code1_motorcycle.json",
       "questions": 20
     },
     {
       "code_id": "code2_light_vehicle",
       "label": "Code 2 - Light Motor Vehicles (Code 8 / Class B)",
-      "file": "k53_demo_code2_light_vehicle.json",
+      "file": "k53_code2_light_vehicle.json",
       "questions": 20
     },
     {
       "code_id": "code3_heavy_vehicle",
       "label": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
-      "file": "k53_demo_code3_heavy_vehicle.json",
+      "file": "k53_code3_heavy_vehicle.json",
       "questions": 20
     }
   ],

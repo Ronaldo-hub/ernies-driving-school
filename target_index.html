@@ -11,58 +11,56 @@
 
 
 
-
-
-
-<style id="k53-left-image-layout">
-  /* Main Container Sizing */
-  #quiz-container, .question-card {
-    max-width: 850px !important;
+<style id="k53-flex-layout-right">
+  /* Main Container Constraint */
+  .quiz-card-container, #quiz-container, .question-card {
+    max-width: 800px !important;
     margin: 0 auto !important;
+    padding: 16px !important;
   }
 
-  /* Two-Column Flex Container (row-reverse puts rightCol/Image on the LEFT) */
-  .k53-flex-row {
+  /* Two-column layout container */
+  .k53-row-wrapper {
     display: flex !important;
-    flex-direction: row-reverse !important;
+    flex-direction: row !important;
     justify-content: space-between !important;
     align-items: flex-start !important;
-    gap: 24px !important;
+    gap: 20px !important;
     width: 100% !important;
   }
 
-  /* Right Column in DOM = Text & Options (Displays on the RIGHT) */
+  /* Left Column: Question + Options */
   .k53-left-col {
-    flex: 1 1 68% !important;
+    flex: 1 1 65% !important;
     display: flex !important;
     flex-direction: column !important;
     min-width: 0 !important;
   }
 
-  /* Left Column in DOM = Image (Displays on the LEFT) */
+  /* Right Column: Image */
   .k53-right-col {
-    flex: 0 0 170px !important;
+    flex: 0 0 180px !important;
     display: flex !important;
     justify-content: center !important;
     align-items: flex-start !important;
-    margin-top: 6px !important;
   }
 
-  /* Enforce Strict Sign Image Sizing */
-  .k53-right-col img,
+  /* SVG & Image Size Boundary Constraints */
+  .k53-right-col img, 
   .k53-right-col svg,
-  #question-image {
-    max-width: 170px !important;
-    max-height: 170px !important;
-    width: 100% !important;
+  .question-media img,
+  #quiz-container img {
+    max-width: 180px !important;
+    max-height: 180px !important;
+    width: auto !important;
     height: auto !important;
     object-fit: contain !important;
-    border-radius: 8px !important;
+    display: block !important;
   }
 
-  /* Mobile Responsive Adjustment: Stack Image above Text on small screens */
+  /* Mobile responsiveness (Stack on narrow screens) */
   @media (max-width: 640px) {
-    .k53-flex-row {
+    .k53-row-wrapper {
       flex-direction: column-reverse !important;
       align-items: center !important;
     }
@@ -534,50 +532,167 @@
         window.onload = loadSelectedDataset;
     </script>
 
-
-
-
-<!-- DOM Restructuring Script for Left-Side Image Layout -->
 <script>
-  document.addEventListener("DOMContentLoaded", function() {
-    const observer = new MutationObserver((mutations) => {
-      mutations.forEach((mutation) => {
-        if (mutation.addedNodes.length) {
-          const quizContainer = document.getElementById('quiz-container') || document.querySelector('.question-card');
-          if (!quizContainer) return;
+/* Auto-injected: K53 Extra Keys Extraction (Memory Tricks & Persona Coaching) */
+(function() {
+    console.log("Initializing K53 Memory Tricks & Persona Coaching engine...");
 
-          const mediaElement = quizContainer.querySelector('img, svg, .question-media, #question-image-container');
-          const questionText = quizContainer.querySelector('h2, h3, p.question-text, .question-title');
-          const optionsList = quizContainer.querySelector('ul, .options-container, .options-group, #options-container');
+    // Helper to safely fetch memory tricks and coach responses
+    window.getK53Extras = function(question, lang = 'en', persona = 'witty_playful_coach') {
+        if (!question) return { memoryTrick: '', coachJoke: '' };
 
-          if (mediaElement && questionText && optionsList && !quizContainer.querySelector('.k53-flex-row')) {
-            const flexRow = document.createElement('div');
-            flexRow.className = 'k53-flex-row';
+        // Handle language fallback
+        const currentLang = lang || window.currentLanguage || 'en';
 
-            const textOptionsCol = document.createElement('div');
-            textOptionsCol.className = 'k53-left-col';
+        // Extract memory tricks
+        const memoryTrick = question.memory_tricks?.[currentLang] || question.memory_tricks?.en || '';
 
-            const mediaCol = document.createElement('div');
-            mediaCol.className = 'k53-right-col';
+        // Extract coach persona response / joke
+        const coachJoke = question.persona_responses?.[persona]?.[currentLang] 
+            || question.persona_responses?.witty_playful_coach?.[currentLang] 
+            || '';
 
-            mediaElement.parentNode.insertBefore(flexRow, mediaElement);
-            
-            if (questionText.parentNode) textOptionsCol.appendChild(questionText);
-            if (optionsList.parentNode) textOptionsCol.appendChild(optionsList);
-            if (mediaElement.parentNode) mediaCol.appendChild(mediaElement);
+        return { memoryTrick, coachJoke };
+    };
 
-            flexRow.appendChild(textOptionsCol);
-            flexRow.appendChild(mediaCol);
-          }
+    // Helper to render extras into feedback container
+    window.renderK53ExtrasUI = function(question, containerId = 'feedback-container') {
+        const extras = window.getK53Extras(question);
+        let container = document.getElementById(containerId) || document.querySelector('.feedback, #explanation, .explanation');
+
+        if (!container) {
+            container = document.createElement('div');
+            container.id = 'k53-extras-box';
+            document.body.appendChild(container);
         }
-      });
-    });
 
-    const targetNode = document.getElementById('quiz-container') || document.body;
-    if (targetNode) {
-      observer.observe(targetNode, { childList: true, subtree: true });
+        let html = '';
+        if (extras.memoryTrick) {
+            html += `<div style="background:#eef6ff; border-left:4px solid #2196F3; padding:10px; margin-top:10px; border-radius:4px;">
+                        <strong>💡 Memory Trick:</strong> ${extras.memoryTrick}
+                     </div>`;
+        }
+        if (extras.coachJoke) {
+            html += `<div style="background:#fff8e1; border-left:4px solid #FFC107; padding:10px; margin-top:10px; border-radius:4px;">
+                        <strong>🤠 Coach Says:</strong> ${extras.coachJoke}
+                     </div>`;
+        }
+
+        if (html) {
+            const extraDiv = document.createElement('div');
+            extraDiv.className = 'k53-injected-extras';
+            extraDiv.innerHTML = html;
+            container.appendChild(extraDiv);
+        }
+    };
+})();
+</script>
+
+
+<script>
+// --- Direct Fix for Memory Tricks & Persona Coaching Overlay ---
+(function() {
+    function patchFeedbackRendering() {
+        if (window.__k53_feedback_patched) return;
+        window.__k53_feedback_patched = true;
+
+        console.log("Applying K53 Persona & Memory Trick UI Patch...");
+
+        // Store original render logic if available or intercept global state
+        const originalSelectOption = window.selectOption || window.handleAnswer || window.checkAnswer;
+
+        // Function to resolve current active persona dropdown/selector value
+        function getActivePersona() {
+            const dropdown = document.querySelector('select[id*="persona"], select[class*="persona"], #persona-select, header select');
+            if (dropdown && dropdown.value) return dropdown.value;
+            return 'socratic_memory_guide'; // Fallback matching UI default
+        }
+
+        // Global interceptor for feedback box updates
+        window.renderCustomK53Feedback = function(questionObj, isCorrect) {
+            if (!questionObj) return;
+
+            const lang = window.currentLanguage || 'en';
+            const activePersonaKey = getActivePersona();
+
+            // Extract exact fields from JSON structure
+            const memoryTrickText = questionObj.memory_tricks?.[lang] 
+                || questionObj.memory_tricks?.en 
+                || questionObj.explanation 
+                || '';
+
+            const personaObject = questionObj.persona_responses || {};
+            let coachResponseText = '';
+
+            // Match selected persona key (e.g., socratic_memory_guide, witty_playful_coach, veteran_k53_examiner)
+            if (personaObject[activePersonaKey]) {
+                coachResponseText = personaObject[activePersonaKey][lang] || personaObject[activePersonaKey]['en'] || '';
+            } else {
+                // Pick first available persona response if exact key match isn't found
+                const firstKey = Object.keys(personaObject)[0];
+                if (firstKey) coachResponseText = personaObject[firstKey][lang] || personaObject[firstKey]['en'] || '';
+            }
+
+            // Locate feedback container in DOM
+            const feedbackContainer = document.querySelector('.feedback, #feedback-container, [id*="feedback"], .explanation-box');
+            
+            if (feedbackContainer) {
+                // Replace or append the detailed extra fields
+                let htmlContent = `
+                    <div style="font-weight: bold; font-size: 1.1em; margin-bottom: 8px;">
+                        ${isCorrect ? '✅ Correct!' : '❌ Incorrect!'}
+                    </div>
+                `;
+
+                if (memoryTrickText) {
+                    htmlContent += `
+                        <div style="margin-top: 6px; line-height: 1.4;">
+                            💡 <strong>Memory Trick:</strong> ${memoryTrickText}
+                        </div>
+                    `;
+                }
+
+                if (coachResponseText) {
+                    htmlContent += `
+                        <div style="margin-top: 10px; padding-top: 8px; border-top: 1px dashed rgba(255,255,255,0.2); font-style: italic;">
+                            🗣️ <strong>Coach Guidance:</strong> "${coachResponseText}"
+                        </div>
+                    `;
+                }
+
+                feedbackContainer.innerHTML = htmlContent;
+                feedbackContainer.style.display = 'block';
+            }
+        };
+
+        // Mutation Observer to auto-update feedback whenever answer feedback appears
+        const observer = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                if (mutation.type === 'childList' || mutation.type === 'characterData') {
+                    const currentQ = window.currentQuestion || (window.questions && window.questions[window.currentQuestionIndex]);
+                    if (currentQ && !mutation.target.classList?.contains('k53-patched-active')) {
+                        const feedbackEl = document.querySelector('.feedback, #feedback-container, [id*="feedback"]');
+                        if (feedbackEl && feedbackEl.innerHTML.includes('Memory Trick:')) {
+                            // Check if standard explanation was injected instead of mnemonic
+                            if (feedbackEl.innerHTML.includes(currentQ.explanation) && currentQ.memory_tricks) {
+                                feedbackEl.classList.add('k53-patched-active');
+                                window.renderCustomK53Feedback(currentQ, true);
+                            }
+                        }
+                    }
+                }
+            });
+        });
+
+        observer.observe(document.body, { childList: true, subtree: true });
     }
-  });
+
+    if (document.readyState === 'complete') {
+        patchFeedbackRendering();
+    } else {
+        window.addEventListener('load', patchFeedbackRendering);
+    }
+})();
 </script>
 
 </body>

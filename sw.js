@@ -1,4 +1,4 @@
-const CACHE_NAME = 'k53-v1';
+const CACHE_NAME = 'k53-v2';
 self.addEventListener('install', (e) => {
     e.waitUntil(
         caches.open(CACHE_NAME).then((cache) => {
