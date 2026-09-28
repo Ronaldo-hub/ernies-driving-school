@@ -56,23 +56,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Non-compliance results in immediate test failure.",
@@ -82,11 +82,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 2 is the windscreen wiper / washer control used during rainy or dirty conditions. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -142,23 +142,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Official K53 Module 3 starting sequence.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Official K53 Module 3 starting sequence.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Official K53 Module 3 starting sequence.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Official K53 Module 3 starting sequence.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Official K53 Module 3 starting sequence.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Official K53 Module 3 starting sequence.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Official K53 Module 3 starting sequence.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Official K53 Module 3 starting sequence.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Official K53 Module 3 starting sequence.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Official K53 Module 3 starting sequence.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Official K53 Module 3 starting sequence. Non-compliance results in immediate test failure.",
@@ -168,11 +168,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Official K53 Module 3 starting sequence. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Official K53 Module 3 starting sequence. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Official K53 Module 3 starting sequence. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Official K53 Module 3 starting sequence. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Official K53 Module 3 starting sequence. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Official K53 Module 3 starting sequence. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Official K53 Module 3 starting sequence. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Official K53 Module 3 starting sequence. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Official K53 Module 3 starting sequence. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Official K53 Module 3 starting sequence. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Official K53 Module 3 starting sequence. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -228,23 +228,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Non-compliance results in immediate test failure.",
@@ -254,11 +254,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Inspecting dual wheels requires checking tire condition, lug nuts, and verifying no rocks/objects are trapped between the inner and outer dual wheels. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -314,23 +314,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 8 is the clutch pedal used to disengage the engine during gear selection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Non-compliance results in immediate test failure.",
@@ -340,11 +340,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 8 is the clutch pedal used to disengage the engine during gear selection. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 8 is the clutch pedal used to disengage the engine during gear selection. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 8 is the clutch pedal used to disengage the engine during gear selection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -400,23 +400,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control 7/9 is used to secure the parked vehicle.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 7/9 is used to secure the parked vehicle.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 7/9 is used to secure the parked vehicle.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 7/9 is used to secure the parked vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 7/9 is used to secure the parked vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control 7/9 is used to secure the parked vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control 7/9 is used to secure the parked vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control 7/9 is used to secure the parked vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control 7/9 is used to secure the parked vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control 7/9 is used to secure the parked vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control 7/9 is used to secure the parked vehicle. Non-compliance results in immediate test failure.",
@@ -426,11 +426,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 7/9 is used to secure the parked vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 7/9 is used to secure the parked vehicle. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 7/9 is used to secure the parked vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 7/9 is used to secure the parked vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 7/9 is used to secure the parked vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 7/9 is used to secure the parked vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control 7/9 is used to secure the parked vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control 7/9 is used to secure the parked vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control 7/9 is used to secure the parked vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control 7/9 is used to secure the parked vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 7/9 is used to secure the parked vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -486,23 +486,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control 2 operates the windscreen wipers.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 2 operates the windscreen wipers.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 2 operates the windscreen wipers.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 2 operates the windscreen wipers.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 2 operates the windscreen wipers.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control 2 operates the windscreen wipers.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control 2 operates the windscreen wipers.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control 2 operates the windscreen wipers.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control 2 operates the windscreen wipers.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control 2 operates the windscreen wipers.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control 2 operates the windscreen wipers. Non-compliance results in immediate test failure.",
@@ -512,11 +512,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 2 operates the windscreen wipers. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 2 operates the windscreen wipers. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 2 operates the windscreen wipers. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 2 operates the windscreen wipers. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 2 operates the windscreen wipers. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 2 operates the windscreen wipers. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control 2 operates the windscreen wipers. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control 2 operates the windscreen wipers. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control 2 operates the windscreen wipers. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control 2 operates the windscreen wipers. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 2 operates the windscreen wipers. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -572,23 +572,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Non-compliance results in immediate test failure.",
@@ -598,11 +598,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 Module 15/32 requires checking mirrors and blind spot, signalling in good time, gearing down, performing a final blind spot check, and steering smoothly. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -659,23 +659,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Non-compliance results in immediate test failure.",
@@ -685,11 +685,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 1 requires verifying parking brake, neutral gear, seat and mirror adjustment, instrument check, door closure, and seatbelt fastening. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -745,23 +745,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Non-compliance results in immediate test failure.",
@@ -771,11 +771,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 9 is the footbrake / service brake pedal used to slow down and stop the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -831,7 +831,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -843,11 +843,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control 9 is the footbrake / service brake.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 9 is the footbrake / service brake.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 9 is the footbrake / service brake.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 9 is the footbrake / service brake.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 9 is the footbrake / service brake.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control 9 is the footbrake / service brake.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control 9 is the footbrake / service brake.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control 9 is the footbrake / service brake.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control 9 is the footbrake / service brake.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control 9 is the footbrake / service brake.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control 9 is the footbrake / service brake. Non-compliance results in immediate test failure.",
@@ -857,11 +857,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 9 is the footbrake / service brake. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 9 is the footbrake / service brake. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 9 is the footbrake / service brake. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 9 is the footbrake / service brake. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 9 is the footbrake / service brake. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 9 is the footbrake / service brake. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control 9 is the footbrake / service brake. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control 9 is the footbrake / service brake. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control 9 is the footbrake / service brake. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control 9 is the footbrake / service brake. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 9 is the footbrake / service brake. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -918,18 +918,18 @@
       "media": null,
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Non-compliance results in immediate test failure.",
@@ -939,11 +939,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Pre-trip inspection of an articulated unit requires checking the fifth wheel locking mechanism, jaw engagement, and safety lockpin. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -999,23 +999,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Non-compliance results in immediate test failure.",
@@ -1025,11 +1025,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Heavy motor vehicles must be equipped with effective service brakes, parking brakes, and emergency braking systems. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1085,23 +1085,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Non-compliance results in immediate test failure.",
@@ -1111,11 +1111,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 10 is the accelerator pedal used to regulate engine power and vehicle speed. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1171,23 +1171,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Non-compliance results in immediate test failure.",
@@ -1197,11 +1197,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 7 is the parking brake / handbrake lever used to secure the parked vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1257,7 +1257,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1269,11 +1269,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control 10 is the accelerator / gas pedal.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 10 is the accelerator / gas pedal.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 10 is the accelerator / gas pedal.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 10 is the accelerator / gas pedal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 10 is the accelerator / gas pedal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control 10 is the accelerator / gas pedal.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control 10 is the accelerator / gas pedal.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control 10 is the accelerator / gas pedal.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control 10 is the accelerator / gas pedal.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control 10 is the accelerator / gas pedal.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control 10 is the accelerator / gas pedal. Non-compliance results in immediate test failure.",
@@ -1283,11 +1283,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 10 is the accelerator / gas pedal. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 10 is the accelerator / gas pedal. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 10 is the accelerator / gas pedal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 10 is the accelerator / gas pedal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 10 is the accelerator / gas pedal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 10 is the accelerator / gas pedal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control 10 is the accelerator / gas pedal. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control 10 is the accelerator / gas pedal. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control 10 is the accelerator / gas pedal. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control 10 is the accelerator / gas pedal. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 10 is the accelerator / gas pedal. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1343,23 +1343,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Rolling backwards causes immediate disqualification.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Rolling backwards causes immediate disqualification.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Rolling backwards causes immediate disqualification.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Rolling backwards causes immediate disqualification.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Rolling backwards causes immediate disqualification.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Rolling backwards causes immediate disqualification.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Rolling backwards causes immediate disqualification.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Rolling backwards causes immediate disqualification.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Rolling backwards causes immediate disqualification.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Rolling backwards causes immediate disqualification.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Rolling backwards causes immediate disqualification. Non-compliance results in immediate test failure.",
@@ -1369,11 +1369,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Rolling backwards causes immediate disqualification. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Rolling backwards causes immediate disqualification. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Rolling backwards causes immediate disqualification. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Rolling backwards causes immediate disqualification. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Rolling backwards causes immediate disqualification. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Rolling backwards causes immediate disqualification. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Rolling backwards causes immediate disqualification. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Rolling backwards causes immediate disqualification. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Rolling backwards causes immediate disqualification. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Rolling backwards causes immediate disqualification. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Rolling backwards causes immediate disqualification. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1429,23 +1429,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 5 is the steering wheel used to control directional movement of the vehicle.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 5 is the steering wheel used to control directional movement of the vehicle. Non-compliance results in immediate test failure.",
@@ -1455,11 +1455,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 5 is the steering wheel used to control directional movement of the vehicle. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 5 is the steering wheel used to control directional movement of the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 5 is the steering wheel used to control directional movement of the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 5 is the steering wheel used to control directional movement of the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 5 is the steering wheel used to control directional movement of the vehicle. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 5 is the steering wheel used to control directional movement of the vehicle. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 5 is the steering wheel used to control directional movement of the vehicle. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 5 is the steering wheel used to control directional movement of the vehicle. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 5 is the steering wheel used to control directional movement of the vehicle. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1515,23 +1515,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control number 6 is the gear lever used to select appropriate forward or reverse gears.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Non-compliance results in immediate test failure.",
@@ -1541,11 +1541,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control number 6 is the gear lever used to select appropriate forward or reverse gears. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control number 6 is the gear lever used to select appropriate forward or reverse gears. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control number 6 is the gear lever used to select appropriate forward or reverse gears. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1601,23 +1601,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control 4 is the steering wheel.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 4 is the steering wheel.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 4 is the steering wheel.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 4 is the steering wheel.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 4 is the steering wheel.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control 4 is the steering wheel.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control 4 is the steering wheel.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control 4 is the steering wheel.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control 4 is the steering wheel.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control 4 is the steering wheel.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control 4 is the steering wheel. Non-compliance results in immediate test failure.",
@@ -1627,11 +1627,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 4 is the steering wheel. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 4 is the steering wheel. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 4 is the steering wheel. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 4 is the steering wheel. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 4 is the steering wheel. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 4 is the steering wheel. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control 4 is the steering wheel. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control 4 is the steering wheel. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control 4 is the steering wheel. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control 4 is the steering wheel. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 4 is the steering wheel. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1687,23 +1687,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'The steering wheel (control 4) controls vehicle direction.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The steering wheel (control 4) controls vehicle direction.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The steering wheel (control 4) controls vehicle direction.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The steering wheel (control 4) controls vehicle direction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The steering wheel (control 4) controls vehicle direction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The steering wheel (control 4) controls vehicle direction.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The steering wheel (control 4) controls vehicle direction.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The steering wheel (control 4) controls vehicle direction.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The steering wheel (control 4) controls vehicle direction.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The steering wheel (control 4) controls vehicle direction.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: The steering wheel (control 4) controls vehicle direction. Non-compliance results in immediate test failure.",
@@ -1713,11 +1713,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The steering wheel (control 4) controls vehicle direction. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The steering wheel (control 4) controls vehicle direction. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The steering wheel (control 4) controls vehicle direction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The steering wheel (control 4) controls vehicle direction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The steering wheel (control 4) controls vehicle direction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The steering wheel (control 4) controls vehicle direction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: The steering wheel (control 4) controls vehicle direction. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: The steering wheel (control 4) controls vehicle direction. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: The steering wheel (control 4) controls vehicle direction. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: The steering wheel (control 4) controls vehicle direction. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The steering wheel (control 4) controls vehicle direction. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1773,23 +1773,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Control 7 is the parking brake lever.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Control 7 is the parking brake lever.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Control 7 is the parking brake lever.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Control 7 is the parking brake lever.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Control 7 is the parking brake lever.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Control 7 is the parking brake lever.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Control 7 is the parking brake lever.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Control 7 is the parking brake lever.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Control 7 is the parking brake lever.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Control 7 is the parking brake lever.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Control 7 is the parking brake lever. Non-compliance results in immediate test failure.",
@@ -1799,11 +1799,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Control 7 is the parking brake lever. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Control 7 is the parking brake lever. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Control 7 is the parking brake lever. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Control 7 is the parking brake lever. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Control 7 is the parking brake lever. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 7 is the parking brake lever. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Control 7 is the parking brake lever. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Control 7 is the parking brake lever. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Control 7 is the parking brake lever. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Control 7 is the parking brake lever. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Control 7 is the parking brake lever. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1859,23 +1859,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Non-compliance results in immediate test failure.",
@@ -1885,11 +1885,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Incline start requires gaining clutch control while holding the vehicle with the parking brake/trailer valve before releasing it. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1945,23 +1945,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Non-compliance results in immediate test failure.",
@@ -1971,11 +1971,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: K53 HMV Module 3 requires: Parking brake set, neutral gear, ignition ON, instrument check, diesel glow plug pre-heat, start engine, and build air pressure before moving. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2031,23 +2031,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'The indicator lever (Control 5) signals direction changes to other road users.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The indicator lever (Control 5) signals direction changes to other road users.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The indicator lever (Control 5) signals direction changes to other road users.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The indicator lever (Control 5) signals direction changes to other road users.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The indicator lever (Control 5) signals direction changes to other road users.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The indicator lever (Control 5) signals direction changes to other road users.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The indicator lever (Control 5) signals direction changes to other road users.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The indicator lever (Control 5) signals direction changes to other road users.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The indicator lever (Control 5) signals direction changes to other road users.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The indicator lever (Control 5) signals direction changes to other road users.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: The indicator lever (Control 5) signals direction changes to other road users. Non-compliance results in immediate test failure.",
@@ -2057,11 +2057,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The indicator lever (Control 5) signals direction changes to other road users. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The indicator lever (Control 5) signals direction changes to other road users. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The indicator lever (Control 5) signals direction changes to other road users. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The indicator lever (Control 5) signals direction changes to other road users. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The indicator lever (Control 5) signals direction changes to other road users. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The indicator lever (Control 5) signals direction changes to other road users. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: The indicator lever (Control 5) signals direction changes to other road users. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: The indicator lever (Control 5) signals direction changes to other road users. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: The indicator lever (Control 5) signals direction changes to other road users. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: The indicator lever (Control 5) signals direction changes to other road users. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The indicator lever (Control 5) signals direction changes to other road users. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2117,23 +2117,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Module 1 interior pre-trip checklist.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Module 1 interior pre-trip checklist.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Module 1 interior pre-trip checklist.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Module 1 interior pre-trip checklist.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Module 1 interior pre-trip checklist.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Module 1 interior pre-trip checklist.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Module 1 interior pre-trip checklist.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Module 1 interior pre-trip checklist.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Module 1 interior pre-trip checklist.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Module 1 interior pre-trip checklist.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Module 1 interior pre-trip checklist. Non-compliance results in immediate test failure.",
@@ -2143,11 +2143,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Module 1 interior pre-trip checklist. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Module 1 interior pre-trip checklist. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Module 1 interior pre-trip checklist. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Module 1 interior pre-trip checklist. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Module 1 interior pre-trip checklist. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 1 interior pre-trip checklist. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Module 1 interior pre-trip checklist. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Module 1 interior pre-trip checklist. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Module 1 interior pre-trip checklist. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Module 1 interior pre-trip checklist. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Module 1 interior pre-trip checklist. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2203,23 +2203,23 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Non-compliance results in immediate test failure.",
@@ -2229,11 +2229,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The K53 moving-off procedure requires observation (mirrors & blind spots), signalling, gear selection, clutch control, and parking brake release. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     }
