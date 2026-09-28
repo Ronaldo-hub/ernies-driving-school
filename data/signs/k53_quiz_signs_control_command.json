@@ -58,23 +58,23 @@
       },
       "media": {
         "graphic_type": "pass_left",
-        "image_file": "pass_left.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pass Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Non-compliance results in immediate test failure.",
@@ -84,11 +84,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A blue disc with a white downward-angled left arrow is a command sign instructing drivers to pass to the left. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -146,23 +146,23 @@
       },
       "media": {
         "graphic_type": "pass_left",
-        "image_file": "pass_left.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pass Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Non-compliance results in immediate test failure.",
@@ -172,11 +172,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R102 is a command sign requiring drivers to pass to the left side of an obstacle or island. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -226,45 +226,45 @@
       },
       "correct_answer": "B",
       "explanation": {
-        "en": "Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.",
-        "af": "[AF] Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.",
-        "xh": "[XH] Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.",
-        "zu": "[ZU] Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.",
-        "st": "[ST] Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right."
+        "en": "Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.",
+        "af": "[AF] Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.",
+        "xh": "[XH] Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.",
+        "zu": "[ZU] Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.",
+        "st": "[ST] Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right."
       },
       "media": {
         "graphic_type": "must_turn_right",
-        "image_file": "must_turn_right.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Must Turn Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
-          "en": "Attention Candidate. Under the National Road Traffic Act: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Non-compliance results in immediate test failure.",
-          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Nie-nakoming lei tot onmiddellike druip van die toets.",
-          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
-          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
-          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Ho se mamele ho lebisa ho hloleheng hang-hang."
+          "en": "Attention Candidate. Under the National Road Traffic Act: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Blue circular command signs specify mandatory direction actions—a white right arrow requires all drivers to turn right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Blue circular command signs specify mandatory direction actions\u2014a white right arrow requires all drivers to turn right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -314,45 +314,45 @@
       },
       "correct_answer": "B",
       "explanation": {
-        "en": "A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.",
-        "af": "[AF] A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.",
-        "xh": "[XH] A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.",
-        "zu": "[ZU] A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.",
-        "st": "[ST] A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn."
+        "en": "A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.",
+        "af": "[AF] A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.",
+        "xh": "[XH] A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.",
+        "zu": "[ZU] A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.",
+        "st": "[ST] A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn."
       },
       "media": {
         "graphic_type": "compulsory_uturn",
-        "image_file": "compulsory_uturn.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Compulsory Uturn' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
-          "en": "Attention Candidate. Under the National Road Traffic Act: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Non-compliance results in immediate test failure.",
-          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Nie-nakoming lei tot onmiddellike druip van die toets.",
-          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
-          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
-          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Ho se mamele ho lebisa ho hloleheng hang-hang."
+          "en": "Attention Candidate. Under the National Road Traffic Act: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Non-compliance results in immediate test failure.",
+          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Nie-nakoming lei tot onmiddellike druip van die toets.",
+          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Ukungathobeli kukhokelela ekubeni ufeyile kwasani.",
+          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Ukungayithobeli le melawulo kuholela ekuhlulekeni ngokushesha.",
+          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A blue circular sign specifies a compulsory command action—white U-turn arrow requires making a U-turn. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A blue circular sign specifies a compulsory command action\u2014white U-turn arrow requires making a U-turn. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -410,23 +410,23 @@
       },
       "media": {
         "graphic_type": "yield_sign",
-        "image_file": "yield_sign.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Yield Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'R2 requires yielding to approaching traffic.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'R2 requires yielding to approaching traffic.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'R2 requires yielding to approaching traffic.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'R2 requires yielding to approaching traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'R2 requires yielding to approaching traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'R2 requires yielding to approaching traffic.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'R2 requires yielding to approaching traffic.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'R2 requires yielding to approaching traffic.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'R2 requires yielding to approaching traffic.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'R2 requires yielding to approaching traffic.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: R2 requires yielding to approaching traffic. Non-compliance results in immediate test failure.",
@@ -436,11 +436,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: R2 requires yielding to approaching traffic. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: R2 requires yielding to approaching traffic. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: R2 requires yielding to approaching traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: R2 requires yielding to approaching traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: R2 requires yielding to approaching traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R2 requires yielding to approaching traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: R2 requires yielding to approaching traffic. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: R2 requires yielding to approaching traffic. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: R2 requires yielding to approaching traffic. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: R2 requires yielding to approaching traffic. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R2 requires yielding to approaching traffic. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -498,23 +498,23 @@
       },
       "media": {
         "graphic_type": "straight_only",
-        "image_file": "straight_only.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Straight Only' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R103 is a command sign requiring all traffic to proceed straight ahead only.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Non-compliance results in immediate test failure.",
@@ -524,11 +524,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R103 is a command sign requiring all traffic to proceed straight ahead only. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -586,7 +586,7 @@
       },
       "media": {
         "graphic_type": "yield_sign",
-        "image_file": "yield_sign.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Yield Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -598,11 +598,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Non-compliance results in immediate test failure.",
@@ -612,11 +612,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A Yield sign (R2) requires giving right of way to approaching cross traffic, pedestrians, and trains, stopping if required. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -674,23 +674,23 @@
       },
       "media": {
         "graphic_type": "must_turn_right",
-        "image_file": "must_turn_right.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Must Turn Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Commands all drivers to turn right.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Commands all drivers to turn right.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Commands all drivers to turn right.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Commands all drivers to turn right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Commands all drivers to turn right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Commands all drivers to turn right.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Commands all drivers to turn right.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Commands all drivers to turn right.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Commands all drivers to turn right.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Commands all drivers to turn right.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Commands all drivers to turn right. Non-compliance results in immediate test failure.",
@@ -700,11 +700,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Commands all drivers to turn right. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Commands all drivers to turn right. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Commands all drivers to turn right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Commands all drivers to turn right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Commands all drivers to turn right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Commands all drivers to turn right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Commands all drivers to turn right. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Commands all drivers to turn right. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Commands all drivers to turn right. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Commands all drivers to turn right. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Commands all drivers to turn right. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -761,23 +761,23 @@
       },
       "media": {
         "graphic_type": "min_speed_lmv",
-        "image_file": "min_speed_lmv.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Non-compliance results in immediate test failure.",
@@ -787,11 +787,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Blue circular signs specify mandatory minimum speed limits. Paired with a vehicle class plate, it means light motor vehicles must not travel slower than 60 km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -849,23 +849,23 @@
       },
       "media": {
         "graphic_type": "low_gear_command",
-        "image_file": "low_gear_command.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Low Gear Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Non-compliance results in immediate test failure.",
@@ -875,11 +875,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This command sign instructs heavy vehicle drivers to engage a low gear before descending a steep gradient. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -937,23 +937,23 @@
       },
       "media": {
         "graphic_type": "headlights_command",
-        "image_file": "headlights_command.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Headlights Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Non-compliance results in immediate test failure.",
@@ -963,11 +963,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This is a compulsory headlight command sign (R133). Headlights must be turned on immediately and kept on continuously while travelling in the indicated zone. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1025,23 +1025,23 @@
       },
       "media": {
         "graphic_type": "headlights_command",
-        "image_file": "headlights_command.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Headlights Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'R133 is a command sign requiring headlights on.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'R133 is a command sign requiring headlights on.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'R133 is a command sign requiring headlights on.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'R133 is a command sign requiring headlights on.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'R133 is a command sign requiring headlights on.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'R133 is a command sign requiring headlights on.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'R133 is a command sign requiring headlights on.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'R133 is a command sign requiring headlights on.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'R133 is a command sign requiring headlights on.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'R133 is a command sign requiring headlights on.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: R133 is a command sign requiring headlights on. Non-compliance results in immediate test failure.",
@@ -1051,11 +1051,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: R133 is a command sign requiring headlights on. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: R133 is a command sign requiring headlights on. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: R133 is a command sign requiring headlights on. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: R133 is a command sign requiring headlights on. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: R133 is a command sign requiring headlights on. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R133 is a command sign requiring headlights on. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: R133 is a command sign requiring headlights on. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: R133 is a command sign requiring headlights on. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: R133 is a command sign requiring headlights on. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: R133 is a command sign requiring headlights on. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R133 is a command sign requiring headlights on. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1112,23 +1112,23 @@
       },
       "media": {
         "graphic_type": "min_speed_lmv",
-        "image_file": "min_speed_lmv.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Specifies compulsory minimum speed of 60 km/h.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Specifies compulsory minimum speed of 60 km/h.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Specifies compulsory minimum speed of 60 km/h.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Specifies compulsory minimum speed of 60 km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Specifies compulsory minimum speed of 60 km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Specifies compulsory minimum speed of 60 km/h.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Specifies compulsory minimum speed of 60 km/h.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Specifies compulsory minimum speed of 60 km/h.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Specifies compulsory minimum speed of 60 km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Specifies compulsory minimum speed of 60 km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Specifies compulsory minimum speed of 60 km/h. Non-compliance results in immediate test failure.",
@@ -1138,11 +1138,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Specifies compulsory minimum speed of 60 km/h. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Specifies compulsory minimum speed of 60 km/h. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Specifies compulsory minimum speed of 60 km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Specifies compulsory minimum speed of 60 km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Specifies compulsory minimum speed of 60 km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Specifies compulsory minimum speed of 60 km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Specifies compulsory minimum speed of 60 km/h. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Specifies compulsory minimum speed of 60 km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Specifies compulsory minimum speed of 60 km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Specifies compulsory minimum speed of 60 km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Specifies compulsory minimum speed of 60 km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1200,7 +1200,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1212,11 +1212,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Non-compliance results in immediate test failure.",
@@ -1226,11 +1226,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A Stop sign (R1) requires a complete standstill behind the painted stop line (RTM1) before moving off safely. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1288,7 +1288,7 @@
       },
       "media": {
         "graphic_type": "stop_go",
-        "image_file": "stop_go.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Go' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1300,11 +1300,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Non-compliance results in immediate test failure.",
@@ -1314,11 +1314,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Manual traffic control signals (SS1/SS2) and traffic officer commands take legal precedence over permanent signs and traffic lights. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1376,23 +1376,23 @@
       },
       "media": {
         "graphic_type": "buses_command",
-        "image_file": "buses_command.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Buses Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R115 commands that buses exclusively use the designated roadway or lane.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R115 commands that buses exclusively use the designated roadway or lane. Non-compliance results in immediate test failure.",
@@ -1402,11 +1402,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R115 commands that buses exclusively use the designated roadway or lane. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R115 commands that buses exclusively use the designated roadway or lane. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R115 commands that buses exclusively use the designated roadway or lane. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R115 commands that buses exclusively use the designated roadway or lane. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R115 commands that buses exclusively use the designated roadway or lane. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R115 commands that buses exclusively use the designated roadway or lane. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R115 commands that buses exclusively use the designated roadway or lane. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R115 commands that buses exclusively use the designated roadway or lane. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R115 commands that buses exclusively use the designated roadway or lane. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R115 commands that buses exclusively use the designated roadway or lane. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R115 commands that buses exclusively use the designated roadway or lane. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1464,7 +1464,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1476,11 +1476,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'R1 requires complete standstill at stop line.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'R1 requires complete standstill at stop line.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'R1 requires complete standstill at stop line.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'R1 requires complete standstill at stop line.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'R1 requires complete standstill at stop line.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'R1 requires complete standstill at stop line.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'R1 requires complete standstill at stop line.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'R1 requires complete standstill at stop line.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'R1 requires complete standstill at stop line.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'R1 requires complete standstill at stop line.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: R1 requires complete standstill at stop line. Non-compliance results in immediate test failure.",
@@ -1490,11 +1490,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: R1 requires complete standstill at stop line. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: R1 requires complete standstill at stop line. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: R1 requires complete standstill at stop line. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: R1 requires complete standstill at stop line. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: R1 requires complete standstill at stop line. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R1 requires complete standstill at stop line. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: R1 requires complete standstill at stop line. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: R1 requires complete standstill at stop line. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: R1 requires complete standstill at stop line. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: R1 requires complete standstill at stop line. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: R1 requires complete standstill at stop line. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1552,23 +1552,23 @@
       },
       "media": {
         "graphic_type": "three_phase",
-        "image_file": "three_phase.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Three Phase' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Warns that traffic lights operate on three separate signal cycles.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Warns that traffic lights operate on three separate signal cycles.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Warns that traffic lights operate on three separate signal cycles.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Warns that traffic lights operate on three separate signal cycles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Warns that traffic lights operate on three separate signal cycles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Warns that traffic lights operate on three separate signal cycles.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Warns that traffic lights operate on three separate signal cycles.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Warns that traffic lights operate on three separate signal cycles.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Warns that traffic lights operate on three separate signal cycles.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Warns that traffic lights operate on three separate signal cycles.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Warns that traffic lights operate on three separate signal cycles. Non-compliance results in immediate test failure.",
@@ -1578,11 +1578,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Warns that traffic lights operate on three separate signal cycles. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Warns that traffic lights operate on three separate signal cycles. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Warns that traffic lights operate on three separate signal cycles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Warns that traffic lights operate on three separate signal cycles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Warns that traffic lights operate on three separate signal cycles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Warns that traffic lights operate on three separate signal cycles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Warns that traffic lights operate on three separate signal cycles. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Warns that traffic lights operate on three separate signal cycles. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Warns that traffic lights operate on three separate signal cycles. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Warns that traffic lights operate on three separate signal cycles. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Warns that traffic lights operate on three separate signal cycles. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1640,23 +1640,23 @@
       },
       "media": {
         "graphic_type": "three_phase",
-        "image_file": "three_phase.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Three Phase' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Non-compliance results in immediate test failure.",
@@ -1666,11 +1666,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A '3-Phase' information sign (IN15) warns drivers that the intersection operates on three separate signal light phases, so drivers must wait for their specific turn arrow. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1728,23 +1728,23 @@
       },
       "media": {
         "graphic_type": "pass_left",
-        "image_file": "pass_left.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pass Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A blue circular sign with a downward-left arrow is a Keep Left command sign (R103).' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Non-compliance results in immediate test failure.",
@@ -1754,11 +1754,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A blue circular sign with a downward-left arrow is a Keep Left command sign (R103). Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1816,23 +1816,23 @@
       },
       "media": {
         "graphic_type": "must_turn_right",
-        "image_file": "must_turn_right.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Must Turn Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Circular blue command arrows require drivers to proceed in the direction indicated by the arrow.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Non-compliance results in immediate test failure.",
@@ -1842,11 +1842,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Circular blue command arrows require drivers to proceed in the direction indicated by the arrow. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1904,23 +1904,23 @@
       },
       "media": {
         "graphic_type": "low_gear_command",
-        "image_file": "low_gear_command.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Low Gear Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Non-compliance results in immediate test failure.",
@@ -1930,11 +1930,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: The steep descent / low gear command sign advises heavy vehicles to engage low gear to prevent brake fade. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -1992,7 +1992,7 @@
       },
       "media": {
         "graphic_type": "min_speed_80",
-        "image_file": "min_speed_80.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed 80' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2004,11 +2004,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Sign R101 specifies a compulsory minimum speed limit of 80 km/h.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Non-compliance results in immediate test failure.",
@@ -2018,11 +2018,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Sign R101 specifies a compulsory minimum speed limit of 80 km/h. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2080,7 +2080,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2092,11 +2092,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A stop sign requires a complete, mandatory halt before entering the intersection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A stop sign requires a complete, mandatory halt before entering the intersection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A stop sign requires a complete, mandatory halt before entering the intersection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: A stop sign requires a complete, mandatory halt before entering the intersection. Non-compliance results in immediate test failure.",
@@ -2106,11 +2106,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A stop sign requires a complete, mandatory halt before entering the intersection. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: A stop sign requires a complete, mandatory halt before entering the intersection. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: A stop sign requires a complete, mandatory halt before entering the intersection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: A stop sign requires a complete, mandatory halt before entering the intersection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: A stop sign requires a complete, mandatory halt before entering the intersection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A stop sign requires a complete, mandatory halt before entering the intersection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: A stop sign requires a complete, mandatory halt before entering the intersection. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: A stop sign requires a complete, mandatory halt before entering the intersection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: A stop sign requires a complete, mandatory halt before entering the intersection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: A stop sign requires a complete, mandatory halt before entering the intersection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: A stop sign requires a complete, mandatory halt before entering the intersection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2168,23 +2168,23 @@
       },
       "media": {
         "graphic_type": "three_phase",
-        "image_file": "three_phase.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Three Phase' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
         "en": "K53 Golden Rule: Always check mirrors, signal early, and verify safe clearances before performing any manoeuvre.",
-        "af": "K53 Goue Reël: Kontroleer altyd jou spieëls, dui betyds aan en verifieer veilige afstande.",
+        "af": "K53 Goue Re\u00ebl: Kontroleer altyd jou spie\u00ebls, dui betyds aan en verifieer veilige afstande.",
         "xh": "Umthetho wa K53: Jonga izipili zakho, unike uphawu kwakukhawuleza, uqinisekise indawo ekhuselekileyo.",
         "zu": "Umthetho we-K53: Bheka izibuko zakho njalo, unike uphawu kusenesikhathi, uqinisekise amabanga aphephile.",
         "st": "Molao wa K53: Lebella diipone tsa gago ka mehla, fana ka letshwao esale hantle, mme o netefatse sebaka se bolokehileng."
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'This information sign indicates a multi-phase traffic light sequence at an intersection.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: This information sign indicates a multi-phase traffic light sequence at an intersection. Non-compliance results in immediate test failure.",
@@ -2194,11 +2194,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: This information sign indicates a multi-phase traffic light sequence at an intersection. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: This information sign indicates a multi-phase traffic light sequence at an intersection. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: This information sign indicates a multi-phase traffic light sequence at an intersection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: This information sign indicates a multi-phase traffic light sequence at an intersection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: This information sign indicates a multi-phase traffic light sequence at an intersection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This information sign indicates a multi-phase traffic light sequence at an intersection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: This information sign indicates a multi-phase traffic light sequence at an intersection. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: This information sign indicates a multi-phase traffic light sequence at an intersection. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: This information sign indicates a multi-phase traffic light sequence at an intersection. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: This information sign indicates a multi-phase traffic light sequence at an intersection. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: This information sign indicates a multi-phase traffic light sequence at an intersection. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     },
@@ -2256,7 +2256,7 @@
       },
       "media": {
         "graphic_type": "stop_go",
-        "image_file": "stop_go.png",
+        "image_file": null,
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Go' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2268,11 +2268,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Manual controller signals override permanent lights.' Don't lose easy points on the test!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Manual controller signals override permanent lights.' Moenie maklike punte op die toets verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Manual controller signals override permanent lights.' Ungalahleki ngamanqaku alula mva!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Manual controller signals override permanent lights.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Manual controller signals override permanent lights.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
+          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Manual controller signals override permanent lights.' Don't lose easy points on the test!",
+          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Manual controller signals override permanent lights.' Moenie maklike punte op die toets verloor nie!",
+          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Manual controller signals override permanent lights.' Ungalahleki ngamanqaku alula mva!",
+          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Manual controller signals override permanent lights.' Ungalahlekelwa amaphuzu alula esivivinyweni!",
+          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Manual controller signals override permanent lights.' O se ke wa lahlehelwa ke dintlha tse bonolo!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under the National Road Traffic Act: Manual controller signals override permanent lights. Non-compliance results in immediate test failure.",
@@ -2282,11 +2282,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Manual controller signals override permanent lights. Ho se mamele ho lebisa ho hloleheng hang-hang."
         },
         "socratic_memory_guide": {
-          "en": "Let's think through this together 🤔 Why is this rule enforced? Remember: Manual controller signals override permanent lights. What would happen if a driver ignored this on a busy road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom word hierdie reël toegepas? Onthou: Manual controller signals override permanent lights. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho usetyenziswa? Khumbula: Manual controller signals override permanent lights. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho usetshenziswa? Khumbula: Manual controller signals override permanent lights. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Manual controller signals override permanent lights. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
+          "en": "Let's think through this together \ud83e\udd14 Why is this rule enforced? Remember: Manual controller signals override permanent lights. What would happen if a driver ignored this on a busy road?",
+          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom word hierdie re\u00ebl toegepas? Onthou: Manual controller signals override permanent lights. Wat sou gebeur as 'n bestuurder dit op 'n besige pad ignoreer?",
+          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho usetyenziswa? Khumbula: Manual controller signals override permanent lights. Yintoni eya kwenzeka ukuba umqhubi akayinanzi le nto?",
+          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho usetshenziswa? Khumbula: Manual controller signals override permanent lights. Yini engenzeka uma umshayeli ewushaya indiva lo mthetho?",
+          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o kenngwa tshebetsong? Hopola: Manual controller signals override permanent lights. Ho ne ho tla etsahala'ng ha mokganni a ka o hlokomologa?"
         }
       }
     }
