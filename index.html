@@ -440,11 +440,22 @@
         function checkAnswer(selectedKey, correctKey, explanation, category) {
             const feedbackBox = document.getElementById('feedback-box');
             const selectedPersona = document.getElementById('select-persona').value;
-            
+            const q = currentQuestions[currentIndex];   // the full question object
+
             feedbackBox.classList.remove('hidden');
 
-            const explanationText = (typeof explanation === 'object') ? (explanation['en'] || explanation) : explanation;
-            const prefix = personaPrefixes[selectedPersona] || '';
+            // ---- Prefer the rich persona response if it exists ----
+            let feedbackText = '';
+            if (q.persona_responses && q.persona_responses[selectedPersona]) {
+                const pr = q.persona_responses[selectedPersona];
+                feedbackText = (typeof pr === 'object') ? (pr['en'] || Object.values(pr)[0]) : pr;
+            } else if (q.memory_tricks) {
+                const mt = q.memory_tricks;
+                feedbackText = (typeof mt === 'object') ? (mt['en'] || Object.values(mt)[0]) : mt;
+            } else {
+                // fallback to plain explanation
+                feedbackText = (typeof explanation === 'object') ? (explanation['en'] || explanation) : explanation;
+            }
 
             // Update category metric
             const catKey = category || "rules";
@@ -455,10 +466,10 @@
                 score++;
                 categoryScores[catKey].correct++;
                 feedbackBox.className = "p-4 rounded-xl mb-6 text-sm bg-green-950/80 border border-green-800 text-green-200 leading-relaxed";
-                feedbackBox.innerHTML = `<strong>Correct!</strong><br>${prefix}${explanationText}`;
+                feedbackBox.innerHTML = `<strong>Correct!</strong><br>${feedbackText}`;
             } else {
                 feedbackBox.className = "p-4 rounded-xl mb-6 text-sm bg-red-950/80 border border-red-800 text-red-200 leading-relaxed";
-                feedbackBox.innerHTML = `<strong>Incorrect (Correct answer is ${correctKey}).</strong><br>${prefix}${explanationText}`;
+                feedbackBox.innerHTML = `<strong>Incorrect (Correct answer is ${correctKey}).</strong><br>${feedbackText}`;
             }
 
             document.getElementById('next-btn').classList.remove('hidden');
