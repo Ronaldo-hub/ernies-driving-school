@@ -11,56 +11,58 @@
 
 
 
-<style id="k53-flex-layout-right">
-  /* Main Container Constraint */
-  .quiz-card-container, #quiz-container, .question-card {
-    max-width: 800px !important;
+
+
+
+<style id="k53-left-image-layout">
+  /* Main Container Sizing */
+  #quiz-container, .question-card {
+    max-width: 850px !important;
     margin: 0 auto !important;
-    padding: 16px !important;
   }
 
-  /* Two-column layout container */
-  .k53-row-wrapper {
+  /* Two-Column Flex Container (row-reverse puts rightCol/Image on the LEFT) */
+  .k53-flex-row {
     display: flex !important;
-    flex-direction: row !important;
+    flex-direction: row-reverse !important;
     justify-content: space-between !important;
     align-items: flex-start !important;
-    gap: 20px !important;
+    gap: 24px !important;
     width: 100% !important;
   }
 
-  /* Left Column: Question + Options */
+  /* Right Column in DOM = Text & Options (Displays on the RIGHT) */
   .k53-left-col {
-    flex: 1 1 65% !important;
+    flex: 1 1 68% !important;
     display: flex !important;
     flex-direction: column !important;
     min-width: 0 !important;
   }
 
-  /* Right Column: Image */
+  /* Left Column in DOM = Image (Displays on the LEFT) */
   .k53-right-col {
-    flex: 0 0 180px !important;
+    flex: 0 0 170px !important;
     display: flex !important;
     justify-content: center !important;
     align-items: flex-start !important;
+    margin-top: 6px !important;
   }
 
-  /* SVG & Image Size Boundary Constraints */
-  .k53-right-col img, 
+  /* Enforce Strict Sign Image Sizing */
+  .k53-right-col img,
   .k53-right-col svg,
-  .question-media img,
-  #quiz-container img {
-    max-width: 180px !important;
-    max-height: 180px !important;
-    width: auto !important;
+  #question-image {
+    max-width: 170px !important;
+    max-height: 170px !important;
+    width: 100% !important;
     height: auto !important;
     object-fit: contain !important;
-    display: block !important;
+    border-radius: 8px !important;
   }
 
-  /* Mobile responsiveness (Stack on narrow screens) */
+  /* Mobile Responsive Adjustment: Stack Image above Text on small screens */
   @media (max-width: 640px) {
-    .k53-row-wrapper {
+    .k53-flex-row {
       flex-direction: column-reverse !important;
       align-items: center !important;
     }
@@ -532,7 +534,10 @@
         window.onload = loadSelectedDataset;
     </script>
 
-<!-- DOM Restructuring Script for Side-by-Side Layout -->
+
+
+
+<!-- DOM Restructuring Script for Left-Side Image Layout -->
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     const observer = new MutationObserver((mutations) => {
@@ -541,58 +546,36 @@
           const quizContainer = document.getElementById('quiz-container') || document.querySelector('.question-card');
           if (!quizContainer) return;
 
-          // Find the image, question text, and options
-          const mediaElement = quizContainer.querySelector('img, svg, .question-media, .media-container');
+          const mediaElement = quizContainer.querySelector('img, svg, .question-media, #question-image-container');
           const questionText = quizContainer.querySelector('h2, h3, p.question-text, .question-title');
-          const optionsList = quizContainer.querySelector('ul, .options-container, .options-group');
+          const optionsList = quizContainer.querySelector('ul, .options-container, .options-group, #options-container');
 
-          // If they exist and aren't already wrapped, restructure them
           if (mediaElement && questionText && optionsList && !quizContainer.querySelector('.k53-flex-row')) {
-            
-            // Create the main row wrapper
             const flexRow = document.createElement('div');
             flexRow.className = 'k53-flex-row';
-            flexRow.style.cssText = 'display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; gap: 20px; width: 100%;';
 
-            // Create left column (Text + Options)
-            const leftCol = document.createElement('div');
-            leftCol.className = 'k53-left-col';
-            leftCol.style.cssText = 'flex: 1 1 65%; display: flex; flex-direction: column; min-width: 0;';
+            const textOptionsCol = document.createElement('div');
+            textOptionsCol.className = 'k53-left-col';
 
-            // Create right column (Image)
-            const rightCol = document.createElement('div');
-            rightCol.className = 'k53-right-col';
-            rightCol.style.cssText = 'flex: 0 0 160px; display: flex; justify-content: center; align-items: flex-start; margin-top: 8px;';
+            const mediaCol = document.createElement('div');
+            mediaCol.className = 'k53-right-col';
 
-            // Limit image size to prevent expanding
-            if (mediaElement.tagName === 'IMG' || mediaElement.tagName === 'SVG') {
-                mediaElement.style.cssText = 'max-width: 160px !important; max-height: 160px !important; width: 100%; height: auto; object-fit: contain;';
-            } else {
-                const innerImg = mediaElement.querySelector('img, svg');
-                if (innerImg) innerImg.style.cssText = 'max-width: 160px !important; max-height: 160px !important; width: 100%; height: auto; object-fit: contain;';
-            }
-
-            // Insert wrappers before the media element
             mediaElement.parentNode.insertBefore(flexRow, mediaElement);
             
-            // Move items into the left column
-            if (questionText.parentNode) leftCol.appendChild(questionText);
-            if (optionsList.parentNode) leftCol.appendChild(optionsList);
-            
-            // Move media into the right column
-            if (mediaElement.parentNode) rightCol.appendChild(mediaElement);
+            if (questionText.parentNode) textOptionsCol.appendChild(questionText);
+            if (optionsList.parentNode) textOptionsCol.appendChild(optionsList);
+            if (mediaElement.parentNode) mediaCol.appendChild(mediaElement);
 
-            // Append columns to the flex row
-            flexRow.appendChild(leftCol);
-            flexRow.appendChild(rightCol);
+            flexRow.appendChild(textOptionsCol);
+            flexRow.appendChild(mediaCol);
           }
         }
       });
     });
 
-    const targetNode = document.getElementById('quiz-container') || document.querySelector('.quiz-card-container') || document.body;
-    if(targetNode) {
-        observer.observe(targetNode, { childList: true, subtree: true });
+    const targetNode = document.getElementById('quiz-container') || document.body;
+    if (targetNode) {
+      observer.observe(targetNode, { childList: true, subtree: true });
     }
   });
 </script>
