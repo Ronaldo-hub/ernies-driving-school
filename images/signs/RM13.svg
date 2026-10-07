@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400" width="100%" height="100%">
+  <defs>
+    <!-- Texture Patterns -->
+    <pattern id="road-asphalt" width="20" height="20" patternUnits="userSpaceOnUse">
+      <rect width="20" height="20" fill="#2b2d31"/>
+      <circle cx="4" cy="4" r="1" fill="#1e2023"/>
+      <circle cx="14" cy="12" r="1.2" fill="#383b40"/>
+    </pattern>
+    <pattern id="curb-concrete" width="10" height="10" patternUnits="userSpaceOnUse">
+      <rect width="10" height="10" fill="#a0a4a8"/>
+      <circle cx="2" cy="3" r="0.8" fill="#888c90"/>
+      <circle cx="7" cy="8" r="0.8" fill="#b5b9be"/>
+    </pattern>
+
+    <!-- Drop Shadows for Realism -->
+    <filter id="curb-shadow" x="-5%" y="-5%" width="110%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="4" flood-color="#000000" flood-opacity="0.6" />
+    </filter>
+    <filter id="paint-glow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="1" stdDeviation="1" flood-color="#000000" flood-opacity="0.3" />
+    </filter>
+  </defs>
+
+  <!-- 1. Background / Verge Space (Left side off-road) -->
+  <rect width="600" height="400" fill="#5a684b" />
+  
+  <!-- Sidewalk / Pedestrian Curb Walkway -->
+  <rect x="0" y="0" width="600" height="90" fill="url(#curb-concrete)" />
+  <line x1="0" y1="90" x2="600" y2="90" stroke="#787c80" stroke-width="2" />
+
+  <!-- Concrete Curb Edge (Left Curb) -->
+  <rect x="0" y="90" width="600" height="20" fill="#d0d4d8" filter="url(#curb-shadow)" />
+  <line x1="0" y1="110" x2="600" y2="110" stroke="#4d5053" stroke-width="2" />
+
+  <!-- 2. Asphalt Road Surface -->
+  <rect x="0" y="110" width="600" height="290" fill="url(#road-asphalt)" />
+
+  <!-- 3. Solid Yellow Line Painted Along the Left Curb (RM13 / No Parking Line / RM4.1 Edge Line) -->
+  <rect x="0" y="116" width="600" height="14" fill="#ffd700" filter="url(#paint-glow)" />
+
+  <!-- Broken White Centerline / Lane Divider Line -->
+  <line x1="0" y1="360" x2="600" y2="360" stroke="#ffffff" stroke-width="8" stroke-dasharray="60 40" />
+
+  <!-- 4. Directional Arrow on Lane -->
+  <g transform="translate(480, 240)" fill="#ffffff" opacity="0.8">
+    <path d="M -30 -6 L 10 -6 L 10 -16 L 35 0 L 10 16 L 10 6 L -30 6 Z" />
+  </g>
+</svg>
