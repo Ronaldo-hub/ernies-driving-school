@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>K53 Simulator</title>
+  <style>
+    body { margin: 0; font-family: system-ui, sans-serif; background: #0F172A; color: #F8FAFC; }
+    .simulator-container { display: flex; flex-direction: row; height: 100vh; width: 100vw; }
+    .pane { flex: 1; padding: 20px; box-sizing: border-box; display: flex; flex-direction: column; justify-content: center; }
+    .canvas-pane { background: #020617; align-items: center; border-right: 2px solid #1E293B; }
+    canvas { background: #1E293B; border-radius: 8px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.5); max-width: 100%; }
+    .quiz-pane { overflow-y: auto; background: #0F172A; }
+    .counter { color: #38BDF8; font-weight: bold; margin-bottom: 8px; }
+    .question-title { font-size: 1.25rem; font-weight: 600; margin-bottom: 20px; line-height: 1.4; }
+    .options-group { display: flex; flex-direction: column; gap: 12px; margin-bottom: 20px; }
+    .option-btn { padding: 12px; background: #1E293B; border: 1px solid #334155; color: white; text-align: left; border-radius: 6px; cursor: pointer; transition: 0.2s; }
+    .option-btn:hover { background: #334155; border-color: #38BDF8; }
+    .feedback { padding: 14px; border-radius: 6px; margin-bottom: 20px; }
+    .feedback.correct { background: #064E3B; border: 1px solid #10B981; color: #A7F3D0; }
+    .feedback.incorrect { background: #7F1D1D; border: 1px solid #EF4444; color: #FCA5A5; }
+    .nav-controls { display: flex; gap: 12px; margin-top: auto; }
+    .nav-btn { flex: 1; padding: 10px; background: #0284C7; border: none; color: white; border-radius: 6px; cursor: pointer; font-weight: bold; }
+    .nav-btn:hover { background: #0369A1; }
+    @media (max-width: 768px) { .simulator-container { flex-direction: column; } .canvas-pane { height: 40vh; } }
+  </style>
+</head>
+<body>
+  <div class="simulator-container">
+    <div class="pane canvas-pane"><canvas id="simulationCanvas" width="600" height="400"></canvas></div>
+    <div class="pane quiz-pane">
+      <div id="questionCounter" class="counter">Loading...</div>
+      <div id="questionText" class="question-title">Loading Question...</div>
+      <div id="optionsContainer" class="options-group"></div>
+      <div id="feedbackPanel" class="feedback" style="display:none;"></div>
+      <div class="nav-controls">
+        <button class="nav-btn" onclick="simulator.prevQuestion()">◄ Prev</button>
+        <button class="nav-btn" onclick="simulator.nextQuestion()">Next ►</button>
+      </div>
+    </div>
+  </div>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
