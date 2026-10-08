@@ -7,19 +7,28 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <div class="demo-section">
-    <div class="demo-header">
-      <h2>INTERACTIVE K53 DEMO TEST</h2>
-      <p>Test your knowledge on key South African road signs and rules of the road</p>
-    </div>
+  <div class="app-container">
+    <div class="demo-card" id="quiz-card">
+      <div class="card-header">
+        <span class="q-meta" id="q-counter">LOADING...</span>
+      </div>
 
-    <div class="quiz-container" id="quizContainer">
-      <!-- Questions will be injected here via JavaScript -->
-    </div>
+      <div class="svg-container" id="svg-container">
+        <!-- Wordless SVG Injected Here -->
+      </div>
 
-    <div class="submit-container">
-      <button class="submit-btn" onclick="submitTest()">&#10004; Submit K53 Answers</button>
-      <div id="resultsPanel" class="results-panel"></div>
+      <div class="q-text" id="q-text">Initializing Question Bank...</div>
+
+      <div class="options-container" id="options-container">
+        <!-- Options Injected Here -->
+      </div>
+
+      <div class="feedback-panel" id="feedback-panel"></div>
+
+      <div class="nav-buttons">
+        <button class="nav-btn btn-secondary" onclick="app.prev()">&#9664; PREV</button>
+        <button class="nav-btn btn-primary" id="next-btn" onclick="app.next()">NEXT &#9654;</button>
+      </div>
     </div>
   </div>
 
