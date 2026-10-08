@@ -1,108 +1,86 @@
-// K53 DUAL-PANE INTERACTIVE SIMULATOR ENGINE
-class K53TrafficSimulator {
+class K53App {
   constructor() {
     this.questions = typeof K53_QUESTION_BANK !== 'undefined' ? K53_QUESTION_BANK : [];
     this.currentIndex = 0;
-    this.animFrameId = null;
-    this.vehicleX = 50;
-    this.initUI();
+    this.animFrame = null;
+    this.carX = -50;
+    this.init();
   }
 
-  getEl(id) { return typeof document !== 'undefined' ? document.getElementById(id) : null; }
-
-  initUI() {
-    if (typeof document === 'undefined') return;
+  init() {
     if (this.questions.length === 0) {
-      const qText = this.getEl('questionText');
-      if (qText) qText.innerHTML = "<span style='color:red;'>⚠️ Error: No questions loaded. Check data.js.</span>";
+      document.getElementById('questionText').innerHTML = "<span style='color:red;'>⚠️ No questions loaded.</span>";
       return;
     }
-    this.loadQuestion(this.currentIndex);
+    this.load(this.currentIndex);
   }
 
-  loadQuestion(index) {
+  load(index) {
     if (index < 0 || index >= this.questions.length) return;
     this.currentIndex = index;
     const q = this.questions[index];
 
-    if (typeof document !== 'undefined') {
-      const qTextEl = this.getEl('questionText');
-      const optionsEl = this.getEl('optionsContainer');
-      const feedbackEl = this.getEl('feedbackPanel');
-      const counterEl = this.getEl('questionCounter');
+    document.getElementById('questionCounter').innerText = `QUESTION ${index + 1} OF ${this.questions.length} - ${q.vehicle_code}`;
+    document.getElementById('questionText').innerText = q.question_text;
 
-      if (counterEl) counterEl.innerText = `Question ${index + 1} of ${this.questions.length}`;
-      if (qTextEl) qTextEl.innerText = `[${q.vehicle_code}] ${q.question_text}`;
+    const feedback = document.getElementById('feedbackPanel');
+    feedback.className = 'feedback';
+    feedback.innerHTML = '';
 
-      if (feedbackEl) {
-        feedbackEl.style.display = 'none';
-        feedbackEl.className = 'feedback';
-      }
+    const optsContainer = document.getElementById('optionsContainer');
+    optsContainer.innerHTML = '';
 
-      if (optionsEl) {
-        optionsEl.innerHTML = '';
-        let opts = q.options;
-        if (!Array.isArray(opts) && typeof opts === 'object') {
-          opts = Object.entries(opts).map(([k, v]) => `${k}) ${v}`);
-        }
-        opts.forEach((optText, i) => {
-          const letter = String.fromCharCode(65 + i);
-          const btn = document.createElement('button');
-          btn.className = 'option-btn';
-          btn.innerText = typeof optText === 'string' ? optText : `${letter}) ${optText.text || optText}`;
-          btn.onclick = () => this.handleAnswer(letter, q.correct_answer, q.explanation);
-          optionsEl.appendChild(btn);
-        });
-      }
-    }
-    this.startAnimation(q.sceneType);
+    q.options.forEach((optText, i) => {
+      let label = optText;
+      if (!/^[A-Z]\)/.test(label)) label = `${String.fromCharCode(65 + i)}) ${label}`;
+
+      const btn = document.createElement('button');
+      btn.className = 'option-btn';
+      btn.innerText = label;
+      btn.onclick = () => this.checkAnswer(btn, label, q.correct_answer, q.explanation);
+      optsContainer.appendChild(btn);
+    });
+
+    this.runAnimation(q.sceneType);
   }
 
-  handleAnswer(selected, correct, explanation) {
-    if (typeof document === 'undefined') return;
-    const feedbackEl = this.getEl('feedbackPanel');
-    const isCorrect = selected.trim().toUpperCase() === String(correct).trim().toUpperCase();
+  checkAnswer(btn, selectedText, correctText, explanation) {
+    document.querySelectorAll('.option-btn').forEach(b => b.classList.remove('selected'));
+    btn.classList.add('selected');
 
-    if (feedbackEl) {
-      feedbackEl.style.display = 'block';
-      feedbackEl.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
-      feedbackEl.innerHTML = `<strong>${isCorrect ? '✔ CORRECT' : '❌ INCORRECT'}</strong><br/>${explanation || ''}`;
-    }
+    const isCorrect = selectedText.charAt(0).toUpperCase() === correctText.charAt(0).toUpperCase();
+    const feedback = document.getElementById('feedbackPanel');
+
+    feedback.className = `feedback ${isCorrect ? 'correct' : 'incorrect'}`;
+    feedback.innerHTML = `<strong>${isCorrect ? '✔ CORRECT' : '❌ INCORRECT'}</strong><br/>${explanation || ''}`;
   }
 
-  nextQuestion() { if (this.currentIndex < this.questions.length - 1) this.loadQuestion(this.currentIndex + 1); }
-  prevQuestion() { if (this.currentIndex > 0) this.loadQuestion(this.currentIndex - 1); }
+  next() { if (this.currentIndex < this.questions.length - 1) this.load(this.currentIndex + 1); }
+  prev() { if (this.currentIndex > 0) this.load(this.currentIndex - 1); }
 
-  startAnimation(sceneType) {
-    const canvas = this.getEl('simulationCanvas');
-    if (!canvas || typeof window === 'undefined') return;
+  runAnimation(scene) {
+    const canvas = document.getElementById('simulationCanvas');
     const ctx = canvas.getContext('2d');
+    if (this.animFrame) cancelAnimationFrame(this.animFrame);
+    this.carX = -50;
 
-    if (this.animFrameId) cancelAnimationFrame(this.animFrameId);
-    this.vehicleX = 50;
+    const draw = () => {
+      ctx.fillStyle = '#020617'; ctx.fillRect(0, 0, canvas.width, canvas.height);
+      ctx.fillStyle = '#334155'; ctx.fillRect(0, 100, canvas.width, 100);
 
-    const renderLoop = () => {
-      const w = canvas.width, h = canvas.height;
-      ctx.fillStyle = '#1E293B'; ctx.fillRect(0, 0, w, h);
-      ctx.fillStyle = '#334155'; ctx.fillRect(0, h / 2 - 40, w, 80);
+      ctx.strokeStyle = '#F59E0B'; ctx.lineWidth = 4; ctx.setLineDash([20, 20]);
+      ctx.beginPath(); ctx.moveTo(0, 150); ctx.lineTo(canvas.width, 150); ctx.stroke(); ctx.setLineDash([]);
 
-      ctx.strokeStyle = '#F59E0B'; ctx.lineWidth = 3; ctx.setLineDash([15, 15]);
-      ctx.beginPath(); ctx.moveTo(0, h / 2); ctx.lineTo(w, h / 2); ctx.stroke(); ctx.setLineDash([]);
+      ctx.fillStyle = '#EF4444'; ctx.font = 'bold 12px sans-serif';
+      ctx.fillText(`SCENARIO: ${scene}`, 15, 25);
 
-      ctx.fillStyle = '#0EA5E9'; ctx.font = 'bold 14px sans-serif'; ctx.fillText(`SCENE: ${sceneType}`, 15, 25);
+      ctx.fillStyle = '#10B981'; ctx.fillRect(this.carX, 115, 60, 30);
+      ctx.fillStyle = '#FFF'; ctx.fillText('EGO', this.carX + 15, 135);
 
-      const vx = this.vehicleX - 40, vy = h / 2 + 10;
-      ctx.fillStyle = '#10B981'; ctx.fillRect(vx, vy, 40, 20);
-      ctx.fillStyle = '#FFFFFF'; ctx.fillText('EGO', vx + 5, vy + 15);
-
-      this.vehicleX = (this.vehicleX + 1.5) % (w + 50);
-      this.animFrameId = requestAnimationFrame(renderLoop);
+      this.carX += 2; if (this.carX > canvas.width) this.carX = -80;
+      this.animFrame = requestAnimationFrame(draw);
     };
-    renderLoop();
+    draw();
   }
 }
-
-if (typeof window !== 'undefined') {
-  window.addEventListener('DOMContentLoaded', () => { window.simulator = new K53TrafficSimulator(); });
-}
-if (typeof module !== 'undefined' && module.exports) module.exports = { K53TrafficSimulator };
+window.onload = () => { window.app = new K53App(); };
