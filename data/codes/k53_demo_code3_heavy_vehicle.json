@@ -55,11 +55,7 @@
         "zu": "[ZU] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.",
         "st": "[ST] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
         "af": "[AF] Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
@@ -223,11 +219,7 @@
         "zu": "[ZU] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents.",
         "st": "[ST] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Exhaust Brake = Saves Service Brakes on Downhills!",
         "af": "[AF] Exhaust Brake = Saves Service Brakes on Downhills!",
@@ -393,11 +385,7 @@
         "zu": "[ZU] PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml.",
         "st": "[ST] PrDP drivers operating heavy motor vehicles have a strict blood alcohol limit of 0.02g/100ml."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: PrDP card graphic highlighting 0.02g/100ml blood alcohol threshold."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!",
         "af": "[AF] PrDP Limit = 0.02g/100ml! Much stricter than ordinary 0.05g!",
@@ -477,11 +465,7 @@
         "zu": "[ZU] Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold.",
         "st": "[ST] Air brake systems feature an audible buzzer and dash warning light when system pressure drops below safe threshold."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Air Pressure Low = BUZZER + RED DASH LIGHT!",
         "af": "[AF] Air Pressure Low = BUZZER + RED DASH LIGHT!",
@@ -645,11 +629,7 @@
         "zu": "[ZU] The gear lever must be checked in Neutral before cranking the starter motor.",
         "st": "[ST] The gear lever must be checked in Neutral before cranking the starter motor."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Wiggle in Neutral before key turn!",
         "af": "[AF] Wiggle in Neutral before key turn!",
@@ -813,11 +793,7 @@
         "zu": "[ZU] Standard maximum overall vehicle and load height limit is 4.3 metres.",
         "st": "[ST] Standard maximum overall vehicle and load height limit is 4.3 metres."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Standard Height Limit: 4.3 Metres Max!",
         "af": "[AF] Standard Height Limit: 4.3 Metres Max!",
@@ -897,11 +873,7 @@
         "zu": "[ZU] Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances.",
         "st": "[ST] Heavy vehicles require an extended following distance of 3 to 4 seconds due to longer braking distances."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Heavy truck tracking behind a lead vehicle with 4-second gap counter overlay."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Heavy Vehicle Gap: 3-4 Seconds Following Distance!",
         "af": "[AF] Heavy Vehicle Gap: 3-4 Seconds Following Distance!",
@@ -981,11 +953,7 @@
         "zu": "[ZU] Official K53 yard test rules allow up to 2 forward correction movements during alley docking.",
         "st": "[ST] Official K53 yard test rules allow up to 2 forward correction movements during alley docking."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Alley Docking: Max 2 Forward Corrections Allowed!",
         "af": "[AF] Alley Docking: Max 2 Forward Corrections Allowed!",
@@ -1065,11 +1033,7 @@
         "zu": "[ZU] A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations).",
         "st": "[ST] A rigid goods vehicle (single chassis) has a maximum overall length limit of 12.5 metres (18.5m for combinations)."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Rigid 2-axle heavy truck measured from front bumper to rear bumper indicating 12.5m limit."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Rigid Heavy Vehicle Max Length = 12.5m!",
         "af": "[AF] Rigid Heavy Vehicle Max Length = 12.5m!",
@@ -1233,11 +1197,7 @@
         "zu": "[ZU] Facing uphill: turn wheels away from curb so rolling back catches curb; engage low forward gear, set spring brakes, and chock downhill wheels.",
         "st": "[ST] Facing uphill: turn wheels away from curb so rolling back catches curb; engage low forward gear, set spring brakes, and chock downhill wheels."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Heavy truck parked uphill showing front wheels turned away from curb and yellow chocks set behind rear tyres."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Uphill Parking = Turn AWAY from Curb + Low Gear + Chocks!",
         "af": "[AF] Uphill Parking = Turn AWAY from Curb + Low Gear + Chocks!",
@@ -1317,11 +1277,7 @@
         "zu": "[ZU] Heavy vehicles and long combinations (>12m) require full rear red/yellow chevron boards and continuous yellow side contour markings.",
         "st": "[ST] Heavy vehicles and long combinations (>12m) require full rear red/yellow chevron boards and continuous yellow side contour markings."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Night scene showing headlights reflecting off rear red/yellow chevron pattern and yellow side tape on interlink trailer."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Long Combination (>12m) = Rear Chevron + Yellow Side Reflectors!",
         "af": "[AF] Long Combination (>12m) = Rear Chevron + Yellow Side Reflectors!",
@@ -1401,11 +1357,7 @@
         "zu": "[ZU] Under National Road Traffic Regulations, the maximum overall width for heavy goods vehicles is 2.6 metres.",
         "st": "[ST] Under National Road Traffic Regulations, the maximum overall width for heavy goods vehicles is 2.6 metres."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Front profile view of a wide heavy truck body measured side-to-side highlighting 2.6m max width dimension line."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Heavy Vehicle Max Width = 2.6 Metres!",
         "af": "[AF] Heavy Vehicle Max Width = 2.6 Metres!",
@@ -1485,11 +1437,7 @@
         "zu": "[ZU] A critical loss of air pressure will cause spring brakes to automatically lock up wheels; you must pull over immediately.",
         "st": "[ST] A critical loss of air pressure will cause spring brakes to automatically lock up wheels; you must pull over immediately."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Low Air Pressure Warning = PULL OVER IMMEDIATELY!",
         "af": "[AF] Low Air Pressure Warning = PULL OVER IMMEDIATELY!",
@@ -1653,11 +1601,7 @@
         "zu": "[ZU] Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap.",
         "st": "[ST] Fifth wheel inspection requires verifying kingpin jaw engagement, safety catch position, and zero plate gap."
       },
-      "media": {
-        "graphic_type": "hmv_cockpit",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Close-up of fifth wheel coupling checking kingpin lock jaw and safety release handle."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!",
         "af": "[AF] Fifth Wheel Check: Kingpin Jaw Locked + Safety Latch Closed!",

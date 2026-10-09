@@ -55,11 +55,7 @@
         "zu": "[ZU] It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted.",
         "st": "[ST] It is mandatory for all occupants (driver and all passengers) to wear seatbelts where fitted."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Click Every Belt: Everyone belts up before moving!",
         "af": "[AF] Click Every Belt: Everyone belts up before moving!",
@@ -223,11 +219,7 @@
         "zu": "[ZU] The left foot operates only the clutch pedal, while the right foot operates brake and accelerator.",
         "st": "[ST] The left foot operates only the clutch pedal, while the right foot operates brake and accelerator."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Footwell camera showing left foot depressing clutch pedal while right foot handles brake."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Left Foot = Clutch ONLY! Right foot handles gas & brake!",
         "af": "[AF] Left Foot = Clutch ONLY! Right foot handles gas & brake!",
@@ -307,11 +299,7 @@
         "zu": "[ZU] Signals must be given in good time before initiating turns or lane changes.",
         "st": "[ST] Signals must be given in good time before initiating turns or lane changes."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Car flicking indicator lever on 50m before turning left into an intersection."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!",
         "af": "[AF] Signal Early: Mirror -> Blind Spot -> Signal -> Maneuver!",
@@ -475,11 +463,7 @@
         "zu": "[ZU] The general freeway speed limit for cars is 120 km/h unless posted otherwise.",
         "st": "[ST] The general freeway speed limit for cars is 120 km/h unless posted otherwise."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Car speedometer needle holding at 120 km/h on a dual freeway."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Freeway Max: 120 km/h for light vehicles!",
         "af": "[AF] Freeway Max: 120 km/h for light vehicles!",
@@ -559,11 +543,7 @@
         "zu": "[ZU] The parking brake holds the vehicle stationary when parked or during hill starts.",
         "st": "[ST] The parking brake holds the vehicle stationary when parked or during hill starts."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Driver pulling up handbrake lever while parked on an incline."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Handbrake = Parking Lock & Incline Start Helper!",
         "af": "[AF] Handbrake = Parking Lock & Incline Start Helper!",
@@ -727,11 +707,7 @@
         "zu": "[ZU] Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens.",
         "st": "[ST] Drivers must immediately give clear right-of-way to emergency vehicles operating lights or sirens."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Car indicating right and pulling onto the shoulder as an ambulance passes safely."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Siren & Flash = Move Aside & Give Way Safely!",
         "af": "[AF] Siren & Flash = Move Aside & Give Way Safely!",
@@ -811,11 +787,7 @@
         "zu": "[ZU] Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions.",
         "st": "[ST] Proper steering grip requires two hands placed at 10 and 2 or 9 and 3 o'clock positions."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Close-up of steering wheel with glowing indicators at 10 and 2 o'clock positions."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "10-to-2 or 9-and-3: Firm grip, full steering control!",
         "af": "[AF] 10-to-2 or 9-and-3: Firm grip, full steering control!",
@@ -895,11 +867,7 @@
         "zu": "[ZU] Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass.",
         "st": "[ST] Stopping is strictly prohibited within 6 metres of any tunnel, bridge, or subway underpass."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Car approaching a subway tunnel with 6m highlighted zone showing NO STOPPING."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Rule of 6: 6 metres from Bridges, Tunnels, Subways!",
         "af": "[AF] Rule of 6: 6 metres from Bridges, Tunnels, Subways!",
@@ -979,11 +947,7 @@
         "zu": "[ZU] Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle.",
         "st": "[ST] Tow ropes exceeding 1.8 metres must feature a visible red flag tied in the middle."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Towing setup with red flag tied right at the midpoint of a 2.5m tow rope."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!",
         "af": "[AF] Tow Rope Rule: > 1.8m needs a RED FLAG in the middle!",
@@ -1063,11 +1027,7 @@
         "zu": "[ZU] Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h.",
         "st": "[ST] Towing with a non-rigid connection is restricted to a maximum speed of 30 km/h."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Two cars connected by tow rope driving slowly with speedometer locked at 30 km/h."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Tow Rope Speed: Max 30 km/h with a rope!",
         "af": "[AF] Tow Rope Speed: Max 30 km/h with a rope!",
@@ -1147,11 +1107,7 @@
         "zu": "[ZU] Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers).",
         "st": "[ST] Ordinary drivers must remain below 0.05g/100ml blood alcohol concentration (0.02g for PrDP professional drivers)."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Comparison chart: 0.05g/100ml for Ordinary Drivers vs 0.02g for Professional Drivers."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "0.05 Ordinary vs 0.02 Professional: Don't drink and drive!",
         "af": "[AF] 0.05 Ordinary vs 0.02 Professional: Don't drink and drive!",
@@ -1315,11 +1271,7 @@
         "zu": "[ZU] Parking is prohibited within 9 metres of the approach side of a pedestrian crossing.",
         "st": "[ST] Parking is prohibited within 9 metres of the approach side of a pedestrian crossing."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Zebra crossing with 9m marked clearance zone before the crossing."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Zebra Rule: 9 metres clearance before the zebra crossing!",
         "af": "[AF] Zebra Rule: 9 metres clearance before the zebra crossing!",
@@ -1399,11 +1351,7 @@
         "zu": "[ZU] K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release.",
         "st": "[ST] K53 moving off sequence requires observation (mirrors/blind spot), signaling, gear selection, and smooth handbrake release."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Step-by-step K53 moving off routine showing head checks, indicator, gear, and clutch release."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Observe -> Signal -> Gear -> Handbrake -> Move!",
         "af": "[AF] Observe -> Signal -> Gear -> Handbrake -> Move!",
@@ -1483,11 +1431,7 @@
         "zu": "[ZU] Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day.",
         "st": "[ST] Loads extending beyond the rear require a red flag measuring at least 300mm x 300mm during the day."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Measurements showing 300mm x 300mm red flag tied onto extended timber load."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Red Flag Size: 300mm x 300mm square!",
         "af": "[AF] Red Flag Size: 300mm x 300mm square!",
@@ -1651,11 +1595,7 @@
         "zu": "[ZU] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm.",
         "st": "[ST] National Road Traffic Regulations mandate a minimum tire tread depth of 1.0 mm."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": "null",
-        "video_simulation_prompt": "3D Animation: Depth gauge measuring 1.0mm tire tread groove depth."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Tire Tread: Minimum 1.0 mm depth across tread!",
         "af": "[AF] Tire Tread: Minimum 1.0 mm depth across tread!",

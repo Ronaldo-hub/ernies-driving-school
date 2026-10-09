@@ -55,11 +55,7 @@
         "zu": "[ZU] A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.",
         "st": "[ST] A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Rider and pillion passenger putting on safety helmets and securely fastening chin straps before starting the motorcycle."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Helmet Rule: No Helmet = No Ride! Always strap it tight!",
         "af": "[AF] Helmet Rule: No Helmet = No Ride! Always strap it tight!",
@@ -69,11 +65,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Non-compliance results in test failure.",
@@ -83,11 +79,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: A protective helmet properly fitted and fastened is legally mandatory for rider and passenger at all times. O o sireletsa jwang?"
         }
       }
     },
@@ -139,11 +135,7 @@
         "zu": "[ZU] The right handlebar twist-grip operates the throttle to increase or decrease engine speed.",
         "st": "[ST] The right handlebar twist-grip operates the throttle to increase or decrease engine speed."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Close-up of rider's right hand twisting the throttle grip on the right handlebar."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Right Twist = Throttle Go! Right Hand Controls Speed!",
         "af": "[AF] Right Twist = Throttle Go! Right Hand Controls Speed!",
@@ -153,11 +145,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The right handlebar twist-grip operates the throttle to increase or decrease engine speed.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Non-compliance results in test failure.",
@@ -167,11 +159,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The right handlebar twist-grip operates the throttle to increase or decrease engine speed. O o sireletsa jwang?"
         }
       }
     },
@@ -237,11 +229,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The R1 Stop sign requires a complete halt of the vehicle before the stop line.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Non-compliance results in test failure.",
@@ -251,11 +243,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The R1 Stop sign requires a complete halt of the vehicle before the stop line. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The R1 Stop sign requires a complete halt of the vehicle before the stop line. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The R1 Stop sign requires a complete halt of the vehicle before the stop line. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The R1 Stop sign requires a complete halt of the vehicle before the stop line. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The R1 Stop sign requires a complete halt of the vehicle before the stop line. O o sireletsa jwang?"
         }
       }
     },
@@ -307,11 +299,7 @@
         "zu": "[ZU] The general speed limit within urban residential and business areas is 60 km/h.",
         "st": "[ST] The general speed limit within urban residential and business areas is 60 km/h."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Motorcycle riding smoothly through a city street with speed gauge showing 60 km/h indicator."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!",
         "af": "[AF] 60 City Limit: 60 in the City, 100 in the Country, 120 on the Freeway!",
@@ -321,11 +309,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The general speed limit within urban residential and business areas is 60 km/h.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The general speed limit within urban residential and business areas is 60 km/h.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The general speed limit within urban residential and business areas is 60 km/h.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The general speed limit within urban residential and business areas is 60 km/h.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The general speed limit within urban residential and business areas is 60 km/h.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The general speed limit within urban residential and business areas is 60 km/h.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The general speed limit within urban residential and business areas is 60 km/h.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The general speed limit within urban residential and business areas is 60 km/h.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The general speed limit within urban residential and business areas is 60 km/h.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The general speed limit within urban residential and business areas is 60 km/h.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The general speed limit within urban residential and business areas is 60 km/h. Non-compliance results in test failure.",
@@ -335,11 +323,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The general speed limit within urban residential and business areas is 60 km/h. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The general speed limit within urban residential and business areas is 60 km/h. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The general speed limit within urban residential and business areas is 60 km/h. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The general speed limit within urban residential and business areas is 60 km/h. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The general speed limit within urban residential and business areas is 60 km/h. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The general speed limit within urban residential and business areas is 60 km/h. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The general speed limit within urban residential and business areas is 60 km/h. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The general speed limit within urban residential and business areas is 60 km/h. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The general speed limit within urban residential and business areas is 60 km/h. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The general speed limit within urban residential and business areas is 60 km/h. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The general speed limit within urban residential and business areas is 60 km/h. O o sireletsa jwang?"
         }
       }
     },
@@ -391,11 +379,7 @@
         "zu": "[ZU] The right hand lever operates the front brake, providing up to 70% of stopping power.",
         "st": "[ST] The right hand lever operates the front brake, providing up to 70% of stopping power."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Hand squeezing the right handlebar lever, highlighting the front brake caliper clamping the disc brake."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Right Hand = Right Front Brake! Provides most stopping power!",
         "af": "[AF] Right Hand = Right Front Brake! Provides most stopping power!",
@@ -405,11 +389,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The right hand lever operates the front brake, providing up to 70% of stopping power.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The right hand lever operates the front brake, providing up to 70% of stopping power. Non-compliance results in test failure.",
@@ -419,11 +403,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The right hand lever operates the front brake, providing up to 70% of stopping power. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The right hand lever operates the front brake, providing up to 70% of stopping power. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The right hand lever operates the front brake, providing up to 70% of stopping power. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The right hand lever operates the front brake, providing up to 70% of stopping power. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The right hand lever operates the front brake, providing up to 70% of stopping power. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The right hand lever operates the front brake, providing up to 70% of stopping power. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The right hand lever operates the front brake, providing up to 70% of stopping power. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The right hand lever operates the front brake, providing up to 70% of stopping power. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The right hand lever operates the front brake, providing up to 70% of stopping power. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The right hand lever operates the front brake, providing up to 70% of stopping power. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The right hand lever operates the front brake, providing up to 70% of stopping power. O o sireletsa jwang?"
         }
       }
     },
@@ -489,11 +473,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Blue circular command signs dictate mandatory reservations or permitted vehicle tracks.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Non-compliance results in test failure.",
@@ -503,11 +487,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Blue circular command signs dictate mandatory reservations or permitted vehicle tracks. O o sireletsa jwang?"
         }
       }
     },
@@ -559,11 +543,7 @@
         "zu": "[ZU] Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.",
         "st": "[ST] Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility."
       },
-      "media": {
-        "graphic_type": "headlights_command",
-        "image_file": "headlights_command.png",
-        "video_simulation_prompt": "3D Animation: Motorcycle riding in bright sunlight with its front dipped beam headlight illuminated."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Always On: Headlight ON by day keeps danger away!",
         "af": "[AF] Always On: Headlight ON by day keeps danger away!",
@@ -573,11 +553,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Non-compliance results in test failure.",
@@ -587,11 +567,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles must operate with dipped beam headlights switched on day and night for maximum visibility. O o sireletsa jwang?"
         }
       }
     },
@@ -643,11 +623,7 @@
         "zu": "[ZU] The rear brake is activated by pressing down on the right foot lever.",
         "st": "[ST] The rear brake is activated by pressing down on the right foot lever."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Close-up of rider's right boot pressing down on the right foot brake lever."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Right Foot = Rear Brake! Right Hand = Front Brake!",
         "af": "[AF] Right Foot = Rear Brake! Right Hand = Front Brake!",
@@ -657,11 +633,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The rear brake is activated by pressing down on the right foot lever.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The rear brake is activated by pressing down on the right foot lever.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The rear brake is activated by pressing down on the right foot lever.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The rear brake is activated by pressing down on the right foot lever.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The rear brake is activated by pressing down on the right foot lever.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The rear brake is activated by pressing down on the right foot lever.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The rear brake is activated by pressing down on the right foot lever.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The rear brake is activated by pressing down on the right foot lever.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The rear brake is activated by pressing down on the right foot lever.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The rear brake is activated by pressing down on the right foot lever.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The rear brake is activated by pressing down on the right foot lever. Non-compliance results in test failure.",
@@ -671,11 +647,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The rear brake is activated by pressing down on the right foot lever. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The rear brake is activated by pressing down on the right foot lever. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The rear brake is activated by pressing down on the right foot lever. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The rear brake is activated by pressing down on the right foot lever. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The rear brake is activated by pressing down on the right foot lever. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The rear brake is activated by pressing down on the right foot lever. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The rear brake is activated by pressing down on the right foot lever. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The rear brake is activated by pressing down on the right foot lever. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The rear brake is activated by pressing down on the right foot lever. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The rear brake is activated by pressing down on the right foot lever. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The rear brake is activated by pressing down on the right foot lever. O o sireletsa jwang?"
         }
       }
     },
@@ -741,11 +717,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The R2 Yield sign requires giving right-of-way to approaching traffic before entering.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Non-compliance results in test failure.",
@@ -755,11 +731,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The R2 Yield sign requires giving right-of-way to approaching traffic before entering. O o sireletsa jwang?"
         }
       }
     },
@@ -811,11 +787,7 @@
         "zu": "[ZU] Riders and passengers must keep their feet securely positioned on footrests while in motion.",
         "st": "[ST] Riders and passengers must keep their feet securely positioned on footrests while in motion."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Rider positioning both boots firmly on foot pegs while riding along a curve."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Feet on Pegs: Keep feet firmly on pegs for control and safety!",
         "af": "[AF] Feet on Pegs: Keep feet firmly on pegs for control and safety!",
@@ -825,11 +797,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Riders and passengers must keep their feet securely positioned on footrests while in motion.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Riders and passengers must keep their feet securely positioned on footrests while in motion. Non-compliance results in test failure.",
@@ -839,11 +811,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Riders and passengers must keep their feet securely positioned on footrests while in motion. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Riders and passengers must keep their feet securely positioned on footrests while in motion. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Riders and passengers must keep their feet securely positioned on footrests while in motion. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Riders and passengers must keep their feet securely positioned on footrests while in motion. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Riders and passengers must keep their feet securely positioned on footrests while in motion. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Riders and passengers must keep their feet securely positioned on footrests while in motion. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Riders and passengers must keep their feet securely positioned on footrests while in motion. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Riders and passengers must keep their feet securely positioned on footrests while in motion. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Riders and passengers must keep their feet securely positioned on footrests while in motion. O o sireletsa jwang?"
         }
       }
     },
@@ -895,11 +867,7 @@
         "zu": "[ZU] Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.",
         "st": "[ST] Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Demonstrates a properly equipped motorcycle with dual foot pegs and helmeted passenger vs illegal seating."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!",
         "af": "[AF] Pillion Rule: Proper Seat + Foot Pegs + Helmet + Feet Must Reach!",
@@ -909,11 +877,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Non-compliance results in test failure.",
@@ -923,11 +891,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Pillion passengers require a proper seat, separate footrests, helmet, and must be able to reach the footrests. O o sireletsa jwang?"
         }
       }
     },
@@ -979,11 +947,7 @@
         "zu": "[ZU] Not more than two motorcycles may ride side-by-side in a single traffic lane.",
         "st": "[ST] Not more than two motorcycles may ride side-by-side in a single traffic lane."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Two motorcycles riding staggered abreast within one lane, showing safe clearance."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!",
         "af": "[AF] Abreast Limit: Max 2 Bikes Per Lane, staggered for safety!",
@@ -993,11 +957,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Not more than two motorcycles may ride side-by-side in a single traffic lane.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Not more than two motorcycles may ride side-by-side in a single traffic lane. Non-compliance results in test failure.",
@@ -1007,11 +971,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Not more than two motorcycles may ride side-by-side in a single traffic lane. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Not more than two motorcycles may ride side-by-side in a single traffic lane. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Not more than two motorcycles may ride side-by-side in a single traffic lane. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Not more than two motorcycles may ride side-by-side in a single traffic lane. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Not more than two motorcycles may ride side-by-side in a single traffic lane. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Not more than two motorcycles may ride side-by-side in a single traffic lane. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Not more than two motorcycles may ride side-by-side in a single traffic lane. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Not more than two motorcycles may ride side-by-side in a single traffic lane. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Not more than two motorcycles may ride side-by-side in a single traffic lane. O o sireletsa jwang?"
         }
       }
     },
@@ -1030,27 +994,27 @@
       },
       "options": {
         "en": {
-          "A": "A) Exceeding 50 cc (50cm\u00b3).",
+          "A": "A) Exceeding 50 cc (50cm³).",
           "B": "B) Exceeding 125 cc.",
           "C": "C) Any engine size if traveling over 60 km/h."
         },
         "af": {
-          "A": "[AF] A) Exceeding 50 cc (50cm\u00b3).",
+          "A": "[AF] A) Exceeding 50 cc (50cm³).",
           "B": "[AF] B) Exceeding 125 cc.",
           "C": "[AF] C) Any engine size if traveling over 60 km/h."
         },
         "xh": {
-          "A": "[XH] A) Exceeding 50 cc (50cm\u00b3).",
+          "A": "[XH] A) Exceeding 50 cc (50cm³).",
           "B": "[XH] B) Exceeding 125 cc.",
           "C": "[XH] C) Any engine size if traveling over 60 km/h."
         },
         "zu": {
-          "A": "[ZU] A) Exceeding 50 cc (50cm\u00b3).",
+          "A": "[ZU] A) Exceeding 50 cc (50cm³).",
           "B": "[ZU] B) Exceeding 125 cc.",
           "C": "[ZU] C) Any engine size if traveling over 60 km/h."
         },
         "st": {
-          "A": "[ST] A) Exceeding 50 cc (50cm\u00b3).",
+          "A": "[ST] A) Exceeding 50 cc (50cm³).",
           "B": "[ST] B) Exceeding 125 cc.",
           "C": "[ST] C) Any engine size if traveling over 60 km/h."
         }
@@ -1063,11 +1027,7 @@
         "zu": "[ZU] Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.",
         "st": "[ST] Motorcycles with an engine capacity of 50cc or less are prohibited from freeways."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Motorcycle entering freeway ramp with 50cc prohibition sign highlight."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Freeway Limit: Over 50cc to enter the Freeway!",
         "af": "[AF] Freeway Limit: Over 50cc to enter the Freeway!",
@@ -1077,11 +1037,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Motorcycles with an engine capacity of 50cc or less are prohibited from freeways.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Non-compliance results in test failure.",
@@ -1091,11 +1051,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles with an engine capacity of 50cc or less are prohibited from freeways. O o sireletsa jwang?"
         }
       }
     },
@@ -1147,11 +1107,7 @@
         "zu": "[ZU] Motorcycles are strictly prohibited from towing any other vehicle on public roads.",
         "st": "[ST] Motorcycles are strictly prohibited from towing any other vehicle on public roads."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Red X symbol over a motorcycle trying to tow another bike."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "No Towing: Motorcycles CANNOT tow other vehicles!",
         "af": "[AF] No Towing: Motorcycles CANNOT tow other vehicles!",
@@ -1161,11 +1117,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Motorcycles are strictly prohibited from towing any other vehicle on public roads.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Non-compliance results in test failure.",
@@ -1175,11 +1131,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Motorcycles are strictly prohibited from towing any other vehicle on public roads. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles are strictly prohibited from towing any other vehicle on public roads. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Motorcycles are strictly prohibited from towing any other vehicle on public roads. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Motorcycles are strictly prohibited from towing any other vehicle on public roads. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Motorcycles are strictly prohibited from towing any other vehicle on public roads. O o sireletsa jwang?"
         }
       }
     },
@@ -1231,11 +1187,7 @@
         "zu": "[ZU] Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.",
         "st": "[ST] Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Side view of motorcycle with measurement line highlighting 600mm front projection limit."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Front Cargo Limit: 600 mm max in front of axle!",
         "af": "[AF] Front Cargo Limit: 600 mm max in front of axle!",
@@ -1245,11 +1197,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Non-compliance results in test failure.",
@@ -1259,11 +1211,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Cargo on a motorcycle may not project more than 600 mm in front of the front wheel axle. O o sireletsa jwang?"
         }
       }
     },
@@ -1329,11 +1281,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Non-compliance results in test failure.",
@@ -1343,11 +1295,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Red circle border signs are PROHIBITION signs indicating forbidden vehicle classes. O o sireletsa jwang?"
         }
       }
     },
@@ -1399,11 +1351,7 @@
         "zu": "[ZU] Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).",
         "st": "[ST] Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up)."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Close-up of left boot lifting up on the gear shift pedal to select a higher gear."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Left Foot = Gears! Right Foot = Rear Brake!",
         "af": "[AF] Left Foot = Gears! Right Foot = Rear Brake!",
@@ -1413,11 +1361,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up).' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Non-compliance results in test failure.",
@@ -1427,11 +1375,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Gear selection on a motorcycle is controlled using the left foot lever (1 down, 4/5 up). O o sireletsa jwang?"
         }
       }
     },
@@ -1483,11 +1431,7 @@
         "zu": "[ZU] Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.",
         "st": "[ST] Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Top-down aerial view of motorcycle showing 450mm lateral load width bounds."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Side Load Limit: 450 mm from Centerline!",
         "af": "[AF] Side Load Limit: 450 mm from Centerline!",
@@ -1497,11 +1441,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Non-compliance results in test failure.",
@@ -1511,11 +1455,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Cargo carried on a motorcycle must not extend beyond 450 mm on either side of the bike's centerline. O o sireletsa jwang?"
         }
       }
     },
@@ -1581,11 +1525,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Red warning triangles alert drivers to potential hazards or high motorcycle concentration.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Non-compliance results in test failure.",
@@ -1595,11 +1539,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Red warning triangles alert drivers to potential hazards or high motorcycle concentration. O o sireletsa jwang?"
         }
       }
     },
@@ -1651,11 +1595,7 @@
         "zu": "[ZU] The clutch lever is located on the left handlebar and is operated by the left hand fingers.",
         "st": "[ST] The clutch lever is located on the left handlebar and is operated by the left hand fingers."
       },
-      "media": {
-        "graphic_type": "none",
-        "image_file": null,
-        "video_simulation_prompt": "3D Animation: Rider's left hand squeezing the clutch lever smoothly to disengage drive before gear change."
-      },
+      "media": null,
       "memory_tricks": {
         "en": "Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!",
         "af": "[AF] Left Hand = Clutch Lever! Smooth squeeze for clean gear changes!",
@@ -1665,11 +1605,11 @@
       },
       "persona_responses": {
         "witty_playful_coach": {
-          "en": "Whoa there, champion! \ud83c\udfce\ufe0f Remember: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Don't drop easy points!",
-          "af": "Woah daar, kampioen! \ud83c\udfce\ufe0f Onthou: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! \ud83c\udfce\ufe0f Khumbula: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! \ud83c\udfce\ufe0f Khumbula: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! \ud83c\udfce\ufe0f Hopola: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' O se ke wa lahlehelwa ke dintlha!"
+          "en": "Whoa there, champion! 🏎️ Remember: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Don't drop easy points!",
+          "af": "Woah daar, kampioen! 🏎️ Onthou: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Moenie maklike punte verloor nie!",
+          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Ungalahleki ngamanqaku!",
+          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' Ungalahlekelwa amaphuzu!",
+          "st": "Ema moo, mampodi! 🏎️ Hopola: 'The clutch lever is located on the left handlebar and is operated by the left hand fingers.' O se ke wa lahlehelwa ke dintlha!"
         },
         "veteran_k53_examiner": {
           "en": "Attention Candidate. Under National Road Traffic Regulations: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Non-compliance results in test failure.",
@@ -1679,11 +1619,11 @@
           "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ho se mamele ho lebisa ho hloleheng."
         },
         "socratic_memory_guide": {
-          "en": "Let's analyze this together \ud83e\udd14 Why is this rule crucial? Remember: The clutch lever is located on the left handlebar and is operated by the left hand fingers. How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor \ud83e\udd14 Waarom is hierdie re\u00ebl belangrik? Onthou: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye \ud83e\udd14 Kutheni lo mthetho ubalulekile? Khumbula: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye \ud83e\udd14 Kungani lo mthetho ubalulekile? Khumbula: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho \ud83e\udd14 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The clutch lever is located on the left handlebar and is operated by the left hand fingers. O o sireletsa jwang?"
+          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: The clutch lever is located on the left handlebar and is operated by the left hand fingers. How does this protect you on the road?",
+          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Hoe beskerm dit jou?",
+          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Ikukhusela njani?",
+          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: The clutch lever is located on the left handlebar and is operated by the left hand fingers. Kukuvikela kanjani?",
+          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: The clutch lever is located on the left handlebar and is operated by the left hand fingers. O o sireletsa jwang?"
         }
       }
     }
