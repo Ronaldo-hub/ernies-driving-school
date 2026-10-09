@@ -55,10 +55,10 @@
         "zu": "[ZU] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads.",
         "st": "[ST] Heavy goods vehicles over 9,000 kg GVM are restricted to a maximum speed limit of 80 km/h on all public roads."
       },
-      "media": {
-        "graphic_type": "speed_goods_80",
-        "image_file": "speed_goods_80.png",
-        "video_simulation_prompt": "3D Animation: Heavy articulated truck cruising on highway with speedometer capped at 80 km/h."
+       "media": {
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
       },
       "memory_tricks": {
         "en": "Heavy Vehicle Max Speed: 80 km/h for heavy trucks > 9t!",
@@ -224,9 +224,9 @@
         "st": "[ST] Exhaust/engine brakes provide supplementary deceleration, preserving air service brakes on steep descents."
       },
       "media": {
-        "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
-        "video_simulation_prompt": "3D Animation: Truck descending pass with exhaust brake engaged, preventing brake fade."
+        "graphic_type": "none",
+        "image_file": null,
+        "video_simulation_prompt": "3D Animation: Driver and rear passengers clicking their seatbelts into place before driving off."
       },
       "memory_tricks": {
         "en": "Exhaust Brake = Saves Service Brakes on Downhills!",
@@ -259,90 +259,7 @@
         }
       }
     },
-    {
-      "id": 4,
-      "code_id": "code3_heavy_vehicle",
-      "code_name": "Code 3 - Heavy Motor Vehicles (Code 10/14 / Class C/EC)",
-      "difficulty": "easy",
-      "category": "Road Traffic Signs",
-      "question": {
-        "en": "What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
-        "af": "[AF] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
-        "xh": "[XH] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
-        "zu": "[ZU] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?",
-        "st": "[ST] What does a circular prohibition sign showing a truck inside a red border with '10t' (Sign R202) mean?"
-      },
-      "options": {
-        "en": {
-          "A": "A) Gross Vehicle Mass limit of 10 tonnes.",
-          "B": "B) Minimum speed limit of 10 km/h.",
-          "C": "C) Axle mass limit of 10 tonnes."
-        },
-        "af": {
-          "A": "[AF] A) Gross Vehicle Mass limit of 10 tonnes.",
-          "B": "[AF] B) Minimum speed limit of 10 km/h.",
-          "C": "[AF] C) Axle mass limit of 10 tonnes."
-        },
-        "xh": {
-          "A": "[XH] A) Gross Vehicle Mass limit of 10 tonnes.",
-          "B": "[XH] B) Minimum speed limit of 10 km/h.",
-          "C": "[XH] C) Axle mass limit of 10 tonnes."
-        },
-        "zu": {
-          "A": "[ZU] A) Gross Vehicle Mass limit of 10 tonnes.",
-          "B": "[ZU] B) Minimum speed limit of 10 km/h.",
-          "C": "[ZU] C) Axle mass limit of 10 tonnes."
-        },
-        "st": {
-          "A": "[ST] A) Gross Vehicle Mass limit of 10 tonnes.",
-          "B": "[ST] B) Minimum speed limit of 10 km/h.",
-          "C": "[ST] C) Axle mass limit of 10 tonnes."
-        }
-      },
-      "correct_answer": "A",
-      "explanation": {
-        "en": "Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
-        "af": "[AF] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
-        "xh": "[XH] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
-        "zu": "[ZU] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).",
-        "st": "[ST] Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t)."
-      },
-      "media": {
-        "graphic_type": "mass_limit_10t",
-        "image_file": "mass_limit_10t.png",
-        "video_simulation_prompt": "3D Animation: Heavy truck checking load weight rating before 10t bridge entry sign."
-      },
-      "memory_tricks": {
-        "en": "Red Circle 10t = MAX GROSS MASS 10 TONNES!",
-        "af": "[AF] Red Circle 10t = MAX GROSS MASS 10 TONNES!",
-        "xh": "[XH] Red Circle 10t = MAX GROSS MASS 10 TONNES!",
-        "zu": "[ZU] Red Circle 10t = MAX GROSS MASS 10 TONNES!",
-        "st": "[ST] Red Circle 10t = MAX GROSS MASS 10 TONNES!"
-      },
-      "persona_responses": {
-        "witty_playful_coach": {
-          "en": "Whoa there, champion! 🏎️ Remember: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Don't drop easy points!",
-          "af": "Woah daar, kampioen! 🏎️ Onthou: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Moenie maklike punte verloor nie!",
-          "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Ungalahleki ngamanqaku!",
-          "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' Ungalahlekelwa amaphuzu!",
-          "st": "Ema moo, mampodi! 🏎️ Hopola: 'Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t).' O se ke wa lahlehelwa ke dintlha!"
-        },
-        "veteran_k53_examiner": {
-          "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Non-compliance results in test failure.",
-          "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Nie-nakoming lei tot druip.",
-          "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ukungathobeli kukhokelela ekufeyileni.",
-          "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ukungayithobeli kuholela ekuhlulekeni.",
-          "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ho se mamele ho lebisa ho hloleheng."
-        },
-        "socratic_memory_guide": {
-          "en": "Let's analyze this together 🤔 Why is this rule crucial? Remember: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). How does this protect you on the road?",
-          "af": "Kom ons dink saam hieroor 🤔 Waarom is hierdie reël belangrik? Onthou: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Hoe beskerm dit jou?",
-          "xh": "Masicinge ngale nto kunye 🤔 Kutheni lo mthetho ubalulekile? Khumbula: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Ikukhusela njani?",
-          "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani lo mthetho ubalulekile? Khumbula: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). Kukuvikela kanjani?",
-          "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha molao ona o le bohlokwa? Hopola: Sign R202 prohibits vehicles with a Gross Vehicle Mass exceeding the indicated tonnage (10t). O o sireletsa jwang?"
-        }
-      }
-    },
+   { "id": 4, "category": "Road Traffic Signs", "sub\_category\_id": "signs\_prohibition", "sub\_category\_name": "Prohibition Signs &amp; Restrictions", "applicable\_vehicle\_classes": [ "heavy\_vehicle" ], "question": { "en": "What does a circular prohibition sign displaying '10t' inside a red border (Sign R202) indicate?", "af": "Wat dui 'n sirkelvormige verbodsteken wat '10t' binne 'n rooi rand vertoon (Teken R202) aan?", "xh": "Lithetha ukuthini uphawu olungqunda lwesithintelo olubonisa '10t' ngaphakathi kumda obomvu (Uphawu R202)?", "zu": "Lisho ukuthini uphawu lomngcele eliyindilinga elibonisa '10t' ngaphakathi kwesizinda esinomugqa obomvu (Uphawu R202)?", "st": "Letshwao la mohlala le selikaliko le nang le '10t' ka hare ho moedi o moholo o mohibedu (Letshwao R202) le bolela'ng?" }, "options": { "en": { "A": "A) Vehicles or combinations with a Gross Vehicle Mass (GVM) or Gross Combination Mass (GCM) exceeding 10 tonnes are prohibited.", "B": "B) Minimum required operating speed of 10 km/h for heavy vehicles.", "C": "C) Axle massload limit of 10 tonnes per axle." }, "af": { "A": "A) Voertuie of kombinasies met 'n Bruto Voertuigmassa (BVM) of Bruto Kombinasiemassa (BKM) van meer as 10 ton word verbied.", "B": "B) Minimum vereiste ry-snelheid van 10 km/h vir swaar voertuie.", "C": "C) Asmassa-beperking van 10 ton per as." }, "xh": { "A": "A) Izithuthi okanye iindibaniselwano ezine-Gross Vehicle Mass (GVM) okanye i-Gross Combination Mass (GCM) edlula i-10 tonnes azivumelekanga.", "B": "B) Isantya esincinci esiyimfuneko sokuhamba sa 10 km/h kwizithuthi ezitshona ngezantsi.", "C": "C) Umda womthwalo wearali wa 10 tonnes nge-axle nganye." }, "zu": { "A": "A) Izimoto noma inhlanganisela yezimoto ene-Gross Vehicle Mass (GVM) noma i-Gross Combination Mass (GCM) eweqa i-10 tonnes azivunyelwe.", "B": "B) Isivinini esiphansi esidingekayo esingu-10 km/h ezimotweni ezinzima.", "C": "C) Umngcele wesisindo se-axle esingu-10 tonnes kwi-axle nginye." }, "st": { "A": "A) Likoloi kapa metswako e nang le Gross Vehicle Mass (GVM) kapa Gross Combination Mass (GCM) e fetang 10 tonnes di thetswe.", "B": "B) Lebelo le fokolang le hlokahalang la 10 km/h bakeng sa likoloi tse boima.", "C": "C) Moedi wa boima ba axle ba 10 tonnes ka axle ka nngwe." } }, "correct\_answer": "A", "explanation": { "en": "Sign R202 prohibits any vehicle or combination of vehicles with a Gross Vehicle Mass (GVM) or Gross Combination Mass (GCM) exceeding the indicated tonnage (10t) from proceeding past the sign.", "af": "Teken R202 verbied enige voertuig of kombinasie van voertuie met 'n Bruto Voertuigmassa (BVM) of Bruto Kombinasiemassa (BKM) wat die aangeduide tonnemaat (10t) oorskry om verby die teken te ry.", "xh": "Uphawu R202 lwalela nayiphi na isithuthi okanye indibaniselwano yezithuthi ene-Gross Vehicle Mass (GVM) okanye i-Gross Combination Mass (GCM) edlula i-tonnage eboniswe kulu phawu (10t).", "zu": "Uphawu R202 luqeda noma iyiphi imoto noma inhlanganisela yezimoto ene-Gross Vehicle Mass (GVM) noma i-Gross Combination Mass (GCM) eweqa i-tonnage ebonisiwe (10t) ekudluleni uphawu.", "st": "Letshwao R202 le thibela koloi efe kapa efe kapa motswako wa likoloi o nang le Gross Vehicle Mass (GVM) kapa Gross Combination Mass (GCM) e fetang boima bo bontshitsweng (10t)." }, "media": { "graphic\_type": "mass\_limit\_10t", "image\_file": "R202\_gross\_mass\_limit\_10t.svg", "video\_simulation\_prompt": "3D Animation: Heavy motor vehicle approaching a bridge structure with Sign R202 (10t red circular prohibition disc) mounted on the approach shoulder." }, "memory\_tricks": { "en": "Red Circle + '10t' = MAXIMUM GROSS MASS LIMIT 10 TONNES! (Applies to all vehicles exceeding 10t GVM/GCM).", "af": "Rooi Sirkel + '10t' = MAKSIMUM BRUTO MASSA BEPERKING 10 TON!", "xh": "Isangqa Esibomvu + '10t' = UMDA OMKHULU WEMASS YONKE 10 TONNES!", "zu": "Indilinga Ebomvu + '10t' = UMNGCLE OMKHULU WESISINDO 10 TONNES!", "st": "Selikaliko Sehibedu + '10t' = MOEDI O MOHOLO WA BOIMA BA 10 TONNES!" }, "persona\_responses": { "witty\_playful\_coach": { "en": "Whoa there, champion! 🏎️ Remember: 'Sign R202 prohibits any vehicle exceeding 10 tonnes Gross Mass from using this road or bridge.' Don't drop easy points on the test!", "af": "Woah daar, kampioen! 🏎️ Onthou: 'Teken R202 verbied enige voertuig wat 10 ton Bruto Massa oorskry.' Moenie maklike punte verloor nie!", "xh": "Yima apho, ntshatsheli! 🏎️ Khumbula: 'Uphawu R202 lwalela nasiphi na isithuthi esidlula 10 tonnes Gross Mass.' Ungalahleki ngamanqaku!", "zu": "Yima lapho, qhawe! 🏎️ Khumbula: 'Uphawu R202 lwenqabela noma iyiphi imoto eweqa 10 tonnes Gross Mass.' Ungalahlekelwa amaphuzu!", "st": "Ema moo, mampodi! 🏎️ Hopola: 'Letshwao R202 le thibela koloi efe kapa efe e fetang 10 tonnes Gross Mass.' O se ke wa lahlehelwa ke dintlha!" }, "veteran\_k53\_examiner": { "en": "Attention Candidate. Under National Road Traffic Regulations: Sign R202 prohibits vehicles or combinations exceeding a Gross Vehicle Mass (GVM) or Gross Combination Mass (GCM) of 10 tonnes. Non-compliance results in immediate test failure.", "af": "Aandag Kandidaat. Volgens die Nasionale Padverkeerswet: Teken R202 verbied voertuie wat 10 ton BVM of BKM oorskry. Nie-nakoming lei tot druip van die toets.", "xh": "Nqanda Mfundi. Phantsi koMthetho wePhathelo yeeNdlela: Uphawu R202 lwalela izithuthi ezidlula 10 tonnes GVM/GCM. Ukungathobeli kukhokelela ekufeyileni.", "zu": "Qaphela Mfundi. Ngaphansi komthetho womgwaqo: Uphawu R202 luqeda izimoto ezeqa i-10 tonnes GVM/GCM. Ukungayithobeli kuholela ekuhlulekeni.", "st": "Mametse Mokopi. Tlas'a Molao wa Tsela: Letshwao R202 le thibela likoloi tse fetang 10 tonnes GVM/GCM. Ho se mamele ho lebisa ho hloleheng." }, "socratic\_memory\_guide": { "en": "Let's analyze this together 🤔 Why is Sign R202 placed before bridges or residential roads? Remember: it enforces a total Gross Mass limit of 10 tonnes to prevent structural damage or road collapse.", "af": "Kom ons dink saam hieroor 🤔 Waarom word Teken R202 voor brûe geplaas? Dit pas 'n totale massa-beperking van 10 ton toe om strukturele skade te voorkom.", "xh": "Masicinge ngale nto kunye 🤔 Kutheni u-R202 ebekwa phambi kwamabhulorho? Khumbula: umisa umda we-10 tonnes ukukhusela umonakalo wetempile.", "zu": "Ake sicabange ngalokhu ndawonye 🤔 Kungani u-R202 ubekwa ngaphambi kwamabhuloho? Khumbula: unquma umngcele we-10 tonnes ukuvikela ukulimala kwebhuloho.", "st": "A re nagane ka sena mmoho 🤔 Ke hobane'ng ha R202 e bewa pele ho marogo? Hopola: e kenya tshebetsong moedi wa 10 tonnes ho thibela tshenyo." } } },
     {
       "id": 5,
       "code_id": "code3_heavy_vehicle",
