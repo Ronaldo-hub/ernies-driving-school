@@ -22,7 +22,7 @@
     
 
     <script>
-    // Universal K53 Question Image Resolver
+    
     window.renderQuestionImage = function(q, containerId) {
         const container = document.getElementById(containerId) || document.querySelector('.question-media-container');
         if (!container) return;
@@ -59,7 +59,7 @@
     
 
     <script>
-    window.resolveK53ImagePath = function(mediaObj) {
+     = function(mediaObj) {
         if (!mediaObj) return null;
         let file = typeof mediaObj === 'string' ? mediaObj : mediaObj.image_file;
         if (!file) return null;
@@ -79,6 +79,75 @@
 
         return file;
     };
+    </script>
+    
+
+    <script>
+    // Robust K53 Image Path & Rendering Pipeline
+    function getK53ImagePath(q) {
+        if (!q) return null;
+        let path = null;
+        
+        // Check q.media object structure (common in your JSON files)
+        if (q.media) {
+            if (typeof q.media === 'string') path = q.media;
+            else if (q.media.image_file) path = q.media.image_file;
+            else if (q.media.url) path = q.media.url;
+        }
+        
+        // Fallback checks
+        if (!path) {
+            path = q.image || q.image_url || q.sign_image || q.media_url;
+        }
+        
+        if (!path) return null;
+        
+        // Clean leading slashes
+        path = path.replace(/^\/+/, '');
+        
+        // Fix duplicate prefixes
+        path = path.replace('images/images/', 'images/');
+        
+        // If path is relative and doesn't start with images/ or data/, prefix with images/
+        if (!path.startsWith('http') && !path.startsWith('images/') && !path.startsWith('data/')) {
+            path = 'images/' + path;
+        }
+        
+        return path;
+    }
+
+    function renderQuestionMedia(q) {
+        // Look for or create image container inside the question card
+        let container = document.getElementById('question-media-container');
+        if (!container) {
+            const questionTextEl = document.getElementById('question-text') || document.querySelector('.question-text');
+            if (questionTextEl) {
+                container = document.createElement('div');
+                container.id = 'question-media-container';
+                container.className = 'my-4 flex justify-center items-center';
+                questionTextEl.parentNode.insertBefore(container, questionTextEl.nextSibling);
+            }
+        }
+        
+        if (!container) return;
+
+        const imgPath = getK53ImagePath(q);
+        if (!imgPath) {
+            container.innerHTML = '';
+            container.style.display = 'none';
+            return;
+        }
+
+        container.style.display = 'block';
+        container.innerHTML = `
+            <div class="bg-gray-900/80 p-3 rounded-lg border border-gray-800 shadow-lg inline-block">
+                <img src="${imgPath}" 
+                     alt="K53 Question Visual / Road Sign" 
+                     class="max-h-48 max-w-full object-contain rounded"
+                     onerror="console.error('Failed to load image at:', '${imgPath}'); this.style.display='none';">
+            </div>
+        `;
+    }
     </script>
     
 </head>
