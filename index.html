@@ -20,6 +20,43 @@
     };
     </script>
     
+
+    <script>
+    // Universal K53 Question Image Resolver
+    window.renderQuestionImage = function(q, containerId) {
+        const container = document.getElementById(containerId) || document.querySelector('.question-media-container');
+        if (!container) return;
+        
+        // Find image field across common JSON schemas
+        let imgPath = q.image || q.image_url || q.image_file || q.sign_image || q.media_url;
+        if (!imgPath && q.media) {
+            imgPath = typeof q.media === 'string' ? q.media : (q.media.image_file || q.media.url || q.media.src);
+        }
+        
+        if (!imgPath) {
+            container.innerHTML = '';
+            container.style.display = 'none';
+            return;
+        }
+
+        // Clean & standardize relative path for GitHub Pages
+        let cleanPath = imgPath.replace(/^\/+/, '');
+        if (!cleanPath.startsWith('http') && !cleanPath.startsWith('data/') && !cleanPath.startsWith('images/')) {
+            cleanPath = 'images/' + cleanPath;
+        }
+
+        container.style.display = 'block';
+        container.innerHTML = `
+            <div class="my-4 flex justify-center items-center bg-gray-900/50 p-3 rounded-lg border border-gray-800">
+                <img src="${cleanPath}" 
+                     alt="Road Sign / Question Visual" 
+                     class="max-h-48 max-w-full object-contain rounded shadow-md"
+                     onerror="console.warn('Failed to load image:', '${cleanPath}'); this.parentElement.style.display='none';">
+            </div>
+        `;
+    };
+    </script>
+    
 </head>
 <body class="bg-zinc-950 text-white min-h-screen flex flex-col justify-between font-sans selection:bg-red-600 selection:text-white">
 
