@@ -2415,7 +2415,7 @@
       },
       "media": {
         "graphic_type": "speed_goods_80",
-        "image_file": "speed_goods_80.png",
+        "image_file": "images/speed_goods_80.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed Goods 80' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {

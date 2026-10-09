@@ -217,7 +217,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": "images/signs/R1.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle approaching a red octagonal STOP sign, applying brakes, and coming to a complete stop before the white line."
       },
       "memory_tricks": {
@@ -461,7 +461,7 @@
       },
       "media": {
         "graphic_type": "cycle_reservation",
-        "image_file": "cycle_reservation.png",
+        "image_file": "images/signs/R103.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle riding along a designated lane marked with blue circular command signs."
       },
       "memory_tricks": {
@@ -705,7 +705,7 @@
       },
       "media": {
         "graphic_type": "yield_sign",
-        "image_file": "yield_sign.png",
+        "image_file": "images/signs/R2.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle slowing down at an inverted triangle Yield sign and waiting for a car to pass."
       },
       "memory_tricks": {
@@ -1269,7 +1269,7 @@
       },
       "media": {
         "graphic_type": "no_bicycles",
-        "image_file": "no_bicycles.png",
+        "image_file": "images/signs/R219_no_cyclist.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle approaching a red circular prohibition sign and turning onto an alternate route."
       },
       "memory_tricks": {
@@ -1513,7 +1513,7 @@
       },
       "media": {
         "graphic_type": "general_warning",
-        "image_file": "general_warning.png",
+        "image_file": "images/signs/warning_triangle.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle riding past warning triangle sign and observing other bikes entering road."
       },
       "memory_tricks": {

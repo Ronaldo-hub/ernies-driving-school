@@ -72,7 +72,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -158,7 +158,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -244,7 +244,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -330,7 +330,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -416,7 +416,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -502,7 +502,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -588,7 +588,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -674,7 +674,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -760,7 +760,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -846,7 +846,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -932,7 +932,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1018,7 +1018,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1105,7 +1105,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1191,7 +1191,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1277,7 +1277,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1363,7 +1363,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1449,7 +1449,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1535,7 +1535,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1621,7 +1621,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1707,7 +1707,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1793,7 +1793,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1879,7 +1879,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -1965,7 +1965,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2051,7 +2051,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2137,7 +2137,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2223,7 +2223,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2309,7 +2309,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2395,7 +2395,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2481,7 +2481,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2567,7 +2567,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2653,7 +2653,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2739,7 +2739,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2825,7 +2825,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2911,7 +2911,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -2997,7 +2997,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3083,7 +3083,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3169,7 +3169,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3255,7 +3255,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3341,7 +3341,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3427,7 +3427,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3513,7 +3513,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3599,7 +3599,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3685,7 +3685,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3771,7 +3771,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3857,7 +3857,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -3943,7 +3943,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4029,7 +4029,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4115,7 +4115,7 @@
       },
       "media": {
         "graphic_type": "hmv_cockpit",
-        "image_file": "hmv_cockpit.png",
+        "image_file": "images/hmv_cockpit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hmv Cockpit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4203,7 +4203,7 @@
       },
       "media": {
         "graphic_type": "no_parking_yellow_line",
-        "image_file": "no_parking_yellow_line.png",
+        "image_file": "images/no_parking_yellow_line.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4291,7 +4291,7 @@
       },
       "media": {
         "graphic_type": "bus_word_marking",
-        "image_file": "bus_word_marking.png",
+        "image_file": "images/bus_word_marking.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Bus Word Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4379,7 +4379,7 @@
       },
       "media": {
         "graphic_type": "road_narrows_both",
-        "image_file": "road_narrows_both.png",
+        "image_file": "images/road_narrows_both.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Road Narrows Both' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4467,7 +4467,7 @@
       },
       "media": {
         "graphic_type": "railway_crossbuck",
-        "image_file": "railway_crossbuck.png",
+        "image_file": "images/railway_crossbuck.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Railway Crossbuck' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4555,7 +4555,7 @@
       },
       "media": {
         "graphic_type": "children_warning",
-        "image_file": "children_warning.png",
+        "image_file": "images/children_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Children Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4643,7 +4643,7 @@
       },
       "media": {
         "graphic_type": "height_limit_43",
-        "image_file": "height_limit_43.png",
+        "image_file": "images/height_limit_43.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Height Limit 43' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4731,7 +4731,7 @@
       },
       "media": {
         "graphic_type": "no_overtaking_goods",
-        "image_file": "no_overtaking_goods.png",
+        "image_file": "images/no_overtaking_goods.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Overtaking Goods' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4819,7 +4819,7 @@
       },
       "media": {
         "graphic_type": "warning_triangles",
-        "image_file": "warning_triangles.png",
+        "image_file": "images/warning_triangles.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Warning Triangles' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4907,7 +4907,7 @@
       },
       "media": {
         "graphic_type": "taxi_bay",
-        "image_file": "taxi_bay.png",
+        "image_file": "images/taxi_bay.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Taxi Bay' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -4995,7 +4995,7 @@
       },
       "media": {
         "graphic_type": "cycle_reservation",
-        "image_file": "cycle_reservation.png",
+        "image_file": "images/signs/R103.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Cycle Reservation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5083,7 +5083,7 @@
       },
       "media": {
         "graphic_type": "box_junction",
-        "image_file": "box_junction.png",
+        "image_file": "images/box_junction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5170,7 +5170,7 @@
       },
       "media": {
         "graphic_type": "prohibition_lmv",
-        "image_file": "prohibition_lmv.png",
+        "image_file": "images/prohibition_lmv.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Prohibition Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5258,7 +5258,7 @@
       },
       "media": {
         "graphic_type": "cyclists_warning",
-        "image_file": "cyclists_warning.png",
+        "image_file": "images/cyclists_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Cyclists Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5346,7 +5346,7 @@
       },
       "media": {
         "graphic_type": "headlights_end",
-        "image_file": "headlights_end.png",
+        "image_file": "images/headlights_end.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Headlights End' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5434,7 +5434,7 @@
       },
       "media": {
         "graphic_type": "lane_obstruction_1km",
-        "image_file": "lane_obstruction_1km.png",
+        "image_file": "images/lane_obstruction_1km.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Lane Obstruction 1Km' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5522,7 +5522,7 @@
       },
       "media": {
         "graphic_type": "arrow_straight_left",
-        "image_file": "arrow_straight_left.png",
+        "image_file": "images/arrow_straight_left.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrow Straight Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5610,7 +5610,7 @@
       },
       "media": {
         "graphic_type": "children_warning",
-        "image_file": "children_warning.png",
+        "image_file": "images/children_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Children Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5698,7 +5698,7 @@
       },
       "media": {
         "graphic_type": "green_arrow_overhead",
-        "image_file": "green_arrow_overhead.png",
+        "image_file": "images/green_arrow_overhead.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Green Arrow Overhead' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5786,7 +5786,7 @@
       },
       "media": {
         "graphic_type": "route_r102",
-        "image_file": "route_r102.png",
+        "image_file": "images/route_r102.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Route R102' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5874,7 +5874,7 @@
       },
       "media": {
         "graphic_type": "stop_line_rtm1",
-        "image_file": "stop_line_rtm1.png",
+        "image_file": "images/stop_line_rtm1.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Line Rtm1' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -5962,7 +5962,7 @@
       },
       "media": {
         "graphic_type": "pass_left",
-        "image_file": "pass_left.png",
+        "image_file": "images/pass_left.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pass Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6050,7 +6050,7 @@
       },
       "media": {
         "graphic_type": "game_reserve",
-        "image_file": "game_reserve.png",
+        "image_file": "images/game_reserve.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Game Reserve' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6138,7 +6138,7 @@
       },
       "media": {
         "graphic_type": "double_solid_lines",
-        "image_file": "double_solid_lines.png",
+        "image_file": "images/double_solid_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6226,7 +6226,7 @@
       },
       "media": {
         "graphic_type": "pass_left",
-        "image_file": "pass_left.png",
+        "image_file": "images/pass_left.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pass Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6314,7 +6314,7 @@
       },
       "media": {
         "graphic_type": "service_sequence",
-        "image_file": "service_sequence.png",
+        "image_file": "images/service_sequence.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Service Sequence' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6402,7 +6402,7 @@
       },
       "media": {
         "graphic_type": "box_junction",
-        "image_file": "box_junction.png",
+        "image_file": "images/box_junction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6490,7 +6490,7 @@
       },
       "media": {
         "graphic_type": "no_uturn",
-        "image_file": "no_uturn.png",
+        "image_file": "images/no_uturn.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Uturn' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6578,7 +6578,7 @@
       },
       "media": {
         "graphic_type": "no_stopping_time",
-        "image_file": "no_stopping_time.png",
+        "image_file": "images/no_stopping_time.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Stopping Time' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6666,7 +6666,7 @@
       },
       "media": {
         "graphic_type": "falling_rocks",
-        "image_file": "falling_rocks.png",
+        "image_file": "images/falling_rocks.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Falling Rocks' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6754,7 +6754,7 @@
       },
       "media": {
         "graphic_type": "flashing_green_right",
-        "image_file": "flashing_green_right.png",
+        "image_file": "images/flashing_green_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Flashing Green Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6840,7 +6840,7 @@
       },
       "media": {
         "graphic_type": "sharp_curve_right",
-        "image_file": "sharp_curve_right.png",
+        "image_file": "images/sharp_curve_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sharp Curve Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -6928,7 +6928,7 @@
       },
       "media": {
         "graphic_type": "lane_lines",
-        "image_file": "lane_lines.png",
+        "image_file": "images/lane_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Lane Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7016,7 +7016,7 @@
       },
       "media": {
         "graphic_type": "no_parking_yellow_line",
-        "image_file": "no_parking_yellow_line.png",
+        "image_file": "images/no_parking_yellow_line.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Parking Yellow Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7104,7 +7104,7 @@
       },
       "media": {
         "graphic_type": "cattle_warning",
-        "image_file": "cattle_warning.png",
+        "image_file": "images/cattle_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Cattle Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7192,7 +7192,7 @@
       },
       "media": {
         "graphic_type": "must_turn_right",
-        "image_file": "must_turn_right.png",
+        "image_file": "images/must_turn_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Must Turn Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7280,7 +7280,7 @@
       },
       "media": {
         "graphic_type": "fingerboard",
-        "image_file": "fingerboard.png",
+        "image_file": "images/fingerboard.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Fingerboard' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7368,7 +7368,7 @@
       },
       "media": {
         "graphic_type": "compulsory_uturn",
-        "image_file": "compulsory_uturn.png",
+        "image_file": "images/compulsory_uturn.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Compulsory Uturn' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7456,7 +7456,7 @@
       },
       "media": {
         "graphic_type": "yield_sign",
-        "image_file": "yield_sign.png",
+        "image_file": "images/signs/R2.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Yield Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7544,7 +7544,7 @@
       },
       "media": {
         "graphic_type": "speed_hump",
-        "image_file": "speed_hump.png",
+        "image_file": "images/speed_hump.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed Hump' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7632,7 +7632,7 @@
       },
       "media": {
         "graphic_type": "general_warning",
-        "image_file": "general_warning.png",
+        "image_file": "images/signs/warning_triangle.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'General Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7720,7 +7720,7 @@
       },
       "media": {
         "graphic_type": "straight_only",
-        "image_file": "straight_only.png",
+        "image_file": "images/straight_only.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Straight Only' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7808,7 +7808,7 @@
       },
       "media": {
         "graphic_type": "flashing_amber",
-        "image_file": "flashing_amber.png",
+        "image_file": "images/flashing_amber.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Flashing Amber' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7896,7 +7896,7 @@
       },
       "media": {
         "graphic_type": "headlights_end",
-        "image_file": "headlights_end.png",
+        "image_file": "images/headlights_end.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Headlights End' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -7984,7 +7984,7 @@
       },
       "media": {
         "graphic_type": "speed_120",
-        "image_file": "speed_120.png",
+        "image_file": "images/speed_120.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed 120' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8072,7 +8072,7 @@
       },
       "media": {
         "graphic_type": "reduced_visibility",
-        "image_file": "reduced_visibility.png",
+        "image_file": "images/reduced_visibility.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Reduced Visibility' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8160,7 +8160,7 @@
       },
       "media": {
         "graphic_type": "t_junction",
-        "image_file": "t_junction.png",
+        "image_file": "images/t_junction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'T Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8248,7 +8248,7 @@
       },
       "media": {
         "graphic_type": "golf_course",
-        "image_file": "golf_course.png",
+        "image_file": "images/golf_course.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Golf Course' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8336,7 +8336,7 @@
       },
       "media": {
         "graphic_type": "illuminated_red_x",
-        "image_file": "illuminated_red_x.png",
+        "image_file": "images/illuminated_red_x.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Illuminated Red X' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8424,7 +8424,7 @@
       },
       "media": {
         "graphic_type": "mass_limit_10t",
-        "image_file": "mass_limit_10t.png",
+        "image_file": "images/mass_limit_10t.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Mass Limit 10T' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8512,7 +8512,7 @@
       },
       "media": {
         "graphic_type": "no_stopping_sign",
-        "image_file": "no_stopping_sign.png",
+        "image_file": "images/no_stopping_sign.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Stopping Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8600,7 +8600,7 @@
       },
       "media": {
         "graphic_type": "traffic_light_ahead",
-        "image_file": "traffic_light_ahead.png",
+        "image_file": "images/traffic_light_ahead.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Traffic Light Ahead' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8688,7 +8688,7 @@
       },
       "media": {
         "graphic_type": "night_speed",
-        "image_file": "night_speed.png",
+        "image_file": "images/night_speed.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Night Speed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8776,7 +8776,7 @@
       },
       "media": {
         "graphic_type": "route_n1",
-        "image_file": "route_n1.png",
+        "image_file": "images/route_n1.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Route N1' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8864,7 +8864,7 @@
       },
       "media": {
         "graphic_type": "prohibition_goods",
-        "image_file": "prohibition_goods.png",
+        "image_file": "images/prohibition_goods.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Prohibition Goods' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -8950,7 +8950,7 @@
       },
       "media": {
         "graphic_type": "freeway_split",
-        "image_file": "freeway_split.png",
+        "image_file": "images/freeway_split.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Freeway Split' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9038,7 +9038,7 @@
       },
       "media": {
         "graphic_type": "no_hooting",
-        "image_file": "no_hooting.png",
+        "image_file": "images/no_hooting.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Hooting' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9126,7 +9126,7 @@
       },
       "media": {
         "graphic_type": "yield_sign",
-        "image_file": "yield_sign.png",
+        "image_file": "images/signs/R2.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Yield Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9214,7 +9214,7 @@
       },
       "media": {
         "graphic_type": "exit_100m",
-        "image_file": "exit_100m.png",
+        "image_file": "images/exit_100m.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Exit 100M' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9302,7 +9302,7 @@
       },
       "media": {
         "graphic_type": "exit_sequence_board",
-        "image_file": "exit_sequence_board.png",
+        "image_file": "images/exit_sequence_board.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Exit Sequence Board' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9390,7 +9390,7 @@
       },
       "media": {
         "graphic_type": "no_entry",
-        "image_file": "no_entry.png",
+        "image_file": "images/no_entry.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Entry' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9478,7 +9478,7 @@
       },
       "media": {
         "graphic_type": "min_speed_right_lane",
-        "image_file": "min_speed_right_lane.png",
+        "image_file": "images/min_speed_right_lane.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed Right Lane' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9566,7 +9566,7 @@
       },
       "media": {
         "graphic_type": "must_turn_right",
-        "image_file": "must_turn_right.png",
+        "image_file": "images/must_turn_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Must Turn Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9654,7 +9654,7 @@
       },
       "media": {
         "graphic_type": "scenic_viewpoint",
-        "image_file": "scenic_viewpoint.png",
+        "image_file": "images/scenic_viewpoint.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Scenic Viewpoint' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9741,7 +9741,7 @@
       },
       "media": {
         "graphic_type": "min_speed_lmv",
-        "image_file": "min_speed_lmv.png",
+        "image_file": "images/min_speed_lmv.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9829,7 +9829,7 @@
       },
       "media": {
         "graphic_type": "railway_warning",
-        "image_file": "railway_warning.png",
+        "image_file": "images/railway_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Railway Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -9917,7 +9917,7 @@
       },
       "media": {
         "graphic_type": "low_gear_command",
-        "image_file": "low_gear_command.png",
+        "image_file": "images/low_gear_command.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Low Gear Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10005,7 +10005,7 @@
       },
       "media": {
         "graphic_type": "speed_goods_80",
-        "image_file": "speed_goods_80.png",
+        "image_file": "images/speed_goods_80.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed Goods 80' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10093,7 +10093,7 @@
       },
       "media": {
         "graphic_type": "exit_100m",
-        "image_file": "exit_100m.png",
+        "image_file": "images/exit_100m.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Exit 100M' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10181,7 +10181,7 @@
       },
       "media": {
         "graphic_type": "route_confirmation",
-        "image_file": "route_confirmation.png",
+        "image_file": "images/route_confirmation.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Route Confirmation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10269,7 +10269,7 @@
       },
       "media": {
         "graphic_type": "golf_course",
-        "image_file": "golf_course.png",
+        "image_file": "images/golf_course.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Golf Course' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10357,7 +10357,7 @@
       },
       "media": {
         "graphic_type": "aircraft_warning",
-        "image_file": "aircraft_warning.png",
+        "image_file": "images/aircraft_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Aircraft Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10445,7 +10445,7 @@
       },
       "media": {
         "graphic_type": "motor_gate_right",
-        "image_file": "motor_gate_right.png",
+        "image_file": "images/motor_gate_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Motor Gate Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10533,7 +10533,7 @@
       },
       "media": {
         "graphic_type": "jetty_edge",
-        "image_file": "jetty_edge.png",
+        "image_file": "images/jetty_edge.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Jetty Edge' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10621,7 +10621,7 @@
       },
       "media": {
         "graphic_type": "illuminated_red_x",
-        "image_file": "illuminated_red_x.png",
+        "image_file": "images/illuminated_red_x.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Illuminated Red X' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10709,7 +10709,7 @@
       },
       "media": {
         "graphic_type": "double_bend_right",
-        "image_file": "double_bend_right.png",
+        "image_file": "images/double_bend_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Bend Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10797,7 +10797,7 @@
       },
       "media": {
         "graphic_type": "cycle_reservation",
-        "image_file": "cycle_reservation.png",
+        "image_file": "images/signs/R103.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Cycle Reservation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10885,7 +10885,7 @@
       },
       "media": {
         "graphic_type": "hazmat_time_restriction",
-        "image_file": "hazmat_time_restriction.png",
+        "image_file": "images/hazmat_time_restriction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hazmat Time Restriction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -10973,7 +10973,7 @@
       },
       "media": {
         "graphic_type": "disabled_parking",
-        "image_file": "disabled_parking.png",
+        "image_file": "images/disabled_parking.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Disabled Parking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11061,7 +11061,7 @@
       },
       "media": {
         "graphic_type": "headlights_command",
-        "image_file": "headlights_command.png",
+        "image_file": "images/headlights_command.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Headlights Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11149,7 +11149,7 @@
       },
       "media": {
         "graphic_type": "wild_animals",
-        "image_file": "wild_animals.png",
+        "image_file": "images/wild_animals.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Wild Animals' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11237,7 +11237,7 @@
       },
       "media": {
         "graphic_type": "no_stopping_red_line",
-        "image_file": "no_stopping_red_line.png",
+        "image_file": "images/no_stopping_red_line.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Stopping Red Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11325,7 +11325,7 @@
       },
       "media": {
         "graphic_type": "crossroad_warning",
-        "image_file": "crossroad_warning.png",
+        "image_file": "images/crossroad_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Crossroad Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11413,7 +11413,7 @@
       },
       "media": {
         "graphic_type": "winding_6km",
-        "image_file": "winding_6km.png",
+        "image_file": "images/winding_6km.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Winding 6Km' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11501,7 +11501,7 @@
       },
       "media": {
         "graphic_type": "height_limit_43",
-        "image_file": "height_limit_43.png",
+        "image_file": "images/height_limit_43.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Height Limit 43' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11587,7 +11587,7 @@
       },
       "media": {
         "graphic_type": "motorcycle_reservation",
-        "image_file": "motorcycle_reservation.png",
+        "image_file": "images/motorcycle_reservation.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Motorcycle Reservation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11675,7 +11675,7 @@
       },
       "media": {
         "graphic_type": "golf_course",
-        "image_file": "golf_course.png",
+        "image_file": "images/golf_course.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Golf Course' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11763,7 +11763,7 @@
       },
       "media": {
         "graphic_type": "hazmat_time_restriction",
-        "image_file": "hazmat_time_restriction.png",
+        "image_file": "images/hazmat_time_restriction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Hazmat Time Restriction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11851,7 +11851,7 @@
       },
       "media": {
         "graphic_type": "green_arrow_overhead",
-        "image_file": "green_arrow_overhead.png",
+        "image_file": "images/green_arrow_overhead.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Green Arrow Overhead' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -11937,7 +11937,7 @@
       },
       "media": {
         "graphic_type": "motorcycle_reservation",
-        "image_file": "motorcycle_reservation.png",
+        "image_file": "images/motorcycle_reservation.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Motorcycle Reservation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12025,7 +12025,7 @@
       },
       "media": {
         "graphic_type": "arrestor_bed",
-        "image_file": "arrestor_bed.png",
+        "image_file": "images/arrestor_bed.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrestor Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12113,7 +12113,7 @@
       },
       "media": {
         "graphic_type": "headlights_command",
-        "image_file": "headlights_command.png",
+        "image_file": "images/headlights_command.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Headlights Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12201,7 +12201,7 @@
       },
       "media": {
         "graphic_type": "zigzag_zone",
-        "image_file": "zigzag_zone.png",
+        "image_file": "images/zigzag_zone.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Zigzag Zone' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12289,7 +12289,7 @@
       },
       "media": {
         "graphic_type": "crossroad_warning",
-        "image_file": "crossroad_warning.png",
+        "image_file": "images/crossroad_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Crossroad Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12377,7 +12377,7 @@
       },
       "media": {
         "graphic_type": "box_junction",
-        "image_file": "box_junction.png",
+        "image_file": "images/box_junction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Box Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12465,7 +12465,7 @@
       },
       "media": {
         "graphic_type": "red_man_signal",
-        "image_file": "red_man_signal.png",
+        "image_file": "images/red_man_signal.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Red Man Signal' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12553,7 +12553,7 @@
       },
       "media": {
         "graphic_type": "no_stopping_red_line",
-        "image_file": "no_stopping_red_line.png",
+        "image_file": "images/no_stopping_red_line.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Stopping Red Line' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12641,7 +12641,7 @@
       },
       "media": {
         "graphic_type": "arrestor_bed",
-        "image_file": "arrestor_bed.png",
+        "image_file": "images/arrestor_bed.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrestor Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12729,7 +12729,7 @@
       },
       "media": {
         "graphic_type": "prohibition_goods",
-        "image_file": "prohibition_goods.png",
+        "image_file": "images/prohibition_goods.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Prohibition Goods' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12817,7 +12817,7 @@
       },
       "media": {
         "graphic_type": "painted_island",
-        "image_file": "painted_island.png",
+        "image_file": "images/painted_island.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12905,7 +12905,7 @@
       },
       "media": {
         "graphic_type": "double_bend_right",
-        "image_file": "double_bend_right.png",
+        "image_file": "images/double_bend_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Bend Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -12993,7 +12993,7 @@
       },
       "media": {
         "graphic_type": "lane_reduction_arrow",
-        "image_file": "lane_reduction_arrow.png",
+        "image_file": "images/lane_reduction_arrow.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Lane Reduction Arrow' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13081,7 +13081,7 @@
       },
       "media": {
         "graphic_type": "painted_island",
-        "image_file": "painted_island.png",
+        "image_file": "images/painted_island.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13169,7 +13169,7 @@
       },
       "media": {
         "graphic_type": "mass_limit_10t",
-        "image_file": "mass_limit_10t.png",
+        "image_file": "images/mass_limit_10t.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Mass Limit 10T' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13257,7 +13257,7 @@
       },
       "media": {
         "graphic_type": "t_junction",
-        "image_file": "t_junction.png",
+        "image_file": "images/t_junction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'T Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13344,7 +13344,7 @@
       },
       "media": {
         "graphic_type": "no_stopping_lmv",
-        "image_file": "no_stopping_lmv.png",
+        "image_file": "images/no_stopping_lmv.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Stopping Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13432,7 +13432,7 @@
       },
       "media": {
         "graphic_type": "railway_warning",
-        "image_file": "railway_warning.png",
+        "image_file": "images/railway_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Railway Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13520,7 +13520,7 @@
       },
       "media": {
         "graphic_type": "traffic_light_ahead",
-        "image_file": "traffic_light_ahead.png",
+        "image_file": "images/traffic_light_ahead.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Traffic Light Ahead' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13608,7 +13608,7 @@
       },
       "media": {
         "graphic_type": "no_overtaking_goods",
-        "image_file": "no_overtaking_goods.png",
+        "image_file": "images/no_overtaking_goods.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Overtaking Goods' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13695,7 +13695,7 @@
       },
       "media": {
         "graphic_type": "min_speed_lmv",
-        "image_file": "min_speed_lmv.png",
+        "image_file": "images/min_speed_lmv.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13783,7 +13783,7 @@
       },
       "media": {
         "graphic_type": "yield_line_rtm2",
-        "image_file": "yield_line_rtm2.png",
+        "image_file": "images/yield_line_rtm2.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Yield Line Rtm2' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13871,7 +13871,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": "images/signs/R1.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -13959,7 +13959,7 @@
       },
       "media": {
         "graphic_type": "stop_go",
-        "image_file": "stop_go.png",
+        "image_file": "images/stop_go.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Go' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14047,7 +14047,7 @@
       },
       "media": {
         "graphic_type": "camera_traffic_light",
-        "image_file": "camera_traffic_light.png",
+        "image_file": "images/camera_traffic_light.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Camera Traffic Light' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14135,7 +14135,7 @@
       },
       "media": {
         "graphic_type": "buses_command",
-        "image_file": "buses_command.png",
+        "image_file": "images/buses_command.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Buses Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14223,7 +14223,7 @@
       },
       "media": {
         "graphic_type": "double_solid_lines",
-        "image_file": "double_solid_lines.png",
+        "image_file": "images/double_solid_lines.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid Lines' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14311,7 +14311,7 @@
       },
       "media": {
         "graphic_type": "no_bicycles",
-        "image_file": "no_bicycles.png",
+        "image_file": "images/signs/R219_no_cyclist.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Bicycles' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14399,7 +14399,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": "images/signs/R1.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14487,7 +14487,7 @@
       },
       "media": {
         "graphic_type": "double_solid_white",
-        "image_file": "double_solid_white.png",
+        "image_file": "images/double_solid_white.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Double Solid White' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14575,7 +14575,7 @@
       },
       "media": {
         "graphic_type": "arrestor_bed",
-        "image_file": "arrestor_bed.png",
+        "image_file": "images/arrestor_bed.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Arrestor Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14663,7 +14663,7 @@
       },
       "media": {
         "graphic_type": "no_entry",
-        "image_file": "no_entry.png",
+        "image_file": "images/no_entry.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Entry' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14751,7 +14751,7 @@
       },
       "media": {
         "graphic_type": "sos_marking",
-        "image_file": "sos_marking.png",
+        "image_file": "images/sos_marking.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sos Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14839,7 +14839,7 @@
       },
       "media": {
         "graphic_type": "t_junction",
-        "image_file": "t_junction.png",
+        "image_file": "images/t_junction.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'T Junction' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -14927,7 +14927,7 @@
       },
       "media": {
         "graphic_type": "length_limit_15m",
-        "image_file": "length_limit_15m.png",
+        "image_file": "images/length_limit_15m.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Length Limit 15M' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15015,7 +15015,7 @@
       },
       "media": {
         "graphic_type": "tourism_bed",
-        "image_file": "tourism_bed.png",
+        "image_file": "images/tourism_bed.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Tourism Bed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15103,7 +15103,7 @@
       },
       "media": {
         "graphic_type": "green_arrow_overhead",
-        "image_file": "green_arrow_overhead.png",
+        "image_file": "images/green_arrow_overhead.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Green Arrow Overhead' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15191,7 +15191,7 @@
       },
       "media": {
         "graphic_type": "three_phase",
-        "image_file": "three_phase.png",
+        "image_file": "images/three_phase.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Three Phase' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15279,7 +15279,7 @@
       },
       "media": {
         "graphic_type": "three_phase",
-        "image_file": "three_phase.png",
+        "image_file": "images/three_phase.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Three Phase' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15367,7 +15367,7 @@
       },
       "media": {
         "graphic_type": "falling_rocks",
-        "image_file": "falling_rocks.png",
+        "image_file": "images/falling_rocks.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Falling Rocks' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15455,7 +15455,7 @@
       },
       "media": {
         "graphic_type": "pay_and_display",
-        "image_file": "pay_and_display.png",
+        "image_file": "images/pay_and_display.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pay And Display' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15543,7 +15543,7 @@
       },
       "media": {
         "graphic_type": "winding_left",
-        "image_file": "winding_left.png",
+        "image_file": "images/winding_left.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Winding Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15631,7 +15631,7 @@
       },
       "media": {
         "graphic_type": "length_limit_15m",
-        "image_file": "length_limit_15m.png",
+        "image_file": "images/length_limit_15m.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Length Limit 15M' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15719,7 +15719,7 @@
       },
       "media": {
         "graphic_type": "pass_left",
-        "image_file": "pass_left.png",
+        "image_file": "images/pass_left.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Pass Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15807,7 +15807,7 @@
       },
       "media": {
         "graphic_type": "speed_120",
-        "image_file": "speed_120.png",
+        "image_file": "images/speed_120.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed 120' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15894,7 +15894,7 @@
       },
       "media": {
         "graphic_type": "speed_visibility",
-        "image_file": "speed_visibility.png",
+        "image_file": "images/speed_visibility.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed Visibility' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -15982,7 +15982,7 @@
       },
       "media": {
         "graphic_type": "fingerboard",
-        "image_file": "fingerboard.png",
+        "image_file": "images/fingerboard.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Fingerboard' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16070,7 +16070,7 @@
       },
       "media": {
         "graphic_type": "min_speed_right_lane",
-        "image_file": "min_speed_right_lane.png",
+        "image_file": "images/min_speed_right_lane.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed Right Lane' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16157,7 +16157,7 @@
       },
       "media": {
         "graphic_type": "prohibition_lmv",
-        "image_file": "prohibition_lmv.png",
+        "image_file": "images/prohibition_lmv.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Prohibition Lmv' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16245,7 +16245,7 @@
       },
       "media": {
         "graphic_type": "falling_rocks",
-        "image_file": "falling_rocks.png",
+        "image_file": "images/falling_rocks.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Falling Rocks' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16333,7 +16333,7 @@
       },
       "media": {
         "graphic_type": "parking_garage",
-        "image_file": "parking_garage.png",
+        "image_file": "images/parking_garage.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Parking Garage' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16421,7 +16421,7 @@
       },
       "media": {
         "graphic_type": "winding_6km",
-        "image_file": "winding_6km.png",
+        "image_file": "images/winding_6km.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Winding 6Km' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16509,7 +16509,7 @@
       },
       "media": {
         "graphic_type": "must_turn_right",
-        "image_file": "must_turn_right.png",
+        "image_file": "images/must_turn_right.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Must Turn Right' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16597,7 +16597,7 @@
       },
       "media": {
         "graphic_type": "flashing_red_left",
-        "image_file": "flashing_red_left.png",
+        "image_file": "images/flashing_red_left.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Flashing Red Left' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16685,7 +16685,7 @@
       },
       "media": {
         "graphic_type": "speed_visibility",
-        "image_file": "speed_visibility.png",
+        "image_file": "images/speed_visibility.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed Visibility' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16773,7 +16773,7 @@
       },
       "media": {
         "graphic_type": "warning_triangles",
-        "image_file": "warning_triangles.png",
+        "image_file": "images/warning_triangles.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Warning Triangles' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16861,7 +16861,7 @@
       },
       "media": {
         "graphic_type": "grader_warning",
-        "image_file": "grader_warning.png",
+        "image_file": "images/grader_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Grader Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -16949,7 +16949,7 @@
       },
       "media": {
         "graphic_type": "sos_marking",
-        "image_file": "sos_marking.png",
+        "image_file": "images/sos_marking.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sos Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17037,7 +17037,7 @@
       },
       "media": {
         "graphic_type": "crossroad_warning",
-        "image_file": "crossroad_warning.png",
+        "image_file": "images/crossroad_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Crossroad Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17125,7 +17125,7 @@
       },
       "media": {
         "graphic_type": "low_gear_command",
-        "image_file": "low_gear_command.png",
+        "image_file": "images/low_gear_command.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Low Gear Command' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17213,7 +17213,7 @@
       },
       "media": {
         "graphic_type": "narrow_bridge",
-        "image_file": "narrow_bridge.png",
+        "image_file": "images/narrow_bridge.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Narrow Bridge' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17301,7 +17301,7 @@
       },
       "media": {
         "graphic_type": "painted_island",
-        "image_file": "painted_island.png",
+        "image_file": "images/painted_island.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17389,7 +17389,7 @@
       },
       "media": {
         "graphic_type": "axle_mass_limit",
-        "image_file": "axle_mass_limit.png",
+        "image_file": "images/axle_mass_limit.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Axle Mass Limit' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17476,7 +17476,7 @@
       },
       "media": {
         "graphic_type": "no_right_turn",
-        "image_file": "no_right_turn.png",
+        "image_file": "images/no_right_turn.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Right Turn' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17564,7 +17564,7 @@
       },
       "media": {
         "graphic_type": "drawbridge_warning",
-        "image_file": "drawbridge_warning.png",
+        "image_file": "images/drawbridge_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Drawbridge Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17652,7 +17652,7 @@
       },
       "media": {
         "graphic_type": "min_speed_80",
-        "image_file": "min_speed_80.png",
+        "image_file": "images/min_speed_80.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Min Speed 80' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17738,7 +17738,7 @@
       },
       "media": {
         "graphic_type": "no_trailers",
-        "image_file": "no_trailers.png",
+        "image_file": "images/no_trailers.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Trailers' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17826,7 +17826,7 @@
       },
       "media": {
         "graphic_type": "stop_sign",
-        "image_file": "stop_sign.png",
+        "image_file": "images/signs/R1.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Sign' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -17914,7 +17914,7 @@
       },
       "media": {
         "graphic_type": "speed_120",
-        "image_file": "speed_120.png",
+        "image_file": "images/speed_120.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed 120' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18002,7 +18002,7 @@
       },
       "media": {
         "graphic_type": "stop_ahead_warning",
-        "image_file": "stop_ahead_warning.png",
+        "image_file": "images/stop_ahead_warning.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Ahead Warning' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18090,7 +18090,7 @@
       },
       "media": {
         "graphic_type": "no_entry",
-        "image_file": "no_entry.png",
+        "image_file": "images/no_entry.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Entry' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18178,7 +18178,7 @@
       },
       "media": {
         "graphic_type": "bus_lane_reservation",
-        "image_file": "bus_lane_reservation.png",
+        "image_file": "images/bus_lane_reservation.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Bus Lane Reservation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18266,7 +18266,7 @@
       },
       "media": {
         "graphic_type": "cycle_reservation",
-        "image_file": "cycle_reservation.png",
+        "image_file": "images/signs/R103.svg",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Cycle Reservation' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18354,7 +18354,7 @@
       },
       "media": {
         "graphic_type": "three_phase",
-        "image_file": "three_phase.png",
+        "image_file": "images/three_phase.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Three Phase' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18442,7 +18442,7 @@
       },
       "media": {
         "graphic_type": "no_overtaking_line_ahead",
-        "image_file": "no_overtaking_line_ahead.png",
+        "image_file": "images/no_overtaking_line_ahead.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Overtaking Line Ahead' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18530,7 +18530,7 @@
       },
       "media": {
         "graphic_type": "stop_go",
-        "image_file": "stop_go.png",
+        "image_file": "images/stop_go.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Stop Go' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18617,7 +18617,7 @@
       },
       "media": {
         "graphic_type": "no_overtaking_all",
-        "image_file": "no_overtaking_all.png",
+        "image_file": "images/no_overtaking_all.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'No Overtaking All' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18705,7 +18705,7 @@
       },
       "media": {
         "graphic_type": "camera_traffic_light",
-        "image_file": "camera_traffic_light.png",
+        "image_file": "images/camera_traffic_light.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Camera Traffic Light' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18793,7 +18793,7 @@
       },
       "media": {
         "graphic_type": "night_speed",
-        "image_file": "night_speed.png",
+        "image_file": "images/night_speed.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Night Speed' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -18881,7 +18881,7 @@
       },
       "media": {
         "graphic_type": "sos_marking",
-        "image_file": "sos_marking.png",
+        "image_file": "images/sos_marking.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Sos Marking' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -29045,7 +29045,7 @@
       },
       "media": {
         "graphic_type": "painted_island",
-        "image_file": "painted_island.png",
+        "image_file": "images/painted_island.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Painted Island' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -30617,7 +30617,7 @@
       },
       "media": {
         "graphic_type": "speed_goods_80",
-        "image_file": "speed_goods_80.png",
+        "image_file": "images/speed_goods_80.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Speed Goods 80' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
@@ -31583,7 +31583,7 @@
       },
       "media": {
         "graphic_type": "warning_triangles",
-        "image_file": "warning_triangles.png",
+        "image_file": "images/warning_triangles.png",
         "video_simulation_prompt": "3D Animation Driving Scenario: Exterior 4K render showing a vehicle on a South African public road approaching the 'Warning Triangles' road traffic sign. Camera pans 360 degrees around the vehicle, highlighting driver perception, lane positioning, and correct regulatory response."
       },
       "memory_tricks": {
