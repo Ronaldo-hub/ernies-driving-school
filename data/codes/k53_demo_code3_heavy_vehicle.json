@@ -563,7 +563,7 @@
       },
       "media": {
         "graphic_type": "arrestor_bed",
-        "image_file": "signs/images/IN11.svg",
+        "image_file": "images/signs/IN11.svg",
         "video_simulation_prompt": "3D Animation: Runaway truck steering into a gravel arrestor bed ramp to stop safely."
       },
       "memory_tricks": {
@@ -731,7 +731,7 @@
       },
       "media": {
         "graphic_type": "no_overtaking_goods",
-        "image_file": "signs/images/R215.svg",
+        "image_file": "images/signs/R215.svg",
         "video_simulation_prompt": "3D Animation: Heavy goods vehicle remaining behind another truck past a R215 No Overtaking sign."
       },
       "memory_tricks": {
@@ -1571,7 +1571,7 @@
       },
       "media": {
         "graphic_type": "camera_traffic_light",
-        "image_file": "signs/images/IN25.svg",
+        "image_file": "images/signs/IN25.svg",
         "video_simulation_prompt": "3D Animation: Camera flashing as vehicle passes through red light camera intersection."
       },
       "memory_tricks": {
