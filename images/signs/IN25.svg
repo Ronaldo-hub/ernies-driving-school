@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 620" width="100%" height="100%">
+  <!-- TOP COMPONENT: Traffic Light (Robot) -->
+  <g id="traffic-light" transform="translate(130, 15)">
+    <!-- Black Outer Housing -->
+    <rect x="0" y="0" width="140" height="340" rx="14" ry="14" fill="#000000" stroke="#111111" stroke-width="2"/>
+
+    <!-- Red Aspect (Top) -->
+    <g id="red-light">
+      <circle cx="70" cy="60" r="44" fill="#DC2626"/>
+      <circle cx="70" cy="60" r="40" fill="none" stroke="#EF4444" stroke-width="3" opacity="0.5"/>
+    </g>
+
+    <!-- Yellow / Amber Aspect (Middle) -->
+    <g id="yellow-light">
+      <circle cx="70" cy="170" r="44" fill="#EAB308"/>
+      <circle cx="70" cy="170" r="40" fill="none" stroke="#FACC15" stroke-width="3" opacity="0.5"/>
+    </g>
+
+    <!-- Green Aspect (Bottom) -->
+    <g id="green-light">
+      <circle cx="70" cy="280" r="44" fill="#16A34A"/>
+      <circle cx="70" cy="280" r="40" fill="none" stroke="#22C55E" stroke-width="3" opacity="0.5"/>
+    </g>
+  </g>
+
+  <!-- BOTTOM COMPONENT: SADC IN11.506 Camera Plate -->
+  <g id="camera-plate" transform="translate(25, 375)">
+    <!-- White Plate with Heavy Rounded Black Border -->
+    <rect x="0" y="0" width="350" height="225" rx="22" ry="22" fill="#FFFFFF" stroke="#000000" stroke-width="14"/>
+
+    <!-- SADC Camera & Tripod Geometry -->
+    <g id="sadc-camera-symbol" transform="translate(25, 12)">
+      <!-- Left Tripod Leg -->
+      <polygon points="115,60 129,60 94,178 80,178" fill="#000000"/>
+
+      <!-- Center Tripod Leg -->
+      <polygon points="128,60 142,60 142,178 128,178" fill="#000000"/>
+
+      <!-- Right Tripod Leg (Corrected Clockwise Vertices) -->
+      <polygon points="141,60 155,60 190,178 176,178" fill="#000000"/>
+
+      <!-- Tapered Camera Body (Drawn over legs for seamless connection) -->
+      <path d="M 80,24 H 228 L 228,70 L 200,82 H 80 Z" fill="#000000"/>
+
+      <!-- White Front Lens Circle -->
+      <circle cx="115" cy="53" r="24" fill="#FFFFFF"/>
+
+      <!-- Segmented Flash Rays -->
+      <!-- Top Ray -->
+      <line x1="42" y1="34" x2="56" y2="39" stroke="#000000" stroke-width="6"/>
+      <line x1="62" y1="41" x2="76" y2="46" stroke="#000000" stroke-width="6"/>
+
+      <!-- Middle Ray -->
+      <line x1="42" y1="58" x2="56" y2="58" stroke="#000000" stroke-width="6"/>
+      <line x1="62" y1="58" x2="76" y2="58" stroke="#000000" stroke-width="6"/>
+
+      <!-- Bottom Ray -->
+      <line x1="42" y1="82" x2="56" y2="77" stroke="#000000" stroke-width="6"/>
+      <line x1="62" y1="75" x2="76" y2="70" stroke="#000000" stroke-width="6"/>
+    </g>
+  </g>
+</svg>
