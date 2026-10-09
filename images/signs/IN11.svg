@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 420" width="300" height="420">
+  <!-- Outer White Frame with Red Outer Border -->
+  <rect x="6" y="6" width="288" height="408" rx="20" fill="#FFFFFF" stroke="#E20613" stroke-width="12" />
+
+  <!-- Roadway Geometry using Straight Constant-Width Strokes with Flat Ends -->
+  <g fill="none" stroke="#000000" stroke-linecap="butt" stroke-linejoin="miter">
+    <!-- Main Continuous Slanted Roadway (Thick Constant Width) -->
+    <line x1="152" y1="310" x2="238" y2="35" stroke-width="26" />
+
+    <!-- Thin Left Branching Arm (Uniform Thin Width) -->
+    <line x1="172" y1="246" x2="120" y2="128" stroke-width="14" />
+  </g>
+
+  <!-- Red and White Checkered Box (Aligned level with the left branch line) -->
+  <g transform="translate(120, 128) rotate(-23.8)">
+    <!-- Base Red Container -->
+    <rect x="-35" y="-100" width="70" height="100" fill="#E20613" />
+
+    <!-- 3 columns x 5 rows Checkered Pattern -->
+    <!-- Row 1 (Top) -->
+    <rect x="-35" y="-100" width="23.33" height="20" fill="#E20613" />
+    <rect x="-11.67" y="-100" width="23.33" height="20" fill="#FFFFFF" />
+    <rect x="11.67" y="-100" width="23.33" height="20" fill="#E20613" />
+
+    <!-- Row 2 -->
+    <rect x="-35" y="-80" width="23.33" height="20" fill="#FFFFFF" />
+    <rect x="-11.67" y="-80" width="23.33" height="20" fill="#E20613" />
+    <rect x="11.67" y="-80" width="23.33" height="20" fill="#FFFFFF" />
+
+    <!-- Row 3 -->
+    <rect x="-35" y="-60" width="23.33" height="20" fill="#E20613" />
+    <rect x="-11.67" y="-60" width="23.33" height="20" fill="#FFFFFF" />
+    <rect x="11.67" y="-60" width="23.33" height="20" fill="#E20613" />
+
+    <!-- Row 4 -->
+    <rect x="-35" y="-40" width="23.33" height="20" fill="#FFFFFF" />
+    <rect x="-11.67" y="-40" width="23.33" height="20" fill="#E20613" />
+    <rect x="11.67" y="-40" width="23.33" height="20" fill="#FFFFFF" />
+
+    <!-- Row 5 (Bottom) -->
+    <rect x="-35" y="-20" width="23.33" height="20" fill="#E20613" />
+    <rect x="-11.67" y="-20" width="23.33" height="20" fill="#FFFFFF" />
+    <rect x="11.67" y="-20" width="23.33" height="20" fill="#E20613" />
+
+    <!-- Outer Red Border Outline -->
+    <rect x="-35" y="-100" width="70" height="100" fill="none" stroke="#E20613" stroke-width="2" />
+  </g>
+
+  <!-- Distance Indicator Text -->
+  <text x="150" y="375" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="bold" fill="#000000" text-anchor="middle">500 m</text>
+</svg>
