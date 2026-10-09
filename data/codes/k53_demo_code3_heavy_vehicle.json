@@ -98,9 +98,9 @@
       "difficulty": "easy",
       "category": "Road Traffic Signs",
       "question": {
-        "en": "What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
-        "af": "[AF] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
-        "xh": "[XH] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
+        "en": "What does Sign GS505 (a rectangular sign depicting a truck on a slope and a gear lever pointing to 'L') advise drivers of heavy vehicles to do?",
+        "af": "[AF] What does Sign GS505 (a rectangular sign depicting a truck on a slope and a gear lever pointing to 'L') advise drivers of heavy vehicles to do?",
+        "xh": "[XH] What does Sign GS505 (a rectangular sign depicting a truck on a slope and a gear lever pointing to 'L') advise drivers of heavy vehicles to do? ",
         "zu": "[ZU] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?",
         "st": "[ST] What does a circular blue command sign displaying a truck next to '80' or 'L' (Sign R102-L) require?"
       },
@@ -141,7 +141,7 @@
       },
       "media": {
         "graphic_type": "low_gear_command",
-        "image_file": "low_gear_command.png",
+        "image_file": "images/signs/GS505.svg",
         "video_simulation_prompt": "3D Animation: Heavy truck approaching steep mountain pass, seeing blue Low Gear sign, and downshifting."
       },
       "memory_tricks": {
