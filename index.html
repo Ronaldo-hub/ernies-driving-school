@@ -57,6 +57,30 @@
     };
     </script>
     
+
+    <script>
+    window.resolveK53ImagePath = function(mediaObj) {
+        if (!mediaObj) return null;
+        let file = typeof mediaObj === 'string' ? mediaObj : mediaObj.image_file;
+        if (!file) return null;
+
+        // Clean leading slashes
+        file = file.replace(/^\/+/, '');
+
+        // Remove duplicate 'images/images/' if present
+        if (file.startsWith('images/images/')) {
+            file = file.replace('images/images/', 'images/');
+        }
+
+        // If path doesn't start with images/ or data/, prepend images/
+        if (!file.startsWith('images/') && !file.startsWith('data/')) {
+            file = 'images/' + file;
+        }
+
+        return file;
+    };
+    </script>
+    
 </head>
 <body class="bg-zinc-950 text-white min-h-screen flex flex-col justify-between font-sans selection:bg-red-600 selection:text-white">
 
