@@ -1513,7 +1513,7 @@
       },
       "media": {
         "graphic_type": "general_warning",
-        "image_file": "images/signs/warning_triangle.svg",
+        "image_file": "images/signs/W314_motorcycle.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle riding past warning triangle sign and observing other bikes entering road."
       },
       "memory_tricks": {
