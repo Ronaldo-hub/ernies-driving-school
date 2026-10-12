@@ -355,8 +355,9 @@
             const imgContainer = document.getElementById('question-image-container');
             const imgElement = document.getElementById('question-image');
 
-            if (q.image) {
-                imgElement.src = q.image;
+            const imgSrc = q.image || (q.media && q.media.image_file) || null;
+            if (imgSrc) {
+                imgElement.src = imgSrc;
                 imgContainer.classList.remove('hidden');
             } else {
                 imgContainer.classList.add('hidden');
