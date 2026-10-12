@@ -1269,7 +1269,7 @@
       },
       "media": {
         "graphic_type": "no_bicycles",
-        "image_file": "images/signs/R219_no_cyclist.svg",
+        "image_file": "images/signs/R218_no_motorcycles.svg",
         "video_simulation_prompt": "3D Animation: Motorcycle approaching a red circular prohibition sign and turning onto an alternate route."
       },
       "memory_tricks": {
