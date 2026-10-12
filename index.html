@@ -151,10 +151,12 @@
                     <span id="persona-badge" class="bg-zinc-800 text-zinc-300 text-[11px] px-3 py-1 rounded-full border border-zinc-700"></span>
                 </div>
 
-                <!-- Optional SVG Road Sign Image Container -->
-                <div id="question-image-container" class="hidden mb-6 flex justify-center">
-                    <img id="question-image" src="" alt="K53 Road Sign" class="max-h-48 w-auto object-contain bg-zinc-950 p-3 border border-zinc-800 rounded-xl shadow-lg">
-                </div>
+                <!-- Two-Column Quiz Layout: Image Left, Content Right -->
+                <div id="quiz-main-grid" class="grid grid-cols-1 md:grid-cols-12 gap-6 items-start mb-6">
+                    <div id="question-image-container" class="hidden md:col-span-4 flex justify-center items-center bg-zinc-950 p-4 border border-zinc-800 rounded-xl shadow-inner min-h-[160px]">
+                        <img id="question-image" src="" alt="K53 Road Sign" class="max-h-40 w-auto object-contain">
+                    </div>
+                    <div id="question-text-side" class="md:col-span-12 transition-all duration-300">
 
                 <!-- Question Title -->
                 <h3 id="question-text" class="text-base sm:text-lg font-bold mb-6 text-white leading-relaxed"></h3>
@@ -356,11 +358,20 @@
             const imgElement = document.getElementById('question-image');
 
             const imgSrc = q.image || (q.media && q.media.image_file) || null;
+            const textSide = document.getElementById('question-text-side');
             if (imgSrc) {
                 imgElement.src = imgSrc;
                 imgContainer.classList.remove('hidden');
+                if (textSide) {
+                    textSide.classList.remove('md:col-span-12');
+                    textSide.classList.add('md:col-span-8');
+                }
             } else {
                 imgContainer.classList.add('hidden');
+                if (textSide) {
+                    textSide.classList.remove('md:col-span-8');
+                    textSide.classList.add('md:col-span-12');
+                }
             }
 
             // Render English text explicitly
