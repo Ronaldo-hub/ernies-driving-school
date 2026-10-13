@@ -133,7 +133,7 @@
 
                     <h3 id="quiz-question" class="text-base sm:text-lg font-bold text-white leading-snug">Loading question...</h3>
 
-                    <!-- Options container explicitly styled with spacing -->
+                    <!-- Options container -->
                     <div id="quiz-options" class="space-y-3 pt-3"></div>
                 </div>
             </div>
@@ -287,7 +287,7 @@
 
     <!-- App Engine -->
     <script>
-        // Universal English text extraction
+        // Extract English text from multilingual objects or strings
         function getEnglishText(val) {
             if (!val) return "";
             if (typeof val === 'string') {
@@ -361,36 +361,19 @@
             renderQuestion();
         }
 
-        // Foolproof Option Extractor: checks all arrays and object properties
+        // Exact parser for options: handles options.en = { "A": "...", "B": "..." }
         function extractOptionsList(qData) {
-            if (!qData) return [];
-            
-            // 1. Check known array keys
-            let candidates = [
-                qData.options, qData.choices, qData.answers, qData.alternatives, 
-                qData.option_list, qData.ans, qData.selection, qData.choices_list
-            ];
-            for (let c of candidates) {
-                if (Array.isArray(c) && c.length > 0) return c;
+            if (!qData || !qData.options) return [];
+            let opts = qData.options;
+            let enOpts = opts.en || opts;
+            if (typeof enOpts === 'string') {
+                try { enOpts = JSON.parse(enOpts); } catch(e) {}
             }
-
-            // 2. Check letter keys or numbered keys
-            let found = [];
-            ['option_a', 'option_b', 'option_c', 'option_d', 'option_e', 'a', 'b', 'c', 'd', 'e', '1', '2', '3', '4'].forEach(function(k) {
-                if (qData[k] !== undefined && qData[k] !== null) {
-                    found.push(qData[k]);
-                }
-            });
-            if (found.length > 0) return found;
-
-            // 3. Scan ANY property in qData that is an array
-            for (let key in qData) {
-                let val = qData[key];
-                if (Array.isArray(val) && val.length > 0 && key !== 'questions' && key !== 'difficulty_breakdown') {
-                    return val;
-                }
+            if (enOpts && typeof enOpts === 'object') {
+                if (Array.isArray(enOpts)) return enOpts;
+                // Return array of objects keeping key ('A', 'B') and text
+                return Object.entries(enOpts).map(([key, text]) => ({ key, text }));
             }
-
             return [];
         }
 
@@ -401,8 +384,6 @@
             const qData = list[currentQIndex];
             if (!qData) return;
 
-            console.log("Rendering Question:", qData);
-
             document.getElementById('question-total-count').innerText = list.length;
             document.getElementById('quiz-num').innerText = "Question " + (currentQIndex + 1) + " of " + list.length;
             
@@ -411,16 +392,16 @@
             document.getElementById('quiz-question').innerText = getEnglishText(rawText);
             document.getElementById('score-tracker').innerText = "Score: " + score + " / " + list.length;
 
-            // Handle Traffic Sign Image & Layout
+            // Handle Traffic Sign Image & Layout (Only show left pane if media is not null/empty)
             const signPane = document.getElementById('sign-pane');
             const questionPane = document.getElementById('question-pane');
             const imgEl = document.getElementById('quiz-img');
             
-            const signImg = qData.image || qData.img || qData.sign_svg || qData.svg_path || qData.sign || qData.media || null;
-            const isTrafficSign = signImg && typeof signImg === 'string' && signImg.trim() !== '' && signImg.toLowerCase() !== 'null';
+            const mediaVal = qData.media !== undefined ? qData.media : (qData.image || qData.img || qData.sign_svg || qData.svg_path || null);
+            const hasValidMedia = mediaVal !== null && mediaVal !== undefined && String(mediaVal).trim() !== '' && String(mediaVal).toLowerCase() !== 'null';
 
-            if (isTrafficSign) {
-                imgEl.src = signImg;
+            if (hasValidMedia) {
+                imgEl.src = mediaVal;
                 signPane.classList.remove('hidden');
                 questionPane.className = "lg:col-span-7 space-y-4";
             } else {
@@ -433,32 +414,31 @@
             optionsContainer.innerHTML = '';
 
             const opts = extractOptionsList(qData);
-            console.log("Extracted Options:", opts);
-
             if (opts.length === 0) {
-                optionsContainer.innerHTML = '<p class="text-xs text-red-400 italic">No options found for this question object.</p>';
+                optionsContainer.innerHTML = '<p class="text-xs text-red-400 italic">No options found for this question.</p>';
                 return;
             }
 
-            opts.forEach(function(opt, idx) {
+            opts.forEach(function(opt) {
                 const btn = document.createElement('button');
                 btn.type = "button";
                 btn.className = "w-full text-left p-3.5 rounded-xl border border-slate-800 bg-slate-950/80 hover:border-red-500 hover:bg-red-500/10 text-xs font-semibold transition flex items-center justify-between text-slate-200 shadow-sm cursor-pointer";
-                btn.innerHTML = '<span>' + getEnglishText(opt) + '</span><span class="text-[10px] text-slate-500 font-mono">[' + (idx + 1) + ']</span>';
-                btn.onclick = function() { checkAnswer(idx); };
+                btn.innerHTML = '<span>' + getEnglishText(opt.text) + '</span><span class="text-[10px] text-slate-500 font-mono font-bold">[' + opt.key + ']</span>';
+                btn.onclick = function() { checkAnswer(opt.key); };
                 optionsContainer.appendChild(btn);
             });
         }
 
-        function checkAnswer(selected) {
+        function checkAnswer(selectedKey) {
             const list = rawQuestionData[currentCategory] || [];
             const qData = list[currentQIndex];
-            const correct = qData.correct_option !== undefined ? qData.correct_option : (qData.answer !== undefined ? qData.answer : (qData.correct_index !== undefined ? qData.correct_index : 0));
-            if (selected === correct) {
+            const correctKey = qData.correct_answer || qData.correct || qData.answer || 'A';
+            
+            if (String(selectedKey).toUpperCase() === String(correctKey).toUpperCase()) {
                 score++;
                 alert("Correct answer!");
             } else {
-                alert("Incorrect answer.");
+                alert("Incorrect answer. Correct option was: " + correctKey);
             }
             nextQuestion();
         }
