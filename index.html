@@ -67,7 +67,7 @@
             </a>
         </div>
 
-        <!-- Section 1: Testimonials Carousel -->
+        <!-- Section 1: Testimonials Carousel (erniepic4, erniepic5, erniepic6) -->
         <section id="testimonials-section" class="space-y-3">
             <div class="flex justify-between items-end">
                 <div>
@@ -90,7 +90,7 @@
                     <div class="md:col-span-5 space-y-3">
                         <div class="space-y-1">
                             <span class="text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded-lg text-xs font-bold inline-block">Passed Official Test</span>
-                            <h3 id="slider-name" class="text-xl font-black text-white">Verified Graduate</h3>
+                            <h3 id="slider-name" class="text-xl font-black text-white">Verified Local Graduate</h3>
                             <p id="slider-location" class="text-xs text-slate-400 font-semibold">Macassar & Western Cape Hub</p>
                         </div>
                         
@@ -98,7 +98,7 @@
                             "Passed my test first try with Ernie's Driving School! Professional instruction and reliable vehicles."
                         </blockquote>
 
-                        <p class="text-[10px] text-slate-500 font-medium">Loaded directly from your repository image records.</p>
+                        <p class="text-[10px] text-slate-500 font-medium">Verified graduate milestone from Ernie's Driving School.</p>
                     </div>
                 </div>
             </div>
@@ -349,7 +349,7 @@
             return null;
         }
 
-        const studentPhotos = ["images/erniepic2.png", "images/erniepic4.png", "images/erniepic3.png", "images/erniepic6.png", "images/erniepic5.png", "images/erniepic1.png", "images/logo.png", "images/signs/R216_no_parking.svg", "images/signs/R219_no_cyclist.svg", "images/signs/R201-100.svg", "images/signs/W104_T_junction.svg", "images/signs/W314.svg", "images/signs/SADC_road_sign_R103.svg", "images/signs/R201-50.svg", "images/signs/R205.svg", "images/signs/R304.svg", "images/signs/RM202.svg", "images/signs/R210.svg", "images/signs/W339.svg", "images/signs/RM2.svg", "images/signs/R111.svg", "images/signs/R201-120.svg", "images/signs/R323-P.svg", "images/signs/W318.svg", "images/signs/R201-100-R512.svg", "images/signs/R215.svg", "images/signs/RM13.svg", "images/signs/W314_motorcycle.svg", "images/signs/R102.svg", "images/signs/warning_triangle.svg", "images/signs/R204.svg", "images/signs/R103.svg", "images/signs/R229_no_goods_vehicle.svg", "images/signs/R115.svg", "images/signs/IN11.png", "images/signs/R209.svg", "images/signs/R214.svg", "images/signs/W354.svg", "images/signs/R1.svg", "images/signs/IN25.svg", "images/signs/R2.svg", "images/signs/RM10.svg", "images/signs/R218_no_motorcycles.svg", "images/signs/R133.svg", "images/signs/R217.svg", "images/signs/R101.svg", "images/signs/R213_no_u_turn.svg", "images/signs/W334.svg", "images/signs/TR133.svg", "images/signs/R109.svg", "images/signs/W107_Side_Road.svg", "images/signs/R206-No-hooting.svg", "images/signs/R3.svg", "images/signs/IN11.svg", "images/signs/mandatory_circle.svg", "images/signs/R305-P.svg", "images/signs/R203.svg", "images/signs/GS505.svg", "images/signs/W308.svg", "images/signs/R201-60.svg", "images/signs/R218.svg", "images/signs/R202.svg", "images/signs/W328_Road_Narrows.svg", "images/erniepic2.png", "images/erniepic4.png", "images/erniepic3.png", "images/erniepic6.png", "images/erniepic5.png", "images/erniepic1.png", "images/logo.png"];
+        const studentPhotos = ["images/erniepic4.png", "images/erniepic5.png", "images/erniepic6.png"];
         let currentSlideIdx = 0;
 
         function updateSliderUI() {
@@ -362,10 +362,8 @@
                     this.src = "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80";
                 };
             }
-            const nameEl = document.getElementById('slider-name');
-            if (nameEl) nameEl.innerText = "Verified Local Graduate " + (currentSlideIdx + 1);
             const quoteEl = document.getElementById('slider-quote');
-            if (quoteEl) quoteEl.innerText = '"Passed first try with Ernie\'s Driving School! The training vehicles and practice tests were incredible."';
+            if (quoteEl) quoteEl.innerText = '"Passed my test first try with Ernie\'s Driving School! Professional instruction and reliable vehicles."';
         }
 
         function nextSlide() {
@@ -391,7 +389,6 @@
         let isAnswered = false;
         let cart = [];
 
-        // Category tracking stats
         let categoryStats = {
             signs: { correct: 0, total: 0 },
             rules: { correct: 0, total: 0 },
@@ -507,7 +504,6 @@
             const correctKey = String(qData.correct_answer || qData.correct || qData.answer || 'A').toUpperCase();
             const isCorrect = String(selectedKey).toUpperCase() === correctKey;
 
-            // Tally Category stats
             const catKey = classifyCategory(qData.category);
             categoryStats[catKey].total++;
             if (isCorrect) {
