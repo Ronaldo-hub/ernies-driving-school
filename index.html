@@ -51,7 +51,7 @@
 
     <main class="max-w-7xl w-full mx-auto px-4 sm:px-6 py-4 space-y-6">
 
-        <!-- Welcome Banner (Compact) -->
+        <!-- Welcome Banner -->
         <div class="bg-gradient-to-r from-slate-900 via-slate-900 to-red-950/40 border border-slate-800 p-5 sm:p-6 rounded-3xl shadow-2xl flex flex-col sm:flex-row items-center justify-between gap-4">
             <div class="space-y-1.5 max-w-2xl text-center sm:text-left">
                 <div class="inline-flex items-center space-x-2 text-red-400 font-bold text-xs uppercase tracking-wider bg-red-500/10 px-3 py-0.5 rounded-full border border-red-500/20">
@@ -67,7 +67,7 @@
             </a>
         </div>
 
-        <!-- Section 1: Testimonials Carousel using Repo Photos -->
+        <!-- Section 1: Testimonials Carousel -->
         <section id="testimonials-section" class="space-y-3">
             <div class="flex justify-between items-end">
                 <div>
@@ -104,7 +104,7 @@
             </div>
         </section>
 
-        <!-- Section 2: 20-Question K53 Exam Engine (Optimized Single-View Layout) -->
+        <!-- Section 2: 20-Question K53 Exam Engine & Results Dashboard -->
         <section id="test-section" class="bg-slate-900 border border-slate-800 rounded-3xl p-5 sm:p-6 shadow-2xl space-y-4">
             <div class="flex flex-col md:flex-row md:items-center justify-between pb-3 border-b border-slate-800 gap-3">
                 <div>
@@ -118,57 +118,118 @@
                 </div>
             </div>
 
-            <!-- Compact Grid Container keeping everything in one window view -->
-            <div id="quiz-grid" class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
-                <!-- Left Sign Container (Compact max-h-36) -->
-                <div id="sign-pane" class="lg:col-span-5 bg-slate-950 rounded-2xl p-4 border border-slate-800/80 flex items-center justify-center min-h-[180px] shadow-inner relative hidden">
-                    <img id="quiz-img" src="" alt="SADC Traffic Sign" class="max-h-36 object-contain">
-                </div>
-
-                <!-- Right Question, Options & Compact Feedback Container -->
-                <div id="question-pane" class="lg:col-span-12 space-y-3">
-                    <div class="flex justify-between items-center">
-                        <span id="quiz-num" class="text-xs font-bold text-red-400 uppercase tracking-widest bg-red-500/10 px-2.5 py-0.5 rounded-full border border-red-500/20">Question 1 of 20</span>
-                        <span id="score-tracker" class="text-xs text-slate-400 font-bold bg-slate-950 px-2.5 py-0.5 rounded-full border border-slate-800">Score: 0 / 20</span>
+            <!-- Quiz Main View -->
+            <div id="quiz-container" class="space-y-4">
+                <div id="quiz-grid" class="grid grid-cols-1 lg:grid-cols-12 gap-5 items-start">
+                    <!-- Left Sign Container -->
+                    <div id="sign-pane" class="lg:col-span-5 bg-slate-950 rounded-2xl p-4 border border-slate-800/80 flex items-center justify-center min-h-[180px] shadow-inner relative hidden">
+                        <img id="quiz-img" src="" alt="SADC Traffic Sign" class="max-h-36 object-contain">
                     </div>
 
-                    <h3 id="quiz-question" class="text-sm sm:text-base font-bold text-white leading-snug">Loading question...</h3>
-
-                    <!-- Answer Options (Compact padding) -->
-                    <div id="quiz-options" class="space-y-2 pt-1"></div>
-
-                    <!-- Compact Inline Feedback Container -->
-                    <div id="feedback-pane" class="hidden mt-3 p-3.5 rounded-2xl border transition-all duration-300 space-y-2">
-                        <div class="flex items-center space-x-2">
-                            <span id="feedback-badge" class="px-2.5 py-0.5 rounded-lg text-[11px] font-black uppercase tracking-wider"></span>
+                    <!-- Right Question, Options & Feedback Container -->
+                    <div id="question-pane" class="lg:col-span-12 space-y-3">
+                        <div class="flex justify-between items-center">
+                            <span id="quiz-num" class="text-xs font-bold text-red-400 uppercase tracking-widest bg-red-500/10 px-2.5 py-0.5 rounded-full border border-red-500/20">Question 1 of 20</span>
+                            <span id="score-tracker" class="text-xs text-slate-400 font-bold bg-slate-950 px-2.5 py-0.5 rounded-full border border-slate-800">Score: 0 / 20</span>
                         </div>
-                        <div class="space-y-1.5 text-xs">
-                            <p id="feedback-explanation" class="text-slate-200 leading-relaxed"></p>
-                            <div id="feedback-mnemonic-box" class="bg-slate-950/90 border border-amber-500/30 p-2.5 rounded-xl flex items-start space-x-2 text-amber-300 hidden">
-                                <i class="fa-solid fa-lightbulb text-amber-400 text-xs mt-0.5"></i>
-                                <div>
-                                    <span class="font-bold block text-[10px] text-amber-400 uppercase tracking-wider">Memory Trick / Mnemonic</span>
-                                    <span id="feedback-mnemonic" class="text-[11px]"></span>
+
+                        <h3 id="quiz-question" class="text-sm sm:text-base font-bold text-white leading-snug">Loading question...</h3>
+
+                        <!-- Answer Options -->
+                        <div id="quiz-options" class="space-y-2 pt-1"></div>
+
+                        <!-- Compact Inline Feedback Container -->
+                        <div id="feedback-pane" class="hidden mt-3 p-3.5 rounded-2xl border transition-all duration-300 space-y-2">
+                            <div class="flex items-center space-x-2">
+                                <span id="feedback-badge" class="px-2.5 py-0.5 rounded-lg text-[11px] font-black uppercase tracking-wider"></span>
+                            </div>
+                            <div class="space-y-1.5 text-xs">
+                                <p id="feedback-explanation" class="text-slate-200 leading-relaxed"></p>
+                                <div id="feedback-mnemonic-box" class="bg-slate-950/90 border border-amber-500/30 p-2.5 rounded-xl flex items-start space-x-2 text-amber-300 hidden">
+                                    <i class="fa-solid fa-lightbulb text-amber-400 text-xs mt-0.5"></i>
+                                    <div>
+                                        <span class="font-bold block text-[10px] text-amber-400 uppercase tracking-wider">Memory Trick / Mnemonic</span>
+                                        <span id="feedback-mnemonic" class="text-[11px]"></span>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
+
+                <div class="flex justify-between items-center pt-3 border-t border-slate-800">
+                    <button onclick="prevQuestion()" class="bg-slate-950 hover:bg-slate-800 text-slate-300 px-3.5 py-1.5 rounded-xl text-xs font-bold transition border border-slate-800 flex items-center space-x-2">
+                        <i class="fa-solid fa-arrow-left"></i>
+                        <span>Previous</span>
+                    </button>
+                    <button onclick="nextQuestion()" class="bg-red-600 hover:bg-red-700 text-white px-4 py-1.5 rounded-xl text-xs font-bold transition flex items-center space-x-2 shadow-lg">
+                        <span>Next Question</span>
+                        <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </div>
             </div>
 
-            <div class="flex justify-between items-center pt-3 border-t border-slate-800">
-                <button onclick="prevQuestion()" class="bg-slate-950 hover:bg-slate-800 text-slate-300 px-3.5 py-1.5 rounded-xl text-xs font-bold transition border border-slate-800 flex items-center space-x-2">
-                    <i class="fa-solid fa-arrow-left"></i>
-                    <span>Previous</span>
-                </button>
-                <button onclick="nextQuestion()" class="bg-red-600 hover:bg-red-700 text-white px-4 py-1.5 rounded-xl text-xs font-bold transition flex items-center space-x-2 shadow-lg">
-                    <span>Next Question</span>
-                    <i class="fa-solid fa-arrow-right"></i>
-                </button>
+            <!-- Professional Results Dashboard (Hidden until quiz is completed) -->
+            <div id="results-dashboard" class="hidden space-y-5 py-4">
+                <div class="text-center space-y-2 bg-slate-950 border border-slate-800 p-6 rounded-3xl shadow-inner">
+                    <div id="result-badge-container" class="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest shadow-md"></div>
+                    <h3 class="text-2xl sm:text-3xl font-black text-white">Exam Completed Successfully!</h3>
+                    <p id="result-summary-text" class="text-xs sm:text-sm text-slate-400 max-w-xl mx-auto"></p>
+                </div>
+
+                <!-- Category Breakdown Grid (Signs, Rules, Control) -->
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+                    <!-- Signs Category -->
+                    <div class="bg-slate-950 border border-slate-800 p-4 rounded-2xl space-y-3 shadow-md">
+                        <div class="flex justify-between items-center">
+                            <span class="text-xs font-bold text-red-400 uppercase tracking-wider"><i class="fa-solid fa-traffic-light mr-1.5"></i> Traffic Signs</span>
+                            <span id="score-signs" class="text-xs font-black text-white bg-slate-900 px-2.5 py-1 rounded-lg border border-slate-800">0 / 0</span>
+                        </div>
+                        <div class="w-full bg-slate-900 h-2.5 rounded-full overflow-hidden border border-slate-800">
+                            <div id="bar-signs" class="bg-red-600 h-full transition-all duration-500" style="width: 0%"></div>
+                        </div>
+                        <p id="status-signs" class="text-[11px] text-slate-400 font-medium"></p>
+                    </div>
+
+                    <!-- Rules Category -->
+                    <div class="bg-slate-950 border border-slate-800 p-4 rounded-2xl space-y-3 shadow-md">
+                        <div class="flex justify-between items-center">
+                            <span class="text-xs font-bold text-blue-400 uppercase tracking-wider"><i class="fa-solid fa-road mr-1.5"></i> Rules of the Road</span>
+                            <span id="score-rules" class="text-xs font-black text-white bg-slate-900 px-2.5 py-1 rounded-lg border border-slate-800">0 / 0</span>
+                        </div>
+                        <div class="w-full bg-slate-900 h-2.5 rounded-full overflow-hidden border border-slate-800">
+                            <div id="bar-rules" class="bg-blue-600 h-full transition-all duration-500" style="width: 0%"></div>
+                        </div>
+                        <p id="status-rules" class="text-[11px] text-slate-400 font-medium"></p>
+                    </div>
+
+                    <!-- Controls Category -->
+                    <div class="bg-slate-950 border border-slate-800 p-4 rounded-2xl space-y-3 shadow-md">
+                        <div class="flex justify-between items-center">
+                            <span class="text-xs font-bold text-emerald-400 uppercase tracking-wider"><i class="fa-solid fa-gauge mr-1.5"></i> Vehicle Controls</span>
+                            <span id="score-controls" class="text-xs font-black text-white bg-slate-900 px-2.5 py-1 rounded-lg border border-slate-800">0 / 0</span>
+                        </div>
+                        <div class="w-full bg-slate-900 h-2.5 rounded-full overflow-hidden border border-slate-800">
+                            <div id="bar-controls" class="bg-emerald-600 h-full transition-all duration-500" style="width: 0%"></div>
+                        </div>
+                        <p id="status-controls" class="text-[11px] text-slate-400 font-medium"></p>
+                    </div>
+                </div>
+
+                <div class="flex flex-col sm:flex-row justify-center items-center gap-4 pt-2">
+                    <button onclick="restartExam()" class="w-full sm:w-auto bg-red-600 hover:bg-red-700 text-white px-6 py-2.5 rounded-xl font-bold text-xs transition shadow-lg flex items-center justify-center space-x-2">
+                        <i class="fa-solid fa-rotate-right"></i>
+                        <span>Retake Mock Exam</span>
+                    </button>
+                    <a href="#shop-section" class="w-full sm:w-auto bg-slate-950 hover:bg-slate-800 text-slate-200 border border-slate-800 px-6 py-2.5 rounded-xl font-bold text-xs transition flex items-center justify-center space-x-2">
+                        <i class="fa-solid fa-graduation-cap text-red-500"></i>
+                        <span>Unlock Full Study Course</span>
+                    </a>
+                </div>
             </div>
         </section>
 
-        <!-- Section 3: Store & Vouchers (Compact) -->
+        <!-- Section 3: Store & Vouchers -->
         <section id="shop-section" class="space-y-4 pt-4 border-t border-slate-800">
             <div class="text-center max-w-2xl mx-auto space-y-1">
                 <span class="bg-red-500/10 text-red-400 text-xs font-bold uppercase tracking-widest px-3 py-0.5 rounded-full border border-red-500/20">Official Study Material & Vouchers</span>
@@ -333,17 +394,42 @@
         let isAnswered = false;
         let cart = [];
 
+        // Category tracking stats
+        let categoryStats = {
+            signs: { correct: 0, total: 0 },
+            rules: { correct: 0, total: 0 },
+            controls: { correct: 0, total: 0 }
+        };
+
         function setCategory(cat) {
             currentCategory = cat;
             currentQIndex = 0;
             score = 0;
+            resetStats();
             ['code8', 'heavy', 'motorcycle'].forEach(function(c) {
                 const btn = document.getElementById('cat-' + c);
                 if (btn) {
                     btn.className = c === cat ? "px-3.5 py-1.5 text-xs rounded-xl font-bold border border-red-500 bg-red-600/20 text-red-400 transition" : "px-3.5 py-1.5 text-xs rounded-xl font-bold border border-slate-800 bg-slate-950 hover:border-slate-700 text-slate-400 transition";
                 }
             });
+            document.getElementById('quiz-container').classList.remove('hidden');
+            document.getElementById('results-dashboard').classList.add('hidden');
             renderQuestion();
+        }
+
+        function resetStats() {
+            categoryStats = {
+                signs: { correct: 0, total: 0 },
+                rules: { correct: 0, total: 0 },
+                controls: { correct: 0, total: 0 }
+            };
+        }
+
+        function classifyCategory(catName) {
+            const lower = (catName || "").toLowerCase();
+            if (lower.includes('sign') || lower.includes('signal')) return 'signs';
+            if (lower.includes('control') || lower.includes('vehicle') || lower.includes('inspection')) return 'controls';
+            return 'rules'; // default fallback for Rules of the Road
         }
 
         function extractOptionsList(qData) {
@@ -424,7 +510,14 @@
             const correctKey = String(qData.correct_answer || qData.correct || qData.answer || 'A').toUpperCase();
             const isCorrect = String(selectedKey).toUpperCase() === correctKey;
 
-            if (isCorrect) score++;
+            // Tally Category stats
+            const catKey = classifyCategory(qData.category);
+            categoryStats[catKey].total++;
+            if (isCorrect) {
+                score++;
+                categoryStats[catKey].correct++;
+            }
+
             document.getElementById('score-tracker').innerText = "Score: " + score + " / " + list.length;
 
             const opts = extractOptionsList(qData);
@@ -487,11 +580,56 @@
                 currentQIndex++;
                 renderQuestion();
             } else {
-                alert("Quiz complete! Your final score: " + score + " / " + list.length);
-                currentQIndex = 0;
-                score = 0;
-                renderQuestion();
+                showResultsDashboard();
             }
+        }
+
+        function showResultsDashboard() {
+            document.getElementById('quiz-container').classList.add('hidden');
+            document.getElementById('results-dashboard').classList.remove('hidden');
+
+            const total = 20;
+            const percentage = Math.round((score / total) * 100);
+            const passed = score >= 14; // SADC learner's license standard (~70%)
+
+            const badgeContainer = document.getElementById('result-badge-container');
+            if (passed) {
+                badgeContainer.className = "inline-flex items-center space-x-2 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 shadow-md";
+                badgeContainer.innerHTML = '<i class="fa-solid fa-circle-check"></i><span>Passed Mock Exam</span>';
+                document.getElementById('result-summary-text.innerText = "Fantastic job! You scored " + score + " out of " + total + " (" + percentage + "%). You have met the SADC K53 passing criteria.";';
+            } else {
+                badgeContainer.className = "inline-flex items-center space-x-2 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest bg-red-500/20 text-red-400 border border-red-500/30 shadow-md";
+                badgeContainer.innerHTML = '<i class="fa-solid fa-circle-xmark"></i><span>Needs Revision</span>';
+                document.getElementById('result-summary-text').innerText = "You scored " + score + " out of " + total + " (" + percentage + "%). Review the rules and signs below and try again to achieve a pass!";
+            }
+            document.getElementById('result-summary-text').innerText = "You scored " + score + " out of " + total + " (" + percentage + "%). " + (passed ? "You met the SADC K53 passing standards!" : "Review your weak spots and try again!");
+
+            // Populate Category Breakdown Cards
+            updateCategoryCard('signs', 'score-signs', 'bar-signs', 'status-signs');
+            updateCategoryCard('rules', 'score-rules', 'bar-rules', 'status-rules');
+            updateCategoryCard('controls', 'score-controls', 'bar-controls', 'status-controls');
+        }
+
+        function updateCategoryCard(catKey, scoreElId, barElId, statusElId) {
+            const data = categoryStats[catKey];
+            const correct = data.correct;
+            const total = data.total > 0 ? data.total : 1; // avoid division by zero
+            const pct = Math.round((correct / total) * 100);
+
+            document.getElementById(scoreElId).innerText = correct + " / " + total;
+            document.getElementById(barElId).style.width = pct + "%";
+            
+            let statusText = pct >= 70 ? "Proficient (" + pct + "%)" : "Needs Practice (" + pct + "%)";
+            document.getElementById(statusElId).innerText = statusText;
+        }
+
+        function restartExam() {
+            currentQIndex = 0;
+            score = 0;
+            resetStats();
+            document.getElementById('results-dashboard').classList.add('hidden');
+            document.getElementById('quiz-container').classList.remove('hidden');
+            renderQuestion();
         }
 
         async function loginWithGoogle() {
