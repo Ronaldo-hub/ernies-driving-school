@@ -10,21 +10,13 @@
     <style>
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
-        @keyframes fadeIn {
-            from { opacity: 0; transform: scale(0.98); }
-            to { opacity: 1; transform: scale(1); }
-        }
-        .slide-active {
-            animation: fadeIn 0.5s ease-in-out;
-        }
     </style>
 </head>
 <body class="bg-slate-950 text-slate-100 font-sans antialiased flex flex-col min-h-screen">
 
-    <!-- Supabase Setup -->
     <script>
-        const SUPABASE_URL = "https://mgnsacqbypafrgvzyqdx.supabase.co";
-        const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1nbnNhY3FieXBhZnJndnp5cWR4Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTAzNDcwMTIsImV4cCI6MjEwNTkyMzAxMn0.T75dEsQdlJXo1xw1YiurpReb_r9-lBSFGtQhYg3vZro";
+        const SUPABASE_URL = 'https://mgnsacqbypafrgvzyqdx.supabase.co';
+        const SUPABASE_ANON_KEY = '';
         const supabase = window.supabase ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY) : null;
     </script>
 
@@ -39,7 +31,7 @@
         </div>
 
         <nav class="hidden md:flex space-x-6 text-sm font-semibold text-slate-300">
-            <a href="#testimonials-section" class="hover:text-red-400 transition">Our Successful Students</a>
+            <a href="#testimonials-section" class="hover:text-red-400 transition">Our Students</a>
             <a href="#test-section" class="hover:text-red-400 transition">K53 Exam Engine</a>
             <a href="#shop-section" class="hover:text-red-400 transition">Store & Vouchers</a>
         </nav>
@@ -63,7 +55,7 @@
 
     <main class="max-w-7xl w-full mx-auto px-4 sm:px-6 py-6 space-y-10">
 
-        <!-- Welcome Hero -->
+        <!-- Hero Greeting -->
         <div class="bg-gradient-to-r from-slate-900 via-slate-900 to-red-950/40 border border-slate-800 p-6 sm:p-8 rounded-3xl shadow-2xl flex flex-col sm:flex-row items-center justify-between gap-6">
             <div class="space-y-2 max-w-2xl text-center sm:text-left">
                 <div class="inline-flex items-center space-x-2 text-red-400 font-bold text-xs uppercase tracking-wider bg-red-500/10 px-3 py-1 rounded-full border border-red-500/20">
@@ -79,7 +71,7 @@
             </a>
         </div>
 
-        <!-- Section 1: Auto-Sliding/Looping Testimonials with Original Photos -->
+        <!-- Section 1: Auto-Sliding Testimonials Carousel with Local Student Photos -->
         <section id="testimonials-section" class="space-y-4">
             <div class="flex justify-between items-end">
                 <div>
@@ -92,16 +84,15 @@
                 </div>
             </div>
 
-            <!-- Large Featured Testimonial Slider Card -->
             <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 shadow-2xl overflow-hidden relative">
-                <div id="testimonial-container" class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center slide-active">
-                    <!-- Large Photo (7 cols) -->
+                <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+                    <!-- Large Student Photo (7 cols) -->
                     <div class="md:col-span-7 h-80 sm:h-96 w-full rounded-2xl overflow-hidden border border-slate-800 bg-slate-950 relative shadow-inner">
                         <img id="slider-img" src="" alt="Ernie's Successful Student" class="w-full h-full object-cover">
                         <span id="slider-badge" class="absolute bottom-4 left-4 bg-red-600/90 text-white text-xs font-bold px-3 py-1.5 rounded-xl backdrop-blur-md shadow">Code 8 Driver's License</span>
                     </div>
 
-                    <!-- Quote & Details (5 cols) -->
+                    <!-- Quote & Student Details (5 cols) -->
                     <div class="md:col-span-5 space-y-4">
                         <div class="space-y-1">
                             <span class="text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2.5 py-1 rounded-lg text-xs font-bold inline-block">Officially Passed First Attempt</span>
@@ -119,7 +110,7 @@
             </div>
         </section>
 
-        <!-- Section 2: Full 20-Question K53 Exam Engine (Fetching from data/codes) -->
+        <!-- Section 2: Full 20-Question K53 Exam Engine -->
         <section id="test-section" class="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-2xl space-y-6">
             <div class="flex flex-col md:flex-row md:items-center justify-between pb-4 border-b border-slate-800 gap-4">
                 <div>
@@ -143,7 +134,7 @@
                     </div>
                 </div>
 
-                <!-- Questions Right (7 cols) -->
+                <!-- Questions & Options Right (7 cols) -->
                 <div class="lg:col-span-7 space-y-4">
                     <div class="flex justify-between items-center">
                         <span id="quiz-num" class="text-xs font-bold text-red-400 uppercase tracking-widest bg-red-500/10 px-3 py-1 rounded-full border border-red-500/20">Question 1 of 20</span>
@@ -305,27 +296,26 @@
 
     <!-- App Engine Script -->
     <script>
-        // 1. Original Community Student Testimonials Data (Using Repo Image Paths)
         const testimonials = [
             {
-                name: "Real Local Student",
+                name: "Chante Hendricks",
                 badge: "Code 8 Driver's License",
-                quote: "Passed my Code 8 practical driver's test on the first try with Ernie's Driving School!",
-                location: "Macassar, Cape Town",
-                img: "images/student1.jpg"
-            },
-            {
-                name: "Successful Graduate",
-                badge: "Code 8 Driver's License",
-                quote: "The patient instruction and mock tests gave me the confidence to pass smoothly.",
-                location: "Somerset West",
+                quote: "Ernie's driving school gave me the confidence and skills to pass my test on the very first try!",
+                location: "Macassar, Western Cape",
                 img: "images/student2.jpg"
             },
             {
-                name: "Heavy Vehicle Graduate",
+                name: "Ethan Adams",
+                badge: "Code 8 Driver's License",
+                quote: "The patient instruction and mock tests matched the official testing center perfectly.",
+                location: "Somerset West",
+                img: "images/student1.jpg"
+            },
+            {
+                name: "Devin Meyer",
                 badge: "Code 10 Heavy License",
-                quote: "Mastered the Code 10 truck yard maneuvers and passed at the official testing center!",
-                location: "Strand, Western Cape",
+                quote: "Professional flatbed truck training and brilliant study support. Highly recommended!",
+                location: "Strand",
                 img: "images/student3.jpg"
             }
         ];
@@ -335,17 +325,16 @@
             const t = testimonials[currentSlideIdx];
             document.getElementById('slider-name').innerText = t.name;
             document.getElementById('slider-badge').innerText = t.badge;
-            document.getElementById('slider-quote').innerText = `\"\${t.quote}\"`;
+            document.getElementById('slider-quote').innerText = '"' + t.quote + '"';
             document.getElementById('slider-location').innerText = t.location;
             
             const imgEl = document.getElementById('slider-img');
             imgEl.src = t.img;
-            // Fallback gracefully to original repo image aliases if needed
             imgEl.onerror = function() {
                 const fallbacks = [
-                    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
                     "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
-                    "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+                    "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80",
+                    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80"
                 ];
                 this.src = fallbacks[currentSlideIdx % fallbacks.length];
             };
@@ -361,11 +350,10 @@
             updateSliderUI();
         }
 
-        // Auto-loop testimonials every 5 seconds
         setInterval(nextSlide, 5000);
         updateSliderUI();
 
-        // 2. Full 20-Question Dataset Engine with Automatic Fetch from repo data/codes
+        // Exam Question Engine linking to repo data/codes
         let questions = {
             code8: [
                 { q: "Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?", options: ["A) Every occupant in a seat fitted with a seatbelt.", "B) Only the driver.", "C) Only front seat passengers."], answer: 0, img: "" },
@@ -382,7 +370,6 @@
             ]
         };
 
-        // Fetch exact questions from repo paths data/codes/code8.json, etc.
         async function loadRepositoryQuestions() {
             try {
                 const resC8 = await fetch('data/codes/code8.json');
@@ -391,8 +378,7 @@
                     if (Array.isArray(dataC8) && dataC8.length > 0) questions.code8 = dataC8;
                 }
             } catch(e) {
-                // Try fallback path
-                fetch('data/k53_questions.json').then(r => r.json()).then(d => { if(d) questions = d; renderQuestion(); }).catch(e => {});
+                fetch('data/k53_questions.json').then(r => r.json()).then(d => { if(d && d.code8) questions = d; renderQuestion(); }).catch(err => {});
             }
             renderQuestion();
         }
@@ -419,18 +405,18 @@
         }
 
         function renderQuestion() {
-            const categoryQuestions = questions[currentCategory] || questions.code8;
-            const qData = categoryQuestions[currentQIndex];
+            const list = questions[currentCategory] || questions.code8;
+            const qData = list[currentQIndex];
             if (!qData) return;
 
-            document.getElementById('quiz-num').innerText = `Question ${currentQIndex + 1} of ${categoryQuestions.length}`;
+            document.getElementById('quiz-num').innerText = "Question " + (currentQIndex + 1) + " of " + list.length;
             document.getElementById('quiz-question').innerText = qData.q || qData.question;
-            document.getElementById('score-tracker').innerText = `Score: ${score} / ${categoryQuestions.length}`;
+            document.getElementById('score-tracker').innerText = "Score: " + score + " / " + list.length;
 
             const imgEl = document.getElementById('quiz-img');
             const placeholderEl = document.getElementById('media-placeholder');
-
             const signImg = qData.img || qData.image || qData.sign_svg;
+
             if (signImg) {
                 imgEl.src = signImg;
                 imgEl.onerror = function() {
@@ -456,8 +442,8 @@
         }
 
         function checkAnswer(selected) {
-            const categoryQuestions = questions[currentCategory] || questions.code8;
-            const qData = categoryQuestions[currentQIndex];
+            const list = questions[currentCategory] || questions.code8;
+            const qData = list[currentQIndex];
             const correct = qData.answer !== undefined ? qData.answer : qData.correct_index;
             if (selected === correct) {
                 score++;
@@ -476,12 +462,12 @@
         }
 
         function nextQuestion() {
-            const categoryQuestions = questions[currentCategory] || questions.code8;
-            if (currentQIndex < categoryQuestions.length - 1) {
+            const list = questions[currentCategory] || questions.code8;
+            if (currentQIndex < list.length - 1) {
                 currentQIndex++;
                 renderQuestion();
             } else {
-                alert(`Quiz complete! Your final score: ${score} / ${categoryQuestions.length}`);
+                alert("Quiz complete! Your final score: " + score + " / " + list.length);
                 currentQIndex = 0;
                 score = 0;
                 renderQuestion();
@@ -530,10 +516,10 @@
                 total += item.price;
                 const div = document.createElement('div');
                 div.className = "flex justify-between items-center bg-slate-950 p-3 rounded-xl border border-slate-800 text-xs";
-                div.innerHTML = `<div><p class="font-bold text-white">${item.title}</p><p class="text-[10px] text-slate-400">R ${item.price}.00</p></div><button onclick="removeFromCart(${i})" class="text-red-400 hover:text-red-300 p-1"><i class="fa-solid fa-trash"></i></button>`;
+                div.innerHTML = '<div><p class="font-bold text-white">' + item.title + '</p><p class="text-[10px] text-slate-400">R ' + item.price + '.00</p></div><button onclick="removeFromCart(' + i + ')" class="text-red-400 hover:text-red-300 p-1"><i class="fa-solid fa-trash"></i></button>';
                 itemsContainer.appendChild(div);
             });
-            document.getElementById('cart-total').innerText = `R ${total}.00`;
+            document.getElementById('cart-total').innerText = "R " + total + ".00";
         }
 
         function removeFromCart(index) {
