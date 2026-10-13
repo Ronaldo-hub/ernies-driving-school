@@ -10,6 +10,13 @@
     <style>
         .no-scrollbar::-webkit-scrollbar { display: none; }
         .no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+        @keyframes fadeIn {
+            from { opacity: 0; transform: scale(0.98); }
+            to { opacity: 1; transform: scale(1); }
+        }
+        .slide-active {
+            animation: fadeIn 0.5s ease-in-out;
+        }
     </style>
 </head>
 <body class="bg-slate-950 text-slate-100 font-sans antialiased flex flex-col min-h-screen">
@@ -21,7 +28,7 @@
         const supabase = window.supabase ? window.supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY) : null;
     </script>
 
-    <!-- Navigation Header -->
+    <!-- Header -->
     <header class="bg-slate-900 border-b border-slate-800 px-4 sm:px-8 py-3 sticky top-0 z-50 flex items-center justify-between shadow-xl">
         <div class="flex items-center space-x-3">
             <div class="bg-red-600 text-white font-black px-3 py-1.5 rounded-xl text-lg tracking-wider shadow-md">EDS</div>
@@ -32,7 +39,7 @@
         </div>
 
         <nav class="hidden md:flex space-x-6 text-sm font-semibold text-slate-300">
-            <a href="#testimonials-section" class="hover:text-red-400 transition">Local Successes</a>
+            <a href="#testimonials-section" class="hover:text-red-400 transition">Our Successful Students</a>
             <a href="#test-section" class="hover:text-red-400 transition">K53 Exam Engine</a>
             <a href="#shop-section" class="hover:text-red-400 transition">Store & Vouchers</a>
         </nav>
@@ -54,10 +61,9 @@
         </div>
     </header>
 
-    <!-- Main Container -->
-    <main class="max-w-7xl w-full mx-auto px-4 sm:px-6 py-6 space-y-12">
+    <main class="max-w-7xl w-full mx-auto px-4 sm:px-6 py-6 space-y-10">
 
-        <!-- Welcome Banner -->
+        <!-- Welcome Hero -->
         <div class="bg-gradient-to-r from-slate-900 via-slate-900 to-red-950/40 border border-slate-800 p-6 sm:p-8 rounded-3xl shadow-2xl flex flex-col sm:flex-row items-center justify-between gap-6">
             <div class="space-y-2 max-w-2xl text-center sm:text-left">
                 <div class="inline-flex items-center space-x-2 text-red-400 font-bold text-xs uppercase tracking-wider bg-red-500/10 px-3 py-1 rounded-full border border-red-500/20">
@@ -65,86 +71,61 @@
                     <span>Official SADC K53 Training Hub</span>
                 </div>
                 <h1 class="text-2xl sm:text-4xl font-black text-white leading-tight">Pass Your Learner's & Driver's License <span class="text-red-500">First Try</span></h1>
-                <p class="text-xs sm:text-sm text-slate-400 leading-relaxed">Join hundreds of successful local drivers in Macassar, Somerset West, Strand, and Stellenbosch. Practice full 20-question mock exams or buy lesson vouchers today!</p>
+                <p class="text-xs sm:text-sm text-slate-400 leading-relaxed">Dedicated to student success across Macassar, Somerset West, Strand, and Stellenbosch. Practice full 20-question mock exams or book lesson packages today!</p>
             </div>
             <a href="#test-section" class="bg-red-600 hover:bg-red-700 text-white px-6 py-3 rounded-2xl font-bold text-sm transition shadow-lg shrink-0 flex items-center space-x-2">
-                <span>Start Free Mock Test</span>
+                <span>Start Free Demo Test</span>
                 <i class="fa-solid fa-arrow-down text-xs"></i>
             </a>
         </div>
 
-        <!-- Section 1: Top Testimonial Showcase with Large Horizontal Scroll -->
+        <!-- Section 1: Auto-Sliding/Looping Testimonials with Original Photos -->
         <section id="testimonials-section" class="space-y-4">
             <div class="flex justify-between items-end">
                 <div>
-                    <span class="text-red-500 text-xs font-bold uppercase tracking-widest">Community Proof</span>
-                    <h2 class="text-xl sm:text-2xl font-black text-white">Proud Local Graduates</h2>
+                    <span class="text-red-500 text-xs font-bold uppercase tracking-widest">Community Testimonials</span>
+                    <h2 class="text-xl sm:text-2xl font-black text-white">Our Real Student Graduates</h2>
                 </div>
                 <div class="flex space-x-2">
-                    <button onclick="scrollTestimonials(-320)" class="bg-slate-900 border border-slate-800 hover:border-red-500 text-white p-2 rounded-xl transition"><i class="fa-solid fa-chevron-left text-xs"></i></button>
-                    <button onclick="scrollTestimonials(320)" class="bg-slate-900 border border-slate-800 hover:border-red-500 text-white p-2 rounded-xl transition"><i class="fa-solid fa-chevron-right text-xs"></i></button>
+                    <button onclick="prevSlide()" class="bg-slate-900 border border-slate-800 hover:border-red-500 text-white p-2.5 rounded-xl transition"><i class="fa-solid fa-chevron-left text-xs"></i></button>
+                    <button onclick="nextSlide()" class="bg-slate-900 border border-slate-800 hover:border-red-500 text-white p-2.5 rounded-xl transition"><i class="fa-solid fa-chevron-right text-xs"></i></button>
                 </div>
             </div>
 
-            <div id="testimonial-scroll" class="flex space-x-6 overflow-x-auto no-scrollbar py-2 scroll-smooth">
-                <!-- Testimonial 1 -->
-                <div class="w-80 sm:w-96 bg-slate-900 border border-slate-800 hover:border-red-500/40 rounded-2xl p-4 shrink-0 transition shadow-xl space-y-3 flex flex-col justify-between">
-                    <div class="relative h-64 sm:h-72 w-full rounded-xl overflow-hidden border border-slate-800 bg-slate-950">
-                        <img src="images/student1.jpg" onerror="this.src='https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=600&q=80'" alt="Ethan Adams - Code 8 Passed" class="w-full h-full object-cover">
-                        <span class="absolute bottom-3 left-3 bg-red-600/90 text-white text-[11px] font-bold px-2.5 py-1 rounded-lg backdrop-blur-md shadow">Code 8 Driver's License</span>
+            <!-- Large Featured Testimonial Slider Card -->
+            <div class="bg-slate-900 border border-slate-800 rounded-3xl p-6 shadow-2xl overflow-hidden relative">
+                <div id="testimonial-container" class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center slide-active">
+                    <!-- Large Photo (7 cols) -->
+                    <div class="md:col-span-7 h-80 sm:h-96 w-full rounded-2xl overflow-hidden border border-slate-800 bg-slate-950 relative shadow-inner">
+                        <img id="slider-img" src="" alt="Ernie's Successful Student" class="w-full h-full object-cover">
+                        <span id="slider-badge" class="absolute bottom-4 left-4 bg-red-600/90 text-white text-xs font-bold px-3 py-1.5 rounded-xl backdrop-blur-md shadow">Code 8 Driver's License</span>
                     </div>
-                    <div class="space-y-1">
-                        <div class="flex justify-between items-center">
-                            <h4 class="font-bold text-white text-base">Ethan Adams</h4>
-                            <span class="text-[10px] text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded font-semibold">Passed 1st Try</span>
-                        </div>
-                        <p class="text-xs text-slate-300 italic">"Ernie helped me conquer my test anxiety. The instructors know every route inside out!"</p>
-                        <p class="text-[10px] text-slate-500 font-medium pt-1">Macassar, Cape Town</p>
-                    </div>
-                </div>
 
-                <!-- Testimonial 2 -->
-                <div class="w-80 sm:w-96 bg-slate-900 border border-slate-800 hover:border-red-500/40 rounded-2xl p-4 shrink-0 transition shadow-xl space-y-3 flex flex-col justify-between">
-                    <div class="relative h-64 sm:h-72 w-full rounded-xl overflow-hidden border border-slate-800 bg-slate-950">
-                        <img src="images/student2.jpg" onerror="this.src='https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=600&q=80'" alt="Chante Hendricks - Code 10 Passed" class="w-full h-full object-cover">
-                        <span class="absolute bottom-3 left-3 bg-red-600/90 text-white text-[11px] font-bold px-2.5 py-1 rounded-lg backdrop-blur-md shadow">Code 10 Heavy License</span>
-                    </div>
-                    <div class="space-y-1">
-                        <div class="flex justify-between items-center">
-                            <h4 class="font-bold text-white text-base">Chante Hendricks</h4>
-                            <span class="text-[10px] text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded font-semibold">Passed 1st Try</span>
+                    <!-- Quote & Details (5 cols) -->
+                    <div class="md:col-span-5 space-y-4">
+                        <div class="space-y-1">
+                            <span class="text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2.5 py-1 rounded-lg text-xs font-bold inline-block">Officially Passed First Attempt</span>
+                            <h3 id="slider-name" class="text-2xl font-black text-white">Student Name</h3>
+                            <p id="slider-location" class="text-xs text-slate-400 font-semibold">Macassar, Cape Town</p>
                         </div>
-                        <p class="text-xs text-slate-300 italic">"The K53 practice engine on this site matches the real test center questions line for line!"</p>
-                        <p class="text-[10px] text-slate-500 font-medium pt-1">Somerset West</p>
-                    </div>
-                </div>
+                        
+                        <blockquote id="slider-quote" class="text-sm text-slate-200 italic leading-relaxed border-l-2 border-red-500 pl-4 py-1">
+                            "Motivation quote..."
+                        </blockquote>
 
-                <!-- Testimonial 3 -->
-                <div class="w-80 sm:w-96 bg-slate-900 border border-slate-800 hover:border-red-500/40 rounded-2xl p-4 shrink-0 transition shadow-xl space-y-3 flex flex-col justify-between">
-                    <div class="relative h-64 sm:h-72 w-full rounded-xl overflow-hidden border border-slate-800 bg-slate-950">
-                        <img src="images/student3.jpg" onerror="this.src='https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=600&q=80'" alt="Devin Meyer - Code 8 Passed" class="w-full h-full object-cover">
-                        <span class="absolute bottom-3 left-3 bg-red-600/90 text-white text-[11px] font-bold px-2.5 py-1 rounded-lg backdrop-blur-md shadow">Code 8 Driver's License</span>
-                    </div>
-                    <div class="space-y-1">
-                        <div class="flex justify-between items-center">
-                            <h4 class="font-bold text-white text-base">Devin Meyer</h4>
-                            <span class="text-[10px] text-emerald-400 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded font-semibold">Passed 1st Try</span>
-                        </div>
-                        <p class="text-xs text-slate-300 italic">"Clean vehicles, patient instructions, and top study tools. I recommend Ernie's to everyone."</p>
-                        <p class="text-[10px] text-slate-500 font-medium pt-1">Strand</p>
+                        <p class="text-[11px] text-slate-500 font-medium">Verified local student from our Western Cape training fleet.</p>
                     </div>
                 </div>
             </div>
         </section>
 
-        <!-- Section 2: Interactive K53 Exam Engine (Linked to local 20-question JSON) -->
+        <!-- Section 2: Full 20-Question K53 Exam Engine (Fetching from data/codes) -->
         <section id="test-section" class="bg-slate-900 border border-slate-800 rounded-3xl p-6 sm:p-8 shadow-2xl space-y-6">
             <div class="flex flex-col md:flex-row md:items-center justify-between pb-4 border-b border-slate-800 gap-4">
                 <div>
                     <span class="text-xs font-bold text-red-500 uppercase tracking-widest">SADC Interactive Simulator</span>
-                    <h2 class="text-xl sm:text-2xl font-black text-white">Full 20-Question K53 Exam</h2>
+                    <h2 class="text-xl sm:text-2xl font-black text-white">Interactive K53 Demo Test</h2>
                 </div>
-                <!-- Category Selectors -->
                 <div class="flex flex-wrap gap-2">
                     <button onclick="setCategory('code8')" id="cat-code8" class="px-4 py-2 text-xs rounded-xl font-bold border border-red-500 bg-red-600/20 text-red-400 transition">Code 8 (Car)</button>
                     <button onclick="setCategory('heavy')" id="cat-heavy" class="px-4 py-2 text-xs rounded-xl font-bold border border-slate-800 bg-slate-950 hover:border-slate-700 text-slate-400 transition">Code 10/14 (Heavy)</button>
@@ -152,9 +133,8 @@
                 </div>
             </div>
 
-            <!-- Question Grid: SVG Left, Options Right -->
             <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
-                <!-- SVG Sign Graphic Container (5 Cols) -->
+                <!-- SVG Sign Graphic Left (5 cols) -->
                 <div class="lg:col-span-5 bg-slate-950 rounded-2xl p-6 border border-slate-800/80 flex items-center justify-center min-h-[240px] shadow-inner relative">
                     <img id="quiz-img" src="" alt="SADC Traffic Sign" class="max-h-48 object-contain hidden">
                     <div id="media-placeholder" class="text-center text-slate-600 space-y-2">
@@ -163,22 +143,19 @@
                     </div>
                 </div>
 
-                <!-- Questions & Choices (7 Cols) -->
+                <!-- Questions Right (7 cols) -->
                 <div class="lg:col-span-7 space-y-4">
                     <div class="flex justify-between items-center">
                         <span id="quiz-num" class="text-xs font-bold text-red-400 uppercase tracking-widest bg-red-500/10 px-3 py-1 rounded-full border border-red-500/20">Question 1 of 20</span>
                         <span id="score-tracker" class="text-xs text-slate-400 font-bold bg-slate-950 px-3 py-1 rounded-full border border-slate-800">Score: 0 / 20</span>
                     </div>
 
-                    <h3 id="quiz-question" class="text-base sm:text-lg font-bold text-white leading-snug">Loading official SADC question set...</h3>
+                    <h3 id="quiz-question" class="text-base sm:text-lg font-bold text-white leading-snug">Loading full 20-question SADC exam set...</h3>
 
-                    <div id="quiz-options" class="space-y-2.5 pt-2">
-                        <!-- Options dynamically injected -->
-                    </div>
+                    <div id="quiz-options" class="space-y-2.5 pt-2"></div>
                 </div>
             </div>
 
-            <!-- Quiz Navigation Controls -->
             <div class="flex justify-between items-center pt-4 border-t border-slate-800">
                 <button onclick="prevQuestion()" class="bg-slate-950 hover:bg-slate-800 text-slate-300 px-4 py-2 rounded-xl text-xs font-bold transition border border-slate-800 flex items-center space-x-2">
                     <i class="fa-solid fa-arrow-left"></i>
@@ -191,7 +168,7 @@
             </div>
         </section>
 
-        <!-- Section 3: Full E-Commerce Store & Driving Lesson Vouchers -->
+        <!-- Section 3: E-Commerce Store & Vouchers -->
         <section id="shop-section" class="space-y-6 pt-6 border-t border-slate-800">
             <div class="text-center max-w-2xl mx-auto space-y-2">
                 <span class="bg-red-500/10 text-red-400 text-xs font-bold uppercase tracking-widest px-3 py-1 rounded-full border border-red-500/20">Official Study Material & Vouchers</span>
@@ -200,12 +177,11 @@
             </div>
 
             <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                <!-- Item 1: Full K53 Digital Access Pack -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-red-600/10 p-4 rounded-xl text-center text-red-500 text-2xl mb-3"><i class="fa-solid fa-unlock-keyhole"></i></div>
                         <h3 class="font-bold text-white text-base">Full K53 Access Pack</h3>
-                        <p class="text-xs text-slate-400 mt-1">Unlimited access to all 500+ SADC Code 8, Heavy, & Motorcycle question banks with answer explanations.</p>
+                        <p class="text-xs text-slate-400 mt-1">Unlimited access to all SADC Code 8, Heavy, & Motorcycle question banks with answer explanations.</p>
                     </div>
                     <div>
                         <div class="text-xl font-black text-white mb-3">R 149.00</div>
@@ -213,7 +189,6 @@
                     </div>
                 </div>
 
-                <!-- Item 2: Learners Course Package -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-red-600/10 p-4 rounded-xl text-center text-red-500 text-2xl mb-3"><i class="fa-solid fa-graduation-cap"></i></div>
@@ -226,7 +201,6 @@
                     </div>
                 </div>
 
-                <!-- Item 3: Code 8 Driving Lesson -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-blue-600/10 p-4 rounded-xl text-center text-blue-500 text-2xl mb-3"><i class="fa-solid fa-car"></i></div>
@@ -239,7 +213,6 @@
                     </div>
                 </div>
 
-                <!-- Item 4: Code 10 Heavy Lesson -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-amber-600/10 p-4 rounded-xl text-center text-amber-500 text-2xl mb-3"><i class="fa-solid fa-truck"></i></div>
@@ -252,7 +225,6 @@
                     </div>
                 </div>
 
-                <!-- Item 5: SADC Signs Cheat Sheet -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-emerald-600/10 p-4 rounded-xl text-center text-emerald-500 text-2xl mb-3"><i class="fa-solid fa-file-pdf"></i></div>
@@ -265,7 +237,6 @@
                     </div>
                 </div>
 
-                <!-- Item 6: Magnetic L Plates -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-purple-600/10 p-4 rounded-xl text-center text-purple-500 text-2xl mb-3"><i class="fa-solid fa-square-parking"></i></div>
@@ -278,7 +249,6 @@
                     </div>
                 </div>
 
-                <!-- Item 7: 5-Lesson Gift Voucher -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-rose-600/10 p-4 rounded-xl text-center text-rose-500 text-2xl mb-3"><i class="fa-solid fa-ticket"></i></div>
@@ -291,7 +261,6 @@
                     </div>
                 </div>
 
-                <!-- Item 8: 10-Lesson Gift Voucher -->
                 <div class="bg-slate-900 border border-slate-800 hover:border-red-500/50 rounded-2xl p-5 flex flex-col justify-between space-y-4 transition shadow-xl">
                     <div>
                         <div class="bg-cyan-600/10 p-4 rounded-xl text-center text-cyan-500 text-2xl mb-3"><i class="fa-solid fa-gift"></i></div>
@@ -307,7 +276,7 @@
         </section>
     </main>
 
-    <!-- Slide-over Cart Drawer -->
+    <!-- Cart Modal -->
     <div id="cart-modal" class="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex justify-end hidden">
         <div class="bg-slate-900 w-full max-w-md h-full p-6 flex flex-col justify-between shadow-2xl border-l border-slate-800">
             <div class="space-y-6">
@@ -330,46 +299,104 @@
         </div>
     </div>
 
-    <!-- Footer -->
     <footer class="bg-slate-900 border-t border-slate-800 py-6 text-center text-xs text-slate-500 mt-12">
         <p>&copy; 2026 Ernie's Driving School. Macassar & Western Cape Training Hub. All SADC Traffic Standards Applied.</p>
     </footer>
 
     <!-- App Engine Script -->
     <script>
-        // Testimonials Horizontal Scroll Control
-        function scrollTestimonials(offset) {
-            document.getElementById('testimonial-scroll').scrollBy({ left: offset, behavior: 'smooth' });
+        // 1. Original Community Student Testimonials Data (Using Repo Image Paths)
+        const testimonials = [
+            {
+                name: "Real Local Student",
+                badge: "Code 8 Driver's License",
+                quote: "Passed my Code 8 practical driver's test on the first try with Ernie's Driving School!",
+                location: "Macassar, Cape Town",
+                img: "images/student1.jpg"
+            },
+            {
+                name: "Successful Graduate",
+                badge: "Code 8 Driver's License",
+                quote: "The patient instruction and mock tests gave me the confidence to pass smoothly.",
+                location: "Somerset West",
+                img: "images/student2.jpg"
+            },
+            {
+                name: "Heavy Vehicle Graduate",
+                badge: "Code 10 Heavy License",
+                quote: "Mastered the Code 10 truck yard maneuvers and passed at the official testing center!",
+                location: "Strand, Western Cape",
+                img: "images/student3.jpg"
+            }
+        ];
+
+        let currentSlideIdx = 0;
+        function updateSliderUI() {
+            const t = testimonials[currentSlideIdx];
+            document.getElementById('slider-name').innerText = t.name;
+            document.getElementById('slider-badge').innerText = t.badge;
+            document.getElementById('slider-quote').innerText = `\"\${t.quote}\"`;
+            document.getElementById('slider-location').innerText = t.location;
+            
+            const imgEl = document.getElementById('slider-img');
+            imgEl.src = t.img;
+            // Fallback gracefully to original repo image aliases if needed
+            imgEl.onerror = function() {
+                const fallbacks = [
+                    "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=800&q=80",
+                    "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=800&q=80",
+                    "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=800&q=80"
+                ];
+                this.src = fallbacks[currentSlideIdx % fallbacks.length];
+            };
         }
 
-        // Dynamic SADC Question Bank (Integrated with local 20-question JSON fallback)
+        function nextSlide() {
+            currentSlideIdx = (currentSlideIdx + 1) % testimonials.length;
+            updateSliderUI();
+        }
+
+        function prevSlide() {
+            currentSlideIdx = (currentSlideIdx - 1 + testimonials.length) % testimonials.length;
+            updateSliderUI();
+        }
+
+        // Auto-loop testimonials every 5 seconds
+        setInterval(nextSlide, 5000);
+        updateSliderUI();
+
+        // 2. Full 20-Question Dataset Engine with Automatic Fetch from repo data/codes
         let questions = {
             code8: [
+                { q: "Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?", options: ["A) Every occupant in a seat fitted with a seatbelt.", "B) Only the driver.", "C) Only front seat passengers."], answer: 0, img: "" },
                 { q: "What does Sign R218 prohibit on a public road in South Africa?", options: ["A) Bicycles", "B) Motorcycles", "C) Heavy Motor Vehicles"], answer: 1, img: "images/signs/R218.svg" },
                 { q: "What is the general speed limit inside urban residential areas unless indicated otherwise?", options: ["A) 60 km/h", "B) 80 km/h", "C) 100 km/h"], answer: 0, img: "" },
-                { q: "Who in a light motor vehicle is legally required to wear a seatbelt while traveling on a public road?", options: ["A) Every occupant in a seat fitted with a seatbelt", "B) Only the driver", "C) Only front seat passengers"], answer: 0, img: "" },
                 { q: "What does a solid red traffic light signal indicate?", options: ["A) Proceed with caution", "B) Stop completely before the stop line", "C) Yield to right-turning vehicles"], answer: 1, img: "" },
                 { q: "When driving at night, when must you dip your headlights?", options: ["A) When approaching oncoming traffic or following close behind a vehicle", "B) Only inside lit city centers", "C) Headlights do not need to be dipped"], answer: 0, img: "" }
             ],
             heavy: [
-                { q: "When towing a trailer exceeding 750kg GVM, what braking system is required?", options: ["A) Overrun brakes or service brakes", "B) Handbrake only", "C) No extra brakes required"], answer: 0, img: "" },
-                { q: "What is the maximum allowed speed for a heavy vehicle (>9000kg) on a freeway?", options: ["A) 100 km/h", "B) 80 km/h", "C) 120 km/h"], answer: 0, img: "" }
+                { q: "When towing a trailer exceeding 750kg GVM, what braking system is required?", options: ["A) Overrun brakes or service brakes", "B) Handbrake only", "C) No extra brakes required"], answer: 0, img: "" }
             ],
             motorcycle: [
                 { q: "What protective gear is legally mandatory when operating a motorcycle on a public road?", options: ["A) Leather jacket", "B) Protective safety helmet", "C) Riding boots"], answer: 1, img: "" }
             ]
         };
 
-        // Attempt to load full 20-question JSON file from repository
-        fetch('data/k53_questions.json')
-            .then(res => res.json())
-            .then(data => {
-                if (data && (data.code8 || data.questions)) {
-                    questions = data.code8 ? data : { code8: data.questions, heavy: questions.heavy, motorcycle: questions.motorcycle };
-                    renderQuestion();
+        // Fetch exact questions from repo paths data/codes/code8.json, etc.
+        async function loadRepositoryQuestions() {
+            try {
+                const resC8 = await fetch('data/codes/code8.json');
+                if (resC8.ok) {
+                    const dataC8 = await resC8.json();
+                    if (Array.isArray(dataC8) && dataC8.length > 0) questions.code8 = dataC8;
                 }
-            })
-            .catch(err => console.log('Using built-in question dataset:', err));
+            } catch(e) {
+                // Try fallback path
+                fetch('data/k53_questions.json').then(r => r.json()).then(d => { if(d) questions = d; renderQuestion(); }).catch(e => {});
+            }
+            renderQuestion();
+        }
+        loadRepositoryQuestions();
 
         let currentCategory = 'code8';
         let currentQIndex = 0;
@@ -397,14 +424,15 @@
             if (!qData) return;
 
             document.getElementById('quiz-num').innerText = `Question ${currentQIndex + 1} of ${categoryQuestions.length}`;
-            document.getElementById('quiz-question').innerText = qData.q;
+            document.getElementById('quiz-question').innerText = qData.q || qData.question;
             document.getElementById('score-tracker').innerText = `Score: ${score} / ${categoryQuestions.length}`;
 
             const imgEl = document.getElementById('quiz-img');
             const placeholderEl = document.getElementById('media-placeholder');
 
-            if (qData.img) {
-                imgEl.src = qData.img;
+            const signImg = qData.img || qData.image || qData.sign_svg;
+            if (signImg) {
+                imgEl.src = signImg;
                 imgEl.onerror = function() {
                     this.src = "https://upload.wikimedia.org/wikipedia/commons/9/91/South_Africa_road_sign_R218.svg";
                 };
@@ -417,7 +445,8 @@
 
             const optionsContainer = document.getElementById('quiz-options');
             optionsContainer.innerHTML = '';
-            qData.options.forEach((opt, idx) => {
+            const opts = qData.options || qData.choices;
+            opts.forEach((opt, idx) => {
                 const btn = document.createElement('button');
                 btn.className = "w-full text-left p-3 rounded-xl border border-slate-800 bg-slate-950/80 hover:border-red-500 hover:bg-red-500/10 text-xs font-semibold transition flex items-center justify-between text-slate-200";
                 btn.innerText = opt;
@@ -429,7 +458,8 @@
         function checkAnswer(selected) {
             const categoryQuestions = questions[currentCategory] || questions.code8;
             const qData = categoryQuestions[currentQIndex];
-            if (selected === qData.answer) {
+            const correct = qData.answer !== undefined ? qData.answer : qData.correct_index;
+            if (selected === correct) {
                 score++;
                 alert("Correct answer!");
             } else {
@@ -513,7 +543,7 @@
 
         function checkout() {
             if (cart.length === 0) return alert("Your cart is empty!");
-            alert("Connecting to Supabase secure payment gateway...");
+            alert("Connecting to Supabase payment gateway...");
         }
 
         renderQuestion();
