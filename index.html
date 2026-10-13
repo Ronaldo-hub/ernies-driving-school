@@ -118,13 +118,13 @@
                 </div>
             </div>
 
-            <div id="quiz-grid" class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
+            <div id="quiz-grid" class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-start">
                 <!-- Left Sign Container (Shown ONLY when a valid sign image exists) -->
                 <div id="sign-pane" class="lg:col-span-5 bg-slate-950 rounded-2xl p-6 border border-slate-800/80 flex items-center justify-center min-h-[240px] shadow-inner relative hidden">
                     <img id="quiz-img" src="" alt="SADC Traffic Sign" class="max-h-48 object-contain">
                 </div>
 
-                <!-- Right Question & Options Container -->
+                <!-- Right Question, Options & Feedback Container -->
                 <div id="question-pane" class="lg:col-span-12 space-y-4">
                     <div class="flex justify-between items-center">
                         <span id="quiz-num" class="text-xs font-bold text-red-400 uppercase tracking-widest bg-red-500/10 px-3 py-1 rounded-full border border-red-500/20">Question 1 of 20</span>
@@ -133,8 +133,25 @@
 
                     <h3 id="quiz-question" class="text-base sm:text-lg font-bold text-white leading-snug">Loading question...</h3>
 
-                    <!-- Options container -->
-                    <div id="quiz-options" class="space-y-3 pt-3"></div>
+                    <!-- Answer Options -->
+                    <div id="quiz-options" class="space-y-3 pt-2"></div>
+
+                    <!-- Inline Explanation & Mnemonic Container -->
+                    <div id="feedback-pane" class="hidden mt-4 p-5 rounded-2xl border transition-all duration-300 space-y-3">
+                        <div class="flex items-center space-x-2">
+                            <span id="feedback-badge" class="px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider"></span>
+                        </div>
+                        <div class="space-y-2 text-xs sm:text-sm">
+                            <p id="feedback-explanation" class="text-slate-200 leading-relaxed"></p>
+                            <div id="feedback-mnemonic-box" class="bg-slate-950/80 border border-amber-500/30 p-3 rounded-xl flex items-start space-x-2.5 text-amber-300 hidden">
+                                <i class="fa-solid fa-lightbulb text-amber-400 text-sm mt-0.5"></i>
+                                <div>
+                                    <span class="font-bold block text-[11px] text-amber-400 uppercase tracking-wider">Memory Trick / Mnemonic</span>
+                                    <span id="feedback-mnemonic" class="text-xs"></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
 
@@ -346,6 +363,7 @@
         let currentCategory = 'code8';
         let currentQIndex = 0;
         let score = 0;
+        let isAnswered = false;
         let cart = [];
 
         function setCategory(cat) {
@@ -361,7 +379,6 @@
             renderQuestion();
         }
 
-        // Exact parser for options: handles options.en = { "A": "...", "B": "..." }
         function extractOptionsList(qData) {
             if (!qData || !qData.options) return [];
             let opts = qData.options;
@@ -371,7 +388,6 @@
             }
             if (enOpts && typeof enOpts === 'object') {
                 if (Array.isArray(enOpts)) return enOpts;
-                // Return array of objects keeping key ('A', 'B') and text
                 return Object.entries(enOpts).map(([key, text]) => ({ key, text }));
             }
             return [];
@@ -384,6 +400,8 @@
             const qData = list[currentQIndex];
             if (!qData) return;
 
+            isAnswered = false;
+
             document.getElementById('question-total-count').innerText = list.length;
             document.getElementById('quiz-num').innerText = "Question " + (currentQIndex + 1) + " of " + list.length;
             
@@ -392,7 +410,11 @@
             document.getElementById('quiz-question').innerText = getEnglishText(rawText);
             document.getElementById('score-tracker').innerText = "Score: " + score + " / " + list.length;
 
-            // Handle Traffic Sign Image & Layout (Only show left pane if media is not null/empty)
+            // Hide Feedback Pane
+            const feedbackPane = document.getElementById('feedback-pane');
+            if (feedbackPane) feedbackPane.classList.add('hidden');
+
+            // Handle Traffic Sign Image & Layout
             const signPane = document.getElementById('sign-pane');
             const questionPane = document.getElementById('question-pane');
             const imgEl = document.getElementById('quiz-img');
@@ -422,6 +444,7 @@
             opts.forEach(function(opt) {
                 const btn = document.createElement('button');
                 btn.type = "button";
+                btn.id = "opt-btn-" + opt.key;
                 btn.className = "w-full text-left p-3.5 rounded-xl border border-slate-800 bg-slate-950/80 hover:border-red-500 hover:bg-red-500/10 text-xs font-semibold transition flex items-center justify-between text-slate-200 shadow-sm cursor-pointer";
                 btn.innerHTML = '<span>' + getEnglishText(opt.text) + '</span><span class="text-[10px] text-slate-500 font-mono font-bold">[' + opt.key + ']</span>';
                 btn.onclick = function() { checkAnswer(opt.key); };
@@ -430,17 +453,64 @@
         }
 
         function checkAnswer(selectedKey) {
+            if (isAnswered) return; // prevent multiple clicks
+            isAnswered = true;
+
             const list = rawQuestionData[currentCategory] || [];
             const qData = list[currentQIndex];
-            const correctKey = qData.correct_answer || qData.correct || qData.answer || 'A';
-            
-            if (String(selectedKey).toUpperCase() === String(correctKey).toUpperCase()) {
-                score++;
-                alert("Correct answer!");
+            const correctKey = String(qData.correct_answer || qData.correct || qData.answer || 'A').toUpperCase();
+            const isCorrect = String(selectedKey).toUpperCase() === correctKey;
+
+            if (isCorrect) score++;
+            document.getElementById('score-tracker').innerText = "Score: " + score + " / " + list.length;
+
+            // Highlight Answer Buttons
+            const opts = extractOptionsList(qData);
+            opts.forEach(function(opt) {
+                const btn = document.getElementById("opt-btn-" + opt.key);
+                if (!btn) return;
+                btn.disabled = true;
+                btn.classList.remove("hover:border-red-500", "hover:bg-red-500/10", "bg-slate-950/80");
+                
+                if (String(opt.key).toUpperCase() === correctKey) {
+                    btn.className = "w-full text-left p-3.5 rounded-xl border-2 border-emerald-500 bg-emerald-500/10 text-emerald-300 text-xs font-bold transition flex items-center justify-between shadow-md";
+                } else if (String(opt.key).toUpperCase() === String(selectedKey).toUpperCase() && !isCorrect) {
+                    btn.className = "w-full text-left p-3.5 rounded-xl border-2 border-red-500 bg-red-500/10 text-red-300 text-xs font-bold transition flex items-center justify-between shadow-md";
+                } else {
+                    btn.className = "w-full text-left p-3.5 rounded-xl border border-slate-800/50 bg-slate-950/40 text-slate-500 text-xs font-semibold transition flex items-center justify-between opacity-50";
+                }
+            });
+
+            // Extract & Display Explanation and Memory Trick
+            const explanationText = getEnglishText(qData.explanation);
+            const memoryText = getEnglishText(qData.memory_tricks);
+
+            const feedbackPane = document.getElementById('feedback-pane');
+            const feedbackBadge = document.getElementById('feedback-badge');
+            const feedbackExp = document.getElementById('feedback-explanation');
+            const mnemBox = document.getElementById('feedback-mnemonic-box');
+            const mnemText = document.getElementById('feedback-mnemonic');
+
+            if (isCorrect) {
+                feedbackPane.className = "mt-4 p-5 rounded-2xl border border-emerald-500/30 bg-emerald-950/20 text-emerald-100 space-y-3 transition-all duration-300";
+                feedbackBadge.className = "px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider bg-emerald-500/20 text-emerald-400 border border-emerald-500/30";
+                feedbackBadge.innerText = "✓ Correct Answer";
             } else {
-                alert("Incorrect answer. Correct option was: " + correctKey);
+                feedbackPane.className = "mt-4 p-5 rounded-2xl border border-red-500/30 bg-red-950/20 text-red-100 space-y-3 transition-all duration-300";
+                feedbackBadge.className = "px-3 py-1 rounded-lg text-xs font-black uppercase tracking-wider bg-red-500/20 text-red-400 border border-red-500/30";
+                feedbackBadge.innerText = "✗ Incorrect (Correct Option: [" + correctKey + "])";
             }
-            nextQuestion();
+
+            feedbackExp.innerText = explanationText || "No explanation provided for this question.";
+
+            if (memoryText && memoryText.trim() !== '') {
+                mnemText.innerText = memoryText;
+                mnemBox.classList.remove('hidden');
+            } else {
+                mnemBox.classList.add('hidden');
+            }
+
+            feedbackPane.classList.remove('hidden');
         }
 
         function prevQuestion() {
