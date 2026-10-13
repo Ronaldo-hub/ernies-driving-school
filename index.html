@@ -7,8 +7,17 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @keyframes slideInFade {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .slide-card {
+            animation: slideInFade 0.6s ease-in-out;
+        }
+    </style>
 </head>
-<body class="bg-gray-900 text-gray-100 font-sans antialiased min-h-screen flex flex-col">
+<body class="bg-gray-950 text-gray-100 font-sans antialiased flex flex-col min-h-screen">
 
     <!-- Supabase Setup -->
     <script>
@@ -18,175 +27,231 @@
     </script>
 
     <!-- Navigation Header -->
-    <header class="bg-gray-800 border-b border-gray-700 sticky top-0 z-50 shadow-md">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
-            <div class="flex items-center space-x-3">
-                <i class="fa-solid fa-car-side text-red-500 text-2xl"></i>
-                <span class="font-bold text-xl tracking-tight text-white">Ernie's <span class="text-red-500">Driving School</span></span>
+    <header class="bg-gray-900 border-b border-gray-800 px-6 py-3 sticky top-0 z-50 flex items-center justify-between shadow-md">
+        <div class="flex items-center space-x-3">
+            <div class="bg-red-600 text-white font-black p-2 rounded-lg text-lg tracking-wider shadow-md">EDS</div>
+            <div>
+                <span class="font-extrabold text-lg text-white tracking-tight">Ernie's Driving School</span>
+                <p class="text-[10px] text-red-400 font-medium tracking-widest uppercase">Dedicated to the end</p>
             </div>
-            
-            <nav class="hidden md:flex space-x-8 text-sm font-medium">
-                <a href="#test-section" class="hover:text-red-400 transition">Practice Tests</a>
-                <a href="#shop-section" class="hover:text-red-400 transition">Study Store</a>
-                <a href="#about-section" class="hover:text-red-400 transition">Lessons & Pricing</a>
-            </nav>
+        </div>
 
-            <div class="flex items-center space-x-4">
-                <button onclick="toggleCart()" class="relative p-2 text-gray-300 hover:text-white transition">
-                    <i class="fa-solid fa-cart-shopping text-lg"></i>
-                    <span id="cart-count" class="absolute -top-1 -right-1 bg-red-600 text-white text-xs font-bold rounded-full h-5 w-5 flex items-center justify-center hidden">0</span>
-                </button>
+        <nav class="hidden md:flex space-x-6 text-sm font-medium text-gray-300">
+            <a href="#test-section" class="hover:text-red-400 transition">Practice Test</a>
+            <a href="#shop-section" class="hover:text-red-400 transition">Study Store & Vouchers</a>
+        </nav>
 
-                <div id="auth-container">
-                    <button onclick="loginWithGoogle()" class="bg-red-600 hover:bg-red-700 text-white px-4 py-2 rounded-lg text-sm font-medium transition flex items-center space-x-2">
-                        <i class="fa-brands fa-google"></i>
-                        <span>Sign In</span>
-                    </button>
-                </div>
-            </div>
+        <div class="flex items-center space-x-4">
+            <button onclick="toggleCart()" class="relative p-2 text-gray-300 hover:text-white transition">
+                <i class="fa-solid fa-cart-shopping text-lg"></i>
+                <span id="cart-count" class="absolute -top-1 -right-1 bg-red-600 text-white text-xs font-bold rounded-full h-5 w-5 flex items-center justify-center hidden">0</span>
+            </button>
+
+            <a href="https://wa.me/27737779318" target="_blank" class="bg-emerald-600 hover:bg-emerald-700 text-white px-3 py-1.5 rounded-lg text-xs font-semibold flex items-center space-x-2 transition">
+                <i class="fa-brands fa-whatsapp text-sm"></i>
+                <span>073 777 9318</span>
+            </a>
+            <button onclick="loginWithGoogle()" class="bg-red-600 hover:bg-red-700 text-white px-4 py-1.5 rounded-lg text-xs font-semibold transition flex items-center space-x-2 shadow-lg">
+                <i class="fa-brands fa-google"></i>
+                <span>Sign In</span>
+            </button>
         </div>
     </header>
 
-    <!-- Hero Banner -->
-    <section class="bg-gradient-to-r from-gray-900 via-gray-800 to-gray-900 py-12 px-4 border-b border-gray-800 text-center">
-        <div class="max-w-4xl mx-auto space-y-4">
-            <span class="bg-red-500/10 text-red-400 text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full border border-red-500/20">Official SADC Standard</span>
-            <h1 class="text-3xl sm:text-5xl font-extrabold text-white">Pass Your K53 Learner's License <span class="text-red-500">First Time</span></h1>
-            <p class="text-gray-400 text-base sm:text-lg max-w-2xl mx-auto">Master rules of the road, SADC traffic signs, and vehicle controls with our interactive mock test engine.</p>
+    <!-- Top Viewport: Greeting, Testimonials & Interactive Demo Test (No initial scroll needed) -->
+    <main class="max-w-7xl w-full mx-auto p-4 lg:p-6 grid grid-cols-1 lg:grid-cols-12 gap-6 items-center min-h-[85vh]">
+        
+        <!-- Left Column: Greeting & Rotating Testimonials (5 Cols) -->
+        <div class="lg:col-span-5 space-y-4 flex flex-col justify-center">
+            <div class="bg-gray-900/80 border border-gray-800 p-5 rounded-2xl shadow-xl space-y-2">
+                <div class="flex items-center space-x-2 text-red-500 font-bold text-xs uppercase tracking-wider">
+                    <i class="fa-solid fa-handshake"></i>
+                    <span>Welcome to Ernie's Driving School</span>
+                </div>
+                <h1 class="text-2xl sm:text-3xl font-black text-white leading-tight">Pass Your Learner's <span class="text-red-500">First Time</span></h1>
+                <p class="text-xs text-gray-400 leading-relaxed">Master SADC road signs, rules of the road, and vehicle controls with our interactive mock test simulator.</p>
+            </div>
+
+            <!-- Rotating Testimonial Showcase Card -->
+            <div id="testimonial-card" class="slide-card bg-gray-900 border border-red-500/30 rounded-2xl p-4 shadow-xl relative overflow-hidden flex items-center space-x-4">
+                <div class="relative w-20 h-20 shrink-0 rounded-xl overflow-hidden border border-gray-700 shadow-md">
+                    <img id="test-img" src="" alt="Successful Student" class="w-full h-full object-cover">
+                </div>
+                <div class="flex-1 space-y-1">
+                    <div class="flex items-center justify-between">
+                        <h4 id="test-name" class="font-bold text-white text-sm">Student Name</h4>
+                        <span class="bg-red-500/20 text-red-400 text-[10px] font-bold px-2 py-0.5 rounded">Passed 1st Try</span>
+                    </div>
+                    <p id="test-quote" class="text-xs text-gray-300 italic">"Motivational quote..."</p>
+                    <div class="text-[10px] text-gray-500 font-medium">Verified Student • Western Cape</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Right Column: Interactive K53 Exam Engine (7 Cols) -->
+        <div id="test-section" class="lg:col-span-7 bg-gray-900 border border-gray-800 rounded-2xl p-6 shadow-2xl flex flex-col justify-between space-y-4">
+            <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center border-b border-gray-800 pb-3 gap-2">
+                <div>
+                    <h2 class="text-lg font-bold text-white">Interactive K53 Demo Test</h2>
+                    <p class="text-[11px] text-gray-400">SADC Standard Road Signs & Rules</p>
+                </div>
+                <div class="flex space-x-1.5">
+                    <button onclick="setCategory('code8')" id="cat-code8" class="px-3 py-1 text-xs rounded-lg border font-medium border-red-500 bg-red-600/10 text-red-400 transition">Code 8</button>
+                    <button onclick="setCategory('heavy')" id="cat-heavy" class="px-3 py-1 text-xs rounded-lg border font-medium border-gray-800 hover:border-gray-700 text-gray-400 transition">Code 10/14</button>
+                    <button onclick="setCategory('motorcycle')" id="cat-motorcycle" class="px-3 py-1 text-xs rounded-lg border font-medium border-gray-800 hover:border-gray-700 text-gray-400 transition">Code 1</button>
+                </div>
+            </div>
+
+            <!-- Quiz Grid: SVG Left, Options Right -->
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-6 items-center">
+                <div class="md:col-span-5 bg-gray-950 rounded-xl p-4 border border-gray-800 flex items-center justify-center h-48">
+                    <img id="quiz-img" src="" alt="Traffic Sign" class="max-h-36 object-contain rounded hidden">
+                    <div id="media-placeholder" class="text-center text-gray-600 space-y-1">
+                        <i class="fa-solid fa-traffic-light text-3xl"></i>
+                        <p class="text-[11px]">SADC Sign Indicator</p>
+                    </div>
+                </div>
+
+                <div class="md:col-span-7 space-y-3">
+                    <div>
+                        <span id="quiz-num" class="text-[10px] font-bold text-red-400 uppercase tracking-wider">Question 1 of 2</span>
+                        <h3 id="quiz-question" class="text-sm font-bold text-white mt-0.5 leading-snug">Loading question...</h3>
+                    </div>
+
+                    <div id="quiz-options" class="space-y-2"></div>
+                </div>
+            </div>
+
+            <div class="flex justify-between items-center pt-3 border-t border-gray-800 text-xs">
+                <span id="score-tracker" class="text-gray-400 font-medium">Score: 0 / 0</span>
+                <button onclick="nextQuestion()" class="bg-red-600 hover:bg-red-700 text-white px-4 py-1.5 rounded-lg font-semibold transition text-xs flex items-center space-x-1">
+                    <span>Next Question</span>
+                    <i class="fa-solid fa-arrow-right text-[10px]"></i>
+                </button>
+            </div>
+        </div>
+    </main>
+
+    <!-- Scrollable E-Commerce Store Section -->
+    <section id="shop-section" class="max-w-7xl w-full mx-auto px-6 py-12 space-y-6 border-t border-gray-800 bg-gray-900/40">
+        <div class="text-center max-w-2xl mx-auto space-y-2">
+            <span class="bg-red-500/10 text-red-400 text-xs font-semibold uppercase tracking-widest px-3 py-1 rounded-full border border-red-500/20">Official Store & Vouchers</span>
+            <h2 class="text-3xl font-extrabold text-white">Study Material & Driving Lessons</h2>
+            <p class="text-sm text-gray-400">Secure your study packs, gift vouchers, and professional practical driving lessons online.</p>
+        </div>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 pt-4">
+            <!-- Item 1: Full K53 Digital Access -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-red-600/10 p-4 text-center rounded-lg mb-4 text-red-500 text-2xl"><i class="fa-solid fa-unlock-keyhole"></i></div>
+                    <h3 class="font-bold text-white text-base">Full K53 Access Pack</h3>
+                    <p class="text-xs text-gray-400 mt-1">Unlock all 500+ Code 8, Heavy, & Motorcycle questions with examiner cheat sheets.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 149.00</div>
+                    <button onclick="addToCart('Full K53 Access Pack', 149)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 2: Learners Course Package -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-red-600/10 p-4 text-center rounded-lg mb-4 text-red-500 text-2xl"><i class="fa-solid fa-graduation-cap"></i></div>
+                    <h3 class="font-bold text-white text-base">Learners Course Package</h3>
+                    <p class="text-xs text-gray-400 mt-1">Complete rules of the road, road signs, unlimited simulator practice & guarantee access.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 750.00</div>
+                    <button onclick="addToCart('Learners Course Package', 750)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 3: Code 8 Driving Lesson -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-blue-600/10 p-4 text-center rounded-lg mb-4 text-blue-500 text-2xl"><i class="fa-solid fa-car"></i></div>
+                    <h3 class="font-bold text-white text-base">Code 8 Lesson (1 Hour)</h3>
+                    <p class="text-xs text-gray-400 mt-1">Dual-control vehicle training with patient, qualified professional instructors.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 270.00</div>
+                    <button onclick="addToCart('Code 8 Lesson (1 Hour)', 270)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 4: Code 10 Heavy Lesson -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-amber-600/10 p-4 text-center rounded-lg mb-4 text-amber-500 text-2xl"><i class="fa-solid fa-truck"></i></div>
+                    <h3 class="font-bold text-white text-base">Code 10 Lesson (1 Hour)</h3>
+                    <p class="text-xs text-gray-400 mt-1">Heavy vehicle yard system, airbrake controls, and official testing routes.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 350.00</div>
+                    <button onclick="addToCart('Code 10 Lesson (1 Hour)', 350)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 5: SADC Signs Cheat Sheet -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-emerald-600/10 p-4 text-center rounded-lg mb-4 text-emerald-500 text-2xl"><i class="fa-solid fa-file-pdf"></i></div>
+                    <h3 class="font-bold text-white text-base">SADC Signs Cheat Sheet</h3>
+                    <p class="text-xs text-gray-400 mt-1">HD printable vector charts covering regulatory, warning, and command road signs.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 79.00</div>
+                    <button onclick="addToCart('SADC Signs Cheat Sheet', 79)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 6: Magnetic L Plates -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-purple-600/10 p-4 text-center rounded-lg mb-4 text-purple-500 text-2xl"><i class="fa-solid fa-square-parking"></i></div>
+                    <h3 class="font-bold text-white text-base">Magnetic "L" Plates (Pair)</h3>
+                    <p class="text-xs text-gray-400 mt-1">SABS-compliant magnetic student driver plates for safe vehicle training.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 120.00</div>
+                    <button onclick="addToCart('Magnetic L Plates (Pair)', 120)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 7: Gift Voucher (5 Lesson Pack) -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-rose-600/10 p-4 text-center rounded-lg mb-4 text-rose-500 text-2xl"><i class="fa-solid fa-ticket"></i></div>
+                    <h3 class="font-bold text-white text-base">Gift Voucher (5 Lessons)</h3>
+                    <p class="text-xs text-gray-400 mt-1">Redeemable driving lesson voucher package for friends or family.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 1,300.00</div>
+                    <button onclick="addToCart('Gift Voucher (5 Lessons)', 1300)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
+
+            <!-- Item 8: Gift Voucher (10 Lesson Pack) -->
+            <div class="bg-gray-900 rounded-xl border border-gray-800 p-5 flex flex-col justify-between space-y-4 hover:border-red-500/50 transition shadow-lg">
+                <div>
+                    <div class="bg-cyan-600/10 p-4 text-center rounded-lg mb-4 text-cyan-500 text-2xl"><i class="fa-solid fa-gift"></i></div>
+                    <h3 class="font-bold text-white text-base">Gift Voucher (10 Lessons)</h3>
+                    <p class="text-xs text-gray-400 mt-1">Full pre-paid driving lesson voucher series for complete test readiness.</p>
+                </div>
+                <div>
+                    <div class="text-lg font-extrabold text-white mb-3">R 2,500.00</div>
+                    <button onclick="addToCart('Gift Voucher (10 Lessons)', 2500)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-xs font-semibold transition">Add to Cart</button>
+                </div>
+            </div>
         </div>
     </section>
 
-    <!-- Main Content Grid -->
-    <main class="flex-1 max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 py-8 space-y-12">
-        
-        <!-- Category Selector / Test Engine -->
-        <section id="test-section" class="space-y-6">
-            <div class="flex flex-col sm:flex-row justify-between items-start sm:items-center border-b border-gray-800 pb-4">
-                <div>
-                    <h2 class="text-2xl font-bold text-white">Interactive Practice Tests</h2>
-                    <p class="text-sm text-gray-400">Select your vehicle category to begin</p>
-                </div>
-                <div class="flex space-x-2 mt-4 sm:mt-0">
-                    <button onclick="setCategory('code8')" id="cat-code8" class="px-4 py-2 text-sm rounded-lg border font-medium border-red-500 bg-red-600/10 text-red-400">Code 8 (Car)</button>
-                    <button onclick="setCategory('heavy')" id="cat-heavy" class="px-4 py-2 text-sm rounded-lg border font-medium border-gray-700 hover:border-gray-600 text-gray-300">Code 10/14 (Heavy)</button>
-                    <button onclick="setCategory('motorcycle')" id="cat-motorcycle" class="px-4 py-2 text-sm rounded-lg border font-medium border-gray-700 hover:border-gray-600 text-gray-300">Code 1 (Motorcycle)</button>
-                </div>
-            </div>
-
-            <!-- Side-by-Side Quiz Container -->
-            <div id="quiz-container" class="bg-gray-800/50 rounded-2xl border border-gray-700/60 p-6 grid grid-cols-1 md:grid-cols-2 gap-8 items-center">
-                <!-- Question Media Left -->
-                <div id="quiz-media" class="bg-gray-900 rounded-xl p-6 border border-gray-700 flex items-center justify-center min-h-[280px]">
-                    <img id="quiz-img" src="" alt="Traffic Sign" class="max-h-64 object-contain rounded hidden">
-                    <div id="media-placeholder" class="text-center text-gray-500">
-                        <i class="fa-solid fa-shield-halved text-5xl mb-2 text-gray-600"></i>
-                        <p class="text-sm">Traffic sign visual will appear here</p>
-                    </div>
-                </div>
-
-                <!-- Question & Options Right -->
-                <div class="space-y-6">
-                    <div>
-                        <span id="quiz-num" class="text-xs font-semibold text-red-400 uppercase tracking-wider">Question 1 of 20</span>
-                        <h3 id="quiz-question" class="text-xl font-bold text-white mt-1">Loading question...</h3>
-                    </div>
-
-                    <div id="quiz-options" class="space-y-3">
-                        <!-- Options injected dynamically -->
-                    </div>
-
-                    <div class="flex justify-between items-center pt-4 border-t border-gray-700/60">
-                        <span id="score-tracker" class="text-xs text-gray-400">Score: 0 / 0</span>
-                        <button onclick="nextQuestion()" class="bg-red-600 hover:bg-red-700 text-white px-5 py-2 rounded-lg text-sm font-semibold transition">Next Question <i class="fa-solid fa-arrow-right ml-1"></i></button>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- E-Commerce Store Section -->
-        <section id="shop-section" class="space-y-6">
-            <div class="border-b border-gray-800 pb-4">
-                <h2 class="text-2xl font-bold text-white">Study Store & Driving Packages</h2>
-                <p class="text-sm text-gray-400">Get unlimited exam preparation material and driving lesson vouchers</p>
-            </div>
-
-            <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-                <!-- Item 1: Full K53 Digital Access -->
-                <div class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden flex flex-col">
-                    <div class="bg-red-600/10 p-6 text-center border-b border-gray-700">
-                        <i class="fa-solid fa-unlock-keyhole text-4xl text-red-500"></i>
-                    </div>
-                    <div class="p-5 flex-1 flex flex-col justify-between space-y-4">
-                        <div>
-                            <h3 class="font-bold text-white text-lg">Full K53 Access Pack</h3>
-                            <p class="text-xs text-gray-400 mt-1">Unlock all 500+ Code 8, Heavy, & Motorcycle questions with full examiner cheat sheets.</p>
-                        </div>
-                        <div>
-                            <div class="text-xl font-extrabold text-white mb-3">R 149.00</div>
-                            <button onclick="addToCart('Full K53 Access Pack', 149)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-sm font-semibold transition">Add to Cart</button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Item 2: SADC Signs Summary PDF -->
-                <div class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden flex flex-col">
-                    <div class="bg-blue-600/10 p-6 text-center border-b border-gray-700">
-                        <i class="fa-solid fa-file-pdf text-4xl text-blue-500"></i>
-                    </div>
-                    <div class="p-5 flex-1 flex flex-col justify-between space-y-4">
-                        <div>
-                            <h3 class="font-bold text-white text-lg">SADC Signs Cheat Sheet</h3>
-                            <p class="text-xs text-gray-400 mt-1">HD printable vector charts covering regulatory, warning, and command road signs.</p>
-                        </div>
-                        <div>
-                            <div class="text-xl font-extrabold text-white mb-3">R 79.00</div>
-                            <button onclick="addToCart('SADC Signs Cheat Sheet', 79)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-sm font-semibold transition">Add to Cart</button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Item 3: Magnetic L Plates -->
-                <div class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden flex flex-col">
-                    <div class="bg-amber-600/10 p-6 text-center border-b border-gray-700">
-                        <i class="fa-solid fa-square-parking text-4xl text-amber-500"></i>
-                    </div>
-                    <div class="p-5 flex-1 flex flex-col justify-between space-y-4">
-                        <div>
-                            <h3 class="font-bold text-white text-lg">Magnetic "L" Plates (Pair)</h3>
-                            <p class="text-xs text-gray-400 mt-1">SABS-compliant magnetic student driver plates for vehicle training.</p>
-                        </div>
-                        <div>
-                            <div class="text-xl font-extrabold text-white mb-3">R 120.00</div>
-                            <button onclick="addToCart('Magnetic L Plates (Pair)', 120)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-sm font-semibold transition">Add to Cart</button>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Item 4: Practical Driving Lesson -->
-                <div class="bg-gray-800 rounded-xl border border-gray-700 overflow-hidden flex flex-col">
-                    <div class="bg-emerald-600/10 p-6 text-center border-b border-gray-700">
-                        <i class="fa-solid fa-id-card text-4xl text-emerald-500"></i>
-                    </div>
-                    <div class="p-5 flex-1 flex flex-col justify-between space-y-4">
-                        <div>
-                            <h3 class="font-bold text-white text-lg">1-Hour Driving Lesson</h3>
-                            <p class="text-xs text-gray-400 mt-1">Professional 1-on-1 Code 8 practical driving lesson with dual-control vehicle.</p>
-                        </div>
-                        <div>
-                            <div class="text-xl font-extrabold text-white mb-3">R 250.00</div>
-                            <button onclick="addToCart('1-Hour Driving Lesson', 250)" class="w-full bg-red-600 hover:bg-red-700 text-white py-2 rounded-lg text-sm font-semibold transition">Add to Cart</button>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-    </main>
-
     <!-- Cart Slide-over Modal -->
     <div id="cart-modal" class="fixed inset-0 bg-black/60 backdrop-blur-sm z-50 flex justify-end hidden">
-        <div class="bg-gray-800 w-full max-w-md h-full p-6 flex flex-col justify-between shadow-2xl border-l border-gray-700">
+        <div class="bg-gray-900 w-full max-w-md h-full p-6 flex flex-col justify-between shadow-2xl border-l border-gray-800">
             <div class="space-y-6">
-                <div class="flex justify-between items-center border-b border-gray-700 pb-4">
+                <div class="flex justify-between items-center border-b border-gray-800 pb-4">
                     <h3 class="text-xl font-bold text-white">Your Shopping Cart</h3>
                     <button onclick="toggleCart()" class="text-gray-400 hover:text-white"><i class="fa-solid fa-xmark text-xl"></i></button>
                 </div>
@@ -195,7 +260,7 @@
                 </div>
             </div>
 
-            <div class="border-t border-gray-700 pt-4 space-y-4">
+            <div class="border-t border-gray-800 pt-4 space-y-4">
                 <div class="flex justify-between text-lg font-bold text-white">
                     <span>Total:</span>
                     <span id="cart-total">R 0.00</span>
@@ -206,19 +271,48 @@
     </div>
 
     <!-- Footer -->
-    <footer class="bg-gray-800 border-t border-gray-700 py-6 text-center text-xs text-gray-400">
-        <p>&copy; 2026 Ernie's Driving School. All SADC Traffic Standards Applied.</p>
+    <footer class="bg-gray-900 border-t border-gray-800 py-6 text-center text-xs text-gray-500">
+        <p>&copy; 2026 Ernie's Driving School. Macassar & Western Cape Training Hub. All SADC Traffic Standards Applied.</p>
     </footer>
 
     <!-- App Logic Script -->
     <script>
+        const testimonials = [
+            {
+                name: "Ethan Adams",
+                quote: "Ernie's training gave me the exact confidence I needed to pass Code 8 first try!",
+                img: "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=200&q=80"
+            },
+            {
+                name: "Chante Hendricks",
+                quote: "The mock test questions matched the official testing center perfectly. Highly recommended!",
+                img: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=200&q=80"
+            },
+            {
+                name: "Devin Meyer",
+                quote: "Professional instructors and brilliant study tools. Passed with zero hassle!",
+                img: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=200&q=80"
+            }
+        ];
+
+        let currentTestimonialIdx = 0;
+        function rotateTestimonial() {
+            const t = testimonials[currentTestimonialIdx];
+            document.getElementById('test-name').innerText = t.name;
+            document.getElementById('test-quote').innerText = `\"\${t.quote}\"`;
+            document.getElementById('test-img').src = t.img;
+            currentTestimonialIdx = (currentTestimonialIdx + 1) % testimonials.length;
+        }
+        setInterval(rotateTestimonial, 4000);
+        rotateTestimonial();
+
         const questions = {
             code8: [
                 {
                     q: "What does a circular white sign with a red border containing a motorcycle symbol (Sign R218) indicate?",
                     options: ["A) Motorcycles prohibited on this road.", "B) Recommended motorcycle route.", "C) Motorcycle parking bay ahead."],
                     answer: 0,
-                    img: "images/signs/R218.svg"
+                    img: "https://upload.wikimedia.org/wikipedia/commons/9/91/South_Africa_road_sign_R218.svg"
                 },
                 {
                     q: "What is the maximum speed limit for a light motor vehicle on a public freeway in South Africa unless indicated otherwise?",
@@ -240,7 +334,7 @@
                     q: "What does Sign R218 prohibit on a public road?",
                     options: ["A) Bicycles", "B) Motorcycles", "C) Heavy Motor Vehicles"],
                     answer: 1,
-                    img: "images/signs/R218.svg"
+                    img: "https://upload.wikimedia.org/wikipedia/commons/9/91/South_Africa_road_sign_R218.svg"
                 }
             ]
         };
@@ -257,9 +351,9 @@
             ['code8', 'heavy', 'motorcycle'].forEach(c => {
                 const btn = document.getElementById('cat-' + c);
                 if (c === cat) {
-                    btn.className = "px-4 py-2 text-sm rounded-lg border font-medium border-red-500 bg-red-600/10 text-red-400";
+                    btn.className = "px-3 py-1 text-xs rounded-lg border font-medium border-red-500 bg-red-600/10 text-red-400 transition";
                 } else {
-                    btn.className = "px-4 py-2 text-sm rounded-lg border font-medium border-gray-700 hover:border-gray-600 text-gray-300";
+                    btn.className = "px-3 py-1 text-xs rounded-lg border font-medium border-gray-800 hover:border-gray-700 text-gray-400 transition";
                 }
             });
             renderQuestion();
@@ -289,7 +383,7 @@
             optionsContainer.innerHTML = '';
             qData.options.forEach((opt, idx) => {
                 const btn = document.createElement('button');
-                btn.className = "w-full text-left p-3 rounded-lg border border-gray-700 bg-gray-900/60 hover:border-red-500 hover:bg-red-500/10 text-sm font-medium transition flex items-center justify-between";
+                btn.className = "w-full text-left p-2.5 rounded-lg border border-gray-800 bg-gray-950/60 hover:border-red-500 hover:bg-red-500/10 text-xs font-medium transition flex items-center justify-between text-gray-200";
                 btn.innerText = opt;
                 btn.onclick = () => checkAnswer(idx);
                 optionsContainer.appendChild(btn);
@@ -320,7 +414,7 @@
 
         async function loginWithGoogle() {
             if (!supabase) {
-                alert("Supabase credentials active. Google OAuth trigger initialized!");
+                alert("Supabase client initialized!");
                 return;
             }
             const { error } = await supabase.auth.signInWithOAuth({
@@ -359,7 +453,7 @@
             cart.forEach((item, i) => {
                 total += item.price;
                 const div = document.createElement('div');
-                div.className = "flex justify-between items-center bg-gray-900/60 p-3 rounded-lg border border-gray-700 text-sm";
+                div.className = "flex justify-between items-center bg-gray-950/60 p-3 rounded-lg border border-gray-800 text-sm";
                 div.innerHTML = `<div><p class="font-medium text-white">${item.title}</p><p class="text-xs text-gray-400">R ${item.price}.00</p></div><button onclick="removeFromCart(${i})" class="text-red-400 hover:text-red-300"><i class="fa-solid fa-trash"></i></button>`;
                 itemsContainer.appendChild(div);
             });
@@ -373,7 +467,7 @@
 
         function checkout() {
             if (cart.length === 0) return alert("Your cart is empty!");
-            alert("Connecting to Supabase checkout gateway...");
+            alert("Connecting to Supabase secure checkout gateway...");
         }
 
         renderQuestion();
