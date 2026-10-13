@@ -104,7 +104,7 @@
             </div>
         </section>
 
-        <!-- Section 2: 20-Question K53 Exam Engine & Results Dashboard -->
+        <!-- Section 2: 20-Question K53 Exam Engine & Category Results Dashboard -->
         <section id="test-section" class="bg-slate-900 border border-slate-800 rounded-3xl p-5 sm:p-6 shadow-2xl space-y-4">
             <div class="flex flex-col md:flex-row md:items-center justify-between pb-3 border-b border-slate-800 gap-3">
                 <div>
@@ -169,7 +169,7 @@
                 </div>
             </div>
 
-            <!-- Professional Results Dashboard (Hidden until quiz is completed) -->
+            <!-- Professional Category Results Dashboard (Shown on Completion) -->
             <div id="results-dashboard" class="hidden space-y-5 py-4">
                 <div class="text-center space-y-2 bg-slate-950 border border-slate-800 p-6 rounded-3xl shadow-inner">
                     <div id="result-badge-container" class="inline-flex items-center space-x-2 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest shadow-md"></div>
@@ -177,9 +177,8 @@
                     <p id="result-summary-text" class="text-xs sm:text-sm text-slate-400 max-w-xl mx-auto"></p>
                 </div>
 
-                <!-- Category Breakdown Grid (Signs, Rules, Control) -->
+                <!-- Category Breakdown Grid (Signs, Rules, Controls) -->
                 <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
-                    <!-- Signs Category -->
                     <div class="bg-slate-950 border border-slate-800 p-4 rounded-2xl space-y-3 shadow-md">
                         <div class="flex justify-between items-center">
                             <span class="text-xs font-bold text-red-400 uppercase tracking-wider"><i class="fa-solid fa-traffic-light mr-1.5"></i> Traffic Signs</span>
@@ -191,7 +190,6 @@
                         <p id="status-signs" class="text-[11px] text-slate-400 font-medium"></p>
                     </div>
 
-                    <!-- Rules Category -->
                     <div class="bg-slate-950 border border-slate-800 p-4 rounded-2xl space-y-3 shadow-md">
                         <div class="flex justify-between items-center">
                             <span class="text-xs font-bold text-blue-400 uppercase tracking-wider"><i class="fa-solid fa-road mr-1.5"></i> Rules of the Road</span>
@@ -203,7 +201,6 @@
                         <p id="status-rules" class="text-[11px] text-slate-400 font-medium"></p>
                     </div>
 
-                    <!-- Controls Category -->
                     <div class="bg-slate-950 border border-slate-800 p-4 rounded-2xl space-y-3 shadow-md">
                         <div class="flex justify-between items-center">
                             <span class="text-xs font-bold text-emerald-400 uppercase tracking-wider"><i class="fa-solid fa-gauge mr-1.5"></i> Vehicle Controls</span>
@@ -429,7 +426,7 @@
             const lower = (catName || "").toLowerCase();
             if (lower.includes('sign') || lower.includes('signal')) return 'signs';
             if (lower.includes('control') || lower.includes('vehicle') || lower.includes('inspection')) return 'controls';
-            return 'rules'; // default fallback for Rules of the Road
+            return 'rules';
         }
 
         function extractOptionsList(qData) {
@@ -590,21 +587,21 @@
 
             const total = 20;
             const percentage = Math.round((score / total) * 100);
-            const passed = score >= 14; // SADC learner's license standard (~70%)
+            const passed = score >= 14;
 
             const badgeContainer = document.getElementById('result-badge-container');
+            const summaryTextEl = document.getElementById('result-summary-text');
+
             if (passed) {
                 badgeContainer.className = "inline-flex items-center space-x-2 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest bg-emerald-500/20 text-emerald-400 border border-emerald-500/30 shadow-md";
                 badgeContainer.innerHTML = '<i class="fa-solid fa-circle-check"></i><span>Passed Mock Exam</span>';
-                document.getElementById('result-summary-text.innerText = "Fantastic job! You scored " + score + " out of " + total + " (" + percentage + "%). You have met the SADC K53 passing criteria.";';
+                summaryTextEl.innerText = "Fantastic job! You scored " + score + " out of " + total + " (" + percentage + "%). You met the official SADC K53 passing standards!";
             } else {
                 badgeContainer.className = "inline-flex items-center space-x-2 px-4 py-1.5 rounded-full text-xs font-black uppercase tracking-widest bg-red-500/20 text-red-400 border border-red-500/30 shadow-md";
                 badgeContainer.innerHTML = '<i class="fa-solid fa-circle-xmark"></i><span>Needs Revision</span>';
-                document.getElementById('result-summary-text').innerText = "You scored " + score + " out of " + total + " (" + percentage + "%). Review the rules and signs below and try again to achieve a pass!";
+                summaryTextEl.innerText = "You scored " + score + " out of " + total + " (" + percentage + "%). Review your section breakdown below and retake the exam to achieve a pass!";
             }
-            document.getElementById('result-summary-text').innerText = "You scored " + score + " out of " + total + " (" + percentage + "%). " + (passed ? "You met the SADC K53 passing standards!" : "Review your weak spots and try again!");
 
-            // Populate Category Breakdown Cards
             updateCategoryCard('signs', 'score-signs', 'bar-signs', 'status-signs');
             updateCategoryCard('rules', 'score-rules', 'bar-rules', 'status-rules');
             updateCategoryCard('controls', 'score-controls', 'bar-controls', 'status-controls');
@@ -613,7 +610,7 @@
         function updateCategoryCard(catKey, scoreElId, barElId, statusElId) {
             const data = categoryStats[catKey];
             const correct = data.correct;
-            const total = data.total > 0 ? data.total : 1; // avoid division by zero
+            const total = data.total > 0 ? data.total : 1;
             const pct = Math.round((correct / total) * 100);
 
             document.getElementById(scoreElId).innerText = correct + " / " + total;
