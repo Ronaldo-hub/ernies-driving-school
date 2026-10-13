@@ -119,7 +119,7 @@
             </div>
 
             <div id="quiz-grid" class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
-                <!-- Left Sign Container (Shown only when valid sign exists) -->
+                <!-- Left Sign Container (Shown ONLY when a valid sign image exists) -->
                 <div id="sign-pane" class="lg:col-span-5 bg-slate-950 rounded-2xl p-6 border border-slate-800/80 flex items-center justify-center min-h-[240px] shadow-inner relative hidden">
                     <img id="quiz-img" src="" alt="SADC Traffic Sign" class="max-h-48 object-contain">
                 </div>
@@ -133,7 +133,8 @@
 
                     <h3 id="quiz-question" class="text-base sm:text-lg font-bold text-white leading-snug">Loading question...</h3>
 
-                    <div id="quiz-options" class="space-y-2.5 pt-2"></div>
+                    <!-- Options container explicitly styled with spacing -->
+                    <div id="quiz-options" class="space-y-3 pt-3"></div>
                 </div>
             </div>
 
@@ -284,9 +285,9 @@
         <p>&copy; 2026 Ernie's Driving School. Macassar & Western Cape Training Hub. All SADC Traffic Standards Applied.</p>
     </footer>
 
-    <!-- Application Engine -->
+    <!-- App Engine -->
     <script>
-        // Helper to pull English text (.en) from strings, objects, or JSON strings
+        // Universal English text extraction
         function getEnglishText(val) {
             if (!val) return "";
             if (typeof val === 'string') {
@@ -360,20 +361,37 @@
             renderQuestion();
         }
 
+        // Foolproof Option Extractor: checks all arrays and object properties
         function extractOptionsList(qData) {
             if (!qData) return [];
-            if (Array.isArray(qData.options)) return qData.options;
-            if (Array.isArray(qData.choices)) return qData.choices;
-            if (Array.isArray(qData.answers)) return qData.answers;
             
-            // Check if options are stored in nested object properties (e.g., option_a, option_b)
+            // 1. Check known array keys
+            let candidates = [
+                qData.options, qData.choices, qData.answers, qData.alternatives, 
+                qData.option_list, qData.ans, qData.selection, qData.choices_list
+            ];
+            for (let c of candidates) {
+                if (Array.isArray(c) && c.length > 0) return c;
+            }
+
+            // 2. Check letter keys or numbered keys
             let found = [];
-            ['option_a', 'option_b', 'option_c', 'option_d', 'a', 'b', 'c', 'd'].forEach(function(key) {
-                if (qData[key] !== undefined && qData[key] !== null) {
-                    found.push(qData[key]);
+            ['option_a', 'option_b', 'option_c', 'option_d', 'option_e', 'a', 'b', 'c', 'd', 'e', '1', '2', '3', '4'].forEach(function(k) {
+                if (qData[k] !== undefined && qData[k] !== null) {
+                    found.push(qData[k]);
                 }
             });
-            return found;
+            if (found.length > 0) return found;
+
+            // 3. Scan ANY property in qData that is an array
+            for (let key in qData) {
+                let val = qData[key];
+                if (Array.isArray(val) && val.length > 0 && key !== 'questions' && key !== 'difficulty_breakdown') {
+                    return val;
+                }
+            }
+
+            return [];
         }
 
         function renderQuestion() {
@@ -383,6 +401,8 @@
             const qData = list[currentQIndex];
             if (!qData) return;
 
+            console.log("Rendering Question:", qData);
+
             document.getElementById('question-total-count').innerText = list.length;
             document.getElementById('quiz-num').innerText = "Question " + (currentQIndex + 1) + " of " + list.length;
             
@@ -391,14 +411,15 @@
             document.getElementById('quiz-question').innerText = getEnglishText(rawText);
             document.getElementById('score-tracker').innerText = "Score: " + score + " / " + list.length;
 
-            // Handle Traffic Sign Image & Layout (Show sign box ONLY if valid image path exists)
+            // Handle Traffic Sign Image & Layout
             const signPane = document.getElementById('sign-pane');
             const questionPane = document.getElementById('question-pane');
             const imgEl = document.getElementById('quiz-img');
             
-            const signImg = qData.image || qData.img || qData.sign_svg || qData.svg_path || qData.sign || null;
+            const signImg = qData.image || qData.img || qData.sign_svg || qData.svg_path || qData.sign || qData.media || null;
+            const isTrafficSign = signImg && typeof signImg === 'string' && signImg.trim() !== '' && signImg.toLowerCase() !== 'null';
 
-            if (signImg && typeof signImg === 'string' && signImg.trim() !== '' && signImg.toLowerCase() !== 'null') {
+            if (isTrafficSign) {
                 imgEl.src = signImg;
                 signPane.classList.remove('hidden');
                 questionPane.className = "lg:col-span-7 space-y-4";
@@ -412,10 +433,18 @@
             optionsContainer.innerHTML = '';
 
             const opts = extractOptionsList(qData);
+            console.log("Extracted Options:", opts);
+
+            if (opts.length === 0) {
+                optionsContainer.innerHTML = '<p class="text-xs text-red-400 italic">No options found for this question object.</p>';
+                return;
+            }
+
             opts.forEach(function(opt, idx) {
                 const btn = document.createElement('button');
-                btn.className = "w-full text-left p-3.5 rounded-xl border border-slate-800 bg-slate-950/80 hover:border-red-500 hover:bg-red-500/10 text-xs font-semibold transition flex items-center justify-between text-slate-200 shadow-sm";
-                btn.innerText = getEnglishText(opt);
+                btn.type = "button";
+                btn.className = "w-full text-left p-3.5 rounded-xl border border-slate-800 bg-slate-950/80 hover:border-red-500 hover:bg-red-500/10 text-xs font-semibold transition flex items-center justify-between text-slate-200 shadow-sm cursor-pointer";
+                btn.innerHTML = '<span>' + getEnglishText(opt) + '</span><span class="text-[10px] text-slate-500 font-mono">[' + (idx + 1) + ']</span>';
                 btn.onclick = function() { checkAnswer(idx); };
                 optionsContainer.appendChild(btn);
             });
@@ -424,7 +453,7 @@
         function checkAnswer(selected) {
             const list = rawQuestionData[currentCategory] || [];
             const qData = list[currentQIndex];
-            const correct = qData.correct_option !== undefined ? qData.correct_option : (qData.answer !== undefined ? qData.answer : qData.correct_index);
+            const correct = qData.correct_option !== undefined ? qData.correct_option : (qData.answer !== undefined ? qData.answer : (qData.correct_index !== undefined ? qData.correct_index : 0));
             if (selected === correct) {
                 score++;
                 alert("Correct answer!");
