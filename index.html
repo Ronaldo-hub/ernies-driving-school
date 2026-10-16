@@ -7,7 +7,37 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+
+<style>
+    /* Direct Custom CSS Styling for Ernie's Driving School */
+    :root {
+        --crimson-red: #ef233c;
+        --crimson-hover: #d90429;
+    }
+    
+    /* Standardize primary crimson buttons & soft glow micro-interactions */
+    .bg-red-600, .bg-\[\#ef233c\] {
+        background-color: var(--crimson-red) !important;
+        transition: all 0.3s ease-in-out !important;
+    }
+    .bg-red-600:hover, .bg-\[\#ef233c\]:hover {
+        background-color: var(--crimson-hover) !important;
+        box-shadow: 0 0 25px rgba(239, 35, 60, 0.4) !important;
+        transform: translateY(-1px);
+    }
+
+    /* Enhanced padding & breathing room for card containers */
+    .rounded-3xl, .rounded-2xl {
+        transition: all 0.3s ease-in-out;
+    }
+    
+    /* Soft border glows on cards */
+    .bg-slate-900:hover, .bg-slate-950:hover {
+        border-color: rgba(239, 35, 60, 0.3) !important;
+    }
+</style>
 </head>
+
 <body class="bg-slate-950 text-slate-100 font-sans antialiased flex flex-col min-h-screen">
 
     <script>
