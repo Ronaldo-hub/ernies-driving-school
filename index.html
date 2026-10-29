@@ -247,3 +247,25 @@
     </script>
 </body>
 </html>
+
+<!-- MOYA DATAFREE SVG HOLDER - ADDED FOR PROTOTYPE -->
+<div id="svg-holder" style="border:3px solid #FFEB00; padding:15px; margin:20px; background:#fff;"></div>
+<div id="diy-text" style="padding:15px; margin:20px; font-family:Arial;"></div>
+<script>
+fetch('./stories.json').then(r=>r.json()).then(stories=>{
+ fetch('./logic.json').then(r=>r.json()).then(logic=>{
+  const p=new URLSearchParams(window.location.search); const q=p.get('q');
+  const holder=document.getElementById('svg-holder');
+  const diyDiv=document.getElementById('diy-text');
+  if(q && p.get('show_svg')){
+    const key=logic[q];
+    if(key && stories[key]){
+      holder.innerHTML=stories[key].svg_code;
+      diyDiv.innerHTML='<h3>'+stories[key].title+'</h3><p><b>DIY:</b> '+stories[key].diy_instruction+'</p><p><i>Why: '+stories[key].why+'</i></p><p><b>Materials:</b> '+stories[key].materials+'</p>';
+    } else { holder.innerHTML='<p>Q'+q+' maps to '+key+' but story missing</p>'; }
+  } else if(q){
+    holder.innerHTML='<p>Add &show_svg=1 to see DIY - Try ?q=27&show_svg=1</p>';
+  }
+ });
+}).catch(e=>{document.getElementById('svg-holder').innerHTML='<p>Loading stories... '+e+'</p>';});
+</script>
