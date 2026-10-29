@@ -1,86 +1,70 @@
-
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+<meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ernie's Driving School - Moya</title>
+<title>Ernie from Driving School - Moya Datafree</title>
 <style>
-* {margin:0; padding:0; box-sizing:border-box; font-family: Roboto, Arial;}
-body {background:#E5F0FF; max-width:480px; margin:0 auto; height:100vh; display:flex; flex-direction:column;}
-#top {background:white; padding:10px 12px; display:flex; align-items:center; gap:10px; border-bottom:1px solid #ddd; position:sticky; top:0;}
-#top img {width:36px; height:36px; border-radius:50%; background:#FFEB00;}
-#top h2 {font-size:15px; flex:1; white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
-#chat {flex:1; overflow-y:auto; padding:10px; background:#E5F0FF;}
-.bubble {background:white; padding:10px 12px; border-radius:12px; margin:6px 0; max-width:85%; font-size:14px; line-height:1.35; box-shadow:0 1px 1px rgba(0,0,0,0.1); color:black;}
-.bubble.me {background:#DCF8C6; margin-left:auto;}
-.bubble.menu {font-weight:bold; line-height:1.8;}
-.small {font-size:11px; color:#666; margin-top:4px;}
-#inputBar {background:white; padding:8px 10px; display:flex; align-items:center; gap:8px; border-top:1px solid #ddd;}
-#inputBar input {flex:1; border:none; outline:none; font-size:15px; padding:8px;}
-.icon {font-size:20px; color:#666;}
-.yellow {background:#FFEB00 !important; font-weight:800;}
+*{margin:0;padding:0;box-sizing:border-box;font-family:-apple-system,Roboto,Helvetica,Arial;}
+body{background:#E5F0FF;max-width:480px;margin:0 auto;height:100vh;display:flex;flex-direction:column;overflow:hidden;}
+#top{background:white;padding:10px 12px;display:flex;align-items:center;gap:10px;border-bottom:1px solid #ddd;flex-shrink:0;}
+#top .back{font-size:22px;}#top .ava{width:36px;height:36px;background:#FFEB00;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;}
+#top h2{flex:1;font-size:15px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;}#top .ic{font-size:20px;color:#666;margin-left:8px;}
+#chat{flex:1;overflow-y:auto;padding:12px;background:#E5F0FF;display:flex;flex-direction:column;gap:8px;}
+.bub{background:white;padding:10px 12px;border-radius:12px;max-width:85%;font-size:14.5px;line-height:1.4;box-shadow:0 1px 1px rgba(0,0,0,0.12);color:#111;align-self:flex-start;animation:pop .25s ease;}
+.bub.me{background:#DCF8C6;align-self:flex-end;}
+.bub .time{font-size:11px;color:#666;margin-top:4px;display:block;}
+.svg-box{background:#fff;border:2px solid #111;border-radius:10px;padding:10px;margin:8px 0;}
+.hl{background:#FFEB00;padding:2px 6px;border-radius:4px;font-weight:900;display:inline-block;margin:2px 0;}
+.sarc{font-style:italic;color:#555;background:#FFF8E1;padding:6px 8px;border-left:3px solid #FFEB00;margin:6px 0;border-radius:0 8px 8px 0;}
+.btns{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px;}
+.btns button{background:#111;color:#FFEB00;border:none;padding:8px 14px;border-radius:18px;font-size:13px;font-weight:700;cursor:pointer;}
+#inputBar{background:white;padding:8px 10px;display:flex;align-items:center;gap:8px;border-top:1px solid #ddd;flex-shrink:0;}
+#inputBar input{flex:1;border:none;outline:none;font-size:15px;padding:8px;background:transparent;}
+.icon{font-size:22px;color:#666;cursor:pointer;}
+@keyframes pop{0%{transform:scale(.9) translateY(10px);opacity:0}100%{transform:scale(1) translateY(0);opacity:1}}
+@keyframes draw{to{stroke-dashoffset:0}}
+.path-draw{stroke-dasharray:1000;stroke-dashoffset:1000;animation:draw 1.2s ease forwards;}
 </style>
 </head>
 <body>
-<div id="top">
-  <span>←</span>
-  <img src="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg'><rect width='36' height='36' fill='%23FFEB00'/><text x='50%' y='60%' text-anchor='middle' font-size='18'>🚗</text></svg>">
-  <h2>Ernie from Driving School</h2>
-  <span>🔍</span><span>⋮</span>
-</div>
-
-<div id="chat">
-  <div class="bubble">A = Yebo, let's go<br><span class="small">07:07</span></div>
-  <div class="bubble me">Can I learn K53 on Moya and will it be free?<span class="small"><br>6 mins ago ✓✓</span></div>
-  <div class="bubble">Let's talk about K53. ❤️<br><span class="small">6 mins ago</span></div>
-  <div class="bubble">What would you like to use Ernie's Driving for?<br><span class="small">6 mins ago</span></div>
-  
-  <div class="bubble menu" id="menu">
-  1 = Load shedding? No, K53 Colours<br>
-  2 = Sport? No, Road Signs<br>
-  3 = News? No, Rules of Road<br>
-  4 = Games? Yes - Learn by DIY<br>
-  5 = Jobs? Yes - Pass & get job<br>
-  6 = Health? Safe driving<br>
-  7 = Shopping? Buy rope R2<br>
-  8 = Education<br><br>
-  Get your K53 now! 68 Qs ready<br>
-  <span class="small" style="font-weight:normal;">Tap number + show example</span>
-  <div id="dynamic" style="margin-top:10px; border-top:1px dashed #ccc; padding-top:8px;"></div>
-  </div>
-</div>
-
-<div id="inputBar">
-  <span class="icon">☺</span>
-  <input id="inp" placeholder="Type a message... e.g. 8 or 27" onkeypress="if(event.key==='Enter') send()">
-  <span class="icon">📎</span>
-  <span class="icon">🎤</span>
-</div>
-
+<div id="top"><span class="back">←</span><div class="ava">🚗</div><h2>Ernie from Driving School</h2><span class="ic">🔍</span><span class="ic">⋮</span></div>
+<div id="chat"></div>
+<div id="inputBar"><span class="icon">☺</span><input id="inp" placeholder="Type a message... e.g. Hi, 27, Got it"><span class="icon">📎</span><span class="icon">🎤</span></div>
 <script>
-let stories={}, logic={};
-fetch('./stories.json').then(r=>r.json()).then(s=>{stories=s; fetch('./logic.json').then(r=>r.json()).then(l=>{logic=l;});});
-
-function send(){
-  const v=document.getElementById('inp').value.trim();
-  if(!v) return;
-  const chat=document.getElementById('chat');
-  const me=document.createElement('div'); me.className='bubble me'; me.innerHTML=v+'<br><span class=small>now ✓✓</span>';
-  chat.appendChild(me);
-  document.getElementById('inp').value='';
-  
-  let q=v.replace(/[^0-9]/g,'')||'27';
-  if(logic[q]){ 
-    const diy=logic[q]; const st=stories[diy];
-    const reply=document.createElement('div'); reply.className='bubble';
-    reply.innerHTML=`<b>Q${q}: ${st.title}</b><br><div style='background:#fafafa; border:1px dashed #999; padding:8px; margin:6px 0; border-radius:8px;'>${st.svg_code.substring(0,400)}</div>DIY: ${st.diy_instruction}<br><br><span class=small>Type 1-8 for menu, or Q number</span>`;
-    chat.appendChild(reply);
-  } else if(v=='8' || v.toLowerCase().includes('educat')){
-    const dyn=document.getElementById('dynamic');
-    dyn.innerHTML="<b>68 Qs - Moya Datafree:</b><br>27=Yellow line<br>45=Stop sign<br>10=Robot colours<br>33=Mirror<br>50=Speed<br><br>All 0KB, text only<br><a href='?q=27&show_svg=1'>Open Q27</a>";
-  }
-  chat.scrollTop=chat.scrollHeight;
+const chat=document.getElementById('chat');const inp=document.getElementById('inp');
+const STORIES={
+"27":{title:"Q27: Solid Yellow Line - No Parking",q:"The solid yellow line on the edge means? A) You can park to buy vetkoek B) No stopping, no parking",diy:"Tie a yellow shoelace to your door handle. Every time you touch door, say 'Yellow = No park, keep clear'",why:"City paints yellow where they DON'T want your car blocking ambulance or taxi.",sarc:"No, you can't park on yellow line 'just for 2 minutes' to buy airtime. The line doesn't care about your 2 minutes. It cares about the ambulance that can't pass.",svg:`<svg viewBox="0 0 300 80"><rect width="300" height="80" fill="#333"/><rect x="0" y="60" width="300" height="6" fill="#FFEB00" class="path-draw" stroke="#FFEB00" stroke-width="6"/><text x="10" y="25" fill="white" font-size="12" font-weight="bold">ROAD - Yellow line = NO PARK</text><g><rect x="200" y="20" width="60" height="30" rx="6" fill="#FF4444"/><text x="210" y="38" fill="white" font-size="10">NO!</text></g></svg>`},
+"45":{title:"Q45: Stop Sign - 8 Sides",q:"How many sides does a Stop sign have? Learners always forget.",diy:"Cut 8-sided octagon from cardboard. Write STOP. Put on wall. Count sides every morning: 1-2-3-4-5-6-7-8",why:"8 sides so even if sign is covered in mud, you can count sides and know it's STOP.",sarc:"Yes, your cousin says Stop sign is just 'suggestion'. Your cousin also failed 3 times. Don't listen to cousin.",svg:`<svg viewBox="0 0 200 120"><polygon points="100,10 150,30 150,80 100,100 50,80 50,30" fill="#FF0000" stroke="black" stroke-width="3" class="path-draw"/><text x="100" y="65" text-anchor="middle" fill="white" font-weight="900" font-size="22">STOP</text><text x="100" y="115" text-anchor="middle" font-size="10">8 sides - count them!</text></svg>`},
+"10":{title:"Q10: Robot Colours",q:"Robot shows Red + Yellow together, what you do?",diy:"Use 3 cups: red cup, yellow cup, green cup. Red=Stop, Red+Yellow=Ready, Green=Go.",why:"Red+Yellow is like taxi driver saying 'Sharp, I'm about to go!' You get ready, but you don't move yet.",sarc:"No, Red+Yellow does not mean 'rev engine and check phone'. It means get ready, clutch in. Phone can wait.",svg:`<svg viewBox="0 0 180 100"><rect x="60" width="60" height="100" rx="10" fill="#222"/><circle cx="90" cy="25" r="12" fill="#FF0000"/><circle cx="90" cy="50" r="12" fill="#FFEB00" stroke="#fff" stroke-width="2" class="path-draw"/><circle cx="90" cy="75" r="12" fill="#333"/></svg>`}
+};
+let state="greet";
+function add(text,me=false){
+  const d=document.createElement('div');d.className='bub'+(me?' me':'');
+  const t=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+  d.innerHTML=text+`<span class="time">${t}${me?' ✓✓':''}</span>`;chat.appendChild(d);chat.scrollTop=chat.scrollHeight;return d;
 }
+function addStory(id){
+  const s=STORIES[id]||STORIES["27"];
+  add(`<strong>${s.title}</strong><div class="svg-box">${s.svg}</div><span class="hl">${s.q}</span>`);
+  setTimeout(()=>{ add(`DIY 0 cost:<br><strong>${s.diy}</strong><div class="sarc">😏 ${s.sarc}</div>Why: ${s.why}<div class="btns"><button onclick="userSend('Got it')">Got it, I made it</button><button onclick="userSend('27')">Show again</button><button onclick="userSend('8')">Next question</button></div>`); },800);
+}
+function botReply(msg){
+  const m=msg.toLowerCase();
+  if(state==="greet"||["hi","molweni","dumela","hey","a","yebo","hello"].includes(m.trim())){
+    add(`A = Yebo, let's go`);setTimeout(()=>{ add(`Let's talk about K53. ❤️<br>You asked if you can learn K53 on Moya and will it be free?<br><br><strong>Yes, 100% free. 0KB. No data.</strong><br>Moya pays, not you.`); },600);
+    setTimeout(()=>{ add(`What would you like to use Ernie's Driving for?<br><br><strong>1 = Load shedding? No, K53 Colours</strong><br><strong>2 = Sport? No, Road Signs</strong><br><strong>3 = News? No, Rules of Road</strong><br><strong>4 = Games? Yes - Learn by DIY</strong><br><strong>5 = Jobs? Yes - Pass & get job</strong><br><strong>6 = Health? Safe driving</strong><br><strong>7 = Shopping? Buy rope R2</strong><br><strong>8 = Education - Full K53</strong><br><br>Type number e.g. <span class="hl">8</span> or <span class="hl">27</span>`); state="menu"; },1200);return;
+  }
+  if(m.includes("8")||m.includes("education")){ add(`Sharp! Full K53 - 68 Qs.<br>Let's start with the one that fails most people...`);setTimeout(()=>addStory("27"),800);return; }
+  if(m.includes("27")||m.includes("yellow")){ addStory("27"); return; }
+  if(m.includes("45")||m.includes("stop")){ addStory("45"); return; }
+  if(m.includes("10")||m.includes("robot")){ addStory("10"); return; }
+  if(m.includes("got")||m.includes("made")||m.includes("sharp")||m.includes("done")){ add(`<strong>Nice! Touch it now and say loud:</strong><br>"Yellow = No Park"<br><br>You just built memory muscle. In exam, you'll see yellow line and your hand remembers door handle.<br><br>Want to be clever? Type <span class="hl">45</span> for Stop sign or <span class="hl">10</span> for Robot.<div class="btns"><button onclick="userSend('45')">Q45 Stop</button><button onclick="userSend('10')">Q10 Robot</button><button onclick="userSend('8')">Menu</button></div>`); return; }
+  if(/\\d+/.test(m)){ const num=m.match(/\\d+/)[0]; if(STORIES[num]){ addStory(num); } else { addStory("27"); } } else { add(`I didn't catch that. Type:<br><span class="hl">Hi</span> to start<br><span class="hl">8</span> for full menu<br><span class="hl">27</span> for Yellow line (hardest)<br><span class="hl">Got it</span> when you made DIY`); }
+}
+function userSend(text){ if(!text) return; add(text,true); inp.value=""; setTimeout(()=>botReply(text),400); }
+inp.addEventListener('keydown', e=>{ if(e.key==='Enter'){ const v=inp.value.trim(); if(v){ userSend(v); } } });
+window.onload=()=>{ setTimeout(()=>{ add(`A = Yebo, let's go`); },300); setTimeout(()=>{ add(`Can I learn K53 on Moya and will it be free?`,true); },800); setTimeout(()=>{ botReply("hi"); },1300); };
 </script>
 </body>
 </html>
