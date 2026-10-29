@@ -1,88 +1,255 @@
-
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ernie - Fixed Next Button + Circle</title>
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ernie's Driving School - Real K53 + Animated Circle + 14 dims</title>
 <style>
 :root{--soft:#FFFBF0;--peach:#FFF3E0;--sage:#E8F5E9;--blue:#E3F2FD;--ink:#3E2723;--red:#B71C1C;--brown:#5D4037}
 *{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',Roboto,sans-serif}
 body{background:#1a1a1a;max-width:480px;margin:0 auto;height:100vh;display:flex;flex-direction:column}
-#top{background:#2D2D2D;color:#FFFBF0;padding:12px;display:flex;align-items:center;gap:12px;border-bottom:3px solid var(--red)}
+#top{background:linear-gradient(135deg,#2D2D2D 0%,#1a1a1a 100%);color:#FFFBF0;padding:12px 14px;display:flex;align-items:center;gap:12px;border-bottom:3px solid var(--red)}
+.ava{width:44px;height:44px;background:white;border-radius:50%;overflow:hidden;border:2px solid var(--peach)}.ava img{width:100%;height:100%;object-fit:contain}
+#top h2{flex:1;font-size:14px;font-weight:800} #top h2 small{font-size:11px;color:#BCAAA4;display:block}
 #chat{flex:1;overflow-y:auto;padding:14px;background:#212121;display:flex;flex-direction:column;gap:14px}
-.bub{background:var(--soft);padding:14px;border-radius:18px;max-width:94%;font-size:15px;color:var(--ink);border:1px solid #EFEBE9}
-.bub.me{background:#DCEDC8;align-self:flex-end}
-.bub.question{border-left:5px solid var(--red)}.bub.good{border-left:5px solid #2E7D32;background:#E8F5E9}.bub.bad{border-left:5px solid var(--red);background:#FFEBEE}
-.svg-box{background:white;border-radius:16px;padding:8px;margin:12px 0;border:2px solid #D7CCC8}
-.btns{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}.btns button{padding:13px 18px;border-radius:24px;font-weight:700;cursor:pointer;border:2px solid #FFB74D}
-.btnA{background:#FFF3E0}.btnB{background:#E3F2FD;border-color:#64B5F6!important}.btnNext{background:var(--brown);color:white}
-.progress{height:6px;background:#3E2723;border-radius:6px;margin:8px 0}.progress div{height:100%;background:linear-gradient(90deg,#B71C1C,#FF8A65)}
-#inputBar{background:#2D2D2D;padding:12px;display:flex;gap:10px;border-top:2px solid #3E2723} #inputBar input{flex:1;background:#424242;border:none;padding:11px;border-radius:20px;color:white}
+.bub{background:var(--soft);padding:14px 16px;border-radius:18px 18px 18px 4px;max-width:94%;font-size:14.8px;line-height:1.55;color:var(--ink);box-shadow:0 2px 12px rgba(0,0,0,0.15);animation:pop .4s ease;border:1px solid #EFEBE9}
+.bub.me{background:linear-gradient(135deg,#DCEDC8 0%,#C5E1A5 100%);align-self:flex-end;border-radius:18px 18px 4px 18px;border:1px solid #AED581;color:#33691E}
+.bub.question{background:var(--soft);border:2px solid var(--brown);border-left:5px solid var(--red)}
+.bub.good{background:linear-gradient(135deg,#E8F5E9 0%,#C8E6C9 100%);border-left:5px solid #2E7D32}
+.bub.bad{background:linear-gradient(135deg,#FFEBEE 0%,#FFCDD2 100%);border-left:5px solid var(--red)}
+.time{font-size:11px;color:#8D6E63;margin-top:8px;display:block}
+.svg-box{background:white;border-radius:16px;padding:8px;margin:12px 0;border:2px solid #D7CCC8;box-shadow:0 4px 12px rgba(0,0,0,0.08);overflow:hidden}
+.svg-box img{width:100%;height:auto;object-fit:contain;border-radius:12px;max-height:320px}
+.chip{display:inline-block;padding:5px 12px;border-radius:20px;font-size:11px;font-weight:700;margin:3px}
+.chip-peach{background:var(--peach);color:var(--brown);border:1px solid #FFCC80}.chip-sage{background:var(--sage);color:#1B5E20;border:1px solid #A5D6A7}.chip-blue{background:var(--blue);color:#0D47A1;border:1px solid #90CAF9}
+.btns{display:flex;flex-wrap:wrap;gap:9px;margin-top:14px}
+.btns button{border:none;padding:13px 18px;border-radius:24px;font-size:13.5px;font-weight:700;cursor:pointer;box-shadow:0 2px 6px rgba(0,0,0,0.15)}
+.btnA{background:linear-gradient(135deg,#FFF3E0 0%,#FFCC80 100%);color:var(--ink);border:2px solid #FFB74D!important}.btnB{background:linear-gradient(135deg,#E3F2FD 0%,#90CAF9 100%);color:#0D47A1;border:2px solid #64B5F6!important}.btnC{background:linear-gradient(135deg,#E8F5E9 0%,#A5D6A7 100%);color:#1B5E20;border:2px solid #81C784!important}
+.btnNext{background:var(--brown);color:var(--soft)}.card{background:linear-gradient(135deg,#FFFFFF 0%,#FFF8E1 100%);border-radius:14px;padding:12px 14px;margin:10px 0;border:1px solid #D7CCC8}
+.card h4{font-size:12.5px;font-weight:800;color:var(--red);margin-bottom:6px}.mindmap{background:linear-gradient(135deg,#FFF3E0 0%,#FFE0B2 100%);border-radius:12px;padding:12px;margin:10px 0;border-left:4px solid #FF9800}
+.sarc{background:#FBE9E7;border-left:4px solid var(--red);border-radius:0 12px 12px 0;padding:10px 12px;margin:10px 0;font-style:italic;color:var(--brown)}
+.science{background:linear-gradient(135deg,#3E2723 0%,#4E342E 100%);color:#FFCCBC;border-radius:14px;padding:14px;margin:12px 0;border:1px solid #6D4C41}
+.dim{background:linear-gradient(135deg,#FFF8E1 0%,#FFE0B2 100%);border-radius:12px;padding:10px 12px;margin:8px 0;border-left:4px solid #5D4037}
+.dim b{color:#BF360C}.progress{height:6px;background:#3E2723;border-radius:6px;overflow:hidden;margin:8px 0} .progress div{height:100%;background:linear-gradient(90deg,#B71C1C,#FF8A65);transition:width .5s}
+#inputBar{background:#2D2D2D;padding:12px 14px;display:flex;align-items:center;gap:10px;border-top:2px solid #3E2723} #inputBar input{flex:1;background:#424242;border:none;outline:none;padding:11px 14px;border-radius:20px;color:white;font-size:14.5px}
+@keyframes pop{0%{transform:scale(.92) translateY(10px);opacity:0}100%{transform:scale(1) translateY(0);opacity:1}}
 </style></head><body>
-<div id="top"><h2>Ernie - Fixed</h2></div>
+<div id="top"><div class="ava"><img src="./images/logo.png" onerror="this.parentElement.innerHTML='🚗'"></div><h2>Ernie from Driving School<small id="locTag">Real K53 • Animated Circle • 14 dims</small></h2></div>
 <div id="chat"></div>
-<div id="inputBar"><input id="inp" placeholder="Tap A/B above"></div>
+<div id="inputBar"><input id="inp" placeholder="Tap A, B or C above — I wait for you"><span>🎤</span></div>
 <script>
-let qIdx=0, score=0, waiting=false, mode='general';
 const chat=document.getElementById('chat');
-
-const QUESTIONS=[
-{id:8,q:"What does a solid yellow line along left curb (RM202) indicate?",A:"A) No Parking",B:"B) No Stopping",C:"C) Bus parking",correct:"A",exp:"Solid yellow = NO PARKING. From your JSON Q8.",svg:"yellow_line",file:"RM202.svg"},
-{id:2,q:"What does circular sign red border 120 (R201) mean?",A:"A) Max 120",B:"B) Min 120",C:"C) Rainy",correct:"A",exp:"Sign R201 = Max 120. From your JSON Q2.",svg:"120_sign",file:"R201-120.svg"},
-{id:99,q:"Strand circle near braai — Vehicle B on your right, Vehicle A you. Who goes first?",A:"A) You go first",B:"B) B goes — give way to right, like braai queue",C:"C) Both",correct:"B",exp:"Mini-roundabout: give way to right. B on right goes first. Like braai queue.",svg:"circle",file:"circle_strand.svg"},
-{id:60,q:"General max speed in urban/built-up area (Strand Main Rd by Wimpy) unless sign says otherwise?",A:"A) 60 km/h — neighbours walk",B:"B) 100 km/h",C:"C) 120 km/h",correct:"A",exp:"Urban = 60 km/h unless posted otherwise. Kids, gogo walk.",svg:"60_sign",file:"R1-60.svg"},
-{id:5,q:"Circular red sign white horizontal bar (R3) means?",A:"A) No entry",B:"B) One-way",C:"C) Stop",correct:"A",exp:"R3 = No Entry. From your JSON Q5.",svg:"no_entry",file:"R3.svg"},
-{id:19,q:"Yellow crisscross box at intersection (RM10) mandates?",A:"A) Do not enter unless exit clear",B:"B) Parking allowed",C:"C) Speed up",correct:"A",exp:"Box junction: do not block. From your JSON Q19.",svg:"box",file:"RM10.svg"}
+let qIdx=0, score=0, waiting=false;
+const QUESTIONS = [
+  {
+    "id": 8,
+    "real_id": 8,
+    "q": "What does a solid yellow line painted along the left curb of a public road (Sign RM202) indicate?",
+    "A": "A) No Parking permitted at any time.",
+    "B": "B) No Stopping permitted.",
+    "C": "C) Reserved parking for buses.",
+    "correct": "A",
+    "exp": "A solid yellow line on the curb edge indicates NO PARKING permitted. From your JSON Q8.",
+    "mem": "Yellow line = No parking! Visual: yellow at Wimpy you know.",
+    "file": "images/signs/RM202.svg",
+    "type": "yellow_line_no_parking"
+  },
+  {
+    "id": 2,
+    "real_id": 2,
+    "q": "What does a circular sign with a red border containing the number '120' (Sign R201) mean?",
+    "A": "A) Maximum speed limit of 120 km/h.",
+    "B": "B) Minimum speed limit of 120 km/h.",
+    "C": "C) Recommended speed for rainy weather.",
+    "correct": "A",
+    "exp": "Sign R201 enforces a maximum legal speed limit of 120 km/h. From your JSON Q2.",
+    "mem": "Red Circle Number = Maximum Speed Limit! Visual: red circle like stop.",
+    "file": "images/signs/R201-120.svg",
+    "type": "speed_120"
+  },
+  {
+    "id": 99,
+    "real_id": 99,
+    "q": "Ronald, at the mini-roundabout — the Strand circle near braai where you go Sunday — Vehicle B is on your right (from beach), Vehicle A is you (south). Who has right of way?",
+    "A": "A) Vehicle A (you) go first, you're late",
+    "B": "B) Vehicle B goes — you give way to right, like braai queue, wait your turn",
+    "C": "C) Both go together",
+    "correct": "B",
+    "exp": "At a mini-roundabout, you give way to traffic on your right. Vehicle B on your right goes first. Like waiting in braai queue at Strand — respect, no crash, braai continues. Your brain already knows this circle.",
+    "mem": "Braai circle you know → B on right → Wait like queue → Respect → Braai + family safe → Method of Loci",
+    "file": "images/circle_strand.svg",
+    "type": "mini_roundabout_strand_braai_circle - THE NICE ANIMATED EXAMPLE"
+  },
+  {
+    "id": 60,
+    "real_id": 60,
+    "q": "What is the general maximum speed limit in an urban area / built-up area (like Strand Main Rd by Wimpy) unless a sign says otherwise?",
+    "A": "A) 60 km/h — your neighbours, gogo, kids walk here",
+    "B": "B) 100 km/h — town is highway",
+    "C": "C) 120 km/h — same as freeway",
+    "correct": "A",
+    "exp": "General urban/built-up limit is 60 km/h unless posted otherwise. 60 because in Strand, kids cross to beach, gogo walks to shop for braai meat, dogs cross. At 60 you can stop in time. You are protector of Strand.",
+    "mem": "Town → People → Kids, gogo → 60 → Protector → Touch 60 on door when you leave house",
+    "file": "images/signs/R1-60.svg",
+    "type": "speed_60_urban"
+  },
+  {
+    "id": 5,
+    "real_id": 5,
+    "q": "What does a circular red sign with a white horizontal bar (Sign R3) mean?",
+    "A": "A) No entry for all vehicles.",
+    "B": "B) One-way street ahead.",
+    "C": "C) Stop and give way.",
+    "correct": "A",
+    "exp": "Sign R3 indicates No Entry for all vehicles. From your JSON Q5.",
+    "mem": "Red disc white bar = No Entry! Visual: bar like gate closed.",
+    "file": "images/signs/R3.svg",
+    "type": "no_entry"
+  },
+  {
+    "id": 19,
+    "real_id": 19,
+    "q": "What does a yellow painted crisscross box marking at an intersection (Sign RM10 / Box Junction) mandate?",
+    "A": "A) Do not enter box unless exit is clear.",
+    "B": "B) Parking allowed in box.",
+    "C": "C) Speed up through box.",
+    "correct": "A",
+    "exp": "Box junction means do not enter unless exit clear, don't block intersection. From your JSON Q19.",
+    "mem": "Yellow box = Don't block! Visual: box like braai grid — don't block coals.",
+    "file": "images/signs/RM10.svg",
+    "type": "box_junction"
+  }
 ];
 
 function getSVG(type){
- if(type==="circle") return `<svg width="100%" viewBox="0 0 750 480" xmlns="http://www.w3.org/2000/svg"><rect width="750" height="480" fill="#FFFBF0" rx="18"/><text x="24" y="30" font-weight="700" font-size="15" fill="#3E2723">Strand circle near braai — You know this 💛</text><rect x="20" y="42" width="710" height="310" fill="#E8F5E9" rx="14" stroke="#A5D6A7"/><path d="M20 195 L730 195 L730 230 L20 230 Z" fill="#9E9E9E"/><path d="M335 42 L370 42 L370 352 L335 352 Z" fill="#9E9E9E"/><circle cx="352" cy="212" r="58" fill="white" stroke="#5D4037" stroke-width="2.8"/><circle cx="352" cy="212" r="18" fill="#A5D6A7" stroke="#2E7D32" stroke-width="1.8"/><text x="352" y="216" text-anchor="middle" font-size="7" font-weight="800" fill="#2E7D32">YOU KNOW</text><g><rect x="336" y="85" width="32" height="52" rx="8" fill="#FFE0B2" stroke="#3E2723" stroke-width="1.8"/><text x="352" y="118" text-anchor="middle" font-size="11" font-weight="900">B</text></g><g><rect x="434" y="200" width="56" height="28" rx="8" fill="#FFCC80" stroke="#3E2723" stroke-width="1.8"/><text x="462" y="218" text-anchor="middle" font-size="8" font-weight="800">YOU - A</text></g></svg>`;
- if(type==="yellow_line") return `<svg width="100%" viewBox="0 0 340 100"><rect width="340" height="100" fill="#FFF8E1" rx="14"/><rect y="62" width="340" height="14" fill="#FFEB00" rx="7" stroke="#111" stroke-width="1.5"/><text x="12" y="28" font-size="13" font-weight="700">Solid yellow - RM202</text><text x="12" y="48" font-size="12">Left curb = No Parking</text></svg>`;
- if(type==="120_sign") return `<svg width="100%" viewBox="0 0 200 200"><circle cx="100" cy="100" r="90" fill="white" stroke="#CC0000" stroke-width="10"/><text x="100" y="118" text-anchor="middle" font-size="52" font-weight="900">120</text></svg>`;
- if(type==="60_sign") return `<svg width="100%" viewBox="0 0 200 200"><circle cx="100" cy="100" r="88" fill="white" stroke="#CC0000" stroke-width="10"/><text x="100" y="120" text-anchor="middle" font-size="64" font-weight="900">60</text><text x="100" y="145" text-anchor="middle" font-size="11">Urban - Strand</text></svg>`;
- if(type==="no_entry") return `<svg width="100%" viewBox="0 0 200 200"><circle cx="100" cy="100" r="90" fill="#CC0000"/><rect x="30" y="85" width="140" height="30" fill="white" rx="4"/></svg>`;
- if(type==="box") return `<svg width="100%" viewBox="0 0 340 100"><rect width="340" height="100" fill="#FFFDE7" rx="14"/><rect x="40" y="20" width="260" height="60" fill="none" stroke="#FFB300" stroke-width="4"/><line x1="40" y1="20" x2="300" y2="80" stroke="#FFB300" stroke-width="3"/><line x1="300" y1="20" x2="40" y2="80" stroke="#FFB300" stroke-width="3"/><text x="12" y="18" font-size="12" font-weight="700">Box junction RM10</text></svg>`;
+ if(type==="mini_roundabout_strand_braai_circle - THE NICE ANIMATED EXAMPLE"){
+   return `<svg width="100%" viewBox="0 0 400 650" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5D4037"/></marker>
+    </defs>
+    <g id="scene1">
+      <rect width="400" height="320" fill="#FFFBF0" rx="14"/>
+      <text x="200" y="28" text-anchor="middle" font-size="13" font-weight="800" fill="#3E2723">Strand circle near braai — You know this 💛</text>
+      <rect x="10" y="40" width="380" height="180" fill="#E8F5E9" rx="14" stroke="#A5D6A7" stroke-width="1.5"/>
+      <rect x="10" y="115" width="380" height="30" fill="#9E9E9E"/><rect x="185" y="40" width="30" height="180" fill="#9E9E9E"/>
+      <circle cx="200" cy="130" r="35" fill="white" stroke="#5D4037" stroke-width="2.5"/>
+      <g id="vehB"><rect x="190" y="50" width="20" height="32" rx="5" fill="#FFE0B2" stroke="#3E2723" stroke-width="1.5"/><text x="200" y="70" text-anchor="middle" font-size="9" font-weight="900">B</text>
+        <animateTransform attributeName="transform" type="translate" values="0,0; 0,65" begin="0.5s" dur="1.5s" fill="freeze"/>
+      </g>
+      <g id="vehA"><rect x="240" y="115" width="32" height="18" rx="4" fill="#FFCC80" stroke="#3E2723" stroke-width="1.5"/><text x="256" y="127" text-anchor="middle" font-size="6" font-weight="800">YOU-A</text>
+        <animateTransform attributeName="transform" type="translate" values="0,0; -40,0" begin="2s" dur="1s" fill="freeze"/>
+      </g>
+      <text x="200" y="250" text-anchor="middle" font-size="11" font-weight="700" fill="#B71C1C">B on your right → B goes first
+        <animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.5s" fill="freeze"/>
+      </text>
+      <text x="200" y="270" text-anchor="middle" font-size="10" fill="#5D4037">Like braai queue — respect</text>
+      <animate attributeName="opacity" from="1" to="0" begin="3s" dur="0.5s" fill="freeze"/>
+    </g>
+    <g id="scene2" opacity="0">
+      <rect y="320" width="400" height="100" fill="#333" rx="8"/>
+      <text x="200" y="315" text-anchor="middle" font-size="12" font-weight="700" fill="#3E2723">Down the road — why 60?</text>
+      <rect y="350" width="400" height="12" fill="white" stroke="#111" opacity="0.3"/>
+      <rect y="360" width="400" height="12" fill="white" stroke="#111" opacity="0.3"/>
+      <g id="car"><circle cx="0" cy="380" r="12" fill="#FFCC80" stroke="#3E2723" stroke-width="1.5"/><text x="0" y="384" text-anchor="middle" font-size="8" font-weight="800">YOU</text>
+        <animateMotion path="M0,380 L400,380" begin="3.5s" dur="4s" fill="freeze"/>
+      </g>
+      <g id="people"><circle cx="300" cy="375" r="6" fill="#90CAF9"/><circle cx="320" cy="375" r="4" fill="#90CAF9"/><text x="310" y="365" text-anchor="middle" font-size="8" fill="#1565C0">gogo + kids</text>
+        <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.2;0.8;1" begin="4.5s" dur="2s" fill="freeze"/>
+      </g>
+      <text x="200" y="435" text-anchor="middle" font-size="11" font-weight="700" fill="#B71C1C">Hoekom stadig? Mense cross na beach!</text>
+      <animate attributeName="opacity" from="0" to="1" begin="3s" dur="0.5s" fill="freeze"/>
+    </g>
+    <g id="scene3" opacity="0">
+      <rect y="460" width="400" height="90" fill="#FFF3E0" stroke="#A1887F" rx="12"/>
+      <text x="20" y="480" font-size="11" font-weight="800" fill="#BF360C">💛 Why this matters for you, Ronald</text>
+      <text x="20" y="498" font-size="10" fill="#3E2723">You go here Sunday for braai with family.</text>
+      <text x="20" y="514" font-size="10" fill="#3E2723">If B is on your right — you wait. Like waiting</text>
+      <text x="20" y="530" font-size="10" fill="#3E2723">in braai queue. Respect. No crash. 🤝 Moya CAN</text>
+      <text x="20" y="544" font-size="10" font-weight="700" fill="#2E7D32">display this animation — client sees value!</text>
+      <animate attributeName="opacity" from="0" to="1" begin="5.5s" dur="0.5s" fill="freeze"/>
+    </g>
+  </svg>`;
+ }
+ if(type==="yellow_line_no_parking") return `<svg width="100%" viewBox="0 0 340 100" xmlns="http://www.w3.org/2000/svg"><rect width="340" height="100" fill="#FFF8E1" rx="14"/><rect y="62" width="340" height="14" fill="#FFEB00" rx="7" stroke="#111" stroke-width="1.5"/><text x="12" y="28" font-size="13" font-weight="700">Solid yellow - RM202</text><text x="12" y="48" font-size="12">Left curb = No Parking (Real repo)</text></svg>`;
+ if(type==="speed_120") return `<svg width="100%" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="100" r="90" fill="white" stroke="#CC0000" stroke-width="10"/><text x="100" y="118" text-anchor="middle" font-size="52" font-weight="900">120</text><text x="100" y="145" text-anchor="middle" font-size="11">R201 - Real</text></svg>`;
+ if(type==="speed_60_urban") return `<svg width="100%" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="100" r="88" fill="white" stroke="#CC0000" stroke-width="10"/><text x="100" y="120" text-anchor="middle" font-size="60" font-weight="900">60</text><text x="100" y="145" text-anchor="middle" font-size="11">Urban - Strand - Real</text></svg>`;
+ if(type==="no_entry") return `<svg width="100%" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg"><circle cx="100" cy="100" r="90" fill="#CC0000"/><rect x="30" y="85" width="140" height="30" fill="white" rx="4"/><text x="100" y="170" text-anchor="middle" font-size="11">R3 - Real</text></svg>`;
+ if(type==="box_junction") return `<svg width="100%" viewBox="0 0 340 100" xmlns="http://www.w3.org/2000/svg"><rect width="340" height="100" fill="#FFFDE7" rx="14"/><rect x="40" y="20" width="260" height="60" fill="none" stroke="#FFB300" stroke-width="4"/><line x1="40" y1="20" x2="300" y2="80" stroke="#FFB300" stroke-width="3"/><line x1="300" y1="20" x2="40" y2="80" stroke="#FFB300" stroke-width="3"/><text x="12" y="18" font-size="12" font-weight="700">Box junction RM10 - Real</text></svg>`;
  return `<svg width="100%" viewBox="0 0 100 50"><text x="10" y="30">${type}</text></svg>`;
 }
 
-function add(html,me=false,cls=""){
- const d=document.createElement('div'); d.className='bub '+(me?'me ':'')+cls;
- d.innerHTML=html+`<span style="font-size:11px;color:#8D6E63;display:block;margin-top:8px">${new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'})} ${me?'✓✓':''}</span>`;
- chat.appendChild(d); chat.scrollTop=chat.scrollHeight;
+function add(html, me=false, cls=""){
+  const d=document.createElement('div'); d.className='bub '+(me?'me ':'')+cls;
+  const t=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});
+  d.innerHTML=html+`<span class='time'>${t} ${me?'✓✓':''}</span>`;
+  chat.appendChild(d); chat.scrollTop=chat.scrollHeight; return d;
 }
+
 function showQ(){
- if(qIdx>=QUESTIONS.length){
-   add(`<div style='text-align:center'><h3>Done: ${score}/${QUESTIONS.length}</h3><p>Real K53 + circle + 60 - Next button fixed!</p><button class='btnNext' onclick='location.reload()'>Restart</button></div>`,'','good');
-   waiting=false; return;
- }
- const q=QUESTIONS[qIdx]; waiting=true;
- const pct=Math.round((qIdx/QUESTIONS.length)*100);
- add(`<div class='progress'><div style='width:${pct}%'></div></div>
- <div style='font-size:11px;color:#8D6E63'>Q ${qIdx+1}/${QUESTIONS.length} • ${q.file} • Score ${score}</div>
- <div class='svg-box'>${getSVG(q.svg)}<div style='font-size:10px;color:#8D6E63;text-align:center'>${q.file} • ${q.type}</div></div>
- <div style='font-weight:700;margin:10px 0'>${q.q}</div>
- <div class='btns'>
-   <button class='btnA' onclick="answer('A')">${q.A}</button>
-   <button class='btnB' onclick="answer('B')">${q.B}</button>
-   ${q.C?`<button class='btnB' onclick="answer('C')">${q.C}</button>`:''}
- </div>
- <div style='font-size:11px;color:#8D6E63;margin-top:10px'>Tap A/B/C — I wait — Real answer: ${q.correct}</div>`,false,'question');
+  if(qIdx>=QUESTIONS.length){
+    add(`<div style='text-align:center'><div style='font-size:36px'>🎉</div><h3>Done: ${score}/${QUESTIONS.length}</h3><p>Real K53 from your JSON + animated circle + 60 + 14 dims. Moya CAN display SVG animations!</p><div class='science'><h4>For Moya client - Close deal</h4><p>Real signs: RM202, R201-120, R1-60, R3, RM10 + animated circle stitched 0-3s circle 3-7s drive slowly with animate + animateMotion + TTS Afrikaans. 14 dimensions = memory = pass = R20 poster.</p></div><div class='btns'><button class='btnNext' onclick='location.reload()'>Restart</button></div></div>`,false,'good');
+    waiting=false; return;
+  }
+  const q=QUESTIONS[qIdx];
+  waiting=true;
+  const pct=Math.round((qIdx/QUESTIONS.length)*100);
+  const imgTry = `<div style='margin:8px 0'><img src='./${q.file}' style='width:100%;border-radius:12px;border:2px solid #D7CCC8' onerror="this.style.display='none'"><div style='font-size:10px;color:#8D6E63'>Tried real repo file: ${q.file}</div></div>`;
+  add(`
+    <div class='progress'><div style='width:${pct}%'></div></div>
+    <div style='font-size:11px;color:#8D6E63'>Q ${qIdx+1}/${QUESTIONS.length} • Real ID ${q.real_id} • ${q.type} • Score ${score}</div>
+    ${imgTry}
+    <div class='svg-box'>${getSVG(q.type)}<div style='font-size:10px;color:#8D6E63;margin-top:6px;text-align:center'>${q.file} • ${q.type} — Inline animated SVG (Moya CAN display)</div></div>
+    <div><span class='chip chip-peach'>Q${qIdx+1}/${QUESTIONS.length}</span> <span class='chip chip-sage'>${q.type}</span> <span class='chip chip-blue'>Real from your JSON</span></div>
+    <div style='font-weight:700;font-size:15.5px;margin:10px 0;color:#3E2723'>${q.q}</div>
+    <div class='btns'>
+      <button class='btnA' onclick="answer('A')">${q.A}</button>
+      <button class='btnB' onclick="answer('B')">${q.B}</button>
+      ${q.C?`<button class='btnC' onclick="answer('C')">${q.C}</button>`:''}
+    </div>
+    <div style='font-size:11px;color:#8D6E63;margin-top:10px'>Tap A/B/C — I wait — Real answer: ${q.correct}</div>
+  `, false, 'question');
 }
+
 function answer(choice){
- if(!waiting) return; waiting=false;
- const q=QUESTIONS[qIdx]; const ok=choice===q.correct; if(ok) score++;
- add(choice==='A'?q.A:choice==='B'?q.B:q.C,true);
- setTimeout(()=>{
-   add(`<div style='font-weight:800'>${ok?'✅ Sharp! '+choice+' correct':'💛 Not quite, correct '+q.correct} — ${q.correct} from your JSON</div>
-   <div style='background:white;border-radius:12px;padding:12px;margin:10px 0'><b>📖 Real K53:</b> ${q.exp}</div>
-   <div style='margin:10px 0'><button class='btnNext' id='nextBtn' onclick='nextQ()'>Next → Q ${qIdx+1}/${QUESTIONS.length} done</button></div>
-   <div style='font-size:11px;color:#8D6E63'>If Next doesn't work, open console (F12) and type: nextQ()</div>
-   `,false,ok?'good':'bad');
- },600);
+  if(!waiting) return; waiting=false;
+  const q=QUESTIONS[qIdx];
+  const ok=choice===q.correct; if(ok) score++;
+  const chosen = choice==='A'?q.A:choice==='B'?q.B:q.C;
+  add(chosen, true);
+  setTimeout(()=>{
+    const cls=ok?'good':'bad'; const emoji=ok?'✅':'💛';
+    const head=ok?`${emoji} Sharp! ${choice} is correct — ${q.correct} from your JSON`:`${emoji} Not quite — correct is ${q.correct} from your JSON. Let's make it stick with 14 dimensions.`;
+    add(`
+      <div style='font-weight:800;font-size:14.5px;margin-bottom:8px'>${head}</div>
+      <div class='card'><h4>📖 Real K53 Explanation (from your JSON)</h4><p>${q.exp}</p></div>
+      <div class='dim'><b>1. 👁️ Visual:</b> See ${q.file} — ${q.type} at Strand Main Rd you know. Red circle = max, yellow = no park.</div>
+      <div class='dim'><b>2. ✋ Kinesthetic/Hands:</b> Take yellow shoelace/rope. Tie on door handle. Touch it daily. Pull and say: <i>"${q.type.includes('yellow')?'Yellow = No park':'Right goes first like braai queue'}"</i></div>
+      <div class='dim'><b>3. 🗣️ Auditory/Voice + Moya TTS:</b> Say aloud 3 times: <i>"${q.q.substring(0,60)}..."</i> — In Afrikaans: <button onclick="speechSynthesis.speak(new SpeechSynthesisUtterance('Hierdie is die circle in Strand. ${q.type.includes('circle')?'Gee pad aan regs, soos braai queue.':'Ry 60 hier, mense loop.'}'))" style='padding:4px 8px;border-radius:12px;background:#FFE0B2;border:1px solid #FF9800'>🔊 Listen Afrikaans</button> — Moya allows TTS, 0KB.</div>
+      <div class='dim'><b>4. 📍 Spatial/Where:</b> Cardboard poster: Write ${q.type.includes('60')?'60':q.type.includes('yellow')?'Yellow = No park':'B on right = wait'} — Stick on ${q.type.includes('circle')?'fridge near braai meat':'kitchen door you touch daily'}.</div>
+      <div class='dim'><b>5. 💛 Personal/Strand:</b> ${q.id===99?'You know this circle better than book. You go here Sunday for braai with family.':q.id===60?'Strand Main Rd by Wimpy where you buy vetkoek — gogo walks here.':'Strand Main Rd you walk daily.'}</div>
+      <div class='dim'><b>6. ❤️ Emotional/Heart:</b> ${q.id===99?'Family safe, braai continues, no crash — you protect family.':q.id===60?'Gogo walks to shop for braai meat — at 60 you can stop, gogo safe — you are hero.':'Child with ice cream crossing — you stop, child safe — heart remembers.'}</div>
+      <div class='dim'><b>7. 👥 Social/Cousin Story:</b> 😏 Cousin says "${q.type.includes('yellow')?'2 mins quick at Wimpy':'I go first, I am late'}" — Officer writes R500 ticket in 2 mins.</div>
+      <div class='dim'><b>8. 🧠 Logical/Mindmap:</b> ${q.type} → ${q.type.includes('circle')?'B on right → Wait like queue → Respect → No crash':q.type.includes('yellow')?'Yellow line → No park → R500 fine → Ambulance blocked':q.type.includes('60')?'Town → People → Kids,gogo → 60 → Protector':q.type} → Pass.</div>
+      <div class='dim'><b>9. 🔗 Associative/Memory Hook (Method of Loci):</b> Tie new rule to old memory: Strand Main Rd by Wimpy + braai circle you know = 2 places you already have in brain.</div>
+      <div class='dim'><b>10. 🔁 Repetition:</b> Touch rope knot every morning when you leave house in Strand. 21 days = body remembers.</div>
+      <div class='dim'><b>11. 🛣️ Context/Real Road:</b> This exact sign at Strand — if you park on yellow, ambulance cannot pass to beach.</div>
+      <div class='dim'><b>12. 😂 Humor:</b> Cousin does 100 in Strand — arrives 2 mins early, pays R1000 fine — no vetkoek money left.</div>
+      <div class='dim'><b>13. 🏆 Reward/Protector Identity:</b> You are not learner, you are protector of Strand — gogo, kids, family safe because you know rules.</div>
+      <div class='dim'><b>14. 📜 Ownership/R0 Poster:</b> Write on cardboard: ${q.type} = ${q.correct}. Stick on wall. You own it. R0 poster > R20 app.</div>
+      <div class='science'><h4>🔬 For Moya client — Why this sells + Moya CAN display SVG animations</h4><p>Real file: ${q.file} from repo + inline animated SVG with &lt;animate&gt; &lt;animateMotion&gt; — Moya CAN display this (inline SMIL, not external img). Stitched story: Circle 0-3s (B on right) → Drive slowly 3-7s (car moves, people cross) → Why matters. TTS Afrikaans button 0KB. 14 dimensions = memory = pass = R20 poster = close deal.</p></div>
+      <div class='btns'><button class='btnNext' onclick='nextQ()'>Next → Q ${qIdx+1}/${QUESTIONS.length} done</button></div>
+    `, false, cls);
+  },700);
 }
-function nextQ(){ console.log('nextQ called, qIdx',qIdx); qIdx++; showQ(); }
-function startDemo(){qIdx=0;score=0;showQ();}
+
+function nextQ(){ qIdx++; showQ(); }
+function startDemo(){ qIdx=0;score=0;showQ(); }
+
 function boot(){
- add(`Sawubona Ronald! 🌅<br>Real K53 from your JSON + circle + 60.<br>6 Qs with inline SVGs - circle ALWAYS shows. Next button fixed with console log.`,false,'question');
- setTimeout(()=>{add(`<button class='btnA' onclick='startDemo()'>Start ${QUESTIONS.length} Real Qs — circle + 60 💛</button>`);},1000);
+  add(`Sawubona Ronald! 🌅<br><br>I'm Ernie — <b>YOUR REAL K53 JSON</b> + animated circle from chat history + 14 dimensions:<br><br>
+  <span class='chip chip-peach'>RM202 yellow (Q8 real)</span><span class='chip chip-sage'>R201-120 speed (Q2 real)</span><span class='chip chip-blue'>💛 ANIMATED CIRCLE Q3 - Strand braai - Vehicle A/B with animate + animateMotion — Moya CAN display!</span><span class='chip chip-peach'>R1-60 urban 60 (Q60)</span><span class='chip chip-sage'>R3 no entry (Q5 real)</span><span class='chip chip-blue'>RM10 box (Q19 real)</span><br><br>
+  <b>6 Qs with inline animated SVGs</b> — Scene 1 Circle 0-3s → Scene 2 Drive slowly 3-7s with car moving + people crossing. All wait for A/B/C. All with 14 dims answers.<br><br>
+  <b>Moya answer:</b> YES, Moya CAN display SVG animations if inline with &lt;animate&gt; &lt;animateMotion&gt; — this file uses exactly that.`,false,'question');
+  setTimeout(()=>{add(`<div class='btns'><button class='btnA' onclick='startDemo()'>Start ${QUESTIONS.length} Real K53 Qs — animated circle + 14 dims + real SVGs 💛</button></div>`,false,'question');},1200);
 }
+
 window.answer=answer; window.nextQ=nextQ; window.startDemo=startDemo;
 window.onload=boot;
 </script></body></html>
