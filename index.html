@@ -3,67 +3,156 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Ernie's Driving School - Moya Datafree</title>
+<title>Ernie's Driving School - Moya Personalized</title>
 <style>
-:root{--ernie-red:#CC0000;--ernie-black:#111;--ernie-yellow:#FFEB00;}
+:root{--red:#CC0000;--black:#111;--yellow:#FFEB00;}
 *{margin:0;padding:0;box-sizing:border-box;font-family:-apple-system,Roboto,Arial;}
-body{background:#111111;max-width:480px;margin:0 auto;height:100vh;display:flex;flex-direction:column;overflow:hidden;border-left:4px solid var(--ernie-red);border-right:4px solid var(--ernie-yellow);}
-#top{background:var(--ernie-black);color:white;padding:10px 12px;display:flex;align-items:center;gap:10px;border-bottom:3px solid var(--ernie-red);}
-#top .back{font-size:22px;color:white;}#top .ava{width:40px;height:40px;background:white;border:2px solid var(--ernie-red);border-radius:50%;overflow:hidden;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
-#top .ava img{width:100%;height:100%;object-fit:contain;}#top h2{flex:1;font-size:14px;font-weight:900;color:white;}#top .ic{font-size:20px;color:white;margin-left:8px;}
-#chat{flex:1;overflow-y:auto;padding:12px;background:#111111;display:flex;flex-direction:column;gap:10px;}
-.bub{background:white;padding:12px 14px;border-radius:14px;max-width:88%;font-size:14.8px;line-height:1.45;box-shadow:0 2px 8px rgba(204,0,0,0.3);color:#111;align-self:flex-start;animation:pop .3s ease;border-left:5px solid var(--ernie-red);}
+body{background:#111;max-width:480px;margin:0 auto;height:100vh;display:flex;flex-direction:column;overflow:hidden;border-left:4px solid var(--red);border-right:4px solid var(--yellow);}
+#top{background:var(--black);color:white;padding:10px 12px;display:flex;align-items:center;gap:10px;border-bottom:3px solid var(--red);position:sticky;top:0;z-index:10;}
+#top .back{font-size:22px;color:white;}#top .ava{width:42px;height:42px;background:white;border:2px solid var(--red);border-radius:50%;overflow:hidden;display:flex;align-items:center;justify-content:center;flex-shrink:0;}
+#top .ava img{width:100%;height:100%;object-fit:contain;}#top h2{flex:1;font-size:13px;font-weight:900;line-height:1.2;}#top h2 small{font-size:10px;font-weight:400;color:#aaa;display:block;}#top .ic{font-size:18px;color:white;margin-left:6px;}
+#chat{flex:1;overflow-y:auto;padding:12px;background:#111;display:flex;flex-direction:column;gap:10px;}
+.bub{background:white;padding:12px 14px;border-radius:16px;max-width:90%;font-size:14.5px;line-height:1.5;box-shadow:0 2px 8px rgba(204,0,0,0.25);color:#111;align-self:flex-start;animation:pop .35s ease;border-left:5px solid var(--red);}
 .bub.me{background:#DCF8C6;align-self:flex-end;border-left:5px solid #25D366;}
-.bub.ernie-red{border-left:5px solid var(--ernie-yellow);background:#FFF5F5;}
+.bub.ernie-yellow{border-left:5px solid var(--yellow);background:#FFFDF0;}
+.bub.ernie-black{border-left:5px solid var(--black);background:#f5f5f5;}
 .bub .time{font-size:11px;color:#666;margin-top:6px;display:block;}
-.svg-box{background:white;border:3px solid var(--ernie-red);border-radius:12px;padding:12px;margin:10px 0;box-shadow:4px 4px 0 var(--ernie-black);}
-.hl{background:var(--ernie-yellow);padding:3px 7px;border-radius:4px;font-weight:900;border:1px solid var(--ernie-black);}
-.hl-red{background:var(--ernie-red);color:white;padding:3px 7px;border-radius:4px;font-weight:900;}
-.sarc{font-style:italic;background:#FFF8E1;padding:8px 10px;border-left:4px solid var(--ernie-red);margin:8px 0;border-radius:0 10px 10px 0;}
+.svg-box{background:white;border:3px solid var(--black);border-radius:14px;padding:12px;margin:10px 0;box-shadow:5px 5px 0 var(--red);}
+.hl{background:var(--yellow);padding:3px 8px;border-radius:5px;font-weight:900;border:1px solid var(--black);display:inline-block;margin:2px 0;}
+.hl-red{background:var(--red);color:white;padding:3px 8px;border-radius:5px;font-weight:900;display:inline-block;}
+.sarc{font-style:italic;background:#FFF8E1;padding:9px 11px;border-left:5px solid var(--red);margin:9px 0;border-radius:0 12px 12px 0;}
 .btns{display:flex;flex-wrap:wrap;gap:8px;margin-top:10px;}
-.btns button{background:var(--ernie-red);color:white;border:2px solid var(--ernie-red);padding:10px 16px;border-radius:20px;font-size:13px;font-weight:800;cursor:pointer;}
-.btns button.black{background:var(--ernie-black);color:var(--ernie-yellow);border-color:var(--ernie-black);}
-.poster{background:linear-gradient(135deg,#fff 0%,#FFEB00 100%);border:3px solid var(--ernie-red);border-radius:12px;padding:10px;margin:8px 0;text-align:center;}
-#inputBar{background:#222;padding:10px 12px;display:flex;align-items:center;gap:10px;border-top:3px solid var(--ernie-red);}
-#inputBar input{flex:1;border:none;outline:none;font-size:15px;padding:8px;font-weight:600;background:transparent;color:white;}
+.btns button{background:var(--red);color:white;border:2px solid var(--red);padding:11px 18px;border-radius:22px;font-size:13px;font-weight:800;cursor:pointer;transition:0.15s;}
+.btns button.black{background:var(--black);color:var(--yellow);border-color:var(--black);}
+.btns button.yellow{background:var(--yellow);color:var(--black);border-color:var(--black);}
+.btns button:active{transform:scale(0.93);}
+.mindmap{background:linear-gradient(135deg,#fff 0%,#FFEB00 100%);border:3px solid var(--black);border-radius:14px;padding:12px;margin:10px 0;}
+.science{background:#111;color:white;border:2px solid var(--red);border-radius:14px;padding:12px;margin:10px 0;}
+.science h4{color:var(--yellow);font-size:13px;margin-bottom:6px;}
+#inputBar{background:#222;padding:10px 12px;display:flex;align-items:center;gap:10px;border-top:3px solid var(--red);position:sticky;bottom:0;}
+#inputBar input{flex:1;border:none;outline:none;font-size:15px;padding:9px;font-weight:600;background:transparent;color:white;}
 #inputBar input::placeholder{color:#888;}
-.icon{font-size:24px;color:white;}
+.icon{font-size:24px;color:white;cursor:pointer;}
 @keyframes pop{0%{transform:scale(.92) translateY(12px);opacity:0}100%{transform:scale(1) translateY(0);opacity:1}}
 @keyframes draw{to{stroke-dashoffset:0}}
-.path-draw{stroke-dasharray:1200;stroke-dashoffset:1200;animation:draw 1.5s ease forwards;}
+.path-draw{stroke-dasharray:1400;stroke-dashoffset:1400;animation:draw 1.6s ease forwards;}
+.progress{background:#222;height:6px;border-radius:3px;margin:8px 0;overflow:hidden;}
+.progress div{height:100%;background:linear-gradient(90deg,var(--red),var(--yellow));transition:width 0.5s;}
 </style>
 </head>
 <body>
-<div id="top"><span class="back">←</span><div class="ava"><img src="./images/logo.png" alt="Ernie" onerror="this.parentElement.innerHTML='🚗'"></div><h2>Ernie from Driving School</h2><span class="ic">🔍</span><span class="ic">⋮</span></div>
+<div id="top"><span class="back">←</span><div class="ava"><img src="./images/logo.png" alt="Ernie" onerror="this.parentElement.innerHTML='🚗'"></div><h2>Ernie from Driving School<small id="locTag">Moya • 0KB • Personalized</small></h2><span class="ic">🔍</span><span class="ic">⋮</span></div>
 <div id="chat"></div>
-<div id="inputBar"><span class="icon">☺</span><input id="inp" placeholder="Type Hi, 27, Got it..."><span class="icon">📎</span><span class="icon">🎤</span></div>
+<div id="inputBar"><span class="icon">☺</span><input id="inp" placeholder="Type your answer..."><span class="icon">📎</span><span class="icon">🎤</span></div>
 <script>
-const chat=document.getElementById('chat');const inp=document.getElementById('inp');
-const STORIES={
-"27":{title:"Q27: Solid Yellow Line",q:"Solid yellow line means? A) Park for vetkoek B) NO parking / NO stopping",diy:"ROPE KNOT: Tie yellow shoelace on door. Pull knot and say 'Yellow = No park'",why:"Yellow is for emergency, taxi, ambulance.",sarc:"Cousin says 'just 2 minutes' - officer says 'just R500 fine, 2 minutes to write it'.",svg:`<svg viewBox="0 0 320 90"><rect width="320" height="90" fill="#222"/><line x1="0" y1="65" x2="320" y2="65" stroke="#FFEB00" stroke-width="8" class="path-draw"/><text x="10" y="25" fill="white" font-size="11" font-weight="800">YELLOW LINE = KEEP CLEAR</text><rect x="220" y="15" width="80" height="30" rx="6" fill="#CC0000"/><text x="230" y="33" fill="white" font-size="11" font-weight="900">NO PARK!</text></svg>`,poster:"Make A4: Draw yellow line, write 'YELLOW = NO STOP'. Stick on fridge."},
-"45":{title:"Q45: Stop Sign 8 Sides",q:"How many sides? Most fail this!",diy:"CARDBOARD STOP: Cut octagon (8 sides) from box. Write STOP red. Count 1-8 every morning",why:"8 sides so you know STOP even when mud covers word.",sarc:"Cousin says Stop is 'suggestion'. Cousin failed 3 times.",svg:`<svg viewBox="0 0 200 130"><polygon points="100,10 150,30 150,85 100,105 50,85 50,30" fill="#CC0000" stroke="#111" stroke-width="4" class="path-draw"/><text x="100" y="68" text-anchor="middle" fill="white" font-weight="900" font-size="24">STOP</text><text x="100" y="122" text-anchor="middle" font-size="10" font-weight="800">8 SIDES - COUNT!</text></svg>`,poster:"Mindmap: Draw 8 arrows from STOP, each = 1 side."},
-"10":{title:"Q10: Robot Red+Yellow",q:"Robot Red+Yellow together = ?",diy:"3 CUPS: Red=STOP, Red+Yellow=READY, Green=GO.",why:"Red+Yellow = Taxi saying 'Sharp, I'm about to go!' Get ready.",sarc:"Not 'rev engine and check Facebook'.",svg:`<svg viewBox="0 0 180 110"><rect x="60" width="60" height="100" rx="12" fill="#111"/><circle cx="90" cy="25" r="13" fill="#CC0000"/><circle cx="90" cy="52" r="13" fill="#FFEB00" stroke="white" stroke-width="3" class="path-draw"/><circle cx="90" cy="79" r="13" fill="#333"/></svg>`,poster:"Poster: Draw traffic light, label Red=Stop, Red+Yellow=Ready, Green=Go."}
-};
-function add(text,me=false,extra=""){const d=document.createElement('div');d.className='bub'+(me?' me':'')+' '+extra;const t=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});d.innerHTML=text+`<span class="time">${t}${me?' ✓✓':''}</span>`;chat.appendChild(d);chat.scrollTop=chat.scrollHeight;}
-function addStory(id){const s=STORIES[id]||STORIES["27"];add(`<span class="hl-red">${s.title}</span><div class="svg-box">${s.svg}</div><span class="hl">${s.q}</span>`);setTimeout(()=>{add(`<strong>DIY with hands (no car):</strong><br>${s.diy}<div class="poster"><h4>🖼️ POSTER / MINDMAP (R0 or R20)</h4><div style="font-size:12px;">${s.poster}<br>Make FREE with sugar paper, or buy printed at Shoprite R20</div></div><div class="sarc">😏 ${s.sarc}</div>Why: ${s.why}<div class="btns"><button onclick="userSend('Got it')">✅ Got it, I made it</button><button class="black" onclick="userSend('45')">Q45 Stop</button><button class="black" onclick="userSend('10')">Q10 Robot</button></div>`,'','ernie-red');},900);}
-function botReply(msg){
-  const m=msg.toLowerCase().trim();
-  if(["hi","molweni","dumela","hey","a","yebo","hello","sawubona","molo"].includes(m) || m.length<3){
-    add(`A = Yebo, let's go 👋`);
-    setTimeout(()=>{add(`<span class="hl-red">Sawubona! I'm Ernie</span> - Ernie's Driving School<br><br>I don't teach with books - I teach with <strong>your hands</strong>.<br><br>What we'll do:<br>🔴 <strong>Rope Knots:</strong> Yellow shoelace on door for yellow line<br>⚫ <strong>Cardboard Cut:</strong> Cut Stop sign (8 sides) from box<br>🟡 <strong>Poster / Mindmap:</strong> Draw mindmap on A4, stick on wall<br><br>Cost? <span class="hl">FREE</span> with sugar paper + koki<br>Or <span class="hl-red">buy printed R20</span> at Shoprite<br><br><strong>You asked: Can I learn K53 on Moya and will it be free?</strong><br><span class="hl-red">Yes, 100% free. 0KB. Moya pays, not you.</span>`,'','ernie-red');},700);
-    setTimeout(()=>{add(`Start with?<br><br><strong>1 = Colours - Yellow line mindmap</strong><br><strong>2 = Road Signs - Cut Stop sign</strong><br><strong>3 = Rules - Rope knots</strong><br><strong>4 = Games? Yes - DIY with hands</strong><br><strong>5 = Jobs? Yes - Pass & get job</strong><br><strong>6 = Health? Safe driving</strong><br><strong>7 = Shopping? Rope + paper R2</strong><br><strong>8 = Education - Full 68 Qs</strong><br><br>Try <span class="hl">8</span> or <span class="hl">27</span>`);},1600);return;
+const chat=document.getElementById('chat');const inp=document.getElementById('inp');const locTag=document.getElementById('locTag');
+let userData=JSON.parse(localStorage.getItem('ernie_user')||'{}');
+let state='welcome';let demoIndex=0;let mode='general'; // general or personalized
+
+const LOCATIONS=["Grabouw","Strand","Gordons Bay","Macassar","Sir Lowry's Pass","Somerset West","Kuils River"];
+
+const DEMO_QS_GENERAL=[
+{ id:"27", title:"Q27: Solid Yellow Line (Fails 80%)", q:"You stop on solid yellow line at Shoprite to buy airtime - is it OK? A) Yes 2 mins B) No", diy:"ROPE KNOT: Yellow shoelace on door handle. Pull knot + say 'Yellow = No park'", why:"Yellow = emergency lane, ambulance needs it", sarc:"Officer loves '2 mins' - R500 love letter, written in 2 mins.", svg:`<svg viewBox="0 0 320 90"><rect width="320" height="90" fill="#222"/><line x1="0" y1="65" x2="320" y2="65" stroke="#FFEB00" stroke-width="8" class="path-draw"/><text x="10" y="22" fill="white" font-size="11" font-weight="800">YELLOW LINE = KEEP CLEAR</text><rect x="210" y="12" width="90" height="28" rx="6" fill="#CC0000"/><text x="218" y="30" fill="white" font-size="10" font-weight="900">NO STOP!</text></svg>`, mindmap:"Draw: Yellow line → No park → No stop → Fine R500 → Ambulance"},
+{ id:"45", title:"Q45: Stop Sign - 8 Sides", q:"Stop sign has how many sides? A) 6 B) 8", diy:"CARDBOARD: Cut octagon from box, write STOP red, count 1-8 daily", why:"8 sides = you know STOP even when word covered in mud", sarc:"Cousin says Stop = suggestion. Cousin failed 3 times.", svg:`<svg viewBox="0 0 200 130"><polygon points="100,10 150,30 150,85 100,105 50,85 50,30" fill="#CC0000" stroke="#111" stroke-width="4" class="path-draw"/><text x="100" y="68" text-anchor="middle" fill="white" font-weight="900" font-size="24">STOP</text><text x="100" y="122" text-anchor="middle" font-size="10" font-weight="800">8 SIDES - COUNT!</text></svg>`, mindmap:"8 sides → Octagon → Even if dirty → Still STOP → Count"},
+{ id:"10", title:"Q10: Robot Red+Yellow", q:"Red + Yellow together = ? A) Go fast B) Get ready, not go yet", diy:"3 CUPS: Red cup STOP, Red+Yellow READY, Green GO. Family shouts.", why:"Like taxi: 'Sharp I'm about to go!' Ready but don't move", sarc:"Not 'rev + check Facebook'. Phone waits, robot doesn't.", svg:`<svg viewBox="0 0 180 110"><rect x="60" width="60" height="100" rx="12" fill="#111"/><circle cx="90" cy="25" r="13" fill="#CC0000"/><circle cx="90" cy="52" r="13" fill="#FFEB00" stroke="white" stroke-width="3" class="path-draw"/><circle cx="90" cy="79" r="13" fill="#333"/><text x="90" y="108" text-anchor="middle" font-size="9" font-weight="900">READY - NOT GO!</text></svg>`, mindmap:"Red=Stop, Red+Yellow=Ready (clutch), Green=Go"},
+{ id:"33", title:"Q33: Mirror Check Before Turn", q:"Before turning right, you check? A) Only mirror B) Mirror + blind spot", diy:"DOOR TOUCH: Touch left door handle = mirror, touch right shoulder = blind spot. Say 'Mirror-Shoulder'", why:"Taxi in blind spot = accident. Shoulder check saves life", sarc:"No shoulder check = surprise taxi passenger in your car.", svg:`<svg viewBox="0 0 280 80"><rect width="280" height="80" fill="#eee"/><circle cx="60" cy="40" r="25" fill="#333"/><text x="60" y="45" text-anchor="middle" fill="white" font-size="8">YOU</text><rect x="130" y="20" width="30" height="15" fill="#888" rx="3"/><text x="145" y="50" text-anchor="middle" font-size="8">Mirror</text><path d="M80 40 L130 28" stroke="#CC0000" stroke-width="2" stroke-dasharray="4 4" class="path-draw"/><circle cx="220" cy="40" r="18" fill="#FFEB00" stroke="#111" stroke-width="2"/><text x="220" y="44" text-anchor="middle" font-size="7" font-weight="800">BLIND</text></svg>`, mindmap:"Mirror → Shoulder → Indicate → Turn"},
+{ id:"50", title:"Q50: Speed 60 in Town", q:"In town, max speed unless sign says else? A) 60 B) 100", diy:"KNOT ROPE: Tie 6 knots on rope for 60. Touch rope before starting car.", why:"Kids, dogs, gogos crossing in town = 60 saves lives", sarc:"100 in town = you arrive fast... at hospital.", svg:`<svg viewBox="0 0 200 80"><circle cx="100" cy="40" r="35" fill="white" stroke="#CC0000" stroke-width="6"/><text x="100" y="50" text-anchor="middle" font-size="28" font-weight="900">60</text><text x="100" y="75" text-anchor="middle" font-size="9">MAX IN TOWN</text></svg>`, mindmap:"Town = 60, Outside = 100, Highway = 120"}
+];
+
+function getPersonalized(q){
+  const base=JSON.parse(JSON.stringify(q));
+  if((userData.location||'Strand').toLowerCase().includes('strand')){
+    if(q.id==="27") { base.q="In Strand Main Road by Wimpy, yellow line - can you stop for fish & chips? A) Yes B) No"; base.diy="STRAND HOOK: Yellow line at Strand Main Rd Wimpy - same line as circle by braai area. Tie shoelace + say 'Strand Main = No park'"; base.why="Strand beachfront = ambulance needs clear road for drownings. Your fish & chips blocks ambulance."; base.sarc="Fish & chips 2 mins, ambulance 2 mins late - fish & chips not worth it, bra."; base.mindmap="Strand Main yellow → Same as braai circle → No park → Ambulance"; base.svg=`<svg viewBox="0 0 340 95"><rect width="340" height="95" fill="#224477"/><text x="10" y="18" fill="#FFEB00" font-size="10" font-weight="800">STRAND - Main Rd by Wimpy / Circle by Braai</text><line x1="0" y1="70" x2="340" y2="70" stroke="#FFEB00" stroke-width="9" class="path-draw"/><circle cx="170" cy="40" r="18" fill="none" stroke="white" stroke-width="2" class="path-draw"/><text x="170" y="44" text-anchor="middle" fill="white" font-size="7">CIRCLE</text><text x="170" y="58" text-anchor="middle" fill="#FFEB00" font-size="7">BRAAI</text></svg>`; }
+    if(q.id==="45") { base.q="At Strand circle near braai, Stop sign - how many sides?"; base.diy="STRAND CIRCLE: You know circle by braai at Strand beach? Stop sign there has 8 sides. Cut cardboard + put near your braai photo."; base.mindmap="Strand circle braai → Stop sign → 8 sides → Remember braai → Remember Stop"; }
+    if(q.id==="33") { base.q="Turning to Strand beachfront, check?"; base.diy="STRAND BLIND: In Strand, taxis come fast from beach road blind spot. Mirror + shoulder at circle."; }
   }
-  if(m.includes("8")||m.includes("education")){add(`Sharp! 68 Qs ready. Start with hardest - fails 80%.`);setTimeout(()=>addStory("27"),800);return;}
-  if(m.includes("27")||m.includes("yellow")||m.includes("1")){addStory("27");return;}
-  if(m.includes("45")||m.includes("stop")||m.includes("2")){addStory("45");return;}
-  if(m.includes("10")||m.includes("robot")||m.includes("3")){addStory("10");return;}
-  if(m.includes("poster")||m.includes("mindmap")||m.includes("buy")){add(`<span class="hl-red">Posters - 2 options:</span><br><br><strong>1: FREE DIY</strong><br>A4/sugar paper + koki: Yellow line, Stop octagon, Traffic light.<br><br><strong>2: Buy printed R20</strong><br>Laminated A2, full colour, 68 Qs<br>Shoprite/Boxer<br>WhatsApp 071 123 4567`,'','ernie-red');return;}
-  if(m.includes("got")||m.includes("made")||m.includes("done")){add(`<strong>🔥 Nice! Memory muscle!</strong><br>Touch it now say: <span class="hl-red">"Yellow = No Park"</span><br><br>Tomorrow hand touches door and brain says "Yellow line".<div class="btns"><button onclick="userSend('45')">Q45 Stop</button><button class="black" onclick="userSend('10')">Q10 Robot</button><button class="black" onclick="userSend('poster')">See posters</button></div>`,'','ernie-red');return;}
-  const num=m.match(/\d+/); if(num && STORIES[num[0]]){addStory(num[0]);} else {add(`Type:<br><span class="hl">Hi</span> = Method (knots, cardboard, posters)<br><span class="hl">8</span> = 68 Qs<br><span class="hl">27</span> = Yellow line<br><span class="hl">poster</span> = Mindmaps R0/R20`);}
+  return base;
 }
-function userSend(text){if(!text)return;add(text,true);inp.value="";setTimeout(()=>botReply(text),500);}
+
+function add(text,me=false,extra=""){const d=document.createElement('div');d.className='bub'+(me?' me':'')+' '+extra;const t=new Date().toLocaleTimeString([],{hour:'2-digit',minute:'2-digit'});d.innerHTML=text+`<span class="time">${t}${me?' ✓✓':''}</span>`;chat.appendChild(d);chat.scrollTop=chat.scrollHeight;return d;}
+function addProgress(cur,total){const p=document.createElement('div');p.className='progress';p.innerHTML=`<div style="width:${(cur/total*100)}%"></div>`;chat.appendChild(p);chat.scrollTop=chat.scrollHeight;}
+function saveUser(){localStorage.setItem('ernie_user',JSON.stringify(userData));}
+function showLocationButtons(){let html=`<div class="btns">`;LOCATIONS.forEach(l=>{html+=`<button class="${l==='Strand'?'':'black'}" onclick="selectLocation('${l}')">${l}</button>`});html+=`</div>`;add(`Where are you from? Choose - we'll personalize for your area:${html}`);}
+
+function selectLocation(loc){userData.location=loc;saveUser();locTag.innerText=`${loc} • Personalized • ${userData.name||''}`;add(loc,true);setTimeout(()=>{botFlow(`loc_${loc}`);},600);}
+function userSend(text){if(!text)return;add(text,true);inp.value="";setTimeout(()=>botFlow(text),600);}
+
+function botFlow(msg){
+  const m=msg.toLowerCase();
+  if(state==='welcome'){
+    add(`Sawubona! Welcome to Ernie's Driving School on Moya 🚗❤️<br><br><span class="hl-red">0KB • Datafree • No airtime needed</span><br><br>I'm Ernie - I teach with hands, not books. We'll use rope knots, cardboard Stop signs, and mindmap posters you can make FREE or buy for R20.<br><br>But first, I need to know you - so I can personalize for YOUR area.<br><br><strong>What's your name?</strong>`);
+    state='ask_name';return;
+  }
+  if(state==='ask_name'){
+    userData.name=msg.trim().split(' ')[0];saveUser();
+    add(`Sharp ${userData.name}! Nice to meet you 👋<br>I'm going to remember you for exam.<div class="btns"><button class="black" onclick="userSend('continue')">Continue</button></div>`);
+    state='ask_location';setTimeout(()=>{showLocationButtons();},800);return;
+  }
+  if(state==='ask_location' || m.startsWith('loc_')){
+    if(!userData.location){return;}
+    add(`Perfect - <span class="hl-red">${userData.location}</span>! I'll personalize all examples for ${userData.location}.<br><br>If you're in <strong>Strand</strong>, I'll use <span class="hl">the circle near the braai at Strand beach</span> as your mental hook - you know it, you see it every weekend, you'll never forget it.<br><br><strong>When is your birthday? (DD/MM/YYYY)</strong><br>So I know how old you are for Code 8 - e.g. 15/06/2000`);
+    state='ask_dob';return;
+  }
+  if(state==='ask_dob'){
+    userData.dob=msg.trim();saveUser();
+    add(`Thank you ${userData.name} from ${userData.location}! Saved ✅<br>DOB: ${userData.dob}<br>Location: ${userData.location}<br><br>Now let me explain <span class="hl-red">HOW we learn - 14 dimensions</span>:<div class="science"><h4>🧠 Science - 14 Dimensions (Why this works)</h4>
+    1. <b>Visual</b> - SVG animation draws itself<br>
+    2. <b>Kinesthetic</b> - Rope knot on door<br>
+    3. <b>Verbal</b> - Say "Yellow = No park" loud<br>
+    4. <b>Spatial</b> - Poster on fridge / wall<br>
+    5. <b>Personal</b> - Your area ${userData.location}<br>
+    6. <b>Emotional</b> - Sarcasm (cousin failed)<br>
+    7. <b>Social</b> - Family shouts colours<br>
+    8. <b>Logical</b> - Mindmap: Yellow → No park → Fine<br>
+    9. <b>Memory hook</b> - Circle by braai = Stop<br>
+    10. <b>Repetition</b> - Touch door daily<br>
+    11. <b>Context</b> - Real Strand Main Rd<br>
+    12. <b>Humor</b> - Vetkoek, cousin jokes<br>
+    13. <b>Reward</b> - Got it button<br>
+    14. <b>Ownership</b> - Make or buy poster R20
+    </div>All this = your brain remembers in exam, not just reads.<br><br><strong>Ready for 5 DEMO Qs? General first, then personalized for ${userData.location}?</strong><div class="btns"><button onclick="startDemo('general')">Yes, start 5 Qs general</button></div>`);
+    state='explain_method';return;
+  }
+  if(state==='explain_method' || m.includes('start') || m.includes('general')){
+    mode='general';demoIndex=0;state='demo_general';addProgress(0,5);showDemoQ();return;
+  }
+  if(state==='demo_general'){
+    if(m.includes('got')||m.includes('next')||m.includes('continue')||m.includes('sharp')){
+      demoIndex++;if(demoIndex<5){addProgress(demoIndex,5);showDemoQ();} else {add(`<span class="hl-red">✅ 5 General Qs DONE!</span><br><br>You saw: SVG, rope knot, sarcasm, mindmap, poster R0/R20.<br><br>Now - <strong>same 5 Qs but PERSONALIZED for ${userData.location}</strong><br><br>Example: Instead of "yellow line at Shoprite", I'll say "yellow line at Strand Main Rd by Wimpy, same as circle by braai". Your brain goes "Ah! I know that place!" - that's the hook.<div class="btns"><button class="yellow" onclick="startDemo('personalized')">Show me personalized for ${userData.location}</button></div>`);state='between_modes';}
+    } else {add(`Type <span class="hl">Got it</span> or <span class="hl">Next</span> to continue`);}
+    return;
+  }
+  if(state==='between_modes' || m.includes('personalized')){
+    mode='personalized';demoIndex=0;state='demo_personalized';addProgress(0,5);showDemoQ();return;
+  }
+  if(state==='demo_personalized'){
+    if(m.includes('got')||m.includes('next')||m.includes('continue')||m.includes('sharp')){
+      demoIndex++;if(demoIndex<5){addProgress(demoIndex,5);showDemoQ();} else {add(`<span class="hl-red">🔥 PERSONALIZED DONE - See difference?</span><br><br><strong>General:</strong> "Yellow line = no park"<br><strong>Personalized for ${userData.location}:</strong> "Yellow line at Strand Main Rd by Wimpy, like circle by braai you go every Sunday - no park, braai spot blocked"<br><br>Same rule, but YOUR brain remembers braai circle.<br><br><div class="science"><h4>Why Personalization Works - Science</h4>
+      <b>Mental Hook:</b> Circle by braai = you already know it → new info sticks to old memory<br>
+      <b>Method of Loci:</b> Ancient Greeks used places to remember - we use Strand Main Rd<br>
+      <b>Embodied Cognition:</b> Knot on YOUR door, not book door<br>
+      <b>Value for Moya:</b> User feels "Ernie knows Strand, not just Joburg" → trust → pays R20 for poster → passes → gets job as driver → tells 5 friends<br>
+      <b>Data:</b> We store ${userData.name}, ${userData.location}, ${userData.dob} → next time we say "Sawubona ${userData.name} from ${userData.location}, ready for next 63 Qs?"
+      </div><br>Want to see all 68 Qs personalized?<div class="btns"><button onclick="userSend('restart')">Restart demo</button><button class="black" onclick="userSend('buy')">Buy posters R20</button></div>`);state='done';}
+    }
+    return;
+  }
+  if(state==='done'){
+    if(m.includes('restart')){demoIndex=0;mode='general';state='explain_method';botFlow('start');}
+    else {add(`Type <span class="hl">Hi</span> to restart full experience`);state='welcome';}
+  }
+}
+
+function showDemoQ(){
+  const qRaw=DEMO_QS_GENERAL[demoIndex];
+  const q=mode==='personalized'?getPersonalized(qRaw):qRaw;
+  const label=mode==='personalized'?`PERSONALIZED for ${userData.location}`:`GENERAL (all SA)`;
+  add(`<span class="hl-red">${label} - Q${demoIndex+1}/5</span> - <strong>${q.title}</strong><div class="svg-box">${q.svg}</div><span class="hl">${q.q}</span>`);
+  setTimeout(()=>{add(`<strong>DIY ${mode==='personalized'?'STRAND HOOK':''}:</strong><br>${q.diy}<div class="mindmap"><strong>🧠 Mindmap - Deduce answer:</strong><br>${q.mindmap}</div><div class="sarc">😏 ${q.sarc}</div>Why: ${q.why}<div class="btns"><button onclick="userSend('Got it')">✅ Got it, I made it</button><button class="black" onclick="userSend('Next')">Next Q</button></div>`,'','ernie-yellow');},900);
+}
+
 inp.addEventListener('keydown',e=>{if(e.key==='Enter'){const v=inp.value.trim();if(v)userSend(v);}});
-window.onload=()=>{setTimeout(()=>{add(`A = Yebo, let's go`);},400);setTimeout(()=>{add(`Can I learn K53 on Moya and will it be free?`,true);},900);setTimeout(()=>{botReply("hi");},1500);};
+window.onload=()=>{setTimeout(()=>{botFlow('welcome');},500);};
 </script>
 </body>
 </html>
