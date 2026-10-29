@@ -1,0 +1,149 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg { fill: #1e293b; }
+      .asphalt { fill: #334155; }
+      .island { fill: #15803d; stroke: #cbd5e1; stroke-width: 4; }
+      .kerb { fill: #f59e0b; }
+      .marking { stroke: #ffffff; stroke-width: 3; }
+      .yield-line { stroke: #ffffff; stroke-width: 4; stroke-dasharray: 8,8; }
+      .text-title { font-family: system-ui, sans-serif; font-weight: bold; fill: #f8fafc; font-size: 20px; }
+      .text-subtitle { font-family: system-ui, sans-serif; fill: #fbbf24; font-size: 14px; font-weight: 600; }
+      .badge { font-family: system-ui, sans-serif; font-size: 12px; font-weight: bold; fill: #ffffff; }
+
+      /* Vehicle Animations */
+      /* Red Car (Vehicle A) - Comes from East, enters, circulates clockwise */
+      .car-red {
+        animation: redCarMotion 8s infinite ease-in-out;
+      }
+      @keyframes redCarMotion {
+        0%   { transform: translate(750px, 280px) rotate(180deg); }
+        25%  { transform: translate(460px, 280px) rotate(180deg); }
+        50%  { transform: translate(360px, 360px) rotate(270deg); }
+        75%  { transform: translate(250px, 320px) rotate(180deg); }
+        100% { transform: translate(-50px, 320px) rotate(180deg); }
+      }
+
+      /* Blue Car (Vehicle B - Student) - Approaches South, yields, then proceeds */
+      .car-blue {
+        animation: blueCarMotion 8s infinite ease-in-out;
+      }
+      @keyframes blueCarMotion {
+        0%   { transform: translate(420px, 550px) rotate(0deg); }
+        20%  { transform: translate(420px, 420px) rotate(0deg); } /* Stops at RM2 Yield Line */
+        55%  { transform: translate(420px, 420px) rotate(0deg); } /* Waiting for Red Car to pass */
+        75%  { transform: translate(420px, 350px) rotate(0deg); } /* Enters circle */
+        100% { transform: translate(330px, 250px) rotate(-45deg); } /* Exit West */
+      }
+
+      /* Dynamic HUD Guidance Indicators */
+      .yield-warning {
+        animation: warningPulse 8s infinite;
+      }
+      @keyframes warningPulse {
+        0%, 15% { opacity: 0; transform: scale(0.8); }
+        20%, 50% { opacity: 1; transform: scale(1); }
+        55%, 100% { opacity: 0; transform: scale(0.8); }
+      }
+
+      .clear-status {
+        animation: clearPulse 8s infinite;
+      }
+      @keyframes clearPulse {
+        0%, 55% { opacity: 0; }
+        60%, 90% { opacity: 1; }
+        100% { opacity: 0; }
+      }
+    </style>
+
+    <!-- Vehicle Symbol -->
+    <g id="car">
+      <rect x="-18" y="-30" width="36" height="60" rx="8" />
+      <!-- Windshield -->
+      <rect x="-14" y="-12" width="28" height="12" rx="2" fill="#0f172a" opacity="0.7" />
+      <!-- Rear Glass -->
+      <rect x="-12" y="16" width="24" height="6" rx="1" fill="#0f172a" opacity="0.7" />
+      <!-- Headlights -->
+      <circle cx="-12" cy="-28" r="3" fill="#fef08a" />
+      <circle cx="12" cy="-28" r="3" fill="#fef08a" />
+    </g>
+
+    <!-- R2.1 Yield Sign Symbol -->
+    <g id="yield-sign">
+      <polygon points="0,-18 16,12 -16,12" fill="#dc2626" stroke="#ffffff" stroke-width="2" />
+      <polygon points="0,-10 10,8 -10,8" fill="#ffffff" />
+    </g>
+  </defs>
+
+  <!-- Background Canvas -->
+  <rect width="800" height="600" class="bg" />
+
+  <!-- Road Infrastructure (Canvas 05: Mini-Roundabout) -->
+  <g id="road-geometry">
+    <!-- North-South Road -->
+    <rect x="320" y="0" width="160" height="600" class="asphalt" />
+    <!-- East-West Road -->
+    <rect x="0" y="220" width="800" height="160" class="asphalt" />
+    <!-- Outer Junction Flare Circle -->
+    <circle cx="400" cy="300" r="180" class="asphalt" />
+
+    <!-- Central Island -->
+    <circle cx="400" cy="300" r="80" class="island" />
+
+    <!-- Center Clockwise Arrows (RM15) -->
+    <path d="M 370,245 A 60,60 0 0,1 430,245" fill="none" stroke="#ffffff" stroke-width="4" marker-end="url(#arrow)" />
+    <path d="M 455,270 A 60,60 0 0,1 455,330" fill="none" stroke="#ffffff" stroke-width="4" />
+    <path d="M 430,355 A 60,60 0 0,1 370,355" fill="none" stroke="#ffffff" stroke-width="4" />
+
+    <!-- R2.1 Yield Sign Mounted on Central Island -->
+    <use href="#yield-sign" x="400" y="300" />
+
+    <!-- Lane Dividers (WM1 Dashed Lines) -->
+    <line x1="400" y1="0" x2="400" y2="120" class="marking" stroke-dasharray="10,10" />
+    <line x1="400" y1="480" x2="400" y2="600" class="marking" stroke-dasharray="10,10" />
+    <line x1="0" y1="300" x2="220" y2="300" class="marking" stroke-dasharray="10,10" />
+    <line x1="580" y1="300" x2="800" y2="300" class="marking" stroke-dasharray="10,10" />
+
+    <!-- RM2 Transverse Yield Lines (Broken White Lines) -->
+    <!-- South Entrance -->
+    <line x1="400" y1="420" x2="480" y2="420" class="yield-line" />
+    <!-- East Entrance -->
+    <line x1="580" y1="220" x2="580" y2="300" class="yield-line" />
+  </g>
+
+  <!-- Interactive Dynamic Overlays & Right-of-Way Visualizer -->
+  <g id="hud-feedback">
+    <!-- Direction of Right-of-Way Priority Arrow -->
+    <path d="M 540,260 Q 480,260 440,360" fill="none" stroke="#f59e0b" stroke-width="4" stroke-dasharray="6,6" />
+
+    <!-- Yield Warning Banner (Active when Red Car is present) -->
+    <g class="yield-warning" transform="translate(420, 450)">
+      <rect x="-90" y="-18" width="180" height="36" rx="18" fill="#dc2626" stroke="#ffffff" stroke-width="2" />
+      <text x="0" y="5" text-anchor="middle" class="badge">STOP! YIELD TO RIGHT</text>
+    </g>
+
+    <!-- Clear / Proceed Banner -->
+    <g class="clear-status" transform="translate(420, 450)">
+      <rect x="-90" y="-18" width="180" height="36" rx="18" fill="#16a34a" stroke="#ffffff" stroke-width="2" />
+      <text x="0" y="5" text-anchor="middle" class="badge">CLEAR! SAFE TO ENTER</text>
+    </g>
+  </g>
+
+  <!-- Animated Vehicles (Layer 3) -->
+  <!-- Vehicle A: Traffic from Right (Red) -->
+  <g class="car-red">
+    <use href="#car" fill="#ef4444" stroke="#b91c1c" stroke-width="2" />
+  </g>
+
+  <!-- Vehicle B: Student Driver (Blue) -->
+  <g class="car-blue">
+    <use href="#car" fill="#2563eb" stroke="#1d4ed8" stroke-width="2" />
+  </g>
+
+  <!-- Header Banner & Educational Title HUD -->
+  <g id="header-hud" transform="translate(20, 35)">
+    <rect x="0" y="0" width="760" height="50" rx="10" fill="#0f172a" opacity="0.9" stroke="#334155" stroke-width="2" />
+    <text x="20" y="32" class="text-title">K53 Rule: Traffic Circle Priority</text>
+    <text x="740" y="32" class="text-subtitle" text-anchor="end">Give way to traffic approaching from your RIGHT</text>
+  </g>
+</svg>
