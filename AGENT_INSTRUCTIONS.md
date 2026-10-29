@@ -1,35 +1,53 @@
+# AGENT INSTRUCTIONS - BUILD MOYA SIMULATION PROTOTYPE V2
+### For Ernie's Driving School - Moya Chat App
 
-# AGENT INSTRUCTIONS - BUILD MOYA SIMULATION PROTOTYPE
+## CRITICAL RULES
+1. DO NOT DELETE EXISTING CODE - Read `index.html`, `questions.json`, `k53_demo_code2_light_vehicle_1.json` - KEEP them. Only ADD.
+2. USE REAL FILE PATHS - Not generated SVGs. Circle animation MUST use: `images/animations/k53-mini-roundabout-give-way-right.svg`
+3. COLOURS MUST BE EXACT - Moya app is soft, not irritating (no bright yellow)
 
-## DO NOT DELETE EXISTING CODE
-Read index.html, questions.json - KEEP them. Only ADD.
+## COLOUR SCHEME - EXACT VALUES (Moya App)
+--soft: #FFFBF0 (main background, warm white)
+--peach: #FFF3E0 (Button A, light orange)
+--blue: #E3F2FD (Button B, light blue)
+--sage: #E8F5E9 (correct answer highlight, light green)
+--ink: #3E2723 (main text, dark brown)
+--red: #B71C1C (wrong answer, dark red)
+--brown: #5D4037 (secondary text)
+--border: #EFEBE9 (card border)
+--yellow-accent: #FFEB00 (ONLY for svg-holder border, not background)
 
-## FILES TO CREATE (Exact Names):
-1. stories.json: Dict with 5 keys: rope, stop, colour, mirror, speed. Each value: {title: str, diy_instruction: str max 200 chars, why: str (psych theory), svg_code: str (full <svg>...</svg> <5KB, must include <animate> or valid SVG, no <script>)}
-2. logic.json: Dict mapping question ID (string) to diy key. Must cover at least Q10, Q27, Q33, Q45, Q50. Example: {"27": "rope", "45": "stop"}. For full 68 Qs later, but 5 now for demo.
-3. audit_report.json: Dict QID -> 14 flags. Each flag = PASS/FAIL + comment. Keys: traffic_engineer_flag, linguist_flag, cognitive_flag, moya_ux_flag, township_persona_flag, k53_examiner_flag, datafree_flag, visual_flag, behavioural_flag, safety_flag, memory_flag, plain_language_flag, svg_animator_flag, json_validator_flag
-4. colab_app.py: Gradio app. Requirements: import json, gradio as gr; load stories.json, logic.json; ChatInterface with function moya_bot(message,history) returns <160 chars; Button "Run 14 Agent Audit" that returns audit summary; launch(share=True, server_name="0.0.0.0")
-5. Update index.html: Add <div id="svg-holder" style="border:2px solid #FFEB00; padding:10px;"></div> + <script> fetch('./stories.json').then(r=>r.json()).then(stories=>{fetch('./logic.json').then(r=>r.json()).then(logic=>{const p=new URLSearchParams(location.search); const q=p.get('q'); if(q && p.get('show_svg')){const key=logic[q]; if(key && stories[key]){document.getElementById('svg-holder').innerHTML=stories[key].svg_code+'<p><b>DIY:</b> '+stories[key].diy_instruction+'</p>';}}})}) </script> BEFORE </body>
+All UI must use var(--soft) as background. Never use pure white or bright yellow background.
 
-## CHAT LOGIC (Implement in colab_app.py):
-- If user message contains "YES I made X" -> reply "Good! Touch X. Q{ID}: {answer}. Link: .../?q={ID}&show_svg=1 Type [X]"
-- If user message contains "[X]" or "X" -> reply "Correct! You remember because you touch X. Next?"
-- Else -> reply "Make {title}: {diy_instruction}. Done? Type YES I made {key}. SVG: ?q={q_id}&show_svg=1"
-- All replies <160 chars
+## REAL SVG PATHS - USE THESE
+- Traffic Circle Animation: `images/animations/k53-mini-roundabout-give-way-right.svg` (THIS IS THE EXAMPLE - MUST BE USED FOR Q3/q_strand_braai_circle)
+- Other signs: `images/signs/RM202.svg`, `images/signs/R201-120.svg`, `images/signs/R1-60.svg`, `images/signs/R3.svg`, `images/signs/RM10.svg`
+- Check repo: if path missing, create folder but DO NOT generate fake SVG, reference path only
 
-## SVG RULES:
-- <svg width="300" height="100" xmlns="http://www.w3.org/2000/svg">...</svg>
-- Must be <5KB, no external images, no JS
-- Use <animate> or simple shapes
-- Test on Android 8 Chrome
+## DEMO QUESTIONS - USE YOUR REPO QUESTIONS BUT ADJUST TO 14 DIMENSIONS
+Load from `questions.json` or `k53_demo_code2_light_vehicle_1.json`. For demo, take 5 Qs:
+- Q2: R201-120 speed limit
+- Q3: Circle / Strand + Braai Street / Vehicle A/B give way right - USE REAL CIRCLE SVG PATH
+- Q8: RM202 yellow line no parking
+- Q19: RM10 parking bay
+- Q60: R1-60 urban 60
 
-## 14 AGENTS IMPLEMENTATION (In colab_app.py):
-Define 14 functions that take Q dict and return PASS/FAIL. For prototype mock PASS but log logic:
-def traffic_engineer(q): return "PASS" if q else "FAIL"
-... etc. Then audit_all() loops through logic.json and builds report.
+Each question must be answered using ALL 14 DIMENSIONS below (not just text):
 
-## FINAL LAUNCH:
-demo.launch(share=True) -> prints public URL. That URL is deliverable.
+### THE 14 DIMENSIONS - HOW TO ANSWER EVERY QUESTION
+1. **Visual**: Show real SVG from `images/...` + describe what eyes see
+2. **Kinesthetic/Hands**: DIY action - touch steering wheel, point to road
+3. **Auditory/Voice + TTS**: Short voice note script <160 chars, Moya can read
+4. **Spatial**: Where in car/road - left/right, behind/in front
+5. **Personal/Strand**: Use user's location context - Strand, Braai Street, familiar road
+6. **Emotional/Heart**: How it feels - safe, calm, protector
+7. **Social/Cousin**: Story with cousin/family - "Your cousin did..."
+8. **Logical/Mindmap**: Why rule exists - logic tree
+9. **Associative/Method of Loci**: Memory palace - Strand Braai house = circle house
+10. **Repetition**: Quick quiz - "Type [R] if you remember"
+11. **Context/Real Road**: Real Cape Town road example - N2, R44
+12. **Humour**: Light joke - not offensive
+13. **Reward/Protector**: R0 poster / protector badge - "You protect family"
+14. **Ownership**: User creates - "Draw circle on paper, take photo"
 
-## AUDIT LATER:
-Another AI will read SCIENTIFIC_REPORT.md + BUSINESS_FEASIBILITY.md + AGENT_INSTRUCTIONS.md + stories.json + logic.json + audit_report.json and check if deliverable matches spec. So keep details.
+Example answer for Q3 (Circle) with 14 dims + colours + real path:
